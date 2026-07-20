@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  OPTIONAL: refresh market PRICES every 30 minutes (futures, FX, commodities,
+  crypto, global indexes). Yields/macro are not touched here.
+  Install:
+    cp com.intern.dashboard.intraday.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.intern.dashboard.intraday.plist
+  Remove:
+    launchctl unload ~/Library/LaunchAgents/com.intern.dashboard.intraday.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.intern.dashboard.intraday</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/run_refresh.sh</string>
+        <string>market</string>
+    </array>
+
+    <!-- every 30 minutes -->
+    <key>StartInterval</key>
+    <integer>1800</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/cache/logs/intraday.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/cache/logs/intraday.err.log</string>
+</dict>
+</plist>

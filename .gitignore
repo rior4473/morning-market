@@ -1,0 +1,16 @@
+# Secrets — never commit
+**/.env
+**/.streamlit/secrets.toml
+
+# Virtualenv / Python
+**/.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local logs and derived history (regenerated on every refresh)
+dashboard/cache/logs/
+dashboard/cache/*.csv
+
+# NOTE: dashboard/cache/snapshot.json and news.json ARE committed on purpose —
+# the GitHub Actions refresh writes them and the deployed app reads them.

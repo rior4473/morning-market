@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  macOS launchd job: runs the data refresh every morning at 6:00 AM local time.
+  Install:
+    1. Edit the path below if you moved the project.
+    2. cp com.intern.dashboard.refresh.plist ~/Library/LaunchAgents/
+    3. launchctl load ~/Library/LaunchAgents/com.intern.dashboard.refresh.plist
+  Unload: launchctl unload ~/Library/LaunchAgents/com.intern.dashboard.refresh.plist
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.intern.dashboard.refresh</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/run_refresh.sh</string>
+        <string>all</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- If the Mac was asleep at 6:00, run as soon as it wakes. -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/cache/logs/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/ricardoorozco/Claude intern dashboard/morning-brief/dashboard/cache/logs/launchd.err.log</string>
+</dict>
+</plist>

@@ -1,0 +1,51 @@
+name: Refresh market data
+
+# Times are UTC. Denver is UTC-6 (MDT, summer) / UTC-7 (MST, winter), so 11:30 UTC
+# lands at 5:30 AM MDT / 4:30 AM MST — always finished before you wake at 6 AM
+# local, in either half of the year. The weekday evening run captures the US close.
+on:
+  schedule:
+    - cron: "30 11 * * *"      # daily, before 6 AM Denver
+    - cron: "0 21 * * 1-5"     # weekdays after the US close
+  workflow_dispatch:            # lets you trigger it by hand from the Actions tab
+
+permissions:
+  contents: write               # needed to commit the refreshed cache
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh all market data
+        working-directory: dashboard
+        env:
+          # Optional: add ANTHROPIC_API_KEY in repo Settings → Secrets to upgrade
+          # the market synopsis from extractive to Claude web-search research.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python refresh.py all
+
+      - name: Commit refreshed cache
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dashboard/cache/snapshot.json dashboard/cache/news.json
+          if git diff --staged --quiet; then
+            echo "No data changes — nothing to commit."
+          else
+            git commit -m "chore: refresh market data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

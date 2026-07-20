@@ -1,0 +1,18 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Cache / generated data
+cache/*.json
+cache/*.parquet
+cache/logs/
+# ...but keep the snapshot + news so the deployed cloud app has data to read
+!cache/snapshot.json
+!cache/news.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
