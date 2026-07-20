@@ -7,11 +7,10 @@ from __future__ import annotations
 
 import subprocess
 import sys
-from datetime import datetime
 
-from _shared import (DASH_DIR, by_asset, fmt_pct, fmt_price, load, render_hero,
-                     render_chart_panel, render_market_wrap, render_panel,
-                     section_rows, setup, st)
+from _shared import (DASH_DIR, by_asset, fmt_pct, fmt_price, latest_time, load,
+                     now_local, render_hero, render_chart_panel,
+                     render_market_wrap, render_panel, section_rows, setup, st)
 
 setup("Morning Market")
 
@@ -21,19 +20,13 @@ if not sections:
     st.warning("No data yet. Run the refresh once (or wait for the 6 AM job).")
     st.stop()
 
-snap_time = ""
-times = [s.get("fetched_at") for s in sections.values() if s.get("fetched_at")]
-if times:
-    try:
-        snap_time = max(datetime.fromisoformat(t) for t in times).strftime("%b %d, %I:%M %p")
-    except ValueError:
-        snap_time = ""
+snap_time = latest_time(s.get("fetched_at") for s in sections.values())
 
 # ---------------------------------------------------------------------------
 # Header
 # ---------------------------------------------------------------------------
 st.markdown(f"<div class='m-head'>📊 Morning Market</div>"
-            f"<div class='m-sub'>{datetime.now():%A, %B %d} · updated {snap_time}</div>",
+            f"<div class='m-sub'>{now_local():%A, %B %d} · updated {snap_time}</div>",
             unsafe_allow_html=True)
 
 c1, c2, c3 = st.columns(3)

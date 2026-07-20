@@ -8,3 +8,5 @@ feedparser>=6.0
 # Optional: enables the Claude-researched market synopsis (needs ANTHROPIC_API_KEY).
 # Without it, the synopsis falls back to a keyless extractive summary.
 anthropic>=0.40
+# Ensures zoneinfo has a timezone database on slim Linux images (cloud deploy).
+tzdata

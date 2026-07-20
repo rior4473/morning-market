@@ -23,7 +23,7 @@ from config import (BASE_DIR, JPM_CHART_TIMEFRAMES, JPM_FUNDS, MARKET_GROUPS)
 from data import cache
 from utils.formatting import (ACCENT, GREEN, MUTED, RED, build_briefing,
                               color_for, fmt_num, fmt_pct, fmt_signed,
-                              section_rows)
+                              latest_time, now_local, section_rows)
 
 st.set_page_config(page_title="Morning Market — Markets", page_icon="📊",
                    layout="wide")
@@ -104,17 +104,8 @@ news = cache.read_news()
 
 
 def fetched_caption(*keys: str) -> str:
-    times = []
-    for k in keys:
-        ts = sections.get(k, {}).get("fetched_at")
-        if ts:
-            try:
-                times.append(datetime.fromisoformat(ts))
-            except ValueError:
-                pass
-    if not times:
-        return "not yet fetched"
-    return max(times).strftime("%b %d, %I:%M %p")
+    stamp = latest_time(sections.get(k, {}).get("fetched_at") for k in keys)
+    return stamp or "not yet fetched"
 
 
 def section_source(key: str) -> str:
@@ -162,7 +153,7 @@ st.markdown(
     f"""<div class="hero">
       <h2>📊 Morning Market — Markets &amp; Macro</h2>
       <div style="color:#8b97a7;font-size:0.85rem;">
-        {datetime.now():%A, %B %d, %Y}
+        {now_local():%A, %B %d, %Y}
         &nbsp;·&nbsp; Overall last update: {fetched_caption(*sections.keys())}
       </div>
     </div>""",

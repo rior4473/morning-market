@@ -25,7 +25,8 @@ import streamlit as st  # noqa: E402
 from config import JPM_CHART_TIMEFRAMES, MARKET_GROUPS  # noqa: E402
 from data import cache  # noqa: E402
 from utils.formatting import (ACCENT, GREEN, MUTED, RED, build_briefing,  # noqa: E402
-                              color_for, fmt_pct, section_rows)
+                              color_for, fmt_pct, fmt_time, latest_time,
+                              now_local, section_rows, to_local)
 
 # ---------------------------------------------------------------------------
 # Mobile-first styling

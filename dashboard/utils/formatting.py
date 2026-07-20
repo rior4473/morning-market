@@ -3,10 +3,57 @@ from __future__ import annotations
 
 from datetime import date, datetime
 
+try:  # stdlib since 3.9; `tzdata` in requirements covers slim Linux images
+    from zoneinfo import ZoneInfo
+    from config import LOCAL_TZ
+    TZ = ZoneInfo(LOCAL_TZ)
+except Exception:  # pragma: no cover - fall back to server-local time
+    TZ = None
+
 GREEN = "#16c784"   # up
 RED = "#ea3943"     # down
 MUTED = "#8b97a7"
 ACCENT = "#5b8def"
+
+
+# ---------------------------------------------------------------------------
+# Time — always display in the dashboard's home timezone.
+# The refresh can run anywhere (your Mac writes -06:00, GitHub Actions writes
+# UTC), so timestamps must be converted for display or the cloud app shows UTC.
+# ---------------------------------------------------------------------------
+def now_local() -> datetime:
+    return datetime.now(TZ) if TZ else datetime.now()
+
+
+def to_local(ts) -> datetime | None:
+    """Parse an ISO timestamp with any offset and convert to the home timezone."""
+    if not ts:
+        return None
+    try:
+        dt = datetime.fromisoformat(ts) if isinstance(ts, str) else ts
+    except (TypeError, ValueError):
+        return None
+    if TZ is None:
+        return dt
+    if dt.tzinfo is None:          # naive -> assume it was already home time
+        return dt.replace(tzinfo=TZ)
+    return dt.astimezone(TZ)
+
+
+def fmt_time(ts, fmt: str = "%b %d, %I:%M %p") -> str:
+    dt = to_local(ts)
+    return dt.strftime(fmt) if dt else ""
+
+
+def latest_time(timestamps) -> str:
+    """Newest of a set of ISO timestamps, rendered in the home timezone."""
+    parsed = [d for d in (to_local(t) for t in timestamps) if d is not None]
+    if not parsed:
+        return ""
+    # Mixed naive/aware would raise on comparison — normalize first.
+    if TZ is None:
+        parsed = [d.replace(tzinfo=None) for d in parsed]
+    return max(parsed).strftime("%b %d, %I:%M %p")
 
 
 # ---------------------------------------------------------------------------
