@@ -11,17 +11,6 @@
     "priority": 3
   },
   {
-    "title": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-15T17:31:41+00:00",
-    "published_ts": 1784136701.0,
-    "summary": "Williams cited five reasons why he expects the latest price surge has run its course.",
-    "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Warsh Reiterates Fed\u2019s Pledge to Get Inflation Down but Doesn\u2019t Specify How",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -30,17 +19,6 @@
     "summary": "Kevin M. Warsh, in his first testimony to Congress as chairman of the Federal Reserve, did not shed light on whether he supported higher interest rates to tame price pressures.",
     "link": "https://www.nytimes.com/2026/07/14/business/economy/warsh-fed-cpi-inflation.html",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Corporate Bonds Have the Best Yields in Years. They Still Aren\u2019t Enough.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-14T09:30:00+00:00",
-    "published_ts": 1784021400.0,
-    "summary": "Higher long-term yields might not compensate for the higher risks.",
-    "link": "https://www.wsj.com/finance/investing/corporate-bonds-have-the-best-yields-in-years-they-still-arent-enough-aa391e8b?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -55,6 +33,39 @@
     "priority": 3
   },
   {
+    "title": "Gold prices today, Tuesday, July 21, 2026: Gold hovers above $4,000 ahead of next week\u2019s Fed meeting",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-21T16:11:43.997744+00:00",
+    "published_ts": 1784650303.997744,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-21-2026-gold-hovers-above-4000-ahead-of-next-weeks-fed-meeting-153613363.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-21T14:01:11+00:00",
+    "published_ts": 1784642471.0,
+    "summary": "As rising fuel costs clobber their economies, the Philippines and other developing countries in Asia are pushing to build strategic petroleum reserves to cushion against future shocks.",
+    "link": "https://www.nytimes.com/2026/07/21/business/asia-strategic-oil-reserves.html",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-21T10:24:07+00:00",
+    "published_ts": 1784629447.0,
+    "summary": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+    "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "New Zealand\u2019s Second-Quarter Inflation Jumps on Fuel-Price Surge",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -63,39 +74,6 @@
     "summary": "New Zealand consumer prices jumped in the second quarter on the back of surging fuel costs, deepening fears that interest rates will need to rise significantly in coming months.",
     "link": "https://www.wsj.com/economy/new-zealands-second-quarter-inflation-jumps-on-fuel-price-surge-ea2a1d17",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-20T23:01:01+00:00",
-    "published_ts": 1784588461.0,
-    "summary": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
-    "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Canada Inflation Cools to 2.8% in June as Gasoline Decelerates",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-07-20T15:05:00+00:00",
-    "published_ts": 1784559900.0,
-    "summary": "The consumer-price index fell 0.4% in June, representing the steepest decline in 18 months and cooling the annual rate 0.4 percentage point to 2.8%, Statistics Canada said.",
-    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-cools-to-2-8-in-june-as-gasoline-decelerates-8eb85b77",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "The Bureau of Economic Analysis is altering how it measures several components of an inflation gauge watched by the Fed",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-07-19T09:30:00+00:00",
-    "published_ts": 1784453400.0,
-    "summary": "The Bureau of Economic Analysis is altering how it measures several components of a price gauge watched by the Fed.",
-    "link": "https://www.wsj.com/economy/central-banking/pce-inflation-data-updates-ca7bfd61",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -176,47 +154,256 @@
     "priority": 2
   },
   {
-    "title": "Wall Street indexes fall, with Iran and earnings season in focus",
+    "title": "Gold miners rise in premarket as bullion prices climb",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-07-21T00:16:48.757468+00:00",
-    "published_ts": 1784593008.757468,
+    "published": "2026-07-21T16:11:44.245340+00:00",
+    "published_ts": 1784650304.24534,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-4800229",
+    "link": "https://www.investing.com/news/stock-market-news/gold-miners-rise-in-premarket-as-bullion-prices-climb-93CH-4803843",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Telecom Italia loses court case against FiberCop over tariffs",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-07-21T16:11:44.245318+00:00",
+    "published_ts": 1784650304.245318,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/telecom-italia-loses-court-case-against-fibercop-over-tariffs-93CH-4803844",
     "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "New Zealand Q2 inflation rises more than expected at 4.1%",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-07-21T00:16:48.757360+00:00",
-    "published_ts": 1784593008.75736,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/new-zealand-q2-inflation-rises-more-than-expected-at-41-93CH-4801789",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Why Analysts Still See Nvidia as the Top Chip Stock to Buy for Q2 Earnings Season",
+    "title": "GM stock rises after automaker boosts full-year guidance, reports Q2 earnings",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-21T00:16:48.607789+00:00",
-    "published_ts": 1784593008.607789,
+    "published": "2026-07-21T16:11:43.997929+00:00",
+    "published_ts": 1784650303.997929,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-still-see-nvidia-131502019.html",
+    "link": "https://finance.yahoo.com/markets/stocks/article/gm-stock-rises-after-automaker-boosts-full-year-guidance-reports-q2-earnings-162130416.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Microsoft cut 4,800 jobs, filed 2,879 H-1B visas \u2014 but the real reason behind its $1.2T market value drop is far bigger",
+    "title": "Oil prices rise to five-week high on US-Iran attacks, Houthi blockade threat",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-21T00:16:48.607735+00:00",
-    "published_ts": 1784593008.607735,
+    "published": "2026-07-21T16:11:43.997881+00:00",
+    "published_ts": 1784650303.997881,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-cut-4-800-jobs-130000440.html",
+    "link": "https://finance.yahoo.com/news/oil-prices-dip-mediation-efforts-010408078.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "How to work with a credit card debt collector",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-21T16:11:43.997682+00:00",
+    "published_ts": 1784650303.997682,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-to-work-with-a-credit-card-debt-collector-155904826.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "America\u2019s Most Prolific Oil Field Has a Natural-Gas Problem",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-21T16:01:00+00:00",
+    "published_ts": 1784649660.0,
+    "summary": "For now, new pipelines have eased a gas glut in West Texas, where drillers often have to pay buyers to take their fuel.",
+    "link": "https://www.wsj.com/finance/commodities-futures/americas-most-prolific-oil-field-has-a-natural-gas-problem-22b816b0?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX sets earnings date, triggering first lock-up expiration for millions of shares",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-21T15:34:04+00:00",
+    "published_ts": 1784648044.0,
+    "summary": "SpaceX's stock gained on Tuesday and looked to snap a seven-day losing streak after announcing Aug. 4 as its maiden earnings report",
+    "link": "https://www.cnbc.com/2026/07/21/spacex-spcx-earnings-lock-up-expiration.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Think this stock market is in a bubble? These earnings numbers say otherwise.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-21T15:01:00+00:00",
+    "published_ts": 1784646060.0,
+    "summary": "Stay with the AI trade and overweight technology stocks, according to one earnings expert.",
+    "link": "https://www.marketwatch.com/story/welcome-to-the-roaring-20s-heres-how-this-earnings-season-will-keep-the-bull-market-strong-4a70be72?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Tesla earnings are on deck, and investors will be looking to settle this major debate",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-21T14:32:00+00:00",
+    "published_ts": 1784644320.0,
+    "summary": "Wall Street wants to see whether Tesla can deliver on its robotaxi and Optimus plans.",
+    "link": "https://www.marketwatch.com/story/tesla-earnings-are-on-deck-and-investors-will-be-looking-to-settle-this-major-debate-f5a11d0e?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Nasdaq Rises as Chip Stocks Recover",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-21T14:16:00+00:00",
+    "published_ts": 1784643360.0,
+    "summary": "U.S. stock indexes advanced, helped by a recovery in chip stocks, as investors geared up for earnings from some of America\u2019s biggest tech companies.",
+    "link": "https://www.wsj.com/finance/stocks/u-s-futures-higher-as-ai-trade-bounces-back-d120b6a2?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "GM beats on earnings, raises guidance amid 'resilient' consumer, pricing",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-21T13:58:40+00:00",
+    "published_ts": 1784642320.0,
+    "summary": "GM raised several key earnings forecasts after beating Wall Street's second-quarter expectations as its North American operations continue to drive results.",
+    "link": "https://www.cnbc.com/2026/07/21/general-motors-gm-earnings-q2-2026.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "The co-founder of Stocktwits dumped chip stocks before their 20% slide. Where he\u2019s putting his money now.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-21T13:50:00+00:00",
+    "published_ts": 1784641800.0,
+    "summary": "Stocktwits\u2019 Howard Lindzon talks to MarketWatch about sidestepping a chip selloff, where he sees opportunity and the \u201cdegenerate economy.\u201d",
+    "link": "https://www.marketwatch.com/story/the-co-founder-of-stocktwits-dumped-chip-stocks-before-a-20-slide-where-hes-putting-his-money-now-07e8724f?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Greer hints new Trump tariffs coming on dozens of countries: 'Expect action soon'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-21T13:38:59+00:00",
+    "published_ts": 1784641139.0,
+    "summary": "U.S. Trade Representative Jamieson Greer's comments the Trump administration could impose new tariffs just as other duties are set to expire.",
+    "link": "https://www.cnbc.com/2026/07/21/trump-trade-tariffs-greer-section-301.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump Is Squeezing Canada. Don\u2019t Expect Carney to Roll Over.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-21T13:13:12+00:00",
+    "published_ts": 1784639592.0,
+    "summary": "The president\u2019s new tariffs on a top U.S. trading partner aim at gaining concessions, but the Canadian government, and the public, have been bracing for the escalation.",
+    "link": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Intel's foundry lands first named customer under CEO Lip-Bu Tan, as Fortinet signs on for security chips",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-21T13:00:01+00:00",
+    "published_ts": 1784638801.0,
+    "summary": "Fortinet is the first announced corporate customer for Intel's foundry under CEO Lip-Bu Tan, who took over the chipmaker in March 2025.",
+    "link": "https://www.cnbc.com/2026/07/21/intel-foundry-lands-fortinet-as-first-customer-for-security-chips.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "ADP Says June Private Sector Hiring Grew Slightly Below Expectations",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-07-21T12:32:00+00:00",
+    "published_ts": 1784637120.0,
+    "summary": "Private companies added a net 98,000 jobs in June after adding 122,000 jobs in May, ADP said, compared with economists\u2019 expectations of 110,000 new private-sector jobs added.",
+    "link": "https://www.wsj.com/economy/jobs/adp-says-june-private-sector-hiring-grew-slightly-below-expectations-1aba28ac",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Something Weird Is Happening Beneath the Stock Market\u2019s Surface",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-21T10:39:00+00:00",
+    "published_ts": 1784630340.0,
+    "summary": "Plus, big tariffs are back.",
+    "link": "https://www.wsj.com/finance/stocks/something-weird-is-happening-beneath-the-stock-markets-surface-e8a47ac4?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Gold Prices Have Tanked. Buying the Dip Makes Sense.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-21T09:30:00+00:00",
+    "published_ts": 1784626200.0,
+    "summary": "The precious metal can still hedge against major risks as the Iran conflict drags on.",
+    "link": "https://www.wsj.com/finance/commodities-futures/gold-prices-have-tanked-buying-the-dip-makes-sense-4db80abc?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market Today: Chip Stocks Recover, Lifting Nasdaq",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-21T08:19:44+00:00",
+    "published_ts": 1784621984.0,
+    "summary": "Oil rises amid more fighting in Mideast",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-21-2026?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "U.K. Unemployment Holds Steady",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-07-21T06:55:00+00:00",
+    "published_ts": 1784616900.0,
+    "summary": "Unemployment was unchanged while wage growth was flat in the three months through May, adding to expectations that the BOE will leave rates unchanged next week.",
+    "link": "https://www.wsj.com/economy/u-k-unemployment-holds-steady-f2972aa4",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "New Zealand Central Bank Governor Has Time to Balance a Tricky Economy",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-07-21T02:54:00+00:00",
+    "published_ts": 1784602440.0,
+    "summary": "Economists suggest the Reserve Bank of New Zealand can afford to move cautiously, balancing the needs of an economy ripe for recovery with a clear desire to get inflation under control.",
+    "link": "https://www.wsj.com/economy/central-banking/new-zealand-central-bank-governor-has-time-to-balance-a-tricky-economy-9f0fff1d",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-21T01:50:36+00:00",
+    "published_ts": 1784598636.0,
+    "summary": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
+    "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-21T00:25:52+00:00",
+    "published_ts": 1784593552.0,
+    "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America\u2019s biggest trading partners.",
+    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -231,83 +418,6 @@
     "priority": 1
   },
   {
-    "title": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-21T00:13:00+00:00",
-    "published_ts": 1784592780.0,
-    "summary": "The Trump administration on Monday said it would slap 50% tariffs on some goods imported from Canada, in an effort to end what it sees as discriminatory trade practices by Ottawa against the U.S. automobile, dairy and alcohol industries.",
-    "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-20T23:15:00+00:00",
-    "published_ts": 1784589300.0,
-    "summary": "\u201cI\u2019m also considering working with a credit-counseling agency or enrolling in a hardship program.\u201d",
-    "link": "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Why are gasoline prices rising faster than oil prices? Blame it on the \u2018crack.\u2019",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-20T22:55:00+00:00",
-    "published_ts": 1784588100.0,
-    "summary": "The spread between the cost of barrels of gasoline and crude oil \u2014 known as the \u201ccrack spread\u201d \u2014 has widened sharply.",
-    "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-20T22:24:30+00:00",
-    "published_ts": 1784586270.0,
-    "summary": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America\u2019s biggest trading partners.",
-    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-20T22:13:57+00:00",
-    "published_ts": 1784585637.0,
-    "summary": "Canada's relationship with the U.S. has frayed amid Trump's tariff-heavy agenda and vocal displeasure with the nations' trilateral trade pact with Mexico.",
-    "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-20T21:13:00+00:00",
-    "published_ts": 1784581980.0,
-    "summary": "SpaceX fell further below its IPO price.",
-    "link": "https://www.wsj.com/finance/stocks/nasdaq-loses-early-gains-as-fears-persist-over-oil-prices-ai-e6a109d7?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen\u2019s Houthis keeps market on edge",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-20T21:11:00+00:00",
-    "published_ts": 1784581860.0,
-    "summary": "Oil prices settled at one-month highs in volatile trading on Monday as traders weighed escalating geopolitical tensions following a fresh barrage of strikes across the Middle East over the weekend against reports of a new ceasefire proposal between the U.S. and Iran.",
-    "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "Oil Markets on Edge as Houthi Rebels Threaten Shipping in the Middle East",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -315,28 +425,6 @@
     "published_ts": 1784579317.0,
     "summary": "The global oil price went above $90 but pulled back on signs of hope for a reduction in tensions.",
     "link": "https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "How Google\u2019s A.I. Search Is Imperiling the Open Web",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-20T19:06:27+00:00",
-    "published_ts": 1784574387.0,
-    "summary": "As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.",
-    "link": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices rise after Trump says Iran will pay for killing U.S. service members",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-20T19:04:16+00:00",
-    "published_ts": 1784574256.0,
-    "summary": "Oil prices have surged around 20% this month as fighting between the U.S. and Iran has sharply escalated.",
-    "link": "https://www.cnbc.com/2026/07/20/oil-prices-today-brent-wti-crude-us-iran-centcom-hormuz.html",
     "category": "Commodities",
     "priority": 1
   },
@@ -349,94 +437,6 @@
     "summary": "The asset manager\u2019s infrastructure and private-credit arms are leading the jumbo project.",
     "link": "https://www.wsj.com/business/deals/blackrock-leads-12-billion-financing-for-new-meta-data-centers-in-texas-e1c3d42c?mod=rss_markets_main",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Capital One bet big on Discover. Now it must prove the gamble was worth it",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-20T18:14:23+00:00",
-    "published_ts": 1784571263.0,
-    "summary": "Tuesday evening's second-quarter earnings report is the perfect stage to do just that.",
-    "link": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Iran's Houthi allies declare maritime embargo against Saudi Arabia, escalating threat to oil market",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-20T15:14:19+00:00",
-    "published_ts": 1784560459.0,
-    "summary": "The militants, in a statement carried by state news, accused the Saudis of laying an \"aggressive siege\" against them.",
-    "link": "https://www.cnbc.com/2026/07/20/iran-houthi-yemen-saudi-arabia.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Coinbase trading results may fall short of expectations, according to prediction markets",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-20T12:41:50+00:00",
-    "published_ts": 1784551310.0,
-    "summary": "Speculators think in the company's second quarter earnings report, it will show trading volume fell for a third consecutive quarter.",
-    "link": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "American A.I. Giants Like Alphabet Face Fresh Tests",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-20T12:28:51+00:00",
-    "published_ts": 1784550531.0,
-    "summary": "Rapid advancements in Chinese artificial intelligence models raise more questions about costly technology spending, as Google\u2019s parent prepares to report earnings.",
-    "link": "https://www.nytimes.com/2026/07/20/business/dealbook/ai-china-alphabet.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Is Passive Investing Sabotaging Fund Managers?",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-20T10:37:00+00:00",
-    "published_ts": 1784543820.0,
-    "summary": "Plus, oil\u2019s on the boil.",
-    "link": "https://www.wsj.com/finance/investing/is-passive-investing-sabotaging-fund-managers-856e9956?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market Today: Chip Stocks Pare Gains as S&P 500 Finishes Lower",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-20T08:01:54+00:00",
-    "published_ts": 1784534514.0,
-    "summary": "Oil edges higher as Mideast tensions continue",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Big Food Is Running Out of Moves With Shoppers and Investors",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-19T09:30:00+00:00",
-    "published_ts": 1784453400.0,
-    "summary": "Investors have rightly given up on companies such as General Mills and Kraft Heinz, which are squeezed by everything from inflation to GLP-1s.",
-    "link": "https://www.wsj.com/business/retail/big-food-is-running-out-of-moves-with-shoppers-and-investors-5f4567e9?mod=rss_markets_main",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-18T18:16:42+00:00",
-    "published_ts": 1784398602.0,
-    "summary": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
-    "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
-    "category": "Geopolitics",
     "priority": 1
   }
 ]
