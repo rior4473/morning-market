@@ -22,17 +22,6 @@
     "priority": 4
   },
   {
-    "title": "The stock market is completely unprepared for a 6% yield on the 30-year Treasury",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-24T21:38:00+00:00",
-    "published_ts": 1784929080.0,
-    "summary": "Long-bond spike would crush stock gains and deepen bond-fund losses.",
-    "link": "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Week Ahead for FX, Bonds: Fed Decision Awaited; Middle East Events Eyed",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -77,13 +66,24 @@
     "priority": 3
   },
   {
-    "title": "CD ladder vs. bond ladder: Which strategy is best for maximizing interest?",
+    "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-25T06:07:12.636395+00:00",
-    "published_ts": 1784959632.636395,
+    "published": "2026-07-25T15:45:13.287630+00:00",
+    "published_ts": 1784994313.28763,
     "summary": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/cd-ladder-vs-bond-ladder-215045439.html",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Are 7% mortgage rates next? The Treasury market is flashing a warning sign for home buyers.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-25T14:08:00+00:00",
+    "published_ts": 1784988480.0,
+    "summary": "The 30-year fixed-rate mortgage edged up to its highest level of 2026.",
+    "link": "https://www.marketwatch.com/story/the-treasury-market-is-flashing-a-warning-sign-for-home-buyers-are-7-mortgage-rates-next-58b5b3b1?mod=mw_rss_topstories",
     "category": "Fixed Income",
     "priority": 2
   },
@@ -118,17 +118,6 @@
     "summary": "Plus, oil prices fall and Elon Musk\u2019s empire struggles as investors await next week\u2019s interest-rate decision.",
     "link": "https://www.wsj.com/finance/stocks/spending-worries-weigh-on-tech-shares-5a6ba62e?mod=rss_markets_main",
     "category": "Commodities",
-    "priority": 2
-  },
-  {
-    "title": "Bond market anxiety is growing over AI capex budgets",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-24T20:07:36+00:00",
-    "published_ts": 1784923656.0,
-    "summary": "Google, Amazon and Meta are seeing credit spreads widen as fixed-income investors demand more reward on companies they lend to.",
-    "link": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -220,47 +209,113 @@
     "priority": 2
   },
   {
-    "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
+    "title": "Kuwait\u2019s KPC signs $16 billion lease and leaseback deal for oil pipeline network",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-07-25T06:07:12.793730+00:00",
-    "published_ts": 1784959632.79373,
+    "published": "2026-07-25T15:45:13.453915+00:00",
+    "published_ts": 1784994313.453915,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-after-tech-rout-mideast-tariffs-in-focus-4810955",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Edwards Lifesciences Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-07-25T06:07:12.636446+00:00",
-    "published_ts": 1784959632.636446,
-    "summary": "",
-    "link": "https://finance.yahoo.com/healthcare/articles/edwards-lifesciences-q2-earnings-call-230621971.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Stock market today: Nasdaq drops over 2%, Dow and S&P 500 tumble as Big Tech tanks, oil hits $100",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-07-25T06:07:12.636207+00:00",
-    "published_ts": 1784959632.636207,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
+    "link": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Citi brush off memory \"peak-out\" fears, reiterates Buy on Samsung and SK Hynix",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-07-25T15:45:13.453778+00:00",
+    "published_ts": 1784994313.453778,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/citi-brush-off-memory-peakout-fears-reiterates-buy-on-samsung-and-sk-hynix-4812769",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-25T15:45:13.287650+00:00",
+    "published_ts": 1784994313.28765,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/article/google-and-tesla-lost-half-a-trillion-dollars-this-week-as-their-suppliers-cashed-in-chart-of-the-day-121403846.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Shippers face tighter capacity as trucking rates hold near record highs",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-25T15:45:13.287545+00:00",
+    "published_ts": 1784994313.287545,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/articles/shippers-face-tighter-capacity-trucking-123000391.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Federal debt interest hits $857B in 9 months \u2014 that's $737/month for every U.S. household",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-25T15:45:13.287390+00:00",
+    "published_ts": 1784994313.28739,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/federal-debt-interest-hits-857b-141000924.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "The super rich use 401(k)s and IRAs to sidestep taxes on millions of dollars. This proposed law would cut them off.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-25T15:30:00+00:00",
+    "published_ts": 1784993400.0,
+    "summary": "More than 200 individuals had a total of more than $85 billion in tax-sheltered retirement accounts",
+    "link": "https://www.marketwatch.com/story/the-super-rich-use-401-k-s-and-iras-to-sidestep-taxes-on-millions-of-dollars-this-proposed-law-would-cut-them-off-04b37e9a?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Still waiting for the free $1,000 to hit your child\u2019s \u2018Trump account\u2019? Here\u2019s what to know.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-25T15:20:00+00:00",
+    "published_ts": 1784992800.0,
+    "summary": "Around $1.5 billion has been deposited into the accounts since their launch earlier this month, the Treasury Department said.",
+    "link": "https://www.marketwatch.com/story/still-waiting-for-the-free-1-000-to-hit-your-trump-account-heres-what-to-know-acc5c789?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "A \u2018generational buying opportunity\u2019 guarantees inflation plus 3% a year, says this hedge-fund manager",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-25T14:32:00+00:00",
+    "published_ts": 1784989920.0,
+    "summary": "Bob Elliott sparks buzz highlighting the bargain level of TIPS.",
+    "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+    "category": "Economy",
     "priority": 1
   },
   {
     "title": "Trump sued hours after new tariffs take effect, as experts say they may not hold up",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-25T00:18:53+00:00",
-    "published_ts": 1784938733.0,
+    "published": "2026-07-25T14:23:53+00:00",
+    "published_ts": 1784989433.0,
     "summary": "President Donald Trump has renewed a flurry of tariffs, including slapping 25% duties on Brazilian imports and vowing 50% tariffs on goods from Canada.",
     "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-lawsuit-301-ieepa.html",
     "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "S&P 500 flashes sell signals \u2014 options traders are bracing for wild swings in Apple, Meta and Microsoft",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-07-25T14:21:00+00:00",
+    "published_ts": 1784989260.0,
+    "summary": "Nervous investors set the stage for massive post-earnings moves in Wall Street\u2019s biggest stocks.",
+    "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -277,34 +332,12 @@
   {
     "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-07-24T22:43:56+00:00",
     "published_ts": 1784933036.0,
     "summary": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
     "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Musk's bad week: Tesla suffers worst slump since 2022, SpaceX drops ahead of Starship test flight",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-24T21:57:01+00:00",
-    "published_ts": 1784930221.0,
-    "summary": "Tesla shares plunged almost 18% this week after the company missed on earnings and turned cash flow negative.",
-    "link": "https://www.cnbc.com/2026/07/24/tesla-tsla-spacex-spcx-stock-starship-test-flight-musk-bad-week.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-24T21:21:00+00:00",
-    "published_ts": 1784928060.0,
-    "summary": "As inflation continues to squeeze household budgets, parents and students are on a mission to find back-to-school bargains.",
-    "link": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -341,6 +374,17 @@
     "priority": 1
   },
   {
+    "title": "1 hyperscaler megacap down, 3 to go. Alphabet raises the stakes on AI spending",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-24T19:41:08+00:00",
+    "published_ts": 1784922068.0,
+    "summary": "\"Capex trends are going to be the number one focus,\" Club portfolio director Jeff Marks said Friday ahead of next week's Big Tech earnings.",
+    "link": "https://www.cnbc.com/2026/07/24/1-hyperscaler-megacap-down-3-to-go-alphabet-raises-the-stakes-on-ai-spending.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
     "title": "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -349,39 +393,6 @@
     "summary": "Trump on Truth Social railed against the European Union's new fine on Google and prior penalties against U.S. tech giants Apple, Meta and Amazon.",
     "link": "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Why It\u2019s Best to Keep Politics Out of Your Investment Strategy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-24T19:22:03+00:00",
-    "published_ts": 1784920923.0,
-    "summary": "Despite the blurring of lines between big business and the Trump administration, investing in broad index funds instead of stocks with political ties looks like a better bet.",
-    "link": "https://www.nytimes.com/2026/07/24/business/investing-stocks-trump-politics.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-24T19:12:09+00:00",
-    "published_ts": 1784920329.0,
-    "summary": "Oil prices dropped by around 3% on Friday, but remained on track for a weekly jump of 10% as the U.S.-Iran war continued to escalate.",
-    "link": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-24T18:47:41+00:00",
-    "published_ts": 1784918861.0,
-    "summary": "More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
-    "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
-    "category": "Commodities",
     "priority": 1
   },
   {
@@ -415,17 +426,6 @@
     "summary": "The administration launched new duties tied to countries\u2019 imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.",
     "link": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Debt Collection Suits Have Risen Sharply. There\u2019s Help for Consumers Being Sued.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-24T13:00:09+00:00",
-    "published_ts": 1784898009.0,
-    "summary": "Consumers are being taken to court in droves for delinquent credit card and other bills. New legal protections and even A.I. could be a lifeline.",
-    "link": "https://www.nytimes.com/2026/07/24/business/credit-card-debt-collection-lawsuits.html",
-    "category": "Economy",
     "priority": 1
   },
   {
