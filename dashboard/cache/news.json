@@ -1,16 +1,5 @@
 [
   {
-    "title": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-07-30T14:24:14+00:00",
-    "published_ts": 1785421454.0,
-    "summary": "The Fed held interest rates steady, but long-term Treasury yields jumped. Investors are questioning whether he will act forcefully enough on inflation.",
-    "link": "https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
-    "category": "Fed",
-    "priority": 5
-  },
-  {
     "title": "Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -22,36 +11,36 @@
     "priority": 5
   },
   {
-    "title": "Warsh\u2019s Posture on Interest Rates Sparks Market Inflation Fears",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-29T21:15:00+00:00",
-    "published_ts": 1785359700.0,
-    "summary": "Dow slides more than 2% after Fed chairman says rising bond yields have already lifted borrowing costs.",
-    "link": "https://www.wsj.com/finance/stocks/warshs-posture-on-interest-rates-sparks-market-inflation-fears-60b9933c?mod=rss_markets_main",
+    "title": "Oil Prices Wobble as Middle East Veers Toward Wider Conflict",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-30T20:07:03+00:00",
+    "published_ts": 1785442023.0,
+    "summary": "Bond yields are also higher on concerns about inflation.",
+    "link": "https://www.nytimes.com/2026/07/30/business/oil-stocks-iran-war.html",
+    "category": "Fixed Income",
+    "priority": 4
+  },
+  {
+    "title": "Bond Investors\u2019 Inflation Angst Rises on Fed\u2019s Lack of Guidance",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-30T19:40:58+00:00",
+    "published_ts": 1785440458.0,
+    "summary": "The yield on government bonds, which underpins borrowing costs from mortgages to business loans, remained elevated over concerns about the Federal Reserve\u2019s efforts to contain inflation.",
+    "link": "https://www.nytimes.com/2026/07/30/business/federal-reserve-warsh-bonds.html",
     "category": "Fed",
-    "priority": 5
+    "priority": 4
   },
   {
     "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-07-30T15:04:43+00:00",
     "published_ts": 1785423883.0,
     "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
     "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
     "category": "Economy",
-    "priority": 4
-  },
-  {
-    "title": "Oil Prices Wobble as Middle East Veers Toward Wider Conflict",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-30T12:23:09+00:00",
-    "published_ts": 1785414189.0,
-    "summary": "Bond yields are also higher on concerns about inflation.",
-    "link": "https://www.nytimes.com/2026/07/30/business/oil-stocks-iran-war.html",
-    "category": "Fixed Income",
     "priority": 4
   },
   {
@@ -88,6 +77,39 @@
     "priority": 4
   },
   {
+    "title": "US stocks, dollar slip after Fed leaves rates unchanged",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-31T08:12:12.428111+00:00",
+    "published_ts": 1785485532.428111,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-muted-investors-count-down-085413437.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed interest-rate decision rocks Wall Street's inflation fears",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-31T08:12:12.428093+00:00",
+    "published_ts": 1785485532.428093,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/fed-interest-rate-decision-rocks-163300252.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Kevin Warsh\u2019s Honeymoon With the Bond Market Is Already Over",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-07-31T00:30:00+00:00",
+    "published_ts": 1785457800.0,
+    "summary": "Investors warned that the Fed must show commitment to inflation fight after Wednesday\u2019s selloff.",
+    "link": "https://www.wsj.com/finance/investing/kevin-warshs-honeymoon-with-the-bond-market-is-already-over-23bd0c6a?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
     "title": "4 Takeaways From the Federal Reserve Meeting",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -121,17 +143,6 @@
     "priority": 3
   },
   {
-    "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-23T20:25:28+00:00",
-    "published_ts": 1784838328.0,
-    "summary": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
-    "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Mortgage rates rose to their highest level in almost a year, as rising tensions in the Middle East spurred fears of higher inflation",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -143,24 +154,57 @@
     "priority": 3
   },
   {
-    "title": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise",
+    "title": "Markets react to Fed's July interest rate decision",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-30T17:07:17.479216+00:00",
-    "published_ts": 1785431237.479216,
+    "published": "2026-07-31T08:12:12.427956+00:00",
+    "published_ts": 1785485532.427956,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-treasury-yields-microsoft-082255995.html",
-    "category": "Fixed Income",
+    "link": "https://finance.yahoo.com/economy/policy/articles/markets-react-feds-july-interest-210558874.html",
+    "category": "Fed",
     "priority": 2
   },
   {
     "title": "Jim Cramer says this post-earnings sell-off is a golden buying opportunity",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-30T17:07:17.479086+00:00",
-    "published_ts": 1785431237.479086,
+    "published": "2026-07-31T08:12:12.427915+00:00",
+    "published_ts": 1785485532.427915,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-post-earnings-221700892.html",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-07-31T06:05:22+00:00",
+    "published_ts": 1785477922.0,
+    "summary": "The decision comes as speculation continues to swirl around whether the Bank of Japan will hike rates at a faster pace.",
+    "link": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Bank of Japan Stands Pat, Continues to See Inflation Around 2%",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-07-31T03:55:00+00:00",
+    "published_ts": 1785470100.0,
+    "summary": "The Bank of Japan kept monetary policy unchanged Friday as it assesses how its latest interest-rate increase is affecting the economy and price trends.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-stands-pat-continues-to-see-inflation-around-2-3b20439c",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-07-30T20:24:36+00:00",
+    "published_ts": 1785443076.0,
+    "summary": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why.",
+    "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
     "category": "Commodities",
     "priority": 2
   },
@@ -168,44 +212,22 @@
     "title": "U.S. GDP Growth Slowed in Second Quarter of 2026",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-07-30T16:29:06+00:00",
-    "published_ts": 1785428946.0,
+    "published": "2026-07-30T16:29:07+00:00",
+    "published_ts": 1785428947.0,
     "summary": "Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets.",
     "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
     "category": "Economy",
     "priority": 2
   },
   {
-    "title": "Mortgage rates jump to their highest level in a year and show few signs of falling",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-30T16:20:00+00:00",
-    "published_ts": 1785428400.0,
-    "summary": "The Federal Reserve on Wednesday kept its benchmark interest rate steady, but political and economic developments are pushing mortgage rates higher.",
-    "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-their-highest-level-in-a-year-and-show-few-signs-of-falling-4d485df0?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Markets Challenge Warsh\u2019s Approach to Taming Inflation",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-07-30T15:10:56+00:00",
-    "published_ts": 1785424256.0,
+    "published": "2026-07-30T15:10:57+00:00",
+    "published_ts": 1785424257.0,
     "summary": "Kevin M. Warsh has made controlling inflation the top priority of his tenure as Federal Reserve chairman. But his hesitancy to embrace the possibility of higher borrowing costs has sparked a backlash.",
     "link": "https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Trump\u2019s Tariff Exemptions Include Diamonds, Oil and Gas, Copper and Other Items",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-30T15:02:43+00:00",
-    "published_ts": 1785423763.0,
-    "summary": "A new round of tariff carve-outs has raised familiar questions about who should receive the lucrative exceptions, and why.",
-    "link": "https://www.nytimes.com/2026/07/30/business/economy/trump-tariffs-exemptions.html",
-    "category": "Commodities",
     "priority": 2
   },
   {
@@ -242,12 +264,12 @@
     "priority": 2
   },
   {
-    "title": "Stock Market Today: Long-Dated Treasury Yields at 19-Year Highs",
+    "title": "Stock Market News, July 30, 2026: Nasdaq Leaps, Fueled by Big Rally in Microsoft Shares",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-07-30T08:36:25+00:00",
     "published_ts": 1785400585.0,
-    "summary": "Nasdaq leaps after yesterday's selloff",
+    "summary": "Dow adds 600 points; Long-term Treasury yields hover near recent highs",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 2
@@ -363,80 +385,58 @@
     "priority": 2
   },
   {
-    "title": "European stocks react to blockbuster earnings and escalating U.S.-Iran conflict",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-07-30T17:07:17.688490+00:00",
-    "published_ts": 1785431237.68849,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-stocks-balance-blockbuster-earnings-against-escalating-usiran-conflict-4822425",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Blue Owl suffers credit outflows, data centers power growth elsewhere",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-07-30T17:07:17.688253+00:00",
-    "published_ts": 1785431237.688253,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/blue-owls-secondquarter-profit-rises-aum-reaches-319-billion-4823509",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Euronet Worldwide, Inc. Q2 2026 Earnings Call Summary",
+    "title": "Avantor, Inc. Q2 2026 Earnings Call Summary",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-30T17:07:17.479191+00:00",
-    "published_ts": 1785431237.479191,
+    "published": "2026-07-31T08:12:12.428225+00:00",
+    "published_ts": 1785485532.428225,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/euronet-worldwide-inc-q2-2026-164614461.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/avantor-inc-q2-2026-earnings-204604330.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Brookfield Infrastructure Partners L.P. Q2 2026 Earnings Call Summary",
+    "title": "U.S. Stocks Slide After Fed Pause, Escalation in Iran War",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-07-30T17:07:17.479166+00:00",
-    "published_ts": 1785431237.479166,
+    "published": "2026-07-31T08:12:12.428207+00:00",
+    "published_ts": 1785485532.428207,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/brookfield-infrastructure-partners-l-p-164616189.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "A break below this critical stock-market threshold used to signal panic for investors. Not anymore.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-07-30T16:45:00+00:00",
-    "published_ts": 1785429900.0,
-    "summary": "This year provides a good illustration of how this strategy often falls flat.",
-    "link": "https://www.marketwatch.com/story/why-you-shouldnt-worry-about-the-stock-markets-break-below-its-50-day-moving-average-4dfab87a?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Mexican Economy Bounces Back in Second Quarter",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-07-30T16:32:00+00:00",
-    "published_ts": 1785429120.0,
-    "summary": "The country\u2019s GDP rose 1.5% from the previous quarter in seasonally adjusted terms, marking the biggest expansion since the fourth quarter of 2020.",
-    "link": "https://www.wsj.com/economy/mexican-economy-bounces-back-in-second-quarter-d603c45e",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-07-30T16:28:10+00:00",
-    "published_ts": 1785428890.0,
-    "summary": "The once-high flying fund, Situational Awareness, has been bailed out by Kenneth Griffin\u2019s Citadel, according to three people briefed on the transaction.",
-    "link": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-after-fed-pause-escalation-in-iran-war-083d45b1?siteid=yhoof2&yptr=yahoo",
     "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Why JPMorgan CEO Jamie Dimon Says Investors Should Skip 4.6% Yields \u2014 \u2018I Would Not Be A Buyer\u2019",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-31T08:12:12.428133+00:00",
+    "published_ts": 1785485532.428133,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-ceo-jamie-dimon-204157373.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Datadog, IBD Stock Of The Day, Rides AI Momentum Ahead Of Earnings Report",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-31T08:12:12.428068+00:00",
+    "published_ts": 1785485532.428068,
+    "summary": "",
+    "link": "https://www.investors.com/research/ibd-stock-of-the-day/datadog-stock-earnings-high-expectations-artificial-intelligence/?src=A00220&yptr=yahoo",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Cognizant Technology Solutions Corporation Q2 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-07-31T08:12:12.428001+00:00",
+    "published_ts": 1785485532.428001,
+    "summary": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-technology-solutions-corporation-q2-203339832.html",
+    "category": "Equities",
     "priority": 1
   }
 ]
