@@ -66,20 +66,9 @@
     "priority": 4
   },
   {
-    "title": "J.P. Morgan drops Fed rate bombshell over Warsh, inflation",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-01T14:50:53.849248+00:00",
-    "published_ts": 1785595853.849248,
-    "summary": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/j-p-morgan-drops-fed-060300978.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-07-31T18:46:45+00:00",
     "published_ts": 1785523605.0,
     "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments\u2019 Noah Wise.",
@@ -112,7 +101,7 @@
   {
     "title": "Inflation Worries Prompted Fed Officials to Dissent on Holding Rates Steady",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-07-31T16:16:55+00:00",
     "published_ts": 1785514615.0,
     "summary": "Internal divisions over whether to raise interest rates intensified at Kevin Warsh\u2019s second meeting as chairman of the Federal Reserve.",
@@ -253,17 +242,6 @@
     "priority": 2
   },
   {
-    "title": "Divided Fed holds interest rates steady, but three members voted to hike",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-29T18:58:16+00:00",
-    "published_ts": 1785351496.0,
-    "summary": "Despite increasing support for a rate increase, the Federal Open Market Committee voted 9-3 to leave the federal funds rate in a range between 3.5% and 3.75%.",
-    "link": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -341,58 +319,113 @@
     "priority": 2
   },
   {
-    "title": "BofA\u2019s Hartnett calls Fed \u2019nakedly dovish,\u2019 urges retreat from risk assets",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-01T14:50:54.102047+00:00",
-    "published_ts": 1785595854.102047,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/bofas-hartnett-calls-fed-nakedly-dovish-urges-retreat-from-risk-assets-4829583",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "10 best high-yield savings accounts for August 2026: Earn up to 4.10% APY",
+    "title": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-01T14:50:53.849290+00:00",
-    "published_ts": 1785595853.84929,
-    "summary": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/10-best-high-yield-savings-accounts-for-august-2026-earn-up-to-410-apy-171334072.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "10 best money market accounts and rates for August 2026: Rates up to 3.9% APY",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-01T14:50:53.849265+00:00",
-    "published_ts": 1785595853.849265,
-    "summary": "",
-    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-accounts-rates-160154089.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Dow Jones Futures: Market Rebounds, Now Watch For This; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-01T14:50:53.849194+00:00",
-    "published_ts": 1785595853.849194,
+    "published": "2026-08-02T15:38:42.085714+00:00",
+    "published_ts": 1785685122.085714,
     "summary": "",
     "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-02T14:00:00+00:00",
+    "published_ts": 1785679200.0,
+    "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
+    "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-01T14:50:53.849059+00:00",
-    "published_ts": 1785595853.849059,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/want-trade-spacex-apple-1inch-194500911.html",
+    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-08-02T13:52:33+00:00",
+    "published_ts": 1785678753.0,
+    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank\u2019s equities desk fuels its growth.",
+    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "States expand student loan options as new federal borrowing caps take effect \u2014 but they come with trade-offs",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-02T13:30:01+00:00",
+    "published_ts": 1785677401.0,
+    "summary": "Some states \u2014 including Connecticut, Minnesota and Rhode Island \u2014 have expanded their own student loan programs amid new limits on federal borrowing.",
+    "link": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-02T13:00:01+00:00",
+    "published_ts": 1785675601.0,
+    "summary": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
+    "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Op-ed: The U.S. lead over China in AI is all but gone",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-02T12:30:01+00:00",
+    "published_ts": 1785673801.0,
+    "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
+    "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Why flights are so expensive and will likely stay that way",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-02T12:00:01+00:00",
+    "published_ts": 1785672001.0,
+    "summary": "Airlines are paying billions of dollars more in fuel costs this year",
+    "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Investors are rotating into financial stocks. The Fed\u2019s next move could determine how far the rally runs.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-02T12:00:00+00:00",
+    "published_ts": 1785672000.0,
+    "summary": "Financial stocks have been among the market\u2019s best performers this month. The Fed\u2019s next move, however, may determine how much further the rotation can run.",
+    "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Financial stocks are crushing it. These charts show why the \u2018breakout\u2019 rally may have just begun.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-02T12:00:00+00:00",
+    "published_ts": 1785672000.0,
+    "summary": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
+    "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-02T05:18:21+00:00",
+    "published_ts": 1785647901.0,
+    "summary": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
+    "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -404,39 +437,6 @@
     "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&amp;P 500.",
     "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "College kids are moving into retirement communities for reasons beyond \u2018cheap rent\u2019",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-01T14:04:00+00:00",
-    "published_ts": 1785593040.0,
-    "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but \u201cby 7:30 or 8, things get pretty quiet here.\u201d",
-    "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-01T14:00:00+00:00",
-    "published_ts": 1785592800.0,
-    "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
-    "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Many boomers are desperate to move but can\u2019t afford to",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-01T12:00:00+00:00",
-    "published_ts": 1785585600.0,
-    "summary": "Older homeowners may have more space than they need or want.",
-    "link": "https://www.marketwatch.com/story/many-boomers-are-desperate-to-move-but-cant-afford-to-6c9907ea?mod=mw_rss_topstories",
-    "category": "Markets",
     "priority": 1
   }
 ]
