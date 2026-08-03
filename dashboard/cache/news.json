@@ -44,17 +44,6 @@
     "priority": 4
   },
   {
-    "title": "Jeffrey Gundlach says the bond market is telling Warsh the Fed has to start acting on inflation",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-29T22:20:18+00:00",
-    "published_ts": 1785363618.0,
-    "summary": "Gundlach said the divergent moves across the Treasury curve showed investors' skepticism that the Fed will ultimately follow through.",
-    "link": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html",
-    "category": "Fed",
-    "priority": 4
-  },
-  {
     "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -66,6 +55,17 @@
     "priority": 4
   },
   {
+    "title": "Here\u2019s Why the US Is Helping Prop Up the Japanese Yen",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-03T15:42:08+00:00",
+    "published_ts": 1785771728.0,
+    "summary": "The U.S. Treasury joined efforts in Tokyo to stem the yen\u2019s slide against the dollar, highlighting the broader risks posed by turmoil in Japanese markets.",
+    "link": "https://www.nytimes.com/2026/08/03/business/us-japan-yen-intervention.html",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
     "title": "Investors may want to focus on front end of yield curve \u2014 as Street anticipates next Fed meetings",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -73,28 +73,6 @@
     "published_ts": 1785523605.0,
     "summary": "Bond market investors may want to focus on the front of the yield curve, according to Allspring Global Investments\u2019 Noah Wise.",
     "link": "https://www.cnbc.com/2026/07/31/top-investment-ideas-as-interest-rate-uncertainty-grips-market-.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Treasury Warns Banks It Might Intervene in Dollar-Yen Exchange Rate",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-07-31T17:49:00+00:00",
-    "published_ts": 1785520140.0,
-    "summary": "The Japanese currency has weakened substantially against U.S. currency in recent years to near multidecade lows.",
-    "link": "https://www.wsj.com/finance/currencies/treasury-warns-banks-it-might-intervene-in-dollar-yen-exchange-rate-4d7f1bba?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Richmond Fed President Tom Barkin said it is \u201ca close call\u201d whether the central bank\u2019s interest-rate setting is high enough to bring inflation down",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-07-31T16:49:00+00:00",
-    "published_ts": 1785516540.0,
-    "summary": "The Richmond Fed president said he doesn\u2019t know whether he would have joined the three colleagues who dissented in favor of a rate increase.",
-    "link": "https://www.wsj.com/economy/central-banking/tom-barkin-fed-president-interest-rates-99f2b676",
     "category": "Fed",
     "priority": 3
   },
@@ -165,6 +143,39 @@
     "priority": 3
   },
   {
+    "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-08-03T16:54:19+00:00",
+    "published_ts": 1785776059.0,
+    "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+    "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-03T15:20:00+00:00",
+    "published_ts": 1785770400.0,
+    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan\u2019s Ministry of Finance, which confirmed the move in a statement on Monday.",
+    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Swiss Inflation Falls Again Despite Oil-Price Rebound",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-03T07:31:00+00:00",
+    "published_ts": 1785742260.0,
+    "summary": "Inflation fell in July despite a rebound in global energy prices following a flare-up of conflict in the Middle East.",
+    "link": "https://www.wsj.com/economy/central-banking/swiss-inflation-falls-again-despite-oil-price-rebound-aec4e78b",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
     "title": "As Warsh\u2019s Fed faces pressure to act on inflation, these indicators show it\u2019s at its lowest in years",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -173,17 +184,6 @@
     "summary": "Trimmed mean measures are painting a different picture than the headline numbers.",
     "link": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Canada GDP Grows in May Amid Expansion in Oil and Gas Activity",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-07-31T14:54:00+00:00",
-    "published_ts": 1785509640.0,
-    "summary": "Canada\u2019s economy has roared back to life, tracking the strongest growth in roughly three years with an expansion in oil and gas activity and continued recoveries in areas like manufacturing.",
-    "link": "https://www.wsj.com/economy/central-banking/canada-gdp-grows-in-may-amid-expansion-in-oil-and-gas-activity-295e9bca",
-    "category": "Commodities",
     "priority": 2
   },
   {
@@ -217,17 +217,6 @@
     "summary": "Gross domestic product grew at a slower rate in the second quarter and persistent price pressures are unsettling financial markets.",
     "link": "https://www.nytimes.com/2026/07/30/business/economy/us-economy-gdp-growth.html",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Here are the five big takeaways from this week's Fed meeting",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-07-29T22:54:09+00:00",
-    "published_ts": 1785365649.0,
-    "summary": "The Federal Reserve on Wednesday followed through on expectations for no interest rate change.",
-    "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -275,17 +264,6 @@
     "priority": 2
   },
   {
-    "title": "Trump\u2019s Section 301 Tariffs: Map of Countries Targeted With New Rates",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-07-24T13:57:42+00:00",
-    "published_ts": 1784901462.0,
-    "summary": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
-    "link": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -294,17 +272,6 @@
     "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
     "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "India's inflation accelerates to 4.38% in June, exceeding forecasts",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-07-13T10:56:52+00:00",
-    "published_ts": 1783940212.0,
-    "summary": "Inflation has risen for the eighth straight month in India, as food and energy prices rise due to the Iran war and deficient rainfall.",
-    "link": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html",
-    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -319,124 +286,157 @@
     "priority": 2
   },
   {
-    "title": "Dow Jones Futures Due As Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+    "title": "Brazil oil output hits record as Middle East conflict disrupts supply",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-08-03T17:32:52.295322+00:00",
+    "published_ts": 1785778372.295322,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/brazil-oil-output-hits-record-as-middle-east-conflict-disrupts-supply-4832012",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Three Noteworthy Biotechs Just Reported Earnings \u2014 And Only One Recovered",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-02T15:38:42.085714+00:00",
-    "published_ts": 1785685122.085714,
+    "published": "2026-08-03T17:32:52.112980+00:00",
+    "published_ts": 1785778372.11298,
     "summary": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "S&P 500 profit growth is getting even wilder as Amazon makes its mark",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-02T14:00:00+00:00",
-    "published_ts": 1785679200.0,
-    "summary": "Amazon is the latest Big Tech company to report abnormally large earnings growth, thanks to paper gains on Anthropic investments.",
-    "link": "https://www.marketwatch.com/story/s-p-500-profit-growth-is-getting-even-wilder-as-amazon-makes-its-mark-5ddf2082?mod=mw_rss_topstories",
+    "link": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Goldman traders are on pace for a record year. A close-up look at how they're doing it",
+    "title": "Toyota set to report higher revenue and profit despite global sales slip: Earnings preview",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-03T17:32:52.112868+00:00",
+    "published_ts": 1785778372.112868,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/article/toyota-set-to-report-higher-revenue-and-profit-despite-global-sales-slip-earnings-preview-170431398.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-03T17:32:52.112801+00:00",
+    "published_ts": 1785778372.112801,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-03T17:32:52.112756+00:00",
+    "published_ts": 1785778372.112756,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-03T17:32:52.112727+00:00",
+    "published_ts": 1785778372.112727,
+    "summary": "",
+    "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX\u2019s stock is down nearly 50% from its high. Why it\u2019s still not a bargain.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-03T17:05:00+00:00",
+    "published_ts": 1785776700.0,
+    "summary": "Don\u2019t chase a SpaceX stock rally even if earnings are excellent, as a wave of shares will become available for sale.",
+    "link": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "AMD has two big engines roaring as it heads into earnings",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-03T16:31:00+00:00",
+    "published_ts": 1785774660.0,
+    "summary": "AMD has been boosted by robust server demand. Now analysts are looking ahead to the ramp of its new rack-scale offering.",
+    "link": "https://www.marketwatch.com/story/amd-has-two-big-engines-roaring-as-it-heads-into-earnings-28b20033?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Kalshi traders think July jobs report will come in slightly cooler than economists\u2019 predictions",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
-    "published": "2026-08-02T13:52:33+00:00",
-    "published_ts": 1785678753.0,
-    "summary": "In a new interview with CNBC, a Goldman exec breaks down what's driving stocks, where markets are headed, and how the bank\u2019s equities desk fuels its growth.",
-    "link": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "States expand student loan options as new federal borrowing caps take effect \u2014 but they come with trade-offs",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-02T13:30:01+00:00",
-    "published_ts": 1785677401.0,
-    "summary": "Some states \u2014 including Connecticut, Minnesota and Rhode Island \u2014 have expanded their own student loan programs amid new limits on federal borrowing.",
-    "link": "https://www.cnbc.com/2026/08/02/state-student-loans.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Investors scored on Iran war's oil market boom. Staying long the trade will get trickier",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-02T13:00:01+00:00",
-    "published_ts": 1785675601.0,
-    "summary": "Oil price volatility caused by U.S.-Iran war created big market winners, but for buy-and-hold investors, there are better long-term energy themes to monitor.",
-    "link": "https://www.cnbc.com/2026/08/02/oil-prices-iran-war-energy-market.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Op-ed: The U.S. lead over China in AI is all but gone",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-02T12:30:01+00:00",
-    "published_ts": 1785673801.0,
-    "summary": "AI debate in recent years has centered on whether the U.S. can develop a strategy capable of preserving an edge over China. The answer isn't looking positive.",
-    "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Why flights are so expensive and will likely stay that way",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-02T12:00:01+00:00",
-    "published_ts": 1785672001.0,
-    "summary": "Airlines are paying billions of dollars more in fuel costs this year",
-    "link": "https://www.cnbc.com/2026/08/02/flights-are-getting-even-more-expensive-as-fuel-prices-rise.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Investors are rotating into financial stocks. The Fed\u2019s next move could determine how far the rally runs.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-02T12:00:00+00:00",
-    "published_ts": 1785672000.0,
-    "summary": "Financial stocks have been among the market\u2019s best performers this month. The Fed\u2019s next move, however, may determine how much further the rotation can run.",
-    "link": "https://www.marketwatch.com/story/investors-are-rotating-into-financial-stocks-the-feds-next-move-could-determine-how-far-the-rally-runs-662c63df?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Financial stocks are crushing it. These charts show why the \u2018breakout\u2019 rally may have just begun.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-02T12:00:00+00:00",
-    "published_ts": 1785672000.0,
-    "summary": "The breakout to record highs by bank stocks, plus their strong earnings and favorable valuations, suggest more good times ahead for the financial sector.",
-    "link": "https://www.marketwatch.com/story/financial-stocks-are-crushing-it-these-charts-show-why-the-breakout-rally-may-have-just-begun-6db3cc12?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "An exam leak in India exposed a Gen Z jobs crisis that goes much deeper",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-02T05:18:21+00:00",
-    "published_ts": 1785647901.0,
-    "summary": "While the leak of key exam papers was the trigger for the recent student protest in India, rising unemployment is the real fuel angering Gen Z in the country.",
-    "link": "https://www.cnbc.com/2026/08/02/india-exam-leak-protests-jobs-crisis-gen-z-unemployment-modi.html",
+    "published": "2026-08-03T15:59:04+00:00",
+    "published_ts": 1785772744.0,
+    "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
+    "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Berkshire Hathaway shares hit eight-month high",
+    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-01T14:41:54+00:00",
-    "published_ts": 1785595314.0,
-    "summary": "The conglomerate that Warren Buffett built rallied to an eight-month high this week. There could be more gains ahead if they play catch up with the S&amp;P 500.",
-    "link": "https://www.cnbc.com/2026/08/01/-berkshire-hathaway-shares-hit-eight-month-high.html",
-    "category": "Geopolitics",
+    "published": "2026-08-03T15:50:20+00:00",
+    "published_ts": 1785772220.0,
+    "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
+    "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-03T15:03:00+00:00",
+    "published_ts": 1785769380.0,
+    "summary": "Strategists at the bank see non-U.S. shares performing well in the second half of the year and prefer semiconductor stocks to hyperscalers.",
+    "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-03T15:02:34+00:00",
+    "published_ts": 1785769354.0,
+    "summary": "The markets\u2019 moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
+    "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it. \u2018It\u2019s just been so much.\u2019",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-03T14:52:00+00:00",
+    "published_ts": 1785768720.0,
+    "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
+    "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-03T13:45:02+00:00",
+    "published_ts": 1785764702.0,
+    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
+    "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+    "category": "Equities",
     "priority": 1
   }
 ]
