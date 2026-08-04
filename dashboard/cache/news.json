@@ -55,6 +55,17 @@
     "priority": 4
   },
   {
+    "title": "Analysis: Federal Reserve may be pulled into Bessent\u2019s effort to support Japan\u2019s yen",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-03T23:20:54+00:00",
+    "published_ts": 1785799254.0,
+    "summary": "Treasury Secretary Scott Bessent wants to defend the yen without selling Treasurys into a sensitive U.S. bond market. The Federal Reserve could help.",
+    "link": "https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
     "title": "Here\u2019s Why the US Is Helping Prop Up the Japanese Yen",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -143,6 +154,50 @@
     "priority": 3
   },
   {
+    "title": "Best high-yield savings interest rates today, Monday, August 3, 2026: You can earn up to 4.15% APY",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191288+00:00",
+    "published_ts": 1785824286.191288,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "A little-used Fed backstop is being put to a use it was never designed for\u2014bankrolling Japan\u2019s defense of the yen\u2014and Treasury Secretary Scott Bessent wants it to be expanded",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-04T00:00:00+00:00",
+    "published_ts": 1785801600.0,
+    "summary": "The Treasury secretary wants the central bank to help by raising its $60 billion borrowing limit on an obscure lending program.",
+    "link": "https://www.wsj.com/economy/central-banking/why-bessent-is-leaning-on-the-fed-to-help-prop-up-japans-currency-85794909",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "South Korea\u2019s July Inflation Eases From 30-Month High",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-03T23:56:00+00:00",
+    "published_ts": 1785801360.0,
+    "summary": "South Korea\u2019s headline inflation moderated in July after reaching a 30-month high in June, as government measures partly helped restrain fuel and electricity prices.",
+    "link": "https://www.wsj.com/economy/south-koreas-july-inflation-eases-from-30-month-high-521d0d9a",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-03T22:48:18+00:00",
+    "published_ts": 1785797298.0,
+    "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+    "link": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "category": "Equities",
+    "priority": 2
+  },
+  {
     "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -150,17 +205,6 @@
     "published_ts": 1785776059.0,
     "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
     "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Why the U.S. decided to help Japan by boosting the flailing yen",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-03T15:20:00+00:00",
-    "published_ts": 1785770400.0,
-    "summary": "The U.S. Treasury Department and Federal Reserve have joined forces with their Japanese counterparts to stage a historic joint intervention to boost the Japanese yen, according to Japan\u2019s Ministry of Finance, which confirmed the move in a statement on Monday.",
-    "link": "https://www.marketwatch.com/story/joint-u-s-japanese-intervention-boosts-the-yen-but-will-it-be-enough-069451f5?mod=mw_rss_topstories",
     "category": "Fed",
     "priority": 2
   },
@@ -253,17 +297,6 @@
     "priority": 2
   },
   {
-    "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-07-25T04:00:07+00:00",
-    "published_ts": 1784952007.0,
-    "summary": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.",
-    "link": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
-    "category": "Commodities",
-    "priority": 2
-  },
-  {
     "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -286,156 +319,123 @@
     "priority": 2
   },
   {
-    "title": "Brazil oil output hits record as Middle East conflict disrupts supply",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-03T17:32:52.295322+00:00",
-    "published_ts": 1785778372.295322,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/brazil-oil-output-hits-record-as-middle-east-conflict-disrupts-supply-4832012",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Three Noteworthy Biotechs Just Reported Earnings \u2014 And Only One Recovered",
+    "title": "Weekly survey of mortgage lenders with the lowest rates: Revealing the wide gaps among rates and fees",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-03T17:32:52.112980+00:00",
-    "published_ts": 1785778372.11298,
+    "published": "2026-08-04T06:18:06.191442+00:00",
+    "published_ts": 1785824286.191442,
     "summary": "",
-    "link": "https://www.investors.com/news/technology/biotech-stocks-q2-2026-earnings-tg-therapeutics-twist-biotech-krystal-biotech/?src=A00220&yptr=yahoo",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Toyota set to report higher revenue and profit despite global sales slip: Earnings preview",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-03T17:32:52.112868+00:00",
-    "published_ts": 1785778372.112868,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/article/toyota-set-to-report-higher-revenue-and-profit-despite-global-sales-slip-earnings-preview-170431398.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-03T17:32:52.112801+00:00",
-    "published_ts": 1785778372.112801,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Stock market today: Nasdaq leads Dow, S&P 500 higher as Big Tech gains, oil prices ease",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-03T17:32:52.112756+00:00",
-    "published_ts": 1785778372.112756,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-03T17:32:52.112727+00:00",
-    "published_ts": 1785778372.112727,
-    "summary": "",
-    "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "SpaceX\u2019s stock is down nearly 50% from its high. Why it\u2019s still not a bargain.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-03T17:05:00+00:00",
-    "published_ts": 1785776700.0,
-    "summary": "Don\u2019t chase a SpaceX stock rally even if earnings are excellent, as a wave of shares will become available for sale.",
-    "link": "https://www.marketwatch.com/story/spacexs-stock-is-down-nearly-50-from-its-high-why-its-still-not-a-bargain-65b528ad?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "AMD has two big engines roaring as it heads into earnings",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-03T16:31:00+00:00",
-    "published_ts": 1785774660.0,
-    "summary": "AMD has been boosted by robust server demand. Now analysts are looking ahead to the ramp of its new rack-scale offering.",
-    "link": "https://www.marketwatch.com/story/amd-has-two-big-engines-roaring-as-it-heads-into-earnings-28b20033?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Kalshi traders think July jobs report will come in slightly cooler than economists\u2019 predictions",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-08-03T15:59:04+00:00",
-    "published_ts": 1785772744.0,
-    "summary": "Speculators on the platform place just under 50-50 odds that employers added more than 80,000 jobs in July.",
-    "link": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-03T15:50:20+00:00",
-    "published_ts": 1785772220.0,
-    "summary": "Shares of Amazon hit a new all-time high Monday, putting its market cap over $3 trillion.",
-    "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-03T15:03:00+00:00",
-    "published_ts": 1785769380.0,
-    "summary": "Strategists at the bank see non-U.S. shares performing well in the second half of the year and prefer semiconductor stocks to hyperscalers.",
-    "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Oil Prices Plummet as Investors Digest Pause in Iran War Fighting",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-03T15:02:34+00:00",
-    "published_ts": 1785769354.0,
-    "summary": "The markets\u2019 moves were the first since President Trump said he had halted a planned U.S. assault on Iran.",
-    "link": "https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "They spent tens of thousands of dollars on home remodels \u2014 only to regret it. \u2018It\u2019s just been so much.\u2019",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-03T14:52:00+00:00",
-    "published_ts": 1785768720.0,
-    "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
-    "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-august-3-170834159.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "SpaceX's post-IPO plunge sets tense backdrop for first earnings report",
+    "title": "Gold prices today, Monday, August 3, 2026: Gold prices open higher after U.S. pauses planned airstrikes",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191320+00:00",
+    "published_ts": 1785824286.19132,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-3-2026-gold-prices-open-higher-after-us-pauses-planned-airstrikes-121655731.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Monday, August 3, 2026: Just a 2-basis-point differential",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191261+00:00",
+    "published_ts": 1785824286.191261,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191236+00:00",
+    "published_ts": 1785824286.191236,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Bessent ready to repeat joint yen intervention, urges bigger Fed backstop",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191190+00:00",
+    "published_ts": 1785824286.19119,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/bessent-ready-repeat-joint-yen-004023739.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-04T06:18:06.191139+00:00",
+    "published_ts": 1785824286.191139,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-03T13:45:02+00:00",
-    "published_ts": 1785764702.0,
-    "summary": "Two weeks after Tesla's earnings report was panned by Wall Street, Elon Musk faces investors again, but this time to discuss SpaceX's results.",
-    "link": "https://www.cnbc.com/2026/08/03/spacexs-post-ipo-plunge-sets-tense-backdrop-for-first-earnings-report.html",
+    "published": "2026-08-04T06:09:35+00:00",
+    "published_ts": 1785823775.0,
+    "summary": "",
+    "link": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-04T05:56:25+00:00",
+    "published_ts": 1785822985.0,
+    "summary": "The results come as oil supermajors have reported blowout quarterly profits, benefitting from higher fossil fuel prices amid the Iran war.",
+    "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "How the Mohegan Tribe Lost a Billion-Dollar Casino in South Korea",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-04T04:01:10+00:00",
+    "published_ts": 1785816070.0,
+    "summary": "Inspire Entertainment Resort \u2014 an alternative to Macau, the world\u2019s gambling capital \u2014 was supposed to be a \u201ctransformational\u201d project for the Native American tribe.",
+    "link": "https://www.nytimes.com/2026/08/04/world/asia/mohegan-south-korea-casino-bain.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-03T22:47:54+00:00",
+    "published_ts": 1785797274.0,
+    "summary": "Palantir's second-quarter earnings beat expectations, and the AI software company lifted revenue guidance.",
+    "link": "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-03T22:03:52+00:00",
+    "published_ts": 1785794632.0,
+    "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+    "link": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
     "category": "Equities",
     "priority": 1
   }
