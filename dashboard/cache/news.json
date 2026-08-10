@@ -1,16 +1,5 @@
 [
   {
-    "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-07T15:38:00+00:00",
-    "published_ts": 1786117080.0,
-    "summary": "U.S. inflation data for July will be firmly in focus after recent weak jobs data brought the need for an interest-rate rise by the Federal Reserve in the coming months into question.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-ffd3ae8a?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 5
-  },
-  {
     "title": "Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -22,9 +11,20 @@
     "priority": 5
   },
   {
+    "title": "The U.S. economy is shedding jobs. Here\u2019s why that\u2019s good news for stocks.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-10T13:30:00+00:00",
+    "published_ts": 1786368600.0,
+    "summary": "A weaker labor market may mean the Federal Reserve can cut interest rates amid benign wage inflation, says 22V.",
+    "link": "https://www.marketwatch.com/story/the-u-s-economy-is-shedding-jobs-why-thats-good-news-for-stocks-a7f4773c?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 4
+  },
+  {
     "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-08-07T14:24:49+00:00",
     "published_ts": 1786112689.0,
     "summary": "Officials at the Federal Reserve are chiefly focused on the trajectory of inflation after five years of overshooting the central bank\u2019s 2 percent target.",
@@ -99,28 +99,6 @@
     "priority": 3
   },
   {
-    "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-07T16:58:58+00:00",
-    "published_ts": 1786121938.0,
-    "summary": "While the Fed didn\u2019t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it\u2019s also a boon for retirees.",
-    "link": "https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "The U.S. labor market shed jobs in July, an unexpected contraction likely to renew questions about the economy\u2019s fundamental strength at a time when it is also facing elevated inflation",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-07T15:33:00+00:00",
-    "published_ts": 1786116780.0,
-    "summary": "Jobs and unemployment sent conflicting signals, but fewer people were actively looking for work. The unemployment rate fell to 4.1%.",
-    "link": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 3
-  },
-  {
     "title": "Odds the Fed will hike in September tumble following big July jobs miss",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -140,17 +118,6 @@
     "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
     "link": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html",
     "category": "Economy",
-    "priority": 3
-  },
-  {
-    "title": "Jobs Report Poses New Test for Warsh and the Fed",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-07T11:03:15+00:00",
-    "published_ts": 1786100595.0,
-    "summary": "Friday\u2019s jobs report comes as investors increasingly expect the Federal Reserve to begin raising interest rates as soon as next month.",
-    "link": "https://www.nytimes.com/2026/08/07/business/dealbook/jobs-warsh-fed-rates.html",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -209,6 +176,28 @@
     "priority": 3
   },
   {
+    "title": "Fed Chair Kevin Warsh Has Held Rates Steady in Back-to-Back Meetings Since Taking Over in 2026. What His Cautious Start Means for Markets.",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-10T14:47:09.737687+00:00",
+    "published_ts": 1786373229.737687,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-held-142000024.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Private Credit Is Under Growing Strain, Despite Industry\u2019s Upbeat Tone",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-10T01:00:00+00:00",
+    "published_ts": 1786323600.0,
+    "summary": "Default rates are hitting recent highs, and internal reviews of loan health point to tougher times ahead, a WSJ analysis shows.",
+    "link": "https://www.wsj.com/finance/investing/private-credit-is-under-growing-strain-despite-industrys-upbeat-tone-e5abf388?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
     "title": "China Inflation Cools More Than Expected in July",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -217,28 +206,6 @@
     "summary": "China\u2019s consumer and factory-gate price growth both cooled more than expected last month, suggesting tepid domestic demand and reflecting the impact of extreme weather and declining oil costs.",
     "link": "https://www.wsj.com/business/retail/china-inflation-cools-more-than-expected-in-july-a9f71d94?mod=rss_socialeconomyfeed",
     "category": "Commodities",
-    "priority": 2
-  },
-  {
-    "title": "Blockbuster Earnings Bolster Stocks\u2019 Record Run",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-09T01:00:00+00:00",
-    "published_ts": 1786237200.0,
-    "summary": "Results from the U.S.\u2019s largest companies have helped ease worries about AI spending and inflationary pressures.",
-    "link": "https://www.wsj.com/finance/stocks/blockbuster-earnings-bolster-stocks-record-run-97551889?mod=rss_markets_main",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-07T08:22:12+00:00",
-    "published_ts": 1786090932.0,
-    "summary": "U.S. economy lost jobs in July, prompting traders to scale back rate-hike expectations",
-    "link": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 2
   },
   {
@@ -352,91 +319,124 @@
     "priority": 2
   },
   {
-    "title": "European stocks draw investors as earnings and growth strengthen",
+    "title": "Monday.com options implied volatility drops sharply after earnings selloff",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-09T14:00:54.279169+00:00",
-    "published_ts": 1786284054.279169,
+    "published": "2026-08-10T14:47:10.851377+00:00",
+    "published_ts": 1786373230.851377,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-stocks-draw-investors-as-earnings-and-growth-strengthen-4847722",
+    "link": "https://www.investing.com/news/stock-market-news/mondaycom-options-implied-volatility-drops-sharply-after-earnings-selloff-93CH-4849730",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "The AI boom is creating jobs far from Silicon Valley: Chart of the Day",
+    "title": "Stock Market Today: Dow Falls As Oil Prices Climb; SpaceX Stock Extending Gains (Live Coverage)",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-09T14:00:54.093602+00:00",
-    "published_ts": 1786284054.093602,
+    "published": "2026-08-10T14:47:09.737642+00:00",
+    "published_ts": 1786373229.737642,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/the-ai-boom-is-creating-jobs-far-from-silicon-valley-chart-of-the-day-112914747.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Hecla Mining Q2 Earnings Call Highlights",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-09T14:00:54.093585+00:00",
-    "published_ts": 1786284054.093585,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/commodities/articles/hecla-mining-q2-earnings-call-120358460.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Arista Beats Views",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-09T14:00:54.093320+00:00",
-    "published_ts": 1786284054.09332,
-    "summary": "",
-    "link": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "5 \u2018rules\u2019 your parents taught you that are sabotaging your career, says expert\u2014like \u2018always be grateful\u2019",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-09T13:34:01+00:00",
-    "published_ts": 1786282441.0,
-    "summary": "\"Well-intentioned career advice absorbed from a young age can work against you,\" says executive coach Melody Wilding, author of \"Managing Up.\"",
-    "link": "https://www.cnbc.com/2026/08/09/rules-your-parents-taught-you-that-are-sabotaging-your-career-expert.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-09T13:11:52+00:00",
-    "published_ts": 1786281112.0,
-    "summary": "The market's attention will be on July inflation data.",
-    "link": "https://www.cnbc.com/2026/08/09/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-09T13:00:00+00:00",
-    "published_ts": 1786280400.0,
-    "summary": "Tech stocks zip about on the latest AI expectations. Plus: A Financial Flashback to 55 years ago, when Nixon dropped the gold standard.",
-    "link": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?mod=rss_markets_main",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "\u2018Her bank accounts were stripped bare by Medicaid\u2019: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+    "title": "SpaceX Stock Hits Resistance At IPO Price After Earnings, Share Unlock",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-10T14:47:09.737429+00:00",
+    "published_ts": 1786373229.737429,
+    "summary": "",
+    "link": "https://www.investors.com/news/spacex-stock-rebound-reclaim-135-ipo-price/?src=A00220&yptr=yahoo",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "U.S. oil price hits $80 as doubt grows Washington and Tehran will reach Strait of Hormuz deal",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-10T14:39:53+00:00",
+    "published_ts": 1786372793.0,
+    "summary": "Oil rose as traders assess mixed signals from the U.S. and Iran amid worries that a deal to open the Strait of Hormuz may not come anytime soon.",
+    "link": "https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "U.S. Employment Trends Index Increased in July, Conference Board Says",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-10T14:33:00+00:00",
+    "published_ts": 1786372380.0,
+    "summary": "The Employment Trends Index increased to 107.71 from an upwardly revised reading of 106.74 in June, suggesting potential payroll growth ahead.",
+    "link": "https://www.wsj.com/economy/jobs/u-s-employment-trends-index-increased-in-july-conference-board-says-518193fc?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Intel plans $15 billion stock offering as AI demand accelerates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-10T14:31:41+00:00",
+    "published_ts": 1786372301.0,
+    "summary": "Technology giants have shelled out trillions to support insatiable AI demand and the infrastructure buildout.",
+    "link": "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-09T12:30:00+00:00",
-    "published_ts": 1786278600.0,
-    "summary": "\u201cShe left behind a 30-year-old son and 32-year-old daughter.\u201d",
-    "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+    "published": "2026-08-10T14:30:00+00:00",
+    "published_ts": 1786372200.0,
+    "summary": "The Moneyist: \u201cSome readers \u2014 and couples \u2014 would be grateful to retire on half that amount.\u201d",
+    "link": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Barrick\u2019s stock slides after dispute settlement sets the scene for IPO of mining company\u2019s gold assets",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-10T14:14:00+00:00",
+    "published_ts": 1786371240.0,
+    "summary": "Mining giant Barrick announced Monday that it has reached an agreement with gold-mining company Newmont to combine some of their mines \u2014 helping to support an initial public offering of Barrick\u2019s North American gold assets by the end of the year.",
+    "link": "https://www.marketwatch.com/story/barricks-stock-slides-after-dispute-settlement-sets-the-scene-for-ipo-of-mining-companys-gold-assets-a88f3d27?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX stock rebounds to near $135 IPO price",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-10T14:11:49+00:00",
+    "published_ts": 1786371109.0,
+    "summary": "SpaceX reported better-than-expected revenue in its second-quarter earnings report last week.",
+    "link": "https://www.cnbc.com/2026/08/10/spacex-spcx-stock-ipo-price.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Oil Prices Climb on Stalemate in Strait of Hormuz",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-10T13:32:27+00:00",
+    "published_ts": 1786368747.0,
+    "summary": "Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.",
+    "link": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Interest rates may stay higher for longer. What that means for consumers",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-10T12:41:26+00:00",
+    "published_ts": 1786365686.0,
+    "summary": "Any move toward higher rates would increase borrowing costs for consumers at a time when affordability pressures are already mounting.",
+    "link": "https://www.cnbc.com/2026/08/10/fed-rate-hike-prospects-higher-interest-rates.html",
+    "category": "Geopolitics",
     "priority": 1
   }
 ]
