@@ -22,13 +22,24 @@
     "priority": 4
   },
   {
-    "title": "Cool Inflation Data Propels Stocks to Fresh Records",
+    "title": "Consumer Warning Lights",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-13T20:47:00+00:00",
-    "published_ts": 1786654020.0,
-    "summary": "Wall Street now expects the Federal Reserve to hold rates steady next month.",
-    "link": "https://www.wsj.com/finance/stocks/cool-inflation-data-propels-stocks-to-fresh-records-cf7e46a9?mod=rss_markets_main",
+    "published": "2026-08-14T20:29:00+00:00",
+    "published_ts": 1786739340.0,
+    "summary": "Plus, oil and Treasury yields rise.",
+    "link": "https://www.wsj.com/finance/investing/consumer-warning-lights-f1df8c6d?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "Week Ahead for FX, Bonds: Fed Minutes, China Data in Focus",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-14T15:58:00+00:00",
+    "published_ts": 1786723080.0,
+    "summary": "Minutes to the recent Federal Reserve meeting, where U.S. interest rates were left on hold, will be closely monitored for any clues on whether rates could rise next month.",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-minutes-china-data-in-focus-6ad23f18?mod=rss_socialeconomyfeed",
     "category": "Fed",
     "priority": 3
   },
@@ -132,14 +143,14 @@
     "priority": 3
   },
   {
-    "title": "Bond yields are at multiyear highs, yet stocks have hit fresh records. Here\u2019s how long the defiance can last.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-14T13:31:00+00:00",
-    "published_ts": 1786714260.0,
-    "summary": "The relationship between bond yields and equities has turned negative again, says LPL Financial.",
-    "link": "https://www.marketwatch.com/story/rates-are-at-multiyear-highs-yet-stocks-hit-fresh-records-heres-how-long-the-defiance-may-last-b29a5d14?mod=mw_rss_topstories",
-    "category": "Fixed Income",
+    "title": "S&P 500 Logs Third Consecutive Weekly Gain",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-14T20:44:00+00:00",
+    "published_ts": 1786740240.0,
+    "summary": "Stocks got a lift from new bets that the Federal Reserve will hold rates steady in September.",
+    "link": "https://www.wsj.com/finance/stocks/s-p-500-logs-third-consecutive-weekly-gain-1b37e4d4?mod=rss_markets_main",
+    "category": "Fed",
     "priority": 2
   },
   {
@@ -242,80 +253,146 @@
     "priority": 2
   },
   {
-    "title": "BJ\u2019s Wholesale Club shares may move 5.8% on earnings report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-14T14:41:00.454510+00:00",
-    "published_ts": 1786718460.45451,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/bjs-wholesale-club-shares-may-move-58-on-earnings-report-93CH-4861100",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Miniso Group shares may move 6.4% on Aug. 21 earnings report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-14T14:41:00.454473+00:00",
-    "published_ts": 1786718460.454473,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/miniso-group-shares-may-move-64-on-aug-21-earnings-report-93CH-4861103",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Replimune Group stock may move 5.6% on earnings release",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-14T14:41:00.454443+00:00",
-    "published_ts": 1786718460.454443,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/replimune-group-stock-may-move-56-on-earnings-release-93CH-4861104",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Bridgeline Digital (BLIN) Q3 2026 Earnings Call Transcript",
+    "title": "Goldman Sachs Expands Bitcoin Push With $2.25B Asset Manager Deal",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-14T14:41:00.147528+00:00",
-    "published_ts": 1786718460.147528,
+    "published": "2026-08-14T21:54:26.859311+00:00",
+    "published_ts": 1786744466.859311,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bridgeline-digital-blin-q3-2026-142031539.html",
-    "category": "Equities",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-expands-bitcoin-push-143000957.html",
+    "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Hive Digital\u2019s Stock Is Downgraded Ahead of Earnings",
+    "title": "Widening Spreads and Tariff Protection Drive Steel Dynamics\u2019 (STLD) Rally",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-14T14:41:00.147423+00:00",
-    "published_ts": 1786718460.147423,
+    "published": "2026-08-14T21:54:26.859286+00:00",
+    "published_ts": 1786744466.859286,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/hive-digital-stock-downgraded-ahead-142600089.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Property Play: Housing investors say this is their worst market in at least 3 years",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-14T14:37:13+00:00",
-    "published_ts": 1786718233.0,
-    "summary": "Mortgage rates hit a recent low at the end of February but rose sharply at the start of the war with Iran. They are now at their highest level in over a year.",
-    "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/widening-spreads-tariff-protection-drive-143001351.html",
     "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+    "title": "Tariff Refunds Boost Bottom Line for Dillard\u2019s in Second Quarter",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-14T21:54:26.859261+00:00",
+    "published_ts": 1786744466.859261,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/tariff-refunds-boost-bottom-line-142014788.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court\u2019s Role",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-14T21:12:16+00:00",
+    "published_ts": 1786741936.0,
+    "summary": "A Virginia federal court has awarded the company the rights to collect, but not sell, items from the shipwreck. But the company says its earliest retrievals are governed by a French court.",
+    "link": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-14T14:01:32+00:00",
-    "published_ts": 1786716092.0,
-    "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-    "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+    "published": "2026-08-14T20:47:41+00:00",
+    "published_ts": 1786740461.0,
+    "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+    "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
     "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Goldman\u2019s latest cash cow is all about funding the AI infrastructure boom",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-08-14T20:05:57+00:00",
+    "published_ts": 1786737957.0,
+    "summary": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+    "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-14T19:50:11+00:00",
+    "published_ts": 1786737011.0,
+    "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
+    "link": "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Why Japan Is Struggling to Stop the Yen\u2019s Decline",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-14T18:41:17+00:00",
+    "published_ts": 1786732877.0,
+    "summary": "The currency has resumed its slide, eroding gains after the U.S. Treasury intervened to prop it up, as concerns mount about the direction of the country\u2019s spending.",
+    "link": "https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "July Retail Sales Notch Biggest Drop in Over a Year",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-14T17:59:58+00:00",
+    "published_ts": 1786730398.0,
+    "summary": "The data for July showed the biggest drop in more than a year, as American households face the economic strains brought on by persistent inflation",
+    "link": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Think interest rates are high now? These charts offers a different perspective.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-14T17:51:00+00:00",
+    "published_ts": 1786729860.0,
+    "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+    "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-14T17:40:00+00:00",
+    "published_ts": 1786729200.0,
+    "summary": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+    "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-14T16:27:45+00:00",
+    "published_ts": 1786724865.0,
+    "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
+    "link": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-08-14T14:53:13+00:00",
+    "published_ts": 1786719193.0,
+    "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
+    "link": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -327,17 +404,6 @@
     "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
     "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "The U.S. national debt is about to reach $40 trillion for the first time \u2014 and hit $50 trillion soon after",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-14T13:00:00+00:00",
-    "published_ts": 1786712400.0,
-    "summary": "Investors are shying away from bonds for a reason, says Bank of America",
-    "link": "https://www.marketwatch.com/story/u-s-national-debt-about-to-reach-bleak-40-trillion-milestone-and-its-likely-hit-50-trillion-soon-0f10df2d?mod=mw_rss_topstories",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -363,17 +429,6 @@
     "priority": 1
   },
   {
-    "title": "Companies Have Rarely Had Such Great Expectations",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-14T10:29:00+00:00",
-    "published_ts": 1786703340.0,
-    "summary": "Plus, a big shift in rate hike odds",
-    "link": "https://www.wsj.com/finance/stocks/companies-have-rarely-had-such-great-expectations-c5824f70?mod=rss_markets_main",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
     "title": "How Big Tech\u2019s Earnings Are Inflated by Other Tech Companies",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -382,61 +437,6 @@
     "summary": "Gains on investments in companies like Anthropic are boosting earnings at some of the biggest technology companies.",
     "link": "https://www.wsj.com/finance/stocks/the-121-billion-in-one-time-gains-boosting-big-techs-profits-5d2201da?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court\u2019s Role",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-13T22:59:12+00:00",
-    "published_ts": 1786661952.0,
-    "summary": "A Virginia federal court has awarded the company the rights to collect, but not sell, items from the shipwreck. But the company says its earliest retrievals are governed by a French court.",
-    "link": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Stocks Hit New Highs on Inflation Relief",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-13T20:23:00+00:00",
-    "published_ts": 1786652580.0,
-    "summary": "Plus, Coach owner Tapestry tumbles and Workday soars.",
-    "link": "https://www.wsj.com/finance/stocks/stocks-hit-new-highs-on-inflation-relief-2049c5d4?mod=rss_markets_main",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-08-13T20:21:51+00:00",
-    "published_ts": 1786652511.0,
-    "summary": "Recent FactSet data show that the rise in earnings is not coming from sales growth alone.",
-    "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Trade court upholds Trump's closure of 'de minimis' loophole",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-13T19:56:06+00:00",
-    "published_ts": 1786650966.0,
-    "summary": "President Donald Trump in a Truth Social post celebrated the continued closure of the deminimis exemption as a \"BIG WIN.\"",
-    "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "The Golden Age of Mexican Food Is Here. And It\u2019s Complicated.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-13T15:18:47+00:00",
-    "published_ts": 1786634327.0,
-    "summary": "Even at a time of anti-immigration politics, there has never been a richer variety of Mexican restaurants in the United States.",
-    "link": "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html",
-    "category": "Commodities",
     "priority": 1
   }
 ]
