@@ -1,5 +1,16 @@
 [
   {
+    "title": "Why Bessent\u2019s Treasury operations have breathed life back into the gold trade",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-20T10:19:00+00:00",
+    "published_ts": 1787221140.0,
+    "summary": "Gold is the reciprocal of the dollar and consensus among strategists is that Bessent\u2019s yield curve control will have a detrimental impact on the U.S. currency",
+    "link": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 5
+  },
+  {
     "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -11,11 +22,22 @@
     "priority": 5
   },
   {
+    "title": "Treasury\u2019s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here\u2019s its advice for investors.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-20T11:37:00+00:00",
+    "published_ts": 1787225820.0,
+    "summary": "Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury\u2019s move that they see as not even needed.",
+    "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 4
+  },
+  {
     "title": "Why Treasury Yields Are Rising, and What That Means for the Economy",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-08-19T21:16:20+00:00",
-    "published_ts": 1787174180.0,
+    "published": "2026-08-19T22:32:51+00:00",
+    "published_ts": 1787178771.0,
     "summary": "Interest rates on U.S. government bonds can affect everything from auto and student loans to mortgages.",
     "link": "https://www.nytimes.com/2026/08/19/business/treasury-bonds-yields-economy.html",
     "category": "Fixed Income",
@@ -44,25 +66,14 @@
     "priority": 4
   },
   {
-    "title": "Treasury Secretary Bessent doubles US long-bond buybacks in the face of surging yields",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-19T21:56:39.994542+00:00",
-    "published_ts": 1787176599.994542,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-treasury-to-double-sizes-of-some-debt-buyback-operations-to-at-least-4-billion-4867698",
+    "title": "Bond yields edge higher as traders digest Treasury debt buyback plan",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-20T08:57:47+00:00",
+    "published_ts": 1787216267.0,
+    "summary": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
+    "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
     "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "A Former Fed President Says Without the War in Iran and the Oil Spike, Nobody Would Even Be 'Talking About the Prospect of a Rate Increase'",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-19T21:56:39.848782+00:00",
-    "published_ts": 1787176599.848782,
-    "summary": "",
-    "link": "https://finance.yahoo.com/economy/policy/articles/former-fed-president-says-without-134636837.html",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -77,69 +88,14 @@
     "priority": 3
   },
   {
-    "title": "Markets Rally After U.S. Treasury Eases Bond Investor Stress",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-19T20:50:56+00:00",
-    "published_ts": 1787172656.0,
-    "summary": "Government bond yields fell and stocks rose on a move by the Treasury Department to double the amount of debt that it can buy back from investors.",
-    "link": "https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Bond Yields Dive After Treasury Increases Buybacks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-19T20:17:00+00:00",
-    "published_ts": 1787170620.0,
-    "summary": "Plus, Moderna and Merck surge on mRNA cancer vaccine results.",
-    "link": "https://www.wsj.com/finance/investing/bond-yields-dive-after-treasury-increases-buybacks-e48483f7?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "More Federal Reserve officials favored raising interest rates last month than the three who formally dissented, and others signaled they would back an increase if inflation doesn\u2019t improve, according \u2026",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-19T19:04:00+00:00",
-    "published_ts": 1787166240.0,
-    "summary": "Many officials thought higher rates would likely be needed if inflation doesn\u2019t come down.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-minutes-show-rising-concern-over-inflation-bea12df8?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-08-19T18:54:50+00:00",
     "published_ts": 1787165690.0,
     "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
     "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Global Government Bond Yields Stabilize Ahead of Fed Minutes",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-19T09:13:00+00:00",
-    "published_ts": 1787130780.0,
-    "summary": "Bonds took a breather from this week\u2019s selloff, but the factors driving yields to multiyear highs haven\u2019t gone away.",
-    "link": "https://www.wsj.com/economy/central-banking/global-government-bond-yields-stabilize-ahead-of-fed-minutes-c674e938?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Stock Market Today: Bond Yields Dive After Bessent Steps Up Buybacks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-19T08:10:01+00:00",
-    "published_ts": 1787127001.0,
-    "summary": "Stocks edge higher after Treasury move",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -220,6 +176,83 @@
     "priority": 3
   },
   {
+    "title": "30-Year Treasury Yield Touches a 19-Year High as US Debt Approaches $40 Trillion",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-20T11:49:25.059671+00:00",
+    "published_ts": 1787226565.059671,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/policy/articles/30-treasury-yield-touches-19-234522949.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-20T11:13:22+00:00",
+    "published_ts": 1787224402.0,
+    "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+    "link": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Oil Prices Jump After Trump\u2019s Latest Iran Threat",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-20T10:51:57+00:00",
+    "published_ts": 1787223117.0,
+    "summary": "Bond markets remained volatile, as investors assessed the geopolitical turmoil.",
+    "link": "https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "The Treasury Market\u2019s Coveted Status as a Safe Haven Is Fading",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-20T09:30:00+00:00",
+    "published_ts": 1787218200.0,
+    "summary": "Two new studies find signs investors aren\u2019t as willing to accept low yields because of Treasurys\u2019 safety.",
+    "link": "https://www.wsj.com/finance/investing/the-treasury-markets-coveted-status-as-a-safe-haven-is-fading-c68fed93?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Sweden\u2019s Central Bank Holds Key Rate and Still Sees Chance of a Hike Later This Year",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-20T08:22:00+00:00",
+    "published_ts": 1787214120.0,
+    "summary": "Riksbank policymakers have held rates steady for seven consecutive meetings, adopting a wait-and-see stance to monitor inflation and economic developments.",
+    "link": "https://www.wsj.com/economy/central-banking/swedens-central-bank-holds-key-rate-and-still-sees-chance-of-a-hike-later-this-year-07cf4a17?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Stock Market Today: Treasury Yields Tick Back Up After Intervention",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-20T08:12:24+00:00",
+    "published_ts": 1787213544.0,
+    "summary": "Brent crude rises to about $94 a barrel",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "China is defying the global bond yield surge, boosting its diversification appeal",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-08-20T02:39:14+00:00",
+    "published_ts": 1787193554.0,
+    "summary": "Chinese government bond yields have remained low amid a global surge.",
+    "link": "https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -231,69 +264,14 @@
     "priority": 2
   },
   {
-    "title": "Treasury, IRS move to restrict refundable tax credits to certain immigrants",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-19T21:19:21+00:00",
-    "published_ts": 1787174361.0,
-    "summary": "The move would likely impact hundreds of thousands of immigrants who have Social Security numbers and have received authorization to work in the U.S., experts said.",
-    "link": "https://www.cnbc.com/2026/08/19/treasury-irs-refundable-tax-credits-immigrants.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Why the Treasury market\u2019s newfound calm could break down in September",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-19T21:10:00+00:00",
-    "published_ts": 1787173800.0,
-    "summary": "A brutal summer stretch for the U.S. Treasury market risks getting worse come September, right as many of the world\u2019s largest companies plan to unleash a new wave of bond issuance.",
-    "link": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-19T20:03:44+00:00",
-    "published_ts": 1787169824.0,
-    "summary": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
-    "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-19T19:49:28+00:00",
-    "published_ts": 1787168968.0,
-    "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-    "link": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-08-19T19:46:15+00:00",
-    "published_ts": 1787168775.0,
+    "published": "2026-08-19T19:46:16+00:00",
+    "published_ts": 1787168776.0,
     "summary": "Minutes from the Federal Reserve\u2019s July gathering showed broadening support for higher borrowing costs to stamp out lingering price pressures.",
     "link": "https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "The Rising Stakes of the Global Bond Rout",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-19T11:51:40+00:00",
-    "published_ts": 1787140300.0,
-    "summary": "There were already several factors rattling investors. A further rise in bond yields is making things more expensive for everyone.",
-    "link": "https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -396,47 +374,69 @@
     "priority": 2
   },
   {
-    "title": "Canada closes higher helped by rally in mining stocks as tariffs deal linger",
+    "title": "TSX futures edge lower amid waning bond market rally, U.S.-Canada trade talks",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-19T21:56:39.994462+00:00",
-    "published_ts": 1787176599.994462,
+    "published": "2026-08-20T11:49:25.289769+00:00",
+    "published_ts": 1787226565.289769,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-higher-after-trump-pauses-planned-us-tariffs-4867312",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Global bond sell-off pressures stocks: AlphaCheck",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-19T21:56:39.848984+00:00",
-    "published_ts": 1787176599.848984,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-amid-waning-bond-market-rally-uscanada-trade-talks-4869327",
     "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "The U.S. is likely to lower tariffs on Canadian steel, aluminum and automobiles as part of a trade framework being devised by the nations",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-19T21:23:00+00:00",
-    "published_ts": 1787174580.0,
-    "summary": "The U.S. is considering a plan to lower tariffs on Canadian steel and aluminum from 50% to 25%, while top-line automobile levies could fall from 25% to 15%.",
-    "link": "https://www.wsj.com/economy/trade/u-s-eyes-lower-tariffs-on-metals-and-autos-in-canada-trade-deal-e14dc655?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
+    "title": "IRIDEX Corporation Q2 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-20T11:49:25.060044+00:00",
+    "published_ts": 1787226565.060044,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/iridex-corporation-q2-2026-earnings-002132758.html",
+    "category": "Equities",
     "priority": 1
   },
   {
-    "title": "U.S. Debt Hits $40 Trillion as America\u2019s Borrowing Binge Continues",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-19T20:32:13+00:00",
-    "published_ts": 1787171533.0,
-    "summary": "President Trump\u2019s promises to restore fiscal order and reduce the amount of America\u2019s debt burden have been hampered by spending on the Iran war, tax cuts and tariff refunds.",
-    "link": "https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html",
-    "category": "Geopolitics",
+    "title": "Owlet (OWLT) Q2 2026 Earnings Call Transcript",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-20T11:49:25.059779+00:00",
+    "published_ts": 1787226565.059779,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/owlet-owlt-q2-2026-earnings-234302744.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Walmart shares slide as U.S. sales hit by falling drug prices",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-20T11:37:00+00:00",
+    "published_ts": 1787225820.0,
+    "summary": "The supermarket chain reported comparable U.S. sales growth of 2.6% in its second-quarter earnings, its lowest in over five years.",
+    "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Oil prices jump after Trump declares economic war on Iran",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-20T11:06:00+00:00",
+    "published_ts": 1787223960.0,
+    "summary": "President Donald Trump said in a post on Truth Social that any country supporting Iran\u2019s economy would face \u201ctremendous economic consequences.\u201d",
+    "link": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-20T11:00:01+00:00",
+    "published_ts": 1787223601.0,
+    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+    "link": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+    "category": "Economy",
     "priority": 1
   }
 ]
