@@ -1,16 +1,5 @@
 [
   {
-    "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-21T21:27:35.279565+00:00",
-    "published_ts": 1787347655.279565,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
     "title": "Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -63,6 +52,17 @@
     "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
     "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
     "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-21T20:05:14+00:00",
+    "published_ts": 1787342714.0,
+    "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
+    "link": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -132,6 +132,61 @@
     "priority": 3
   },
   {
+    "title": "Best high-yield savings interest rates today, Friday, August 21, 2026: Earn up to 4.15% APY",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171588+00:00",
+    "published_ts": 1787398946.171588,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-friday-august-21-2026-earn-up-to-415-apy-100000771.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171571+00:00",
+    "published_ts": 1787398946.171571,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "A massive \u2018corporate welfare\u2019 program is underway \u2014 and consumers want a bigger cut of it",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-22T11:00:00+00:00",
+    "published_ts": 1787396400.0,
+    "summary": "Tariff refunds have been flowing back to companies since President Donald Trump\u2019s levies were rejected by the Supreme Court.",
+    "link": "https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-22T10:34:23+00:00",
+    "published_ts": 1787394863.0,
+    "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.",
+    "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "The Wild Week When Scott Bessent Was Schooled by the Bond Market",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-21T23:34:00+00:00",
+    "published_ts": 1787355240.0,
+    "summary": "The Treasury Department\u2019s announcement of a bond buyback stemmed a selloff\u2014but not for long.",
+    "link": "https://www.wsj.com/finance/investing/the-wild-week-when-scott-bessent-was-schooled-by-the-bond-market-a244aca2?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -176,7 +231,7 @@
     "priority": 2
   },
   {
-    "title": "Stock Market Today: Bitcoin Jumps; S&P Ends Friday With Weekly Loss",
+    "title": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-08-21T08:31:00+00:00",
@@ -319,124 +374,69 @@
     "priority": 2
   },
   {
-    "title": "Live cattle futures slip on tariff news and weak cash market",
+    "title": "Is the Fed\u2019s stock valuation model working again?",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-21T21:27:35.444890+00:00",
-    "published_ts": 1787347655.44489,
+    "published": "2026-08-22T11:42:26.341555+00:00",
+    "published_ts": 1787398946.341555,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/live-cattle-futures-slip-on-tariff-news-and-weak-cash-market-93CH-4872165",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Figure Technologies (FIGR) Q2 2026 Earnings Call Transcript",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-21T21:27:35.279511+00:00",
-    "published_ts": 1787347655.279511,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/figure-technologies-figr-q2-2026-135324147.html",
+    "link": "https://www.investing.com/news/stock-market-news/is-the-feds-stock-valuation-model-working-again-4872237",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Why Capital One (COF) Could See Both Earnings Growth and Multiple Expansion?",
+    "title": "Nigeria Eyes $50 Billion Offshore Oil and Gas Investment Boom",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-21T21:27:35.279487+00:00",
-    "published_ts": 1787347655.279487,
+    "published": "2026-08-22T11:42:26.171783+00:00",
+    "published_ts": 1787398946.171783,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/why-capital-one-cof-could-131434106.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Wall Street has an answer to 60/40 \u2014 this ETF crams 90/60 into the same dollar: One Big Investment Idea",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-21T21:27:35.279349+00:00",
-    "published_ts": 1787347655.279349,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-21T20:56:19+00:00",
-    "published_ts": 1787345779.0,
-    "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
-    "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-21T20:49:35+00:00",
-    "published_ts": 1787345375.0,
-    "summary": "The move prompted blowback from cattle ranchers and Republicans who represent them.",
-    "link": "https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-21T20:19:21+00:00",
-    "published_ts": 1787343561.0,
-    "summary": "Billionaire investor Ray Dalio said the the debt buyback announcement this week fits into a larger pattern that could signal a forthcoming debt crisis.",
-    "link": "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+    "link": "https://finance.yahoo.com/energy/articles/nigeria-eyes-50-billion-offshore-103000016.html",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Fannie Mae Hit by Turmoil in Senior Ranks as Roughly 12 Executives Are Let Go",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-21T20:11:00+00:00",
-    "published_ts": 1787343060.0,
-    "summary": "The departures are raising concerns about stability inside the government mortgage giant.",
-    "link": "https://www.wsj.com/finance/regulation/fannie-mae-hit-by-turmoil-in-senior-ranks-as-at-least-10-executives-depart-9f0f40e0?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump, Vance and Bessent try to calm the bond market with \u2018alternative facts\u2019",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-21T18:29:00+00:00",
-    "published_ts": 1787336940.0,
-    "summary": "Maybe this stuff works on TV or on the stump. But it doesn\u2019t work on Wall Street, where people can count.",
-    "link": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
+    "title": "Nebius (NBIS) Raises $5B Convertible Bond As AI Compute Demand Surges",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171770+00:00",
+    "published_ts": 1787398946.17177,
+    "summary": "",
+    "link": "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-raises-5b-convertible-093337551.html",
     "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "Trump tariff deadline looms as Canada says it's working to resolve 'trade issues' with U.S.",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-21T18:23:43+00:00",
-    "published_ts": 1787336623.0,
-    "summary": "Businesses have warned that Trump's new 50% duties could cripple their U.S. sales if they take effect.",
-    "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
+    "title": "Bank of America strategist warns market just flashed a 2000 dot-com bubble signal. Here\u2019s how to protect your portfolio",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171727+00:00",
+    "published_ts": 1787398946.171727,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-strategist-warns-market-101500180.html",
     "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-21T18:11:41+00:00",
-    "published_ts": 1787335901.0,
-    "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
-    "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
-    "category": "Commodities",
+    "title": "Strategy shares surge as Bitcoin breaks above $70,000",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171709+00:00",
+    "published_ts": 1787398946.171709,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-shares-surge-bitcoin-breaks-100804571.html",
+    "category": "Crypto",
+    "priority": 1
+  },
+  {
+    "title": "Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-22T11:42:26.171690+00:00",
+    "published_ts": 1787398946.17169,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html",
+    "category": "Markets",
     "priority": 1
   }
 ]
