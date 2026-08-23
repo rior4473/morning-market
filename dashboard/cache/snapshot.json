@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:42:26.344595+00:00",
+  "generated_at": "2026-08-23T11:42:33.265566+00:00",
   "sections": {
     "yields": {
       "rows": [
@@ -104,7 +104,7 @@
         }
       ],
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "key_rates": {
       "rows": [
@@ -118,7 +118,7 @@
           "pct_change": 0.0,
           "ytd_change": 0.0,
           "ytd_avg": 3.75,
-          "as_of": "2026-08-21",
+          "as_of": "2026-08-22",
           "stale": false
         },
         {
@@ -131,7 +131,7 @@
           "pct_change": 0.0,
           "ytd_change": 0.0,
           "ytd_avg": 3.5,
-          "as_of": "2026-08-21",
+          "as_of": "2026-08-22",
           "stale": false
         },
         {
@@ -240,7 +240,7 @@
         }
       ],
       "source": "FRED",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "credit": {
       "rows": [
@@ -285,7 +285,7 @@
         }
       ],
       "source": "ICE BofA / Moody's via FRED",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "spreads": {
       "rows": [
@@ -340,7 +340,7 @@
         }
       ],
       "source": "U.S. Treasury (+ EFFR via FRED)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "curve": {
       "points": [
@@ -426,17 +426,17 @@
           "30Y": 5.27
         },
         "1m": {
-          "1M": 3.76,
-          "3M": 3.89,
-          "6M": 4.05,
-          "1Y": 4.11,
-          "2Y": 4.31,
-          "3Y": 4.34,
-          "5Y": 4.41,
-          "7Y": 4.53,
-          "10Y": 4.67,
-          "20Y": 5.17,
-          "30Y": 5.15
+          "1M": 3.82,
+          "3M": 3.95,
+          "6M": 4.09,
+          "1Y": 4.15,
+          "2Y": 4.37,
+          "3Y": 4.4,
+          "5Y": 4.46,
+          "7Y": 4.58,
+          "10Y": 4.71,
+          "20Y": 5.2,
+          "30Y": 5.17
         },
         "1y": {
           "1M": 4.47,
@@ -456,7 +456,7 @@
       "spread_10y_2y": 0.5,
       "as_of": "2026-08-21",
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "macro": {
       "rows": [
@@ -506,7 +506,7 @@
         }
       ],
       "source": "FRED (BLS/BEA)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "jpm_focus": {
       "rows": [
@@ -556,7 +556,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "volatility_futures": {
       "rows": [
@@ -617,7 +617,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "fixed_income": {
       "rows": [
@@ -711,18 +711,18 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "commodities": {
       "rows": [
         {
           "asset": "Gold",
           "ticker": "GC=F",
-          "latest": 4624.10009765625,
+          "latest": 4680.60009765625,
           "previous": 4516.2998046875,
-          "change": 107.80029296875,
-          "pct_change": 2.3869162285653247,
-          "ytd_pct": 7.178291357374146,
+          "change": 164.30029296875,
+          "pct_change": 3.6379403510418316,
+          "ytd_pct": 8.487859345480835,
           "as_of": "2026-08-21",
           "stale": false
         },
@@ -751,28 +751,28 @@
         {
           "asset": "Copper",
           "ticker": "HG=F",
-          "latest": 6.579500198364258,
+          "latest": 6.586999893188477,
           "previous": 6.460000038146973,
-          "change": 0.11950016021728516,
-          "pct_change": 1.84984767045858,
-          "ytd_pct": 16.657807697149554,
+          "change": 0.1269998550415039,
+          "pct_change": 1.9659420168971602,
+          "ytd_pct": 16.790781012783548,
           "as_of": "2026-08-21",
           "stale": false
         },
         {
           "asset": "Silver",
           "ticker": "SI=F",
-          "latest": 69.46600341796875,
+          "latest": 69.52999877929688,
           "previous": 68.0260009765625,
-          "change": 1.44000244140625,
-          "pct_change": 2.11684123825298,
-          "ytd_pct": -1.5448669732726812,
+          "change": 1.503997802734375,
+          "pct_change": 2.2109160925872424,
+          "ytd_pct": -1.4541654573852099,
           "as_of": "2026-08-21",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "fx_crypto": {
       "rows": [
@@ -812,11 +812,11 @@
         {
           "asset": "GBP/USD",
           "ticker": "GBPUSD=X",
-          "latest": 1.3647964000701904,
+          "latest": 1.364349603652954,
           "previous": 1.3599891662597656,
-          "change": 0.004807233810424805,
-          "pct_change": 0.35347589007974467,
-          "ytd_pct": 1.2938279976291984,
+          "change": 0.0043604373931884766,
+          "pct_change": 0.3206229506357412,
+          "ytd_pct": 1.2606672130351257,
           "as_of": "2026-08-21",
           "stale": false
         },
@@ -834,28 +834,28 @@
         {
           "asset": "Bitcoin",
           "ticker": "BTC-USD",
-          "latest": 77132.203125,
-          "previous": 78335.1875,
-          "change": -1202.984375,
-          "pct_change": -1.5356883839717623,
-          "ytd_pct": -13.072829748714836,
-          "as_of": "2026-08-22",
+          "latest": 77290.1484375,
+          "previous": 77083.4140625,
+          "change": 206.734375,
+          "pct_change": 0.26819566506535075,
+          "ytd_pct": -12.894827066128038,
+          "as_of": "2026-08-23",
           "stale": false
         },
         {
           "asset": "Ethereum",
           "ticker": "ETH-USD",
-          "latest": 2423.179931640625,
-          "previous": 2515.28173828125,
-          "change": -92.101806640625,
-          "pct_change": -3.661689473544236,
-          "ytd_pct": -19.237950090381187,
-          "as_of": "2026-08-22",
+          "latest": 2435.10009765625,
+          "previous": 2424.251220703125,
+          "change": 10.848876953125,
+          "pct_change": 0.44751455049194167,
+          "ytd_pct": -18.84066343819558,
+          "as_of": "2026-08-23",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "global_indexes": {
       "rows": [
@@ -960,7 +960,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "equity_index": {
       "rows": [
@@ -1010,15 +1010,15 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-08-22T11:42:25.546596+00:00"
+      "fetched_at": "2026-08-23T11:42:32.466686+00:00"
     },
     "market_wrap": {
-      "text": "In the 2026-08-21 session, the S&P 500 rose 0.43%, the Nasdaq rose 0.43% and the 10-year Treasury yield rose 5 bps to 4.74%. Concerns over the Treasury Department's debt repurchase program continue to weigh on markets (CNBC). Inflation was driven by a surge in household energy costs and reached the highest annual rate since March, when prices spiked following the outbreak of the war in Iran (WSJ).",
+      "text": "In the 2026-08-21 session, the S&P 500 rose 0.43%, the Nasdaq rose 0.43% and the 10-year Treasury yield rose 5 bps to 4.74%. Cryptocurrencies and precious metals shot higher, while the U.S (MarketWatch). Inflation was driven by a surge in household energy costs and reached the highest annual rate since March, when prices spiked following the outbreak of the war in Iran (WSJ).",
       "sources": [
         {
-          "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
-          "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
-          "source": "CNBC"
+          "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+          "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
           "title": "U.K. Inflation Surges as Iran War Threatens Further Price Pressures",
@@ -1028,8 +1028,8 @@
       ],
       "mode": "extractive",
       "as_of": "2026-08-21",
-      "generated_at": "2026-08-22T11:42:26.344351+00:00",
-      "fetched_at": "2026-08-22T11:42:26.344595+00:00"
+      "generated_at": "2026-08-23T11:42:33.265256+00:00",
+      "fetched_at": "2026-08-23T11:42:33.265566+00:00"
     }
   }
 }
