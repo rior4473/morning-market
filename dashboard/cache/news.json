@@ -1,16 +1,5 @@
 [
   {
-    "title": "Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-21T15:36:00+00:00",
-    "published_ts": 1787326560.0,
-    "summary": "Federal Reserve Chairman Kevin Warsh\u2019s speech at the Jackson Hole symposium will be the key event for investors as they continue to seek clarity on whether and when U.S. interest rates might rise.",
-    "link": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-warsh-speech-at-jackson-hole-u-s-pce-data-in-focus-1b33f004?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 4
-  },
-  {
     "title": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -33,13 +22,13 @@
     "priority": 4
   },
   {
-    "title": "Trump made a multimillion-dollar bond bet \u2014 and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-24T21:33:12.286206+00:00",
-    "published_ts": 1787607192.286206,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/options/articles/trump-made-multimillion-dollar-bond-130000920.html",
+    "title": "The debt-fueled AI build-out may already be too big to fail",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-25T11:12:00+00:00",
+    "published_ts": 1787656320.0,
+    "summary": "The Federal Reserve\u2019s pandemic corporate credit facilities have capped downside risks and remain part of its tool kit, says BofA Global",
+    "link": "https://www.marketwatch.com/story/the-debt-fueled-ai-build-out-may-already-be-too-big-to-fail-02ed6dad?mod=mw_rss_topstories",
     "category": "Fed",
     "priority": 3
   },
@@ -132,14 +121,102 @@
     "priority": 3
   },
   {
-    "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s closing in on $80,000.",
+    "title": "TSX futures edge higher amid U.S. tariffs, bank earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-08-25T11:52:24.479581+00:00",
+    "published_ts": 1787658744.479581,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-us-tariffs-bank-earnings-4875098",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Best high-yield savings interest rates today, Tuesday, August 25, 2026: Earn up to 4.15% APY",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109641+00:00",
+    "published_ts": 1787658744.109641,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-tuesday-august-25-2026-earn-up-to-415-apy-100000361.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Stock market today: S&P 500, Nasdaq futures recover in countdown to Nvidia earnings, Fed Jackson Hole summit",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109412+00:00",
+    "published_ts": 1787658744.109412,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Stick with value stocks until everyone starts talking about them \u2014 and they are still under the radar, this Wall Street firm says",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-24T20:53:00+00:00",
-    "published_ts": 1787604780.0,
-    "summary": "Bitcoin was rising Monday near the $80,000 level that it last touched in May, after the cryptocurrency surged last week on the Treasury Department\u2019s plans to buy back longer-dated Treasurys.",
+    "published": "2026-08-25T11:43:00+00:00",
+    "published_ts": 1787658180.0,
+    "summary": "BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.",
+    "link": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-25T11:24:50+00:00",
+    "published_ts": 1787657090.0,
+    "summary": "Concern over the size and the cost of U.S. government spending has given new life to the debasement trade.",
+    "link": "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "He once mentored Scott Bessent. Now Stanley Druckenmiller is criticizing the treasury secretary.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-25T09:17:00+00:00",
+    "published_ts": 1787649420.0,
+    "summary": "Treasury Secretary Scott Bessent\u2019s recent maneuvers in the bond market have come in for some searing criticism from illustrious investor Stanley Druckenmiller \u2014 his long-time ally and mentor.",
+    "link": "https://www.marketwatch.com/story/he-once-mentored-scott-bessent-now-stanley-druckenmiller-is-criticizing-the-treasury-secretary-c229d410?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Bitcoin has beaten stocks and gold over six months. Now it\u2019s crossed the $80,000 mark.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-08-25T08:00:00+00:00",
+    "published_ts": 1787644800.0,
+    "summary": "Bitcoin was hovering around the $80,000 level Tuesday after the cryptocurrency surged last week on the Treasury Department\u2019s plans to double its buy back of longer-dated Treasurys.",
     "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
     "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Reserve Bank of Australia Remains Jittery About Inflation Risks",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-08-25T02:56:00+00:00",
+    "published_ts": 1787626560.0,
+    "summary": "The central bank doesn\u2019t rule out further interest-rate increases, especially if the unresolved war in the Middle East drives fuel prices sharply higher once again.",
+    "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-australia-remains-jittery-about-inflation-risks-3d673939?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-08-25T00:33:34+00:00",
+    "published_ts": 1787618014.0,
+    "summary": "The 50 percent tariffs President Trump imposed on Canadian exports to the United States will make it impossible for many Canadian companies to continue to sell to the U.S. market, economists say.",
+    "link": "https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html",
+    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -154,20 +231,9 @@
     "priority": 2
   },
   {
-    "title": "Trump\u2019s trade war with Canada could lead the U.S. back to quantitative easing",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-24T19:03:00+00:00",
-    "published_ts": 1787598180.0,
-    "summary": "That\u2019s good for gold, stocks and long bonds. Eventually.",
-    "link": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "Prediction market traders doubtful Bessent\u2019s bond interventions will push yields lower",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-08-24T18:40:41+00:00",
     "published_ts": 1787596841.0,
     "summary": "Speculators still see yields hitting new highs in 2026 and ending the year at levels elevated from where they're currently trading.",
@@ -176,22 +242,11 @@
     "priority": 2
   },
   {
-    "title": "From Nvidia earnings to trade war tape bombs, a simple strategy could be this week's best bet",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-24T16:07:35+00:00",
-    "published_ts": 1787587655.0,
-    "summary": "Mike Khouw gives a low-risk options strategy to play the next few weeks.",
-    "link": "https://www.cnbc.com/2026/08/24/from-nvidia-earnings-to-trade-war-tape-bombs-a-simple-strategy-could-be-this-weeks-best-bet.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Los Angeles Dodgers Owner\u2019s Troubles Roil Insurance World",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-08-24T15:54:24+00:00",
-    "published_ts": 1787586864.0,
+    "published": "2026-08-24T15:54:25+00:00",
+    "published_ts": 1787586865.0,
     "summary": "Federal investigations of Mark Walter\u2019s business empire have put a spotlight on private-equity-owned insurers that invest premiums in risky assets.",
     "link": "https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html",
     "category": "Commodities",
@@ -206,17 +261,6 @@
     "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
     "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Santoli: Why all the fuss about bond yields is happening now",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-24T12:31:13+00:00",
-    "published_ts": 1787574673.0,
-    "summary": "The textbooks say the cycle high in real yields should act as a restraint on economic growth and equity valuations.",
-    "link": "https://www.cnbc.com/2026/08/24/why-all-the-fuss-about-bond-yields-is-happening-now.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -319,124 +363,80 @@
     "priority": 2
   },
   {
-    "title": "Walmart stock price target reset by JPMorgan after earnings",
+    "title": "Jackson Hole preview: Assets most exposed to Warsh\u2019s rate signal",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-08-25T11:52:24.479424+00:00",
+    "published_ts": 1787658744.479424,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/jackson-hole-preview-assets-most-exposed-to-warshs-rate-signal-93CH-4875113",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-24T21:33:12.286065+00:00",
-    "published_ts": 1787607192.286065,
+    "published": "2026-08-25T11:52:24.109757+00:00",
+    "published_ts": 1787658744.109757,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-price-target-reset-024700402.html",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-24-2026-lock-in-up-to-435-apy-100000203.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109735+00:00",
+    "published_ts": 1787658744.109735,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Best CD rates today, Tuesday, August 25, 2026: Lock in up to 4.30% APY today with multiple offers",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109711+00:00",
+    "published_ts": 1787658744.109711,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-august-25-2026-lock-in-up-to-430-apy-today-with-multiple-offers-100000257.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "HELOC and home equity loan rates today, Tuesday, August 25, 2026: Besides rates, how to choose between a HELOC or home equity loan",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109685+00:00",
+    "published_ts": 1787658744.109685,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-tuesday-august-25-2026-besides-rates-how-to-choose-between-a-heloc-or-home-equity-loan-100000242.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Trump\u2019s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-24T21:25:32+00:00",
-    "published_ts": 1787606732.0,
-    "summary": "Trump\u2019s stock trading could face heightened congressional scrutiny if Democrats retake either chamber in the midterms.",
-    "link": "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-    "category": "Commodities",
+    "title": "Mortgage and refinance rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-25T11:52:24.109616+00:00",
+    "published_ts": 1787658744.109616,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "S.E.C. Investigating Near-Implosion of A.I. Hedge Fund",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-24T21:13:09+00:00",
-    "published_ts": 1787605989.0,
-    "summary": "Regulators sent subpoenas to major Wall Street banks seeking information about the trading of Situational Awareness, three people briefed on the outreach said.",
-    "link": "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Canada Tariffs, Again",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-24T20:33:00+00:00",
-    "published_ts": 1787603580.0,
-    "summary": "Plus, a new Iran sanctions campaign.",
-    "link": "https://www.wsj.com/finance/investing/canada-tariffs-again-6bc52ff1?mod=rss_markets_main",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Ford\u2019s $3 billion Canadian bet is getting caught in trade-war crosshairs",
+    "title": "Why hire a warehouse worker for $30 per hour when a robot costs $10? JPMorgan expects booming humanoid demand.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-24T20:22:00+00:00",
-    "published_ts": 1787602920.0,
-    "summary": "While certain U.S. sectors are facing headwinds from the new tariffs on Canadian goods, analysts have said the broad economic effects of the new 50% U.S. levies could be modest for the U.S. overall.",
-    "link": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+    "published": "2026-08-25T11:49:00+00:00",
+    "published_ts": 1787658540.0,
+    "summary": "The U.S. manufacturing industry will turn to robots to fill open jobs, according to JPMorgan research.",
+    "link": "https://www.marketwatch.com/story/why-hire-a-warehouse-worker-for-30-per-hour-when-a-robot-costs-10-jpmorgan-expects-booming-humanoid-demand-9cc6ddf4?mod=mw_rss_topstories",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Bessent\u2019s sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-08-24T19:40:00+00:00",
-    "published_ts": 1787600400.0,
-    "summary": "What matters more for oil prices is how hard U.S. sanctions hit China, Iran\u2019s biggest oil buyer, and whether Beijing pushes back.",
-    "link": "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "A massive trade just happened in gold. The options market is buzzing",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-24T18:41:44+00:00",
-    "published_ts": 1787596904.0,
-    "summary": "Twenty minutes after the market opened Monday, someone sold almost 116,000 420-strike calls in the SPDR Gold Shares ETF (GLD) expiring Sept. 18.",
-    "link": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-08-24T18:37:48+00:00",
-    "published_ts": 1787596668.0,
-    "summary": "President Trump vowed to increase tariffs on cars, trucks, auto parts and steel to 50 percent starting Jan. 1, as the countries edged toward a full-blown trade war.",
-    "link": "https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "President Trump said Monday the U.S. will impose 50% tariffs on automobiles and parts from Canada starting in January",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-24T18:27:00+00:00",
-    "published_ts": 1787596020.0,
-    "summary": "The move, which would take effect in January, is the latest in the rapidly escalating trade war between the two neighbors.",
-    "link": "https://www.wsj.com/economy/trade/trump-threatens-50-tariff-on-automobiles-and-parts-from-canada-83c10448?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "New tariffs have kicked in on U.S. imports from Canada after trade talks collapsed. Canada intends to set retaliatory tariffs starting in September. Here\u2019s what to know about the new levies.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-24T17:48:00+00:00",
-    "published_ts": 1787593680.0,
-    "summary": "The U.S. is levying a 50% charge on Canadian imports including wine, hockey sticks, cement, and paper and textile products. Ottawa has pledged retaliation.",
-    "link": "https://www.wsj.com/economy/trade/whats-getting-hit-with-the-new-u-s-canada-tariffs-4cb8141c?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-08-24T15:50:50+00:00",
-    "published_ts": 1787586650.0,
-    "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
-    "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-    "category": "Commodities",
     "priority": 1
   }
 ]
