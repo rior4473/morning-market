@@ -1,5 +1,16 @@
 [
   {
+    "title": "Markets Brace for Possible Rate Hike After Kevin Warsh\u2019s Hawkish Turn",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-08-28T21:30:00+00:00",
+    "published_ts": 1787952600.0,
+    "summary": "Bond yields rise, stocks edge lower after the Fed chairman emphasizes inflation concern.",
+    "link": "https://www.wsj.com/finance/investing/markets-brace-for-possible-rate-hike-after-kevin-warshs-hawkish-turn-f2611e6f?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
     "title": "Week Ahead for FX, Bonds: U.S. Jobs Data in Focus; Bank of Canada Decision Due",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -22,26 +33,15 @@
     "priority": 4
   },
   {
-    "title": "Stock Market Today: Warsh Comments Boost Rate-Hike Bets",
+    "title": "Stock Market News, Aug. 28, 2026: Warsh Comments Boost Rate-Hike Bets",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-08-28T08:33:46+00:00",
     "published_ts": 1787906026.0,
-    "summary": "Yields rise after Fed chair speech focuses on inflation",
+    "summary": "Yields rise after Fed chairman's speech focuses on inflation",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-jackson-hole-08-28-2026?mod=rss_markets_main",
     "category": "Fed",
     "priority": 4
-  },
-  {
-    "title": "JPMorgan strategist sees AI productivity boom behind bond yield rise",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-28T21:29:04.448929+00:00",
-    "published_ts": 1787952544.448929,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-strategist-sees-ai-productivity-boom-behind-bond-yield-rise-93CH-4881785",
-    "category": "Fixed Income",
-    "priority": 3
   },
   {
     "title": "Kevin Warsh gets what every Fed chair hopes for: a bond market that trusts his word",
@@ -73,6 +73,17 @@
     "published_ts": 1787942999.0,
     "summary": "Kevin Warsh reiterated the Federal Reserve\u2019s commitment to tackle rising prices, nudging up investor expectations of a rate increase.",
     "link": "https://www.nytimes.com/2026/08/28/business/markets-stocks-bonds-warsh-jackson-hole.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-08-28T17:44:02+00:00",
+    "published_ts": 1787939042.0,
+    "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+    "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
     "category": "Fed",
     "priority": 3
   },
@@ -176,22 +187,22 @@
     "priority": 3
   },
   {
-    "title": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-28T21:29:04.448901+00:00",
-    "published_ts": 1787952544.448901,
+    "title": "Dollar Tree, Inc. Q2 2027 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-29T03:07:26.969913+00:00",
+    "published_ts": 1787972846.969913,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/bond-market-may-be-pricing-ai-productivity-gains-as-yields-rise-jpmorgan-private-bank-4881791",
-    "category": "Fixed Income",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-inc-q2-2027-205711253.html",
+    "category": "Equities",
     "priority": 2
   },
   {
-    "title": "Fed Chairman Kevin Warsh spoke today and the odds of an interest-rate cut rose double digits. Plus, Hegseth summoned the military\u2019s top brass for a meeting and Russians got a little taste of direct de\u2026",
+    "title": "Fed Chairman Kevin Warsh spoke today and the odds of an interest-rate hike rose double digits. Plus, Hegseth summoned the military\u2019s top brass for a meeting and Russians got a little taste of direct d\u2026",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-28T21:19:00+00:00",
-    "published_ts": 1787951940.0,
+    "published": "2026-08-28T21:43:00+00:00",
+    "published_ts": 1787953380.0,
     "summary": "Plus, Hegseth considers another military all-hands and Russians get a small taste of direct democracy.",
     "link": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_socialeconomyfeed",
     "category": "Fed",
@@ -374,69 +385,58 @@
     "priority": 2
   },
   {
-    "title": "Pentagon in talks for Venezuelan oil fields deal through middleman - Bloomberg",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-08-28T21:29:04.448712+00:00",
-    "published_ts": 1787952544.448712,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-for-venezuelan-oil-fields-deal-through-middleman--bloomberg-4881821",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Earnings spur software and chip rally, offsetting weakness in other areas of the market: AlphaCheck",
+    "title": "Malibu Boats, Inc. Q4 2026 Earnings Call Summary",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-08-28T21:29:04.245284+00:00",
-    "published_ts": 1787952544.245284,
+    "published": "2026-08-29T03:07:26.970253+00:00",
+    "published_ts": 1787972846.970253,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/earnings-spur-software-and-chip-rally-offsetting-weakness-in-other-areas-of-the-market-alphacheck-135658418.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Elliott Bets Multibillion-Dollar Position on Closing Synopsys\u2019 (SNPS) Peer Discount",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-28T21:29:04.245201+00:00",
-    "published_ts": 1787952544.245201,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/elliott-bets-multibillion-dollar-position-135625038.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Binance\u2019s CZ Says Bitcoin Could Surpass Gold In Market Value",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-28T21:29:04.244982+00:00",
-    "published_ts": 1787952544.244982,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/binance-cz-says-bitcoin-could-134400658.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "A Year Ago, This Specialty Retail Stock Was Outperforming Nvidia. Now, It\u2019s Crashing After Earnings.",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-08-28T21:29:04.244910+00:00",
-    "published_ts": 1787952544.24491,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/ago-specialty-retail-stock-outperforming-134803658.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/malibu-boats-inc-q4-2026-210258069.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Warsh Speaks and Rate-Cut Odds Rise",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-28T21:19:00+00:00",
-    "published_ts": 1787951940.0,
-    "summary": "Plus, Hegseth considers another military all-hands and Russians get a small taste of direct democracy.",
-    "link": "https://www.wsj.com/economy/warsh-speaks-and-rate-cut-odds-rise-22689ee5?mod=rss_markets_main",
-    "category": "Geopolitics",
+    "title": "Aviat Networks, Inc. Q4 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-29T03:07:26.970230+00:00",
+    "published_ts": 1787972846.97023,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/aviat-networks-inc-q4-2026-205148570.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Burlington Stores, Inc. Q2 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-29T03:07:26.970096+00:00",
+    "published_ts": 1787972846.970096,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/burlington-stores-inc-q2-2026-205154035.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Best Buy Co., Inc. Q2 2027 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-29T03:07:26.970072+00:00",
+    "published_ts": 1787972846.970072,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-co-inc-q2-210141783.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Hormel Foods Corporation Q3 2026 Earnings Call Summary",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-08-29T03:07:26.969969+00:00",
+    "published_ts": 1787972846.969969,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-corporation-q3-2026-205723015.html",
+    "category": "Equities",
     "priority": 1
   }
 ]
