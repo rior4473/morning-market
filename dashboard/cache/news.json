@@ -11,17 +11,6 @@
     "priority": 5
   },
   {
-    "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-01T20:40:30+00:00",
-    "published_ts": 1788295230.0,
-    "summary": "Treasury yields increased on Tuesday as investors monitored a reignition of tensions in the Middle East.",
-    "link": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
     "title": "Bond Yields Around the World Soar in Challenge to Government Borrowing",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -29,17 +18,6 @@
     "published_ts": 1788295140.0,
     "summary": "The runup in interest rates has profound consequences for the global economy, heaping pressure on everyone from home buyers to credit-card holders and especially governments.",
     "link": "https://www.wsj.com/finance/investing/bond-yields-around-the-world-soar-in-challenge-to-government-borrowing-c519c53f?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
-    "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-01T20:24:09+00:00",
-    "published_ts": 1788294249.0,
-    "summary": "Government bond yields are hitting multi-decade highs, reflecting anxiety about debt levels, deficits and inflation. The effects will extend to mortgages, business loans and other types of credit.",
-    "link": "https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html",
     "category": "Fixed Income",
     "priority": 4
   },
@@ -55,25 +33,47 @@
     "priority": 4
   },
   {
-    "title": "This could be the 10-year Treasury\u2019s tipping point into the danger zone",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-01T20:36:00+00:00",
-    "published_ts": 1788294960.0,
-    "summary": "An unrelenting rout has global bond yields touching their highest levels since 2008, driving up borrowing costs for households, businesses and world governments.",
-    "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
+    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-02T13:45:54+00:00",
+    "published_ts": 1788356754.0,
+    "summary": "The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.",
+    "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Investors Still on Edge Over War, Debt and Inflation",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-02T13:40:37+00:00",
+    "published_ts": 1788356437.0,
+    "summary": "U.S. and Iranian forces traded attacks again, pushing oil prices higher, stocks lower and making bond investors nervous.",
+    "link": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
     "category": "Fixed Income",
     "priority": 3
   },
   {
-    "title": "A Fed governor says the central bank should act if inflation doesn\u2019t improve soon. The Treasury secretary says high energy prices are a shock the Fed should look past.",
+    "title": "A jittery Treasury market and the prospect of Fed rate increases risk making life more expensive for already cost-pressured Americans",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-01T18:51:00+00:00",
-    "published_ts": 1788288660.0,
-    "summary": "A Fed governor says the central bank should act if inflation doesn\u2019t improve soon. The Treasury secretary says high energy prices are a shock the Fed should look past.",
-    "link": "https://www.wsj.com/economy/central-banking/a-war-that-wont-end-is-complicating-the-feds-next-move-77f186d1?mod=rss_socialeconomyfeed",
+    "published": "2026-09-02T13:21:00+00:00",
+    "published_ts": 1788355260.0,
+    "summary": "A jittery Treasury market and the prospect of Fed rate increases risk making life more expensive for already cost-pressured Americans.",
+    "link": "https://www.wsj.com/economy/consumers/what-does-a-bond-selloff-mean-for-american-consumers-236e4be6?mod=rss_socialeconomyfeed",
     "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Stock Market Today: Treasury Selloff Pauses While Global Bonds Still Hammered",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-02T08:23:21+00:00",
+    "published_ts": 1788337401.0,
+    "summary": "U.S. 10-year yield touches highest level since 2023 overnight; stocks rise",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -85,17 +85,6 @@
     "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
     "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "The Gas-Station Chain That Is Eating Domino\u2019s Lunch",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-01T10:35:00+00:00",
-    "published_ts": 1788258900.0,
-    "summary": "Plus, oil and global bond yields keep marching higher.",
-    "link": "https://www.wsj.com/finance/stocks/the-gas-station-chain-that-is-eating-dominos-lunch-7a727d6a?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -117,17 +106,6 @@
     "published_ts": 1787851869.0,
     "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
     "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-08-27T14:11:29+00:00",
-    "published_ts": 1787839889.0,
-    "summary": "The policymaker stopped just short of calling for an interest rate hike.",
-    "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
     "category": "Fed",
     "priority": 3
   },
@@ -165,25 +143,69 @@
     "priority": 3
   },
   {
-    "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-21T17:51:10+00:00",
-    "published_ts": 1787334670.0,
-    "summary": "The so-called breakeven rate hit its highest levels in more than two months.",
-    "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
-    "category": "Fixed Income",
-    "priority": 3
+    "title": "Bank of Canada Keeps Rate Steady, Warns Trade Conflict Could Upend Recovery",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-02T14:57:00+00:00",
+    "published_ts": 1788361020.0,
+    "summary": "The central bank left its main interest rate unchanged at 2.25%, and said the escalating trade conflict between the U.S. and Canada threatens to add to inflation.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-keeps-rate-steady-warns-trade-conflict-could-upend-recovery-9a477b9d?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 2
   },
   {
-    "title": "Dell\u2019s AI servers drive a stellar earnings performance, and a raised outlook",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-01T21:52:00+00:00",
-    "published_ts": 1788299520.0,
-    "summary": "The company\u2019s backlog has reached $95 billion as demand accelerates for its AI servers",
-    "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-    "category": "Equities",
+    "title": "Bank of Canada mulls Trump tariff shock as it holds interest rates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-02T14:15:58+00:00",
+    "published_ts": 1788358558.0,
+    "summary": "The U.S.-Canada trade dispute and the descent into a retaliatory tariff blitz complicated the job for the Bank of Canada in its Wednesday decision.",
+    "link": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Global Bond Rates Are Rising. What Should You Do Now?",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-02T14:03:44+00:00",
+    "published_ts": 1788357824.0,
+    "summary": "If you own bonds, they may be in a broad fund that hasn\u2019t lost much money. And that fund may do much better in the next several years.",
+    "link": "https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Berkshire CEO Greg Abel says Japanese bond yields not a challenge for trading houses right now",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-09-02T11:09:15+00:00",
+    "published_ts": 1788347355.0,
+    "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
+    "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Reserve Bank of New Zealand Delivers Further Rate Increase",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-02T02:47:00+00:00",
+    "published_ts": 1788317220.0,
+    "summary": "RBNZ raised interest rates, warning that risks for higher inflation remain in play for the economy.",
+    "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-new-zealand-delivers-further-rate-increase-d71e3fde?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Nothing in this week\u2019s G-20 suggested an end to the deficits, inflation and geopolitical disruptions that are roiling investors",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-02T01:07:00+00:00",
+    "published_ts": 1788311220.0,
+    "summary": "Nothing in this week\u2019s G-20 suggested an end to the deficits, inflation and geopolitical disruptions that are roiling investors.",
+    "link": "https://www.wsj.com/economy/the-bond-market-issues-world-leaders-a-failing-grade-621cf4dc?mod=rss_socialeconomyfeed",
+    "category": "Commodities",
     "priority": 2
   },
   {
@@ -198,28 +220,6 @@
     "priority": 2
   },
   {
-    "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-01T16:12:47+00:00",
-    "published_ts": 1788279167.0,
-    "summary": "The Defense Department\u2019s Office of Strategic Capital, founded by the Biden administration to give loans to bolster the U.S. defense industry, is helping lead President Trump\u2019s oil deal.",
-    "link": "https://www.nytimes.com/2026/08/31/us/politics/pentagon-venezuela-oil.html",
-    "category": "Commodities",
-    "priority": 2
-  },
-  {
-    "title": "Eurozone Inflation Climbs to Near Three-Year High Ahead of ECB Meeting",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-01T11:16:00+00:00",
-    "published_ts": 1788261360.0,
-    "summary": "Eurozone inflation rose for a third straight month in August, reinforcing expectations that the European Central Bank will raise its key interest rate next week.",
-    "link": "https://www.wsj.com/economy/central-banking/eurozone-inflation-climbs-to-near-three-year-high-ahead-of-ecb-meeting-2566d178?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
     "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -228,17 +228,6 @@
     "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
     "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market Today: Oil Surges After New Middle East Strikes",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-01T08:25:50+00:00",
-    "published_ts": 1788251150.0,
-    "summary": "Japanese 10-year yield hits highest level in three decades; Nasdaq falls",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -319,17 +308,6 @@
     "priority": 2
   },
   {
-    "title": "The selloff in U.S. Treasurys has captured global attention, but bond markets overseas have been getting hit even harder. Here\u2019s a breakdown of the forces fueling the overseas rout.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-27T09:30:00+00:00",
-    "published_ts": 1787823000.0,
-    "summary": "Countries with large debt burdens\u2014France, Italy, the U.K., Japan\u2014have come under the heaviest pressure in recent months.",
-    "link": "https://www.wsj.com/economy/global/think-treasurys-are-having-a-rough-summer-its-even-uglier-abroad-7224cf70?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "Trump Administration Wants Billion-Dollar Businesses to Qualify as \u2018Small\u2019",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -396,47 +374,69 @@
     "priority": 2
   },
   {
-    "title": "Yum says Pizza Hut CEO Aaron Powell resigns",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-01T23:08:18.447492+00:00",
-    "published_ts": 1788304098.447492,
+    "title": "Stock Market Today: Dow Up On Surprise Jobs Data; Dell Tries To Break Out (Live Coverage)",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-02T15:11:10.200527+00:00",
+    "published_ts": 1788361870.200527,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/yum-says-pizza-hut-ceo-aaron-powell-resigns-4884703",
-    "category": "Fed",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Examining Charter Communications\u2019 (CHTR) Roiling Waters and Hidden Opportunities",
+    "title": "Strategy CEO Defends Bitcoin Purchases And Sales",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-01T23:08:18.068835+00:00",
-    "published_ts": 1788304098.068835,
+    "published": "2026-09-02T15:11:10.200480+00:00",
+    "published_ts": 1788361870.20048,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/examining-charter-communications-chtr-roiling-144132247.html",
+    "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-defends-bitcoin-purchases-142800716.html",
+    "category": "Crypto",
+    "priority": 1
+  },
+  {
+    "title": "Where credit card balances are highest, and what it says about a K-shaped economy",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-02T15:11:10.200403+00:00",
+    "published_ts": 1788361870.200403,
+    "summary": "",
+    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/where-credit-card-balances-are-highest-and-what-it-says-about-a-k-shaped-economy-143144084.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Corning (GLW) is Well Positioned for Strong Earnings Growth",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-02T15:11:10.200175+00:00",
+    "published_ts": 1788361870.200175,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-02T15:01:04+00:00",
+    "published_ts": 1788361264.0,
+    "summary": "The Energy secretary spoke to CNBC's Brian Sullivan in Venezuela on Wednesday, after President Donald Trump announced a massive oil deal with Caracas.",
+    "link": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "A Guide to Owning Bonds When They Are Selling Off",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-01T22:38:00+00:00",
-    "published_ts": 1788302280.0,
-    "summary": "Advisers say fixed income still has a place in a diversified portfolio, despite a global bond market rout.",
-    "link": "https://www.wsj.com/finance/investing/a-guide-to-owning-bonds-when-they-are-selling-off-be8e0a2b?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Palo Alto Networks\u2019 stock falls despite strong AI cybersecurity demand",
+    "title": "\u2018I\u2019m desperately trying to plan ahead\u2019: I\u2019m leaving everything to my grandson, who has severe mental illness. How can I protect him?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-01T21:43:00+00:00",
-    "published_ts": 1788298980.0,
-    "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks \u2018durable tailwinds,\u2019 according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
-    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-    "category": "Equities",
+    "published": "2026-09-02T14:32:00+00:00",
+    "published_ts": 1788359520.0,
+    "summary": "\u201cI previously served as an executrix for a neighbor and spent hundreds of hours and more than $10,000 of my own money on estate expenses.\u201d",
+    "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
+    "category": "Wealth Mgmt",
     "priority": 1
   }
 ]
