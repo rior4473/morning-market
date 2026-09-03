@@ -1,5 +1,16 @@
 [
   {
+    "title": "Stock Market Today: Treasury Yields Retreat on Fed Official\u2019s Rate Comments",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-03T07:45:04+00:00",
+    "published_ts": 1788421504.0,
+    "summary": "Dow opens higher after Fed\u2019s Waller says he'd back rate hold if inflation data is supportive; yen rallies",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
     "title": "Global Bond Yields Surge as Oil Prices Fuel Inflation Worries",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -11,9 +22,20 @@
     "priority": 5
   },
   {
-    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-03T04:20:20+00:00",
+    "published_ts": 1788409220.0,
+    "summary": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
+    "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+    "category": "Fixed Income",
+    "priority": 4
+  },
+  {
+    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-09-02T17:21:59+00:00",
     "published_ts": 1788369719.0,
     "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
@@ -33,57 +55,46 @@
     "priority": 4
   },
   {
-    "title": "Palantir\u2019s stock is slumping. Why bond yields and Google may be to blame.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-02T21:12:00+00:00",
-    "published_ts": 1788383520.0,
-    "summary": "After a strong postearnings rally in August, Palantir\u2019s rich valuation multiple is under pressure once again.",
-    "link": "https://www.marketwatch.com/story/why-palantirs-stock-is-suffering-its-worst-slump-since-february-7fb3b289?mod=mw_rss_topstories",
-    "category": "Fixed Income",
+    "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-03T14:07:45+00:00",
+    "published_ts": 1788444465.0,
+    "summary": "Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation\u2019s trajectory but indicated he would support higher rates if progress does not continue.",
+    "link": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-03T14:06:52+00:00",
+    "published_ts": 1788444412.0,
+    "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+    "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "There Are Four Forces Pressuring Bonds: War Is No. 1",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-03T01:00:00+00:00",
+    "published_ts": 1788397200.0,
+    "summary": "Fiscal worries, a new Federal Reserve chairman and even the flood of AI bonds are helping drive the recent climb in yields.",
+    "link": "https://www.wsj.com/finance/investing/there-are-four-forces-pressuring-bonds-war-is-no-1-68d3ace9?mod=rss_markets_main",
+    "category": "Fed",
     "priority": 3
   },
   {
     "title": "Investors Still on Edge Over War, Debt and Inflation",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-09-02T20:17:54+00:00",
-    "published_ts": 1788380274.0,
+    "published": "2026-09-02T20:17:55+00:00",
+    "published_ts": 1788380275.0,
     "summary": "U.S. and Iranian forces traded attacks again, pushing oil prices higher, stocks lower and making bond investors nervous.",
     "link": "https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "10-year U.S. Treasury yield hits highest level since November 2023",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-02T20:05:39+00:00",
-    "published_ts": 1788379539.0,
-    "summary": "The 10-year Treasury note yield reached a fresh multiyear high on Wednesday as inflation and debt concerns pressured global government borrowing costs.",
-    "link": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "A jittery Treasury market and the prospect of Fed rate increases risk making life more expensive for already cost-pressured Americans",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-02T13:21:00+00:00",
-    "published_ts": 1788355260.0,
-    "summary": "A jittery Treasury market and the prospect of Fed rate increases risk making life more expensive for already cost-pressured Americans.",
-    "link": "https://www.wsj.com/economy/consumers/what-does-a-bond-selloff-mean-for-american-consumers-236e4be6?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Stock Market Today: Treasury Selloff Pauses While Stocks Rise",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-02T08:23:21+00:00",
-    "published_ts": 1788337401.0,
-    "summary": "10-year yield touches highest level since 2023; global bond yields keep rising",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -95,17 +106,6 @@
     "published_ts": 1788271287.0,
     "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
     "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-08-28T15:22:10+00:00",
-    "published_ts": 1787930530.0,
-    "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
-    "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
     "category": "Fed",
     "priority": 3
   },
@@ -143,58 +143,14 @@
     "priority": 3
   },
   {
-    "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-24T13:17:35+00:00",
-    "published_ts": 1787577455.0,
-    "summary": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
-    "link": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Dollar Supported by Rising T-Note Yields and Falling Stocks",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-02T23:06:18.435682+00:00",
-    "published_ts": 1788390378.435682,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-supported-rising-t-note-143404558.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Why you should care about rising bond yields",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-02T23:06:18.435305+00:00",
-    "published_ts": 1788390378.435305,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/why-you-should-care-about-rising-bond-yields-145851736.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Bank of Canada Keeps Rate Steady as Inflation Worries Intensify",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-02T16:21:00+00:00",
-    "published_ts": 1788366060.0,
-    "summary": "The central bank left its main interest rate unchanged at 2.25%, and said the escalating trade conflict between the U.S. and Canada threatens to add to inflation.",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-keeps-rate-steady-warns-trade-conflict-could-upend-recovery-9a477b9d?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Global Bond Rates Are Rising. What Should You Do Now?",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-02T15:44:20+00:00",
-    "published_ts": 1788363860.0,
-    "summary": "If you own bonds, they may be in a broad fund that hasn\u2019t lost much money. And that fund may do much better in the next several years.",
-    "link": "https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html",
-    "category": "Fixed Income",
+    "title": "The U.S. economy powers up as summer winds down, but it\u2019s not free of trip wires",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-03T14:44:00+00:00",
+    "published_ts": 1788446640.0,
+    "summary": "The largest part of the economy grew in August at the fastest pace in six months despite higher inflation and a new round of White House tariffs, suggesting the six-year-old U.S. expansion has plenty more room to run.",
+    "link": "https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories",
+    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -206,28 +162,6 @@
     "summary": "In an appearance on CNBC's \"Squawk Box,\" Greg Abel said that yields in the country are still relatively low.",
     "link": "https://www.cnbc.com/2026/09/02/berkshire-ceo-says-japanese-bond-yields-not-a-challenge-for-trading-houses.html",
     "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Reserve Bank of New Zealand Delivers Further Rate Increase",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-02T02:47:00+00:00",
-    "published_ts": 1788317220.0,
-    "summary": "RBNZ raised interest rates, warning that risks for higher inflation remain in play for the economy.",
-    "link": "https://www.wsj.com/economy/central-banking/reserve-bank-of-new-zealand-delivers-further-rate-increase-d71e3fde?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Nothing in this week\u2019s G-20 suggested an end to the deficits, inflation and geopolitical disruptions that are roiling investors",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-02T01:07:00+00:00",
-    "published_ts": 1788311220.0,
-    "summary": "Nothing in this week\u2019s G-20 suggested an end to the deficits, inflation and geopolitical disruptions that are roiling investors.",
-    "link": "https://www.wsj.com/economy/the-bond-market-issues-world-leaders-a-failing-grade-621cf4dc?mod=rss_socialeconomyfeed",
-    "category": "Commodities",
     "priority": 2
   },
   {
@@ -341,17 +275,6 @@
     "priority": 2
   },
   {
-    "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-24T13:35:08+00:00",
-    "published_ts": 1787578508.0,
-    "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
-    "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentia\u2026",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -385,58 +308,135 @@
     "priority": 2
   },
   {
-    "title": "JPMorgan scales back Jane Street financing amid growing bond market rivalry - FT",
+    "title": "Oddity Tech options flow signals defensive positioning ahead of September earnings",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-02T23:06:18.807242+00:00",
-    "published_ts": 1788390378.807242,
+    "published": "2026-09-03T15:05:58.205750+00:00",
+    "published_ts": 1788447958.20575,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/jpmorgan-scales-back-jane-street-financing-amid-growing-bond-market-rivalry--ft-4886824",
-    "category": "Fixed Income",
+    "link": "https://www.investing.com/news/stock-market-news/oddity-tech-options-flow-signals-defensive-positioning-ahead-of-september-earnings-93CH-4888226",
+    "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Global Bond Selloff Weighs on Stocks",
+    "title": "PayPal cuts around 220 jobs in India as it aims to simplify global operations",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-03T15:05:58.205691+00:00",
+    "published_ts": 1788447958.205691,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/paypal-cuts-around-220-jobs-in-india-as-it-aims-to-simplify-global-operations-4888189",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Why HPE Stock Is Falling Amid Fiscal Q3 Earnings Beat",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-02T23:06:18.435532+00:00",
-    "published_ts": 1788390378.435532,
+    "published": "2026-09-03T15:05:57.944294+00:00",
+    "published_ts": 1788447957.944294,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/global-bond-selloff-weighs-stocks-151048535.html",
-    "category": "Fixed Income",
+    "link": "https://www.investors.com/news/technology/hpe-stock-hpe-earnings-news-july26/?src=A00220&yptr=yahoo",
+    "category": "Equities",
     "priority": 1
   },
   {
-    "title": "U.S.-Iran Strikes Put $100 Oil Back in Focus",
+    "title": "Microsoft Corporation (MSFT) Generates Revenues and Profits Beyond AI Theme",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-02T23:06:18.435513+00:00",
-    "published_ts": 1788390378.435513,
+    "published": "2026-09-03T15:05:57.944277+00:00",
+    "published_ts": 1788447957.944277,
     "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/u-iran-strikes-put-100-151000231.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-02T22:37:13+00:00",
-    "published_ts": 1788388633.0,
-    "summary": "Microsoft will begin reporting quarterly Azure revenue in dollars for the first time, providing more clarity about its business that competes with AWS.",
-    "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-generates-revenues-141420996.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Broadcom\u2019s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-02T22:28:00+00:00",
-    "published_ts": 1788388080.0,
-    "summary": "Broadcom topped expectations with its latest quarterly financial results, but that wasn\u2019t enough to send its stock higher.",
-    "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+    "title": "Stock Market Today: Nasdaq Leads As Fed's Waller Signals This; Snowflake Soars (Live Coverage)",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-03T15:05:57.944261+00:00",
+    "published_ts": 1788447957.944261,
+    "summary": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Andvari Associates Strategic Investment in Martin Marietta Materials (MLM)",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-03T15:05:57.944192+00:00",
+    "published_ts": 1788447957.944192,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/andvari-associates-strategic-investment-martin-141742133.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Texas Instruments Incorporated (TXN) Benefits from AI without Being Pure Play AI",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-03T15:05:57.944175+00:00",
+    "published_ts": 1788447957.944175,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-incorporated-txn-benefits-142036141.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Ciena Earnings Beat. Why This AI Data Center Play Is Falling.",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-03T15:05:57.944143+00:00",
+    "published_ts": 1788447957.944143,
+    "summary": "",
+    "link": "https://www.investors.com/news/technology/ciena-stock-cien-ciena-earnings-news-july26/?src=A00220&yptr=yahoo",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "The Dutch central bank said it moved around 86 metric tons of gold from New York and Ottawa to London as a result of \u201cincreasing geopolitical unrest\u201d",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-03T14:50:00+00:00",
+    "published_ts": 1788447000.0,
+    "summary": "The Dutch central bank said shifting the 78 metric tons of gold, worth $11 billion, would improve its ability to trade the metal in a pinch.",
+    "link": "https://www.wsj.com/economy/central-banking/netherlands-moves-gold-from-new-york-to-london-citing-geopolitical-unrest-7a095eb8?mod=rss_socialeconomyfeed",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-03T14:17:14+00:00",
+    "published_ts": 1788445034.0,
+    "summary": "The Treasury Department released rules that would prevent schools with race-based programs from qualifying for tax-exempt status, a threat to both higher education and other private schools.",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-03T13:59:22+00:00",
+    "published_ts": 1788443962.0,
+    "summary": "This week\u2019s renewed strikes by the United States and Iran strain the flow of energy and diminish expectations the disruption will end soon.",
+    "link": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-03T13:40:13+00:00",
+    "published_ts": 1788442813.0,
+    "summary": "Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.",
+    "link": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+    "category": "Commodities",
     "priority": 1
   }
 ]
