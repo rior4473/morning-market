@@ -1,5 +1,38 @@
 [
   {
+    "title": "U.S. Stocks Fall, Treasury Yields Climb After Strong Jobs Report",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-04T14:20:00+00:00",
+    "published_ts": 1788531600.0,
+    "summary": "A hotter-than-expected jobs report is sending U.S. stocks and bond prices lower, as traders boost bets on a rate increase from the Federal Reserve this month.",
+    "link": "https://www.wsj.com/finance/stocks/u-s-stock-futures-treasurys-little-moved-ahead-of-jobs-data-36dab277?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 6
+  },
+  {
+    "title": "2-year yield rises to highest since January 2025 after hot jobs report boosts expectations that the Fed could raise rates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-04T13:09:26+00:00",
+    "published_ts": 1788527366.0,
+    "summary": "Treasury yields rose as the hot jobs report along with sticky inflation may give the Fed more cover to hike interest rates in September.",
+    "link": "https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
+    "category": "Fed",
+    "priority": 6
+  },
+  {
+    "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-04T13:43:00+00:00",
+    "published_ts": 1788529380.0,
+    "summary": "U.S. Treasury yields jump after significantly stronger-than-expected employment data for August lifted expectations of a Federal Reserve rate hike at the Sept. 16 meeting.",
+    "link": "https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
     "title": "Global Bond Yields Surge as Oil Prices Fuel Inflation Worries",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -11,24 +44,24 @@
     "priority": 5
   },
   {
-    "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-03T19:38:09+00:00",
-    "published_ts": 1788464289.0,
-    "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
-    "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
+    "title": "Stock Market Today: Short-Term Treasury Yields Climb After Strong Jobs Report",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-04T08:18:35+00:00",
+    "published_ts": 1788509915.0,
+    "summary": "U.S. added 162,000 jobs in August, boosting the chances of a rate hike; stocks slip",
+    "link": "https://www.wsj.com/livecoverage/august-jobs-report-stock-market-09-04-2026?mod=rss_markets_main",
     "category": "Fed",
     "priority": 4
   },
   {
-    "title": "Global Bond Markets Take a Breather",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-03T16:08:00+00:00",
-    "published_ts": 1788451680.0,
-    "summary": "Government bond yields fell amid cooling expectations of an interest rate increase by the U.S. Federal Reserve, but the selloff in bonds might not be over.",
-    "link": "https://www.wsj.com/economy/central-banking/global-bond-markets-take-a-breather-1572d1e3?mod=rss_socialeconomyfeed",
+    "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-03T19:38:09+00:00",
+    "published_ts": 1788464289.0,
+    "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
+    "link": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
     "category": "Fed",
     "priority": 4
   },
@@ -55,13 +88,46 @@
     "priority": 4
   },
   {
-    "title": "Stocks Push Higher as Crude Oil and Bond Yields Stabilize",
+    "title": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out (Live Coverage)",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-03T23:04:14.423032+00:00",
-    "published_ts": 1788476654.423032,
+    "published": "2026-09-04T15:02:16.282758+00:00",
+    "published_ts": 1788534136.282758,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-push-higher-crude-oil-151809400.html",
+    "link": "https://www.investors.com/news/jobs-report-august-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Stock market today: Dow, S&P 500, Nasdaq edge lower after hot jobs report fuels Fed rate-hike bets",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-04T15:02:16.282609+00:00",
+    "published_ts": 1788534136.282609,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-04T14:07:24+00:00",
+    "published_ts": 1788530844.0,
+    "summary": "Long-term Treasury yields are being held up by Trump-era policy risk, heavy government borrowing and AI-driven corporate debt.",
+    "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-04T09:03:39+00:00",
+    "published_ts": 1788512619.0,
+    "summary": "Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.",
+    "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -88,17 +154,6 @@
     "priority": 3
   },
   {
-    "title": "Rate Rise in Play as Fed Officials Await Inflation Data",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-03T18:19:18+00:00",
-    "published_ts": 1788459558.0,
-    "summary": "Christopher J. Waller, a Federal Reserve governor, sounded optimistic about inflation\u2019s trajectory but indicated he would support higher rates if progress does not continue.",
-    "link": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -106,17 +161,6 @@
     "published_ts": 1788444412.0,
     "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
     "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Stock Market Today: Stocks Climb After Fed Official Says He Could Back Rate Hold",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-03T07:45:04+00:00",
-    "published_ts": 1788421504.0,
-    "summary": "Fed\u2019s Waller says he'd support holding rates steady if inflation data is supportive; Dow climbs 624 points",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-03-2026?mod=rss_markets_main",
     "category": "Fed",
     "priority": 3
   },
@@ -154,25 +198,102 @@
     "priority": 3
   },
   {
-    "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-25T17:15:50+00:00",
-    "published_ts": 1787678150.0,
-    "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-    "link": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
+    "title": "A Democratic midterm sweep could make bonds the fourth-quarter contrarian play, says B. of A.\u2019s Hartnett",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-04T14:53:00+00:00",
+    "published_ts": 1788533580.0,
+    "summary": "Lower growth assumptions and weaker stocks would enhance the appeal of bonds, says equity-market strategist and \u201cFlow Show\u201d author.",
+    "link": "https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories",
     "category": "Fixed Income",
-    "priority": 3
+    "priority": 2
   },
   {
-    "title": "Cramer Says Nvidia at 23 Times Earnings Needs a Half Trillion Dollar Buyback",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-03T23:04:14.423281+00:00",
-    "published_ts": 1788476654.423281,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-nvidia-23-times-152043047.html",
+    "title": "Trump tells Fed to slash rates or he'll end trade with countries with U.S. surpluses",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-04T14:47:54+00:00",
+    "published_ts": 1788533274.0,
+    "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+    "link": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "The U.S. added 162,000 jobs in August, the Labor Department said Friday, well ahead of expectations",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-04T14:31:00+00:00",
+    "published_ts": 1788532260.0,
+    "summary": "The unemployment rate stayed at 4.1%, a historically low level that indicates the labor market remains generally healthy.",
+    "link": "https://www.wsj.com/economy/jobs/august-jobs-report-unemployment-c9da2f0c?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-04T14:19:02+00:00",
+    "published_ts": 1788531542.0,
+    "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+    "link": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "The Pros and Cons of Paying Off Your Mortgage Early",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-04T13:00:05+00:00",
+    "published_ts": 1788526805.0,
+    "summary": "Homeowners who make extra payments can save thousands of dollars in interest. But, financial experts say, paying down other debt, with higher interest rates, may be a better option.",
+    "link": "https://www.nytimes.com/2026/09/04/your-money/paying-off-mortgage-early-pros-cons.html",
     "category": "Equities",
+    "priority": 2
+  },
+  {
+    "title": "Canada Unemployment Holds at 6.4%, Though Employment Falls",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-04T12:55:00+00:00",
+    "published_ts": 1788526500.0,
+    "summary": "The unemployment rate in Canada held steady at a two-year low last month despite the economy unexpectedly shedding jobs after a strong recovery for the labor market coming into summer.",
+    "link": "https://www.wsj.com/economy/jobs/canada-unemployment-holds-at-6-4-though-employment-falls-821342b6?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Higher Bond Yields Have a Silver Lining",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-04T10:16:00+00:00",
+    "published_ts": 1788516960.0,
+    "summary": "Plus, diesel hits a new high and cancer vaccine picks and shovels.",
+    "link": "https://www.wsj.com/finance/investing/higher-bond-yields-have-a-silver-lining-044afb97?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "The jobs report could influence a shaky bond market.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-04T09:57:10+00:00",
+    "published_ts": 1788515830.0,
+    "summary": "",
+    "link": "https://www.nytimes.com/live/2026/09/04/business/jobs-report-economy/the-jobs-report-could-influence-a-shaky-bond-market",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-04T07:41:48+00:00",
+    "published_ts": 1788507708.0,
+    "summary": "In a wide-ranging interview, the renowned economist also said the U.S. Treasury had taken \"a step too far\" with its market intervention.",
+    "link": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -187,17 +308,6 @@
     "priority": 2
   },
   {
-    "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-03T20:42:29+00:00",
-    "published_ts": 1788468149.0,
-    "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
-    "link": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Dutch Central Bank Cuts Gold Reserves in U.S., Citing \u2018Geopolitical Unrest\u2019",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -206,39 +316,6 @@
     "summary": "The Netherlands moved some 90 tons of gold out of the Federal Reserve Bank in New York, the second European nation this year to announce it had decreased or eliminated U.S. gold holdings.",
     "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Bessent Blames Ukraine for High Energy Prices",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-03T19:56:44+00:00",
-    "published_ts": 1788465404.0,
-    "summary": "After meeting with Russia\u2019s finance minister, the Treasury secretary said Ukraine\u2019s attacks on Russian oil infrastructure were contributing to a global energy shock driven mainly by the U.S. war with Iran.",
-    "link": "https://www.nytimes.com/2026/09/03/business/bessent-energy-prices-ukraine.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-03T19:18:59+00:00",
-    "published_ts": 1788463139.0,
-    "summary": "Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether to adjust rates.",
-    "link": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "BOE\u2019s Chief Economist Sees Need for Rate Rise as War\u2019s Course Remains Uncertain",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-03T16:15:00+00:00",
-    "published_ts": 1788452100.0,
-    "summary": "The Bank of England should raise its key interest rate to limit the risk that inflation will stay above its target for a prolonged period, Chief Economist Huw Pill said.",
-    "link": "https://www.wsj.com/economy/central-banking/boes-chief-economist-sees-need-for-rate-rise-as-wars-course-remains-uncertain-3a2976f4?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -297,17 +374,6 @@
     "priority": 2
   },
   {
-    "title": "The World\u2019s Drinks Order Is In. Distillers Were Expecting More.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-08-30T12:00:00+00:00",
-    "published_ts": 1788091200.0,
-    "summary": "It\u2019s the corporate equivalent of ordering too much alcohol for a party where half the guests turn out to be dry. Except with billions of dollars at stake.",
-    "link": "https://www.wsj.com/business/retail/the-worlds-drinks-order-is-in-distillers-were-expecting-more-8ad379b3?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 2
-  },
-  {
     "title": "Smaller Revision Points to More Accurate Jobs Numbers",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -330,17 +396,6 @@
     "priority": 2
   },
   {
-    "title": "The U.S.-Canada trade war. The war in Iran. Surging bond yields. The global economy, to some surprise, has taken it all in its stride.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-08-28T02:00:00+00:00",
-    "published_ts": 1787882400.0,
-    "summary": "Growth is holding up despite renewed tensions over trade, geopolitics and bond markets, though the AI boom\u2019s outsize role is a growing concern.",
-    "link": "https://www.wsj.com/economy/global/how-the-ai-investment-craze-is-keeping-the-global-economy-afloat-0d62c000?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "Trump Administration Wants Billion-Dollar Businesses to Qualify as \u2018Small\u2019",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -348,17 +403,6 @@
     "published_ts": 1787798372.0,
     "summary": "Higher revenue and employee limits for small businesses that get federal contracts and loans could disadvantage the smallest companies, their owners say.",
     "link": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Fed\u2019s preferred inflation gauge shows core prices rose 3.3% annually in July",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-26T13:35:50+00:00",
-    "published_ts": 1787751350.0,
-    "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-    "link": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html",
     "category": "Economy",
     "priority": 2
   },
@@ -374,17 +418,6 @@
     "priority": 2
   },
   {
-    "title": "Federal Reserve issues FOMC statement",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-07-29T18:00:00+00:00",
-    "published_ts": 1785348000.0,
-    "summary": "Federal Reserve issues FOMC statement",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Markets",
@@ -396,47 +429,14 @@
     "priority": 2
   },
   {
-    "title": "Corning (GLW) is Well Positioned for Strong Earnings Growth",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-03T23:04:14.423234+00:00",
-    "published_ts": 1788476654.423234,
+    "title": "Uranium Royalty Corp. shares may move 2.1% on earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-04T15:02:16.469520+00:00",
+    "published_ts": 1788534136.46952,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html",
+    "link": "https://www.investing.com/news/stock-market-news/uranium-royalty-corp-shares-may-move-21-on-earnings-93CH-4889740",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Goldfish crackers are getting a makeover as new health trends reshape the snack aisle",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-03T21:54:00+00:00",
-    "published_ts": 1788472440.0,
-    "summary": "Campbell\u2019s plans to introduce gluten-free, whole-grain and protein-packed versions of Goldfish to meet growing demand for healthy alternatives and combat rising competition.",
-    "link": "https://www.marketwatch.com/story/goldfish-crackers-are-getting-a-makeover-as-new-health-trends-reshape-the-snack-aisle-32e89644?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Oura files for IPO amid Americans\u2019 obsession with tracking their sleep, steps and heart rates",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-03T21:49:00+00:00",
-    "published_ts": 1788472140.0,
-    "summary": "The offering is part of a trend that pairs wearable technology with \u2018preventative healthcare\u2019",
-    "link": "https://www.marketwatch.com/story/oura-files-for-ipo-amid-americans-obsession-with-tracking-their-sleep-steps-and-heart-rates-093f85c4?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Volkswagen Plans to Cut 50,000 Jobs",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-03T21:31:29+00:00",
-    "published_ts": 1788471089.0,
-    "summary": "Facing growing competition from China and rapidly advancing technology, the German auto giant said Thursday its board had approved a \u201ccomprehensive\u201d overhaul.",
-    "link": "https://www.nytimes.com/2026/09/03/business/volkswagen-job-cuts.html",
-    "category": "Geopolitics",
     "priority": 1
   }
 ]
