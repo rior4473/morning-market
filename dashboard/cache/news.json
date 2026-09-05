@@ -33,7 +33,7 @@
     "priority": 4
   },
   {
-    "title": "Stock Market Today: Short-Term Treasury Yields Climb After Strong Jobs Report",
+    "title": "Stock Market News, Sept. 4, 2026: Short-Term Treasury Yields Climb After Strong Jobs Report",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-09-04T08:18:35+00:00",
@@ -77,13 +77,13 @@
     "priority": 4
   },
   {
-    "title": "Stocks and Bonds Gain as Fed Rate Hike Chances Ease",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-04T22:52:21.234090+00:00",
-    "published_ts": 1788562341.23409,
+    "title": "Citi pushes Fed rate-cut forecast to June 2027 after resilient jobs market",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-05T13:56:41.847307+00:00",
+    "published_ts": 1788616601.847307,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-gain-fed-rate-151304284.html",
+    "link": "https://www.investing.com/news/stock-market-news/citi-pushes-fed-ratecut-forecast-to-june-2027-after-resilient-jobs-market-4890197",
     "category": "Fed",
     "priority": 3
   },
@@ -95,28 +95,6 @@
     "published_ts": 1788555240.0,
     "summary": "Stocks and bonds fell Friday on concerns that benchmark interest rates are headed higher.",
     "link": "https://www.wsj.com/finance/stocks/rates-climb-stocks-dip-after-strong-u-s-jobs-data-a71b1a23?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-04T18:08:16+00:00",
-    "published_ts": 1788545296.0,
-    "summary": "Long-term Treasury yields are being held up by Trump-era policy risk, heavy government borrowing and AI-driven corporate debt.",
-    "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "The Bond Markets Are Pushing Up Rates. Will Central Banks Follow?",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-04T09:03:39+00:00",
-    "published_ts": 1788512619.0,
-    "summary": "Around the world, rising bond yields reflect shifting expectations on how fast policymakers will raise interest rates.",
-    "link": "https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -143,25 +121,47 @@
     "priority": 3
   },
   {
-    "title": "Robust Hiring Reinforces Strength of the U.S. Economy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-04T22:41:51+00:00",
-    "published_ts": 1788561711.0,
-    "summary": "Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.",
-    "link": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
-    "category": "Economy",
+    "title": "Goldman raises Asia-Pacific equity target on tech earnings outlook",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-05T13:56:41.847380+00:00",
+    "published_ts": 1788616601.84738,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/goldman-raises-asiapacific-equity-target-on-tech-earnings-outlook-93CH-4890190",
+    "category": "Commodities",
     "priority": 2
   },
   {
-    "title": "Mike Khouw: Cybercabs are a game changer\u2014here's how I'm trading Tesla",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-04T20:29:51+00:00",
-    "published_ts": 1788553791.0,
-    "summary": "The strategist at YieldMaxETFs breaks down how a bullish bet on Tesla could pay off for options traders.",
-    "link": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
+    "title": "When do higher bond yields become a bigger problem for stocks?",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-05T13:56:41.847359+00:00",
+    "published_ts": 1788616601.847359,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/when-do-higher-bond-yields-become-a-bigger-problem-for-stocks-4890191",
     "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "For Many Individual Traders, Prediction Markets Are Hot\u2014and Crypto Is Not",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-05T02:00:00+00:00",
+    "published_ts": 1788573600.0,
+    "summary": "As bitcoin loses its cool, traders are spending more time and money betting on sports, elections and Fed rate decisions.",
+    "link": "https://www.wsj.com/finance/currencies/for-many-individual-traders-prediction-markets-are-hotand-crypto-is-not-bef27e3d?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Robust Hiring Reinforces Strength of the U.S. Economy",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-04T22:41:52+00:00",
+    "published_ts": 1788561712.0,
+    "summary": "Employers added 162,000 jobs and unemployment held at 4.1 percent last month, signs of a stability that contrasted with high inflation weighing on households and markets.",
+    "link": "https://www.nytimes.com/2026/09/04/business/economy/jobs-unemployment.html",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -200,7 +200,7 @@
   {
     "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
+    "feed": "CNBC \u2014 Top News",
     "published": "2026-09-04T17:16:37+00:00",
     "published_ts": 1788542197.0,
     "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
@@ -341,28 +341,6 @@
     "priority": 2
   },
   {
-    "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-08-28T16:11:51+00:00",
-    "published_ts": 1787933511.0,
-    "summary": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
-    "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Trump Administration Wants Billion-Dollar Businesses to Qualify as \u2018Small\u2019",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-08-27T02:39:32+00:00",
-    "published_ts": 1787798372.0,
-    "summary": "Higher revenue and employee limits for small businesses that get federal contracts and loans could disadvantage the smallest companies, their owners say.",
-    "link": "https://www.nytimes.com/2026/08/26/business/economy/trump-small-business-administration.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentia\u2026",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -385,58 +363,80 @@
     "priority": 2
   },
   {
-    "title": "Crude Oil Prices Rally as No End in Sight to US-Iran War",
+    "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-04T22:52:21.234265+00:00",
-    "published_ts": 1788562341.234265,
+    "published": "2026-09-05T13:56:41.511408+00:00",
+    "published_ts": 1788616601.511408,
     "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rally-no-153527029.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "NextEra, Santee Cooper Point to Real Dollar Savings From AI Deployments",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-04T22:52:21.234136+00:00",
-    "published_ts": 1788562341.234136,
-    "summary": "",
-    "link": "https://finance.yahoo.com/technology/ai/articles/nextera-santee-cooper-point-real-153136767.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-04T22:52:21.234053+00:00",
-    "published_ts": 1788562341.234053,
-    "summary": "",
-    "link": "https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Diamond Hill Stayed Focused on Magnolia Oil & Gas (MGY) After the Geopolitical Selloff",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-04T22:52:21.234033+00:00",
-    "published_ts": 1788562341.234033,
-    "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/why-diamond-hill-stayed-focused-152858564.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Stocks Fall After Hot Jobs Report",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-04T20:07:00+00:00",
-    "published_ts": 1788552420.0,
-    "summary": "Plus, Volkswagen rises on big job cuts, and a Chinese engineer returns home.",
-    "link": "https://www.wsj.com/finance/stocks/stocks-fall-after-hot-jobs-report-2298977c?mod=rss_markets_main",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Dollar General (DG) or Dollar Tree (DLTR): Which Stock Is Better?",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-05T13:56:41.511315+00:00",
+    "published_ts": 1788616601.511315,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-dg-dollar-tree-124227102.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "\u2018Wow, wow, wow!\u2019: CNBC host clearly shocked after US economy adds 162,000 jobs \u2014 3X expectations. Bet on America now",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-05T13:56:41.511220+00:00",
+    "published_ts": 1788616601.51122,
+    "summary": "",
+    "link": "https://finance.yahoo.com/economy/articles/wow-wow-wow-cnbc-host-124500252.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Acquisitive Strategy Offers Long-Term Prospects for QXO Inc. (QXO) Despite Dilution and Integration Risks",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-05T13:56:41.511183+00:00",
+    "published_ts": 1788616601.511183,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/acquisitive-strategy-offers-long-term-125906273.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump\u2019s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-05T12:14:38+00:00",
+    "published_ts": 1788610478.0,
+    "summary": "The deal comes eight months after Washington ousted former President Nicol\u00e1s Maduro in a military raid.",
+    "link": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Will a Turnaround Plan Revive Volkswagen or Merely Delay Its Demise?",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-05T09:03:56+00:00",
+    "published_ts": 1788599036.0,
+    "summary": "The beleaguered auto giant reached a deal with unions to cut tens of thousands of jobs and slash production. Is it enough to revive an iconic German company?",
+    "link": "https://www.nytimes.com/2026/09/05/business/volkswagen-jobs-layoffs-restructuring-future.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-05T09:03:10+00:00",
+    "published_ts": 1788598990.0,
+    "summary": "The tech giant must pay $3,000 per pirated book that it used to train its chatbot. Many authors fear they could lose funds to others in the book business.",
+    "link": "https://www.nytimes.com/2026/09/05/books/anthropic-settlement-ai-copyright-books.html",
+    "category": "Markets",
     "priority": 1
   }
 ]
