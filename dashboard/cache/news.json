@@ -77,6 +77,17 @@
     "priority": 3
   },
   {
+    "title": "Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries \u2014 and pushing rates higher",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-07T23:21:25.991612+00:00",
+    "published_ts": 1788823285.991612,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/currencies/articles/mohamed-el-erian-says-influx-153000281.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -264,36 +275,91 @@
     "priority": 2
   },
   {
-    "title": "American and African Crudes Soar as China's Oil Imports Rebound",
+    "title": "Dollar Index bear flag 80% done, breakdown looms: Live levels",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-07T23:21:26.226524+00:00",
+    "published_ts": 1788823286.226524,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/dollar-index-hugs-support-as-bear-flag-breaks-live-levels-93CH-4890667",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Murphy USA (MUSA) Delivers Robust Second-Quarter Earnings on Surging Fuel Margins",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-07T16:34:51.281547+00:00",
-    "published_ts": 1788798891.281547,
+    "published": "2026-09-07T23:21:25.991795+00:00",
+    "published_ts": 1788823285.991795,
     "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/american-african-crudes-soar-chinas-143000950.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/murphy-usa-musa-delivers-robust-133715978.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-07T23:21:25.991689+00:00",
+    "published_ts": 1788823285.991689,
+    "summary": "",
+    "link": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-07T23:15:00+00:00",
+    "published_ts": 1788822900.0,
+    "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Can Iraq Really Replace Saudi Arabia As The Middle East\u2019s Top Oil Producer?",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-07T16:34:51.281339+00:00",
-    "published_ts": 1788798891.281339,
-    "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/iraq-really-replace-saudi-arabia-150000955.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+    "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-07T16:15:18+00:00",
-    "published_ts": 1788797718.0,
-    "summary": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday.",
-    "link": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
+    "published": "2026-09-07T23:00:01+00:00",
+    "published_ts": 1788822001.0,
+    "summary": "A Group of 20 finance meeting in the U.S. this month has now elevated the debate over whether China's exports have cost people in other countries their jobs.",
+    "link": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-07T18:52:24+00:00",
+    "published_ts": 1788807144.0,
+    "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
+    "link": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Oil Prices Rise After U.S. and Iran Trade Strikes",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-07T17:16:07+00:00",
+    "published_ts": 1788801367.0,
+    "summary": "Brent crude, the global benchmark for oil, rose to about $97 a barrel on Monday, while the national average price of gas was $4.15 a gallon.",
+    "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Far-right AfD landslide in German state piles pressure on federal government",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-07T17:04:21+00:00",
+    "published_ts": 1788800661.0,
+    "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
+    "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -308,28 +374,6 @@
     "priority": 1
   },
   {
-    "title": "Oil Prices Rise After U.S. and Iran Trade Strikes",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-07T13:24:33+00:00",
-    "published_ts": 1788787473.0,
-    "summary": "Brent crude, the global benchmark for oil, rose above $97 a barrel on Monday, while the national average price of gas was $4.15 a gallon.",
-    "link": "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Far-right AfD landslide in German state piles pressure on federal government",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-07T13:07:50+00:00",
-    "published_ts": 1788786470.0,
-    "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
-    "link": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -338,17 +382,6 @@
     "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
     "link": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-07T11:54:00+00:00",
-    "published_ts": 1788782040.0,
-    "summary": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
-    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-    "category": "Commodities",
     "priority": 1
   },
   {
@@ -403,39 +436,6 @@
     "published_ts": 1788726971.0,
     "summary": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence \u2014 and as the technology begins to upend the work force.",
     "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-06T17:24:41+00:00",
-    "published_ts": 1788715481.0,
-    "summary": "The decision on Sunday by the cartel of oil-producing nations and some of its allies came after the resumption of U.S. and Iranian military strikes in the Persian Gulf.",
-    "link": "https://www.nytimes.com/2026/09/06/business/opec-iran-war-oil-production.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Iran\u2019s Attacks Keep the Strait of Hormuz in a Lethal Stalemate",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-06T13:28:53+00:00",
-    "published_ts": 1788701333.0,
-    "summary": "The U.S. military is helping oil get out of the Persian Gulf on tankers, but Iran is still attacking the ships and scaring operators away.",
-    "link": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "How Billions in Iranian Money Passes Through U.S. Banks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-06T01:00:00+00:00",
-    "published_ts": 1788656400.0,
-    "summary": "Illicit Iranian funds are flowing through U.S.-dollar clearing accounts, creating an enforcement dilemma for Washington.",
-    "link": "https://www.wsj.com/finance/regulation/how-billions-in-iranian-money-passes-through-u-s-banks-69106989?mod=rss_markets_main",
     "category": "Geopolitics",
     "priority": 1
   }
