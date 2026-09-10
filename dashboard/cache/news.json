@@ -1,13 +1,13 @@
 [
   {
-    "title": "$100 Oil Jolts Treasury Yields; Fed Rate-Hike Odds Jump",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466391+00:00",
-    "published_ts": 1789052695.466391,
-    "summary": "",
-    "link": "https://www.investors.com/news/10-year-treasury-yield-crude-oil-federal-reserve-bessent-buyback/?src=A00220&yptr=yahoo",
-    "category": "Fed",
+    "title": "U.S. 10-Year Treasury Yield Nears 5% as Oil Fuels Inflation Fears",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-10T20:40:00+00:00",
+    "published_ts": 1789072800.0,
+    "summary": "Oil prices topped $102 a barrel in the U.S. and global benchmark Brent hit $107, fueling a global bond market sell off Thursday.",
+    "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 5
   },
   {
@@ -22,46 +22,13 @@
     "priority": 5
   },
   {
-    "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-10T14:49:00+00:00",
-    "published_ts": 1789051740.0,
-    "summary": "Oil prices were at their highest levels in months, and disappointing wholesale-inflation data have sent benchmark 10-year yields closer to the key 5% level.",
-    "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
     "title": "Oil Prices Surge as Stocks and Bonds Wobble",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-09-10T14:31:33+00:00",
-    "published_ts": 1789050693.0,
-    "summary": "Crude oil hit its highest levels in months and bond yields continued to rise as investors worried about diminishing energy supplies and the prospect of accelerating inflation.",
+    "published": "2026-09-10T21:11:03+00:00",
+    "published_ts": 1789074663.0,
+    "summary": "Crude oil hit its highest levels in months, bond yields continued to rise and stocks fell for a fourth consecutive session as investors worried about energy supplies and inflation.",
     "link": "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
-    "title": "10-year Treasury yield tops 4.9%, highest since 2023, as oil surge raises inflation fears",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-10T14:26:40+00:00",
-    "published_ts": 1789050400.0,
-    "summary": "Treasury yields moved higher on Thursday as U.S. oil prices hit $100 per barrel.",
-    "link": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
-    "title": "Global Bond Yields Hit Multiyear Highs Ahead of ECB Decision, U.S. Treasury Buybacks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-10T10:28:00+00:00",
-    "published_ts": 1789036080.0,
-    "summary": "The selloff in global government bonds accelerated in European midday trade, pushing yields on 10-year German Bunds and Treasurys to fresh multiyear highs.",
-    "link": "https://www.wsj.com/finance/investing/bond-yields-edge-up-as-investors-await-ecb-rate-hike-u-s-treasury-buybacks-4cd2e9f3?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 4
   },
@@ -88,22 +55,44 @@
     "priority": 4
   },
   {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466534+00:00",
-    "published_ts": 1789052695.466534,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
+    "title": "Treasury yields surge after Bessent\u2019s beefed-up buyback operation fails to calm market",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-10T20:24:00+00:00",
+    "published_ts": 1789071840.0,
+    "summary": "The Treasury market\u2019s painful rout intensified Thursday, after an underwhelming auction of 30-year U.S. government debt and Treasury Secretary Scott Bessent\u2019s first beefed-up buyback operation.",
+    "link": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
     "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "Bonds Sell Off Despite Buyback Operation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-10T20:23:00+00:00",
+    "published_ts": 1789071780.0,
+    "summary": "Plus, oil prices surge above $107 a barrel and wholesale inflation picks up.",
+    "link": "https://www.wsj.com/finance/investing/bonds-sell-off-despite-buyback-operation-1126d0da?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "U.S. Mortgage Rates Top 7% For First Time in 15 Months",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-10T18:32:00+00:00",
+    "published_ts": 1789065120.0,
+    "summary": "Rates had steadily tumbled to about 6% in late February, but reversed when the U.S. and Israel started the war in Iran, disrupting oil shipments and driving up inflation.",
+    "link": "https://www.wsj.com/economy/central-banking/u-s-mortgage-rates-top-7-for-first-time-in-15-months-def6f20e?mod=rss_socialeconomyfeed",
+    "category": "Commodities",
     "priority": 3
   },
   {
     "title": "The ECB raised interest rates for the second time this year, as resurgent energy prices reignited concerns over inflation",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-10T12:40:00+00:00",
-    "published_ts": 1789044000.0,
+    "published": "2026-09-10T15:27:00+00:00",
+    "published_ts": 1789054020.0,
     "summary": "Resurgent oil and gas prices have reignited concerns over price pressures.",
     "link": "https://www.wsj.com/economy/central-banking/the-ecb-just-raised-interest-rates-heres-what-to-know-c03f9bb0?mod=rss_socialeconomyfeed",
     "category": "Commodities",
@@ -123,7 +112,7 @@
   {
     "title": "Bond Market Rebuffs Treasury\u2019s $6 Billion Plan to Reduce Borrowing Costs",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-09-09T21:38:28+00:00",
     "published_ts": 1788989908.0,
     "summary": "The 10-year yield rose to its highest level in three years, suggesting investors were underwhelmed by the details of a move to buy back government bonds.",
@@ -143,36 +132,69 @@
     "priority": 3
   },
   {
-    "title": "10-year Treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day",
+    "title": "Stocks and Bonds Fall as Crude Oil Surges",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466452+00:00",
-    "published_ts": 1789052695.466452,
+    "published": "2026-09-10T23:00:20.841946+00:00",
+    "published_ts": 1789081220.841946,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/article/10-year-treasury-at-highest-level-since-2023-as-oil-prices-jump-to-105-chart-of-the-day-134740387.html",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-bonds-fall-crude-oil-151630911.html",
     "category": "Fixed Income",
     "priority": 2
   },
   {
-    "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+    "title": "Jim Cramer says this is the key force driving stocks right now",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-10T14:51:36+00:00",
-    "published_ts": 1789051896.0,
-    "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
-    "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-    "category": "Fed",
+    "published": "2026-09-10T22:46:54+00:00",
+    "published_ts": 1789080414.0,
+    "summary": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%.",
+    "link": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "The Unrelenting Bond Selloff Puts the 10-Year Yield on the Cusp of 5%",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-10T21:29:00+00:00",
+    "published_ts": 1789075740.0,
+    "summary": "Rising borrowing costs threaten to disrupt the stock market and slow the economy.",
+    "link": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-10T19:18:05+00:00",
+    "published_ts": 1789067885.0,
+    "summary": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+    "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+    "category": "Economy",
     "priority": 2
   },
   {
     "title": "European Central Bank Raises Rates in Bid to Quell Inflation",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-09-10T13:08:37+00:00",
-    "published_ts": 1789045717.0,
+    "published": "2026-09-10T17:55:45+00:00",
+    "published_ts": 1789062945.0,
     "summary": "The bank, fighting price pressures spurred by the war in the Middle East, raised its benchmark rate to 2.5 percent.",
     "link": "https://www.nytimes.com/2026/09/10/business/european-central-bank-interest-rates.html",
     "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-10T16:55:17+00:00",
+    "published_ts": 1789059317.0,
+    "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
+    "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+    "category": "Fed",
     "priority": 2
   },
   {
@@ -209,39 +231,6 @@
     "priority": 2
   },
   {
-    "title": "What Are Bond Yields \u2018Saying\u2019 About Stocks?",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-10T10:45:00+00:00",
-    "published_ts": 1789037100.0,
-    "summary": "Plus, a win for \u2018Y\u2019all Street\u2019",
-    "link": "https://www.wsj.com/finance/investing/what-are-bond-yields-saying-about-stocks-c6b04ddb?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Bessent\u2019s political turn in GOP speech tests his bond-market credibility",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-10T02:54:56+00:00",
-    "published_ts": 1789008896.0,
-    "summary": "Treasury Secretary Scott Bessent's Republican convention speech in Dallas is raising questions about how politics could affect market confidence in him.",
-    "link": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Canada Tribunal Rules U.S. Canned Vegetable Imports Hurt Domestic Food Sector",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-10T02:08:00+00:00",
-    "published_ts": 1789006080.0,
-    "summary": "The tribunal recommended a three-year tariff-rate quota on imported canned vegetables from certain countries, led by the U.S.",
-    "link": "https://www.wsj.com/economy/trade/canada-tribunal-rules-u-s-canned-vegetable-imports-hurt-domestic-food-sector-75be845a?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Bond sell-off, stock boom: Why rebalancing is a good strategy right now",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -250,17 +239,6 @@
     "summary": "With stocks near all-time highs and bonds selling off, it's likely a good time for investors to consider rebalancing to their target risk, advisors said.",
     "link": "https://www.cnbc.com/2026/09/09/bond-selloff-stock-boom-rebalancing.html",
     "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Trump\u2019s Midterm Pitch Clouded by Iran War and Canada Tariffs",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-09T20:29:50+00:00",
-    "published_ts": 1788985790.0,
-    "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
-    "link": "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html",
-    "category": "Commodities",
     "priority": 2
   },
   {
@@ -352,17 +330,6 @@
     "priority": 2
   },
   {
-    "title": "Smaller Revision Points to More Accurate Jobs Numbers",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-08-28T16:21:55+00:00",
-    "published_ts": 1787934115.0,
-    "summary": "The 2026 revisions by the Bureau of Labor Statistics represent a downward adjustment of just 0.1 percent of the total work force.",
-    "link": "https://www.nytimes.com/2026/08/28/business/economy/jobs-labor-numbers.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"\u2014bank executives, board members and major shareholders who could potentia\u2026",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -385,58 +352,91 @@
     "priority": 2
   },
   {
-    "title": "Oracle earnings read-throughs: cloud rivals, AI suppliers, and hyperscalers to watch",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-10T15:04:55.720804+00:00",
-    "published_ts": 1789052695.720804,
+    "title": "Chewy shares drop despite earnings beat as free cash flow disappoints",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-10T23:00:20.842220+00:00",
+    "published_ts": 1789081220.84222,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/oracle-earnings-readthroughs-cloud-rivals-ai-suppliers-and-hyperscalers-to-watch-93CH-4896336",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-shares-drop-despite-earnings-151800053.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "The Surprising Pockmarks On Cooper's Earnings That Caused Its Stock To Dive",
+    "title": "How long should you wait between credit card applications?",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466680+00:00",
-    "published_ts": 1789052695.46668,
+    "published": "2026-09-10T23:00:20.841919+00:00",
+    "published_ts": 1789081220.841919,
     "summary": "",
-    "link": "https://www.investors.com/news/technology/cooper-companies-stock-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market Today: Nasdaq On Losing Streak As Oil Surges; Apple Advances On iPhone Launch (Live Coverage)",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466638+00:00",
-    "published_ts": 1789052695.466638,
-    "summary": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Home sales dropped last month as mortgage rates reached highest level in over a year",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466583+00:00",
-    "published_ts": 1789052695.466583,
-    "summary": "",
-    "link": "https://finance.yahoo.com/real-estate/article/home-sales-dropped-last-month-as-mortgage-rates-reached-highest-level-in-over-a-year-141755601.html",
+    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/how-long-should-you-wait-between-credit-card-applications-152057924.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Macy's turnaround shows promise as earnings beat estimates, outlook improves",
+    "title": "US Treasury Triples Long-Dated Debt Buyback to $6 Billion",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-10T15:04:55.466505+00:00",
-    "published_ts": 1789052695.466505,
+    "published": "2026-09-10T23:00:20.841776+00:00",
+    "published_ts": 1789081220.841776,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/article/macys-turnaround-shows-promise-as-earnings-beat-estimates-outlook-improves-112559626.html",
+    "link": "https://finance.yahoo.com/economy/policy/articles/us-treasury-triples-long-dated-151747086.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "The Relentless Crypto Billionaire Who Moved to Venezuela in Pursuit of Oil",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-10T22:00:00+00:00",
+    "published_ts": 1789077600.0,
+    "summary": "Fred Ehrsam, a Trump administration ally and co-founder of Coinbase, lived for months in a luxury Caracas hotel pursuing investments in Venezuela.",
+    "link": "https://www.wsj.com/business/energy-oil/the-relentless-crypto-billionaire-who-moved-to-venezuela-in-pursuit-of-oil-a4f0f219?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-10T21:42:47+00:00",
+    "published_ts": 1789076567.0,
+    "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
+    "link": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "A monthslong selloff in government bonds is skidding into dangerous ground, pushing borrowing costs toward levels that some fear will finally damage the stock market and the economy",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-10T21:29:00+00:00",
+    "published_ts": 1789075740.0,
+    "summary": "Rising borrowing costs threaten to disrupt the stock market and slow the economy.",
+    "link": "https://www.wsj.com/finance/investing/the-unrelenting-bond-selloff-puts-the-10-year-yield-on-the-cusp-of-5-78bfb4db?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Adobe\u2019s latest earnings leave Wall Street wanting more",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-10T20:53:00+00:00",
+    "published_ts": 1789073580.0,
+    "summary": "\u201cIn this environment you can\u2019t just meet\u201d expectations, an analyst says",
+    "link": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "30-year fixed mortgage rate tops 7% for the first time in over a year",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-10T18:30:08+00:00",
+    "published_ts": 1789065008.0,
+    "summary": "The average rate on the 30-year fixed mortgage crossed over 7% for the first time in more than a year, as home prices continue to rise and sales drop.",
+    "link": "https://www.cnbc.com/2026/09/10/30-year-fixed-mortgage-rate-crosses.html",
+    "category": "Markets",
     "priority": 1
   }
 ]
