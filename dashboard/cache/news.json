@@ -22,6 +22,17 @@
     "priority": 5
   },
   {
+    "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-12T14:15:44.859519+00:00",
+    "published_ts": 1789222544.859519,
+    "summary": "",
+    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
+    "category": "Fed",
+    "priority": 4
+  },
+  {
     "title": "Wall Street Cheers Clarity on Fed Outlook\u2014Even if It Means Higher Rates",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -33,6 +44,17 @@
     "priority": 4
   },
   {
+    "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-12T01:25:46+00:00",
+    "published_ts": 1789176346.0,
+    "summary": "The odds of a quarter-point rate increase at the Federal Reserve\u2019s meeting next week surged to 90 percent after August\u2019s Consumer Price Index report.",
+    "link": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
     "title": "The Fed is poised to raise rates, a vital oil pipeline shuts down and Sen. Susan Collins has some strong words for Trump. Read more in today\u2019s What\u2019s News newsletter:",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -41,17 +63,6 @@
     "summary": "Plus, a vital oil pipeline shuts down and Sen. Susan Collins has some strong words for Trump.",
     "link": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-to-raise-interest-rates-for-the-first-time-in-years-b9629772?mod=rss_socialeconomyfeed",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Why Dell and HPE were the S&P 500\u2019s top-performing stocks today",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-11T20:30:00+00:00",
-    "published_ts": 1789158600.0,
-    "summary": "Oracle\u2019s earnings provided an upbeat read for hardware suppliers \u2014 but the Fed\u2019s interest-rate moves could dictate just how much they continue benefitting.",
-    "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
-    "category": "Geopolitics",
     "priority": 3
   },
   {
@@ -73,17 +84,6 @@
     "published_ts": 1789150740.0,
     "summary": "The annual U.S. inflation rate held steady at 3.4% in August, matching analyst expectations.",
     "link": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-11T15:47:38+00:00",
-    "published_ts": 1789141658.0,
-    "summary": "The odds of a quarter-point rate increase at the Federal Reserve\u2019s meeting next week surged to 90 percent after August\u2019s Consumer Price Index report.",
-    "link": "https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html",
     "category": "Fed",
     "priority": 3
   },
@@ -110,17 +110,6 @@
     "priority": 3
   },
   {
-    "title": "Stock Market Today: Dow Rallies; Inflation Report Boosts Odds of Rate Hike",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-11T08:34:20+00:00",
-    "published_ts": 1789115660.0,
-    "summary": "Traders raise chances of Fed rate increase next week to 87%",
-    "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-09-11-2026?mod=rss_markets_main",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Bond Market Rebuffs Treasury\u2019s $6 Billion Plan to Reduce Borrowing Costs",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -130,6 +119,61 @@
     "link": "https://www.nytimes.com/2026/09/09/business/economy/treasury-repurchase-bessent.html",
     "category": "Fixed Income",
     "priority": 3
+  },
+  {
+    "title": "Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-12T14:15:44.859375+00:00",
+    "published_ts": 1789222544.859375,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-founder-dalio-urges-investors-134826829.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "After the I.P.O., a Billion-Dollar Bill for Employee Paydays",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-12T12:00:02+00:00",
+    "published_ts": 1789214402.0,
+    "summary": "A compensation strategy at start-ups keeps expenses low until they go public. At that point, the companies may face billions of dollars in catch-up expenses.",
+    "link": "https://www.nytimes.com/2026/09/12/business/dealbook/double-trigger-rsus.html",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
+    "title": "Inflation Complicates Trump\u2019s Midterms Pitch to Voters",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-12T09:04:04+00:00",
+    "published_ts": 1789203844.0,
+    "summary": "Gas prices are high, mortgage rates are climbing and inflation remains well above target, complicating the president\u2019s midterm appeal.",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "For most Americans, oil-fueled inflation shows up most quickly in their gas tanks. The big question is whether fuel prices will eventually start increasing prices for other goods and services.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-12T00:00:00+00:00",
+    "published_ts": 1789171200.0,
+    "summary": "As diesel crosses $6, the risk is building that soaring energy costs will start to hurt far beyond gas pumps.",
+    "link": "https://www.wsj.com/economy/how-energy-is-driving-inflationand-how-its-not-50560f6e?mod=rss_socialeconomyfeed",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "The Fed could raise interest rates three times. Here\u2019s where the market could face the stiffest test.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-11T23:54:00+00:00",
+    "published_ts": 1789170840.0,
+    "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
+    "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 2
   },
   {
     "title": "Cramer\u2019s week ahead: Falling oil could help stocks but Fed is the next big test",
@@ -162,17 +206,6 @@
     "summary": "Investors have started pricing in a series of increases. Chairman Kevin Warsh\u2019s aversion to signaling the path leaves him few tools to talk them out of it",
     "link": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-for-a-rate-hike-it-rarely-stops-at-one-c7455e98?mod=rss_socialeconomyfeed",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Bonds are going on tilt. How to play them, says Mike Khouw",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-11T16:26:14+00:00",
-    "published_ts": 1789143974.0,
-    "summary": "Warren Buffett once said interest rates are to asset prices what gravity is to matter. If the options market is correct, things could get heavy, says Mike Khouw.",
-    "link": "https://www.cnbc.com/2026/09/11/bonds-are-going-on-tilt-how-to-play-them-says-mike-khouw.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -297,36 +330,80 @@
     "priority": 2
   },
   {
-    "title": "Goldman, BofA vie to manage Anthropic employee wealth post-IPO - report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-11T23:04:37.186947+00:00",
-    "published_ts": 1789167877.186947,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/goldman-bofa-vie-to-manage-anthropic-employee-wealth-postipo--report-4898462",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "How Is FedEx\u2019s Stock Performance Compared to Other Logistics Stocks",
+    "title": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-11T23:04:37.004320+00:00",
-    "published_ts": 1789167877.00432,
+    "published": "2026-09-12T14:15:44.859503+00:00",
+    "published_ts": 1789222544.859503,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-stock-performance-compared-other-152129735.html",
-    "category": "Equities",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
     "title": "172-year-old bank sees 400% upside for 'federal bank' token",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-11T23:04:37.004129+00:00",
-    "published_ts": 1789167877.004129,
+    "published": "2026-09-12T14:15:44.859245+00:00",
+    "published_ts": 1789222544.859245,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump's America-first world is pushing other powers to hedge their bets",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-12T13:24:33+00:00",
+    "published_ts": 1789219473.0,
+    "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
+    "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-12T13:02:15+00:00",
+    "published_ts": 1789218135.0,
+    "summary": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
+    "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-12T12:49:15+00:00",
+    "published_ts": 1789217355.0,
+    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-12T12:40:05+00:00",
+    "published_ts": 1789216805.0,
+    "summary": "The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May.",
+    "link": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-12T00:50:20+00:00",
+    "published_ts": 1789174220.0,
+    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
+    "category": "Commodities",
     "priority": 1
   },
   {
@@ -360,83 +437,6 @@
     "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
     "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "How to Make Sense of Mayhem in the Bond Market",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-11T21:33:56+00:00",
-    "published_ts": 1789162436.0,
-    "summary": "The stock market is easy to talk about. But bonds are a different story. Our columnist has some pointers to help make you a bond maven.",
-    "link": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-11T20:46:29+00:00",
-    "published_ts": 1789159589.0,
-    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-11T20:45:00+00:00",
-    "published_ts": 1789159500.0,
-    "summary": "\u201cSeveral of Oracle\u2019s bear cases were addressed head on\u201d in the latest earnings report, according to an analyst.",
-    "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "I\u2019m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-11T20:30:00+00:00",
-    "published_ts": 1789158600.0,
-    "summary": "\u201cI expect to receive at least $9,000 per month before federal and California state taxes.\u201d",
-    "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Your Social Security COLA could go up another $71 a month in 2027. That\u2019s not necessarily good news.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-11T20:08:00+00:00",
-    "published_ts": 1789157280.0,
-    "summary": "A higher COLA is a sign that persistent inflation isn\u2019t going anywhere.",
-    "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show \u2014 the highest in 3 years",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-11T18:07:21+00:00",
-    "published_ts": 1789150041.0,
-    "summary": "New government inflation data points to a higher Social Security cost-of-living adjustment for 2027. Here's what experts estimate the change may be.",
-    "link": "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Here\u2019s the inflation breakdown for August 2026 \u2014 in one chart",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-11T17:14:27+00:00",
-    "published_ts": 1789146867.0,
-    "summary": "Inflation remained stubbornly high in August, largely on the back of higher energy prices amid the Iran war, economists said.",
-    "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-    "category": "Geopolitics",
     "priority": 1
   }
 ]
