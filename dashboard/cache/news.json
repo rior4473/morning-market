@@ -1,16 +1,5 @@
 [
   {
-    "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-11T15:49:00+00:00",
-    "published_ts": 1789141740.0,
-    "summary": "An interest-rate decision by the U.S. Federal Reserve will be firmly at the center of markets\u2019 attention in the coming week, where a hike looks a possibility after strong jobs data and solid inflation numbers.",
-    "link": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-all-eyes-on-fed-rate-decision-c333aa4c?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 5
-  },
-  {
     "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -20,17 +9,6 @@
     "link": "https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_socialeconomyfeed",
     "category": "Fed",
     "priority": 5
-  },
-  {
-    "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-12T14:15:44.859519+00:00",
-    "published_ts": 1789222544.859519,
-    "summary": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo",
-    "category": "Fed",
-    "priority": 4
   },
   {
     "title": "Wall Street Cheers Clarity on Fed Outlook\u2014Even if It Means Higher Rates",
@@ -46,7 +24,7 @@
   {
     "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-09-12T01:25:46+00:00",
     "published_ts": 1789176346.0,
     "summary": "The odds of a quarter-point rate increase at the Federal Reserve\u2019s meeting next week surged to 90 percent after August\u2019s Consumer Price Index report.",
@@ -77,17 +55,6 @@
     "priority": 3
   },
   {
-    "title": "The annual inflation rate stalled out last month, with Americans still paying high prices for gasoline. This could put more pressure on a Fed that has been divided over whether it should raise rates.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-11T18:19:00+00:00",
-    "published_ts": 1789150740.0,
-    "summary": "The annual U.S. inflation rate held steady at 3.4% in August, matching analyst expectations.",
-    "link": "https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -96,17 +63,6 @@
     "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
     "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "The Corporate Name Game Could Cost You",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-11T10:11:00+00:00",
-    "published_ts": 1789121460.0,
-    "summary": "Plus, bond rout pauses ahead of inflation data",
-    "link": "https://www.wsj.com/finance/investing/the-corporate-name-game-could-cost-you-fe35037a?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -121,14 +77,58 @@
     "priority": 3
   },
   {
-    "title": "Bridgewater Founder Dalio Urges Investors to Dump Bonds for Gold Allocation",
+    "title": "U.S. equity ETFs see outflows of $4.5 billion as traders price in Fed rate hike",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-13T14:58:47.660633+00:00",
+    "published_ts": 1789311527.660633,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-equity-etfs-see-outflows-of-45-billion-as-traders-price-in-fed-rate-hike-4898731",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Scott Bessent dismisses 'Bloomberg Terminal bros' as 10-year Treasury yield hits 4.94% despite $5.2B buyback",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-12T14:15:44.859375+00:00",
-    "published_ts": 1789222544.859375,
+    "published": "2026-09-13T14:58:47.399223+00:00",
+    "published_ts": 1789311527.399223,
     "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/bridgewater-founder-dalio-urges-investors-134826829.html",
+    "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-dismisses-bloomberg-terminal-133000792.html",
     "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-13T14:00:00+00:00",
+    "published_ts": 1789308000.0,
+    "summary": "The information-technology sector stands out when it comes to issuing upbeat earnings outlooks.",
+    "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-13T13:50:00+00:00",
+    "published_ts": 1789307400.0,
+    "summary": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures.",
+    "link": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "The price of almost everything on your dinner table is climbing at once \u2014 and Wall Street is taking notice",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-13T13:00:00+00:00",
+    "published_ts": 1789304400.0,
+    "summary": "Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.",
+    "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
+    "category": "Commodities",
     "priority": 2
   },
   {
@@ -176,17 +176,6 @@
     "priority": 2
   },
   {
-    "title": "Cramer\u2019s week ahead: Falling oil could help stocks but Fed is the next big test",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-11T22:35:09+00:00",
-    "published_ts": 1789166109.0,
-    "summary": "CNBC\u2019s Jim Cramer said falling oil prices helped fuel Friday\u2019s rebound, but warned next week\u2019s Federal Reserve meeting will be the next test for stocks.",
-    "link": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Inflation Comes In Hot",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -206,17 +195,6 @@
     "summary": "Investors have started pricing in a series of increases. Chairman Kevin Warsh\u2019s aversion to signaling the path leaves him few tools to talk them out of it",
     "link": "https://www.wsj.com/economy/central-banking/the-fed-is-poised-for-a-rate-hike-it-rarely-stops-at-one-c7455e98?mod=rss_socialeconomyfeed",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Bessent Takes on the Bond Vigilantes",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-11T11:41:29+00:00",
-    "published_ts": 1789126889.0,
-    "summary": "As a rout in the bond market deepens, the pressure grows on Treasury Secretary Scott Bessent to restore calm.",
-    "link": "https://www.nytimes.com/2026/09/11/business/dealbook/bessent-bond-vigilantes.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -330,53 +308,64 @@
     "priority": 2
   },
   {
+    "title": "Goldman Sachs Is Bullish. Here Are 3 Reasons AFRM Stock Could Climb 69%.",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-13T14:58:47.399170+00:00",
+    "published_ts": 1789311527.39917,
+    "summary": "",
+    "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-bullish-3-reasons-130003545.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
     "title": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-12T14:15:44.859503+00:00",
-    "published_ts": 1789222544.859503,
+    "published": "2026-09-13T14:58:47.399137+00:00",
+    "published_ts": 1789311527.399137,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-bloomberg-analysts-reveal-130000521.html",
     "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "172-year-old bank sees 400% upside for 'federal bank' token",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-12T14:15:44.859245+00:00",
-    "published_ts": 1789222544.859245,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/crypto/articles/172-old-bank-sees-400-173349444.html",
+    "title": "They Built a Shrine to Cable TV. Then Everyone Cut the Cord.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-13T09:00:51+00:00",
+    "published_ts": 1789290051.0,
+    "summary": "They set out to celebrate the power and prestige of an industry that spanned MTV, HBO and Nickelodeon. Now, as cable\u2019s fortunes have waned, the institution is changing, too.",
+    "link": "https://www.nytimes.com/2026/09/13/business/media/cable-television-cable-center-museum.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Trump's America-first world is pushing other powers to hedge their bets",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-12T13:24:33+00:00",
-    "published_ts": 1789219473.0,
-    "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
-    "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-    "category": "Geopolitics",
+    "title": "Treasury Secretary Bessent says the U.S. can grow its way out of the debt crunch. What would it take?",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-13T09:00:00+00:00",
+    "published_ts": 1789290000.0,
+    "summary": "The Treasury secretary makes the argument that strong economic expansion is the antidote to climbing out of the deep debt hole.",
+    "link": "https://www.wsj.com/economy/federal-debt-growth-solution-c2868517?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-12T13:02:15+00:00",
-    "published_ts": 1789218135.0,
-    "summary": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
-    "link": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-12T18:55:20+00:00",
+    "published_ts": 1789239320.0,
+    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
+    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
     "category": "Commodities",
     "priority": 1
   },
   {
     "title": "Inflation is outpacing wage growth again, squeezing Americans\u2019 paychecks",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
+    "feed": "CNBC \u2014 Top News",
     "published": "2026-09-12T12:49:15+00:00",
     "published_ts": 1789217355.0,
     "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
@@ -396,25 +385,14 @@
     "priority": 1
   },
   {
-    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-12T00:50:20+00:00",
-    "published_ts": 1789174220.0,
-    "summary": "Ship operators already faced severe risks in navigating the region, and now the danger is higher as Houthi militias assert control in the Red Sea.",
-    "link": "https://www.nytimes.com/2026/09/11/business/iran-war-hormuz-red-sea.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Saudis Shut Down Crucial Pipeline After Drone Attack From Iraq",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-11T22:51:56+00:00",
-    "published_ts": 1789167116.0,
-    "summary": "The news briefly pushed the price of oil to $110 a barrel over heightened fears of widening clashes in the Middle East.",
-    "link": "https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html",
-    "category": "Commodities",
+    "title": "Cramer: This market has eerie parallels with 2018. Here's what investors should do",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-11T23:09:35+00:00",
+    "published_ts": 1789168175.0,
+    "summary": "CNBC's Jim Cramer sees parallels between today\u2019s market and the fall of 2018, when rising rates and geopolitical tensions preceded a 20% S&amp;P 500 sell-off.",
+    "link": "https://www.cnbc.com/2026/09/11/cramer-market-eerie-parallels-2018-what-it-means-for-investors.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -429,13 +407,35 @@
     "priority": 1
   },
   {
-    "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+    "title": "Consumer outlook plunges in September as inflation outlook worsens",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-11T21:35:14+00:00",
-    "published_ts": 1789162514.0,
-    "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
-    "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-11T16:53:23+00:00",
+    "published_ts": 1789145603.0,
+    "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
+    "link": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "At Bending Spoons, the Numbers Are the Real Mind-Bender",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-11T09:30:00+00:00",
+    "published_ts": 1789119000.0,
+    "summary": "The tech roll-up relies on aggressive price hikes and bespoke metrics. Rising interest rates could crimp its growth.",
+    "link": "https://www.wsj.com/finance/investing/at-bending-spoons-the-numbers-are-the-real-mind-bender-43f10bee?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Kalshi launches \u2018perps\u2019 for gold and silver following CFTC approval, expanding futures offerings",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-09-10T14:00:11+00:00",
+    "published_ts": 1789048811.0,
+    "summary": "Its the latest move by the prediction market company to diversify its assets users can trade.",
+    "link": "https://www.cnbc.com/2026/09/10/kalshi-launches-perps-for-gold-and-silver-following-cftc-approval-expanding-futures-offerings.html",
     "category": "Commodities",
     "priority": 1
   }

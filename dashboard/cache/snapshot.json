@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:15:45.155447+00:00",
+  "generated_at": "2026-09-13T14:58:47.663555+00:00",
   "sections": {
     "yields": {
       "rows": [
@@ -104,7 +104,7 @@
         }
       ],
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "key_rates": {
       "rows": [
@@ -118,7 +118,7 @@
           "pct_change": 0.0,
           "ytd_change": 0.0,
           "ytd_avg": 3.75,
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "stale": false
         },
         {
@@ -131,7 +131,7 @@
           "pct_change": 0.0,
           "ytd_change": 0.0,
           "ytd_avg": 3.5,
-          "as_of": "2026-09-12",
+          "as_of": "2026-09-13",
           "stale": false
         },
         {
@@ -240,7 +240,7 @@
         }
       ],
       "source": "FRED",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "credit": {
       "rows": [
@@ -285,7 +285,7 @@
         }
       ],
       "source": "ICE BofA / Moody's via FRED",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "spreads": {
       "rows": [
@@ -340,7 +340,7 @@
         }
       ],
       "source": "U.S. Treasury (+ EFFR via FRED)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "curve": {
       "points": [
@@ -426,17 +426,17 @@
           "30Y": 5.35
         },
         "1m": {
-          "1M": 3.78,
+          "1M": 3.79,
           "3M": 3.87,
-          "6M": 3.97,
-          "1Y": 4.0,
-          "2Y": 4.2,
-          "3Y": 4.25,
-          "5Y": 4.38,
-          "7Y": 4.52,
-          "10Y": 4.68,
-          "20Y": 5.24,
-          "30Y": 5.24
+          "6M": 3.94,
+          "1Y": 3.97,
+          "2Y": 4.15,
+          "3Y": 4.2,
+          "5Y": 4.32,
+          "7Y": 4.47,
+          "10Y": 4.63,
+          "20Y": 5.2,
+          "30Y": 5.21
         },
         "1y": {
           "1M": 4.24,
@@ -456,7 +456,7 @@
       "spread_10y_2y": 0.33000000000000007,
       "as_of": "2026-09-11",
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "macro": {
       "rows": [
@@ -506,7 +506,7 @@
         }
       ],
       "source": "FRED (BLS/BEA)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "jpm_focus": {
       "rows": [
@@ -556,7 +556,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "volatility_futures": {
       "rows": [
@@ -596,11 +596,11 @@
         {
           "asset": "Dow Futures",
           "ticker": "YM=F",
-          "latest": 52585.0,
+          "latest": 52576.0,
           "previous": 52095.0,
-          "change": 490.0,
-          "pct_change": 0.9405893079950092,
-          "ytd_pct": 8.163978936975482,
+          "change": 481.0,
+          "pct_change": 0.923313177848162,
+          "ytd_pct": 8.145466513082113,
           "as_of": "2026-09-11",
           "stale": false
         },
@@ -617,7 +617,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "fixed_income": {
       "rows": [
@@ -711,18 +711,18 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "commodities": {
       "rows": [
         {
           "asset": "Gold",
           "ticker": "GC=F",
-          "latest": 4366.2001953125,
+          "latest": 4408.89990234375,
           "previous": 4364.5,
-          "change": 1.7001953125,
-          "pct_change": 0.038955099381372434,
-          "ytd_pct": 1.2006372645384602,
+          "change": 44.39990234375,
+          "pct_change": 1.0172964221273915,
+          "ytd_pct": 2.1903393783377365,
           "as_of": "2026-09-11",
           "stale": false
         },
@@ -751,28 +751,28 @@
         {
           "asset": "Copper",
           "ticker": "HG=F",
-          "latest": 6.4695000648498535,
+          "latest": 6.547999858856201,
           "previous": 6.4670000076293945,
-          "change": 0.0025000572204589844,
-          "pct_change": 0.038658685905513544,
-          "ytd_pct": 14.707450673773456,
+          "change": 0.08099985122680664,
+          "pct_change": 1.252510455098928,
+          "ytd_pct": 16.099291025983653,
           "as_of": "2026-09-11",
           "stale": false
         },
         {
           "asset": "Silver",
           "ticker": "SI=F",
-          "latest": 64.55400085449219,
+          "latest": 65.18800354003906,
           "previous": 64.28399658203125,
-          "change": 0.2700042724609375,
-          "pct_change": 0.4200178688585294,
-          "ytd_pct": -8.506716540245392,
+          "change": 0.9040069580078125,
+          "pct_change": 1.4062706211089897,
+          "ytd_pct": -7.608135714035464,
           "as_of": "2026-09-11",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "fx_crypto": {
       "rows": [
@@ -834,28 +834,28 @@
         {
           "asset": "Bitcoin",
           "ticker": "BTC-USD",
-          "latest": 77349.0,
-          "previous": 77173.796875,
-          "change": 175.203125,
-          "pct_change": 0.2270241093408688,
-          "ytd_pct": -12.828501982884907,
-          "as_of": "2026-09-12",
+          "latest": 77137.921875,
+          "previous": 77270.46875,
+          "change": -132.546875,
+          "pct_change": -0.17153626365182364,
+          "ytd_pct": -13.066384778459431,
+          "as_of": "2026-09-13",
           "stale": false
         },
         {
           "asset": "Ethereum",
           "ticker": "ETH-USD",
-          "latest": 2540.6298828125,
-          "previous": 2514.73388671875,
-          "change": 25.89599609375,
-          "pct_change": 1.0297708330299455,
-          "ytd_pct": -15.323466194831978,
-          "as_of": "2026-09-12",
+          "latest": 2490.4599609375,
+          "previous": 2525.944580078125,
+          "change": -35.484619140625,
+          "pct_change": -1.4048059256916672,
+          "ytd_pct": -16.995577160065633,
+          "as_of": "2026-09-13",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "global_indexes": {
       "rows": [
@@ -960,7 +960,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "equity_index": {
       "rows": [
@@ -1010,7 +1010,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-09-12T14:15:42.882822+00:00"
+      "fetched_at": "2026-09-13T14:58:46.147327+00:00"
     },
     "market_wrap": {
       "text": "In the 2026-09-11 session, the S&P 500 rose 0.86%, the Nasdaq rose 0.96% and the 10-year Treasury yield rose 1 bp to 4.96%. Stocks rose and bonds steadied after Friday\u2019s warm CPI report took \u2018a lot of the guesswork\u2019 out of next week\u2019s Fed decision (WSJ). stocks climbed, a signal that investors like the idea of a Federal Reserve rate hike tamping down inflation (WSJ).",
@@ -1028,8 +1028,8 @@
       ],
       "mode": "extractive",
       "as_of": "2026-09-11",
-      "generated_at": "2026-09-12T14:15:45.155219+00:00",
-      "fetched_at": "2026-09-12T14:15:45.155447+00:00"
+      "generated_at": "2026-09-13T14:58:47.663325+00:00",
+      "fetched_at": "2026-09-13T14:58:47.663555+00:00"
     }
   }
 }
