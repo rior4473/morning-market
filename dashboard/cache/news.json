@@ -22,12 +22,23 @@
     "priority": 5
   },
   {
-    "title": "Stock Market Today: Stocks Climb as Markets Retrace Post-Fed Moves",
+    "title": "The 10-year Treasury is having its worst run in over 100 years. Why investors are buying bonds anyway.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-17T21:22:00+00:00",
+    "published_ts": 1789680120.0,
+    "summary": "\u201cThe higher that yields go \u2014 for at least new money \u2014 it becomes more enticing to think about putting money into bonds,\u201d one strategist notes.",
+    "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 4
+  },
+  {
+    "title": "Stock Market Today: Stocks Climbed as Markets Retrace Post-Fed Moves",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-09-17T08:47:43+00:00",
     "published_ts": 1789634863.0,
-    "summary": "The 10-year Treasury yield is just below 5% as oil retreats",
+    "summary": "The 10-year Treasury yield fell below 5% after oil retreated",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-17-2026?mod=rss_markets_main",
     "category": "Fed",
     "priority": 4
@@ -55,17 +66,6 @@
     "priority": 4
   },
   {
-    "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-17T15:36:22.039273+00:00",
-    "published_ts": 1789659382.039273,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -85,17 +85,6 @@
     "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
     "link": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
     "category": "Economy",
-    "priority": 3
-  },
-  {
-    "title": "Daily Briefing: A-CAP Insurers Face Takeover Bid Over Risky Private Credit",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-17T10:55:00+00:00",
-    "published_ts": 1789642500.0,
-    "summary": "Plus, the Federal Reserve raises interest rates for the first time in three years.",
-    "link": "https://www.wsj.com/pro/bankruptcy/daily-briefing-a-cap-insurers-face-takeover-bid-over-risky-private-credit-cd70ad51?mod=rss_markets_main",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -165,11 +154,44 @@
     "priority": 3
   },
   {
+    "title": "The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-17T21:34:00+00:00",
+    "published_ts": 1789680840.0,
+    "summary": "Traders turned their attention away from inflation and interest rates toward tech stocks. And record donations are flowing into state attorneys general races.",
+    "link": "https://www.wsj.com/finance/investing/the-s-p-500-and-nasdaq-post-biggest-gains-in-six-weeks-d3ccd84e?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Stocks Rally, Shaking Off Fed\u2019s Rate Hike",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-17T20:36:00+00:00",
+    "published_ts": 1789677360.0,
+    "summary": "Plus, chip shares soar on Intel comments and SEC clears path for trading tokenized stocks",
+    "link": "https://www.wsj.com/finance/stocks/stocks-rally-shaking-off-feds-rate-hike-aebb2c0b?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Trump Blasts the Fed But Spares Kevin Warsh After Interest Rate Hike",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-17T17:16:13+00:00",
+    "published_ts": 1789665373.0,
+    "summary": "The president blasted the rest of the Fed \u2014 and kept up his demand for a cut \u2014 but spared Fed Chairman Kevin M. Warsh from the criticism.",
+    "link": "https://www.nytimes.com/2026/09/17/business/trump-warsh-fed-interest-rates.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
     "title": "The Bank of England kept its key interest rate unchanged, holding steady at a time when the Federal Reserve and European Central Bank have raised rates",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-17T14:42:00+00:00",
-    "published_ts": 1789656120.0,
+    "published": "2026-09-17T16:29:00+00:00",
+    "published_ts": 1789662540.0,
     "summary": "The U.K. central bank is monitoring for signs that higher energy costs are spilling over into everyday prices.",
     "link": "https://www.wsj.com/economy/central-banking/why-the-bank-of-england-didnt-follow-the-fed-in-raising-interest-rates-007dc4a4?mod=rss_socialeconomyfeed",
     "category": "Fed",
@@ -184,17 +206,6 @@
     "summary": "The Fed\u2019s hike is expected to wreak havoc on funds already struggling to sell companies and return cash to investors.",
     "link": "https://www.wsj.com/finance/investing/rising-rates-will-make-private-equitys-bad-year-a-lot-worse-255daf59?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 2
-  },
-  {
-    "title": "The smartest money moves to make now that interest rates are going up",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-17T14:04:00+00:00",
-    "published_ts": 1789653840.0,
-    "summary": "The Fed\u2019s quarter-point interest-rate hike will \u2018bite\u2019 consumers. Here\u2019s how to prep your money.",
-    "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -220,17 +231,6 @@
     "priority": 2
   },
   {
-    "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-17T13:15:00+00:00",
-    "published_ts": 1789650900.0,
-    "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
-    "link": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Trump Looks Isolated on Interest Rates",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -242,20 +242,9 @@
     "priority": 2
   },
   {
-    "title": "Trump gains a tariff weapon against China and India. Will he use it?",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-17T08:46:04+00:00",
-    "published_ts": 1789634764.0,
-    "summary": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
-    "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-    "category": "Commodities",
-    "priority": 2
-  },
-  {
     "title": "Here are five key takeaways from Wednesday's Fed rate hike",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-09-16T21:23:51+00:00",
     "published_ts": 1789593831.0,
     "summary": "The Fed on Wednesday delivered a much-expected interest rate hike.",
@@ -275,20 +264,9 @@
     "priority": 2
   },
   {
-    "title": "Fed Signals Another Rate Increase Could Be Coming",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-16T19:12:46+00:00",
-    "published_ts": 1789585966.0,
-    "summary": "Here\u2019s how to read the Federal Reserve\u2019s economic projections like a pro.",
-    "link": "https://www.nytimes.com/2026/09/16/business/fed-interest-rates-dot-plot.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "How the Fed\u2019s Interest Rate Increase Affects Your Finances",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-09-16T18:58:48+00:00",
     "published_ts": 1789585128.0,
     "summary": "The Federal Reserve increased its key rate by a quarter of a percentage point, but mortgages and other consumer loans have already trended higher.",
@@ -396,47 +374,69 @@
     "priority": 2
   },
   {
-    "title": "Ryanair (RYAAY) Slashes its Winter Flight Plans to Dodge a Costly Oil Spike",
+    "title": "Crude Oil Prices Retreat as Supply Fears Ease",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-17T15:36:22.039140+00:00",
-    "published_ts": 1789659382.03914,
+    "published": "2026-09-17T23:27:25.472147+00:00",
+    "published_ts": 1789687645.472147,
     "summary": "",
-    "link": "https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
+    "link": "https://finance.yahoo.com/energy/articles/crude-oil-prices-retreat-supply-153920479.html",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Nasdaq Leads Charge After Fed Day; Nvidia, Amazon Rise (Live Coverage)",
+    "title": "First Phosphate gets Swiss export credit backing worth up to US$212.5M",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-17T15:36:22.039066+00:00",
-    "published_ts": 1789659382.039066,
+    "published": "2026-09-17T23:27:25.472035+00:00",
+    "published_ts": 1789687645.472035,
     "summary": "",
-    "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-fed-reaction-generac-nebius-bloom-energy-spacex/?src=A00220&yptr=yahoo",
-    "category": "Fed",
+    "link": "https://finance.yahoo.com/economy/policy/articles/first-phosphate-gets-swiss-export-125500788.html",
+    "category": "Markets",
     "priority": 1
   },
   {
     "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-17T15:36:22.038954+00:00",
-    "published_ts": 1789659382.038954,
+    "published": "2026-09-17T23:27:25.471870+00:00",
+    "published_ts": 1789687645.47187,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
+    "title": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-17T21:22:00+00:00",
+    "published_ts": 1789680120.0,
+    "summary": "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
+    "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Investors Come Back to AI Stocks, Snapping Market Out of Inflation Gloom",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-17T21:18:00+00:00",
+    "published_ts": 1789679880.0,
+    "summary": "The S&amp;P 500 and Nasdaq composite posted their biggest one-day gains in six weeks.",
+    "link": "https://www.wsj.com/finance/stocks/investors-come-back-to-ai-stocks-snapping-market-out-of-inflation-gloom-a7690ce5?mod=rss_markets_main",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-17T15:35:45+00:00",
-    "published_ts": 1789659345.0,
-    "summary": "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
-    "link": "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-    "category": "Markets",
+    "published": "2026-09-17T19:57:41+00:00",
+    "published_ts": 1789675061.0,
+    "summary": "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall.",
+    "link": "https://www.cnbc.com/2026/09/17/social-security-reform-cant-wait-former-treasury-secretary-jack-lew.html",
+    "category": "Fixed Income",
     "priority": 1
   }
 ]
