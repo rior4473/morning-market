@@ -165,25 +165,36 @@
     "priority": 3
   },
   {
+    "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-09-21T23:55:24.704047+00:00",
+    "published_ts": 1790034924.704047,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-rise-as-ai-stocks-gain-oil-prices-slide-4908497",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Africa Digs Up Tons of Illicit Gold. A Fabled Refinery Wants to Make It Legit.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-21T19:59:00+00:00",
+    "published_ts": 1790020740.0,
+    "summary": "The century-old Rand Refinery, long the go-to destination for Africa\u2019s commercially mined gold, is trying to integrate often-problematic artisanal gold into its supply.",
+    "link": "https://www.wsj.com/finance/commodities-futures/africa-digs-up-tons-of-illicit-gold-a-fabled-refinery-wants-to-make-it-legit-8104c5ab?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
     "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-09-21T15:04:04+00:00",
     "published_ts": 1790003044.0,
     "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
     "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Why It\u2019s So Hard to Work Out What the Bond Market Is Telling Us",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-20T09:30:00+00:00",
-    "published_ts": 1789896600.0,
-    "summary": "Did bond yields rise because the economy is strong or because America\u2019s credibility is on the line?",
-    "link": "https://www.wsj.com/finance/investing/why-its-so-hard-to-work-out-what-the-bond-market-is-telling-us-aeac2d3a?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -253,6 +264,28 @@
     "priority": 2
   },
   {
+    "title": "Federal Reserve issues FOMC statement",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-09-16T18:00:00+00:00",
+    "published_ts": 1789581600.0,
+    "summary": "Federal Reserve issues FOMC statement",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-09-16T18:00:00+00:00",
+    "published_ts": 1789581600.0,
+    "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
     "title": "Bessent Defends Faltering Bond Market Intervention",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -272,17 +305,6 @@
     "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
     "link": "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Why Mortgage Bonds Are at Risk if Rates Rise\u2014and if They Fall",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-14T09:30:00+00:00",
-    "published_ts": 1789378200.0,
-    "summary": "There are fewer people sitting on ultracheap mortgages than you might think.",
-    "link": "https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -308,90 +330,46 @@
     "priority": 2
   },
   {
-    "title": "Europe\u2019s STOXX 600 rallies on tech, banks strength as oil prices retreat",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-21T17:08:58.300247+00:00",
-    "published_ts": 1790010538.300247,
+    "title": "Chevron (CVX) Supercharges its Venezuela Bet with More Oil Rigs",
+    "source": "Yahoo Finance",
+    "feed": "Yahoo Finance",
+    "published": "2026-09-21T23:55:24.333149+00:00",
+    "published_ts": 1790034924.333149,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-as-tech-rallies-oil-retreat-eases-nerves-4908362",
+    "link": "https://finance.yahoo.com/energy/articles/chevron-cvx-supercharges-venezuela-bet-151837921.html",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "IBM stock outlook: trading at a discount with mixed signals ahead of October earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-21T17:08:58.300211+00:00",
-    "published_ts": 1790010538.300211,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/ibm-stock-outlook-trading-at-a-discount-with-mixed-signals-ahead-of-october-earnings-93CH-4909452",
+    "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-21T21:00:00+00:00",
+    "published_ts": 1790024400.0,
+    "summary": "\u201cOn each of these weekends away, she\u2019s probably spending $500.\u201d",
+    "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Novo Nordisk\u2019s stock tumbles as doubts persist about Ozempic maker\u2019s strategy",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-21T20:23:00+00:00",
+    "published_ts": 1790022180.0,
+    "summary": "The drugmaker, best known for developing weight-loss and diabetes drugs, failed to excite investors hoping for a turnaround.",
+    "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Best Wells Fargo credit cards (2026)",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-21T17:08:58.113091+00:00",
-    "published_ts": 1790010538.113091,
-    "summary": "",
-    "link": "https://finance.yahoo.com/personal-finance/credit-cards/article/best-wells-fargo-credit-cards-164310496.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Old Dominion pulls forward 4.9% GRI as LTL carriers accelerate rate hikes",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-21T17:08:58.113082+00:00",
-    "published_ts": 1790010538.113082,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/stocks/articles/old-dominion-pulls-forward-4-155854438.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Weekly survey of mortgage lenders with the lowest rates: Sub-6% rates disappearing",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-21T17:08:58.112928+00:00",
-    "published_ts": 1790010538.112928,
-    "summary": "",
-    "link": "https://finance.yahoo.com/personal-finance/mortgages/article/weekly-survey-mortgage-lenders-with-the-best-lowest-rates-september-21-170834159.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Stock market today: Nasdaq leads Dow, S&P 500 higher as chip stocks and bitcoin rally, oil prices fall",
-    "source": "Yahoo Finance",
-    "feed": "Yahoo Finance",
-    "published": "2026-09-21T17:08:58.112912+00:00",
-    "published_ts": 1790010538.112912,
-    "summary": "",
-    "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    "title": "Paramount and state AGs settle lawsuit, allowing Warner Bros. merger to proceed",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-21T16:53:00+00:00",
-    "published_ts": 1790009580.0,
-    "summary": "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
-    "link": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "This is the \u2018most underappreciated\u2019 driver for Microsoft\u2019s business, according to one analyst",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-21T15:39:00+00:00",
-    "published_ts": 1790005140.0,
-    "summary": "Investors understand Microsoft\u2019s cloud-computing opportunities, but may not be giving enough credit to the revenue potential of its software business.",
-    "link": "https://www.marketwatch.com/story/this-is-the-most-underappreciated-driver-for-microsoft-according-to-one-analyst-f9a5e4eb?mod=mw_rss_topstories",
+    "published": "2026-09-21T20:13:15+00:00",
+    "published_ts": 1790021595.0,
+    "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+    "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
     "category": "Geopolitics",
     "priority": 1
   },
@@ -407,28 +385,6 @@
     "priority": 1
   },
   {
-    "title": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-21T15:18:41+00:00",
-    "published_ts": 1790003921.0,
-    "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
-    "link": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "AI is a Pandora\u2019s box that some CEOs seem wary of opening \u2014 at least with investors",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-21T14:57:00+00:00",
-    "published_ts": 1790002620.0,
-    "summary": "Corporate America may be broadly using AI, but an analyst noted that some management teams are hesitant to bring it up with investors because it won\u2019t translate to financial results just yet.",
-    "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "U.S. and China Discuss System to Warn of A.I. National Security Issues",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -437,6 +393,50 @@
     "summary": "In a meeting on Sunday, the U.S. Treasury secretary and China\u2019s vice premier talked about having a shared vision on the goals of artificial intelligence and the threats it poses.",
     "link": "https://www.nytimes.com/2026/09/20/business/us-china-ai-warning-system-national-security.html",
     "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Harley-Davidson dealers are worried about sticker shock for its Canadian consumers",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-09-21T09:30:00+00:00",
+    "published_ts": 1789983000.0,
+    "summary": "The U.S. motorcycle maker\u2019s politically sensitive profile keeps it on the tariff payback list.",
+    "link": "https://www.wsj.com/economy/trade/how-harley-davidson-an-american-icon-became-a-tariff-punching-bag-3eb09c06?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market News, Sept. 21, 2026: Nasdaq Rises to Record as Oil-Price Drop Unlocks Rally",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-21T08:45:28+00:00",
+    "published_ts": 1789980328.0,
+    "summary": "AI shares march higher, crude oil falls more than 3%",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-19T12:50:49+00:00",
+    "published_ts": 1789822249.0,
+    "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+    "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "New Report on SVB Collapse Pins Blame on Fed\u2019s Own Regulators, Fed Official Says",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-18T17:51:00+00:00",
+    "published_ts": 1789753860.0,
+    "summary": "The report, commissioned by Trump ally Michelle Bowman, blamed bank-supervision staff in the Biden era.",
+    "link": "https://www.wsj.com/economy/central-banking/new-fed-report-on-svb-collapse-pins-blame-on-feds-own-regulators-9a3cb062?mod=rss_markets_main",
+    "category": "Fed",
     "priority": 1
   }
 ]
