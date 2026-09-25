@@ -1,16 +1,5 @@
 [
   {
-    "title": "\u2018We were wrong.\u2019 Why Morgan Stanley changed its tune on the U.S. dollar \u2014 and what it expects now.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-25T13:30:00+00:00",
-    "published_ts": 1790343000.0,
-    "summary": "Rising bond yields and expected Fed rate hikes have wrecked the bank\u2019s forecast for the buck",
-    "link": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 5
-  },
-  {
     "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -44,17 +33,6 @@
     "priority": 4
   },
   {
-    "title": "The Robust U.S. Economy Powers Through Rate Hikes and Rising Bond Yields",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-25T01:00:00+00:00",
-    "published_ts": 1790298000.0,
-    "summary": "AI-driven growth looks resistant to higher borrowing costs, spooking Treasury investors.",
-    "link": "https://www.wsj.com/finance/investing/us-economy-bond-market-0bfda8b3?mod=rss_markets_main",
-    "category": "Fed",
-    "priority": 4
-  },
-  {
     "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -77,13 +55,13 @@
     "priority": 4
   },
   {
-    "title": "Bond Traders Are Paying Too Much Attention to the Oil Price",
+    "title": "Stock Market News, Sept. 25, 2026: Bond Yields Drop With Oil Prices Near End of Volatile Week",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-24T22:00:00+00:00",
-    "published_ts": 1790287200.0,
-    "summary": "Bond yields and oil are dancing to the same tune, but in some ways that doesn\u2019t make sense.",
-    "link": "https://www.wsj.com/finance/investing/bond-traders-are-paying-too-much-attention-to-the-oil-price-faa6a6cb?mod=rss_markets_main",
+    "published": "2026-09-25T08:52:23+00:00",
+    "published_ts": 1790326343.0,
+    "summary": "Dow rises amid hopes for a deal to reopen the Strait of Hormuz",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -165,6 +143,28 @@
     "priority": 3
   },
   {
+    "title": "A \u2018death cross\u2019 is coming for the dollar. Why Trump will be happy.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-25T21:57:00+00:00",
+    "published_ts": 1790373420.0,
+    "summary": "Don\u2019t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that \u201cI am the house now.\u201d",
+    "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-25T21:06:00+00:00",
+    "published_ts": 1790370360.0,
+    "summary": "The Dow snaps its three-session losing streak, finishing the week higher.",
+    "link": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -173,28 +173,6 @@
     "summary": "Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.",
     "link": "https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "8% mortgage rates are \u2018not an impossibility\u2019 as the 30-year fixed rate surges",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-25T14:42:00+00:00",
-    "published_ts": 1790347320.0,
-    "summary": "With the 10-year Treasury up sharply and the outlook for the U.S. economy looking unclear, some say 8% mortgage rates are back on the table.",
-    "link": "https://www.marketwatch.com/story/8-mortgage-rates-are-not-an-impossibility-as-the-30-year-fixed-rate-surges-aa202464?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Why investors aren\u2019t buying yet another attempt by the Treasury Department to calm the rattled bond market",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-25T14:17:00+00:00",
-    "published_ts": 1790345820.0,
-    "summary": "Back-to-back weak auctions for Treasury notes show that government repurchases haven\u2019t spurred demand for bonds.",
-    "link": "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -209,17 +187,6 @@
     "priority": 2
   },
   {
-    "title": "The options market is sending a contrarian signal about oil prices",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-25T13:43:00+00:00",
-    "published_ts": 1790343780.0,
-    "summary": "Also: How to use options around earnings to trade Nike\u2019s stock, which has been down in the dumps for years.",
-    "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 2
-  },
-  {
     "title": "Warsh's regime change at the Fed pushes ahead \u2013 and meets resistance",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -228,17 +195,6 @@
     "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
     "link": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market Today: Bond Yields Move Higher Near End of Volatile Week",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-25T08:52:23+00:00",
-    "published_ts": 1790326343.0,
-    "summary": "Dow edges up amid hopes for a deal to reopen Hormuz",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -363,33 +319,11 @@
     "priority": 2
   },
   {
-    "title": "B. Riley\u2019s Top Biotech Picks Ahead of 3Q26 Earnings Season",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-25T15:53:07.435315+00:00",
-    "published_ts": 1790351587.435315,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/b-rileys-top-biotech-picks-ahead-of-3q26-earnings-season-4917781",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Cognition AI hits $1 billion run rate amid demand for coding software - Bloomberg",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-25T15:53:07.435194+00:00",
-    "published_ts": 1790351587.435194,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/cognition-ai-hits-1-billion-run-rate-amid-demand-for-coding-software--bloomberg-4917797",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-25T15:53:07.173907+00:00",
-    "published_ts": 1790351587.173907,
+    "published": "2026-09-25T23:54:22.402071+00:00",
+    "published_ts": 1790380462.402071,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
     "category": "Commodities",
@@ -399,44 +333,110 @@
     "title": "Strive CEO: Bitcoin Could \u2018Go to Infinity' as Dollar Debt Crisis Breaks",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-25T15:53:07.173850+00:00",
-    "published_ts": 1790351587.17385,
+    "published": "2026-09-25T23:54:22.402005+00:00",
+    "published_ts": 1790380462.402005,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
     "category": "Crypto",
     "priority": 1
   },
   {
-    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-25T15:51:25+00:00",
-    "published_ts": 1790351485.0,
-    "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
-    "link": "https://www.cnbc.com/2026/09/25/microsoft-copilot-ai-coding-anthropic.html",
+    "title": "\u2018She says it\u2019s just money\u2019: My friend pays for everything. I should be grateful, but I can\u2019t stand her anymore.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-25T22:00:00+00:00",
+    "published_ts": 1790373600.0,
+    "summary": "\u201cOn each of these weekends away, she\u2019s probably spending $500.\u201d",
+    "link": "https://www.marketwatch.com/story/she-says-its-just-money-my-friend-pays-for-everything-i-should-be-grateful-but-i-cant-stand-her-anymore-2e7c5c10?mod=mw_rss_topstories",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+    "title": "A 10% risk-free yield? For some, yes.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-25T14:39:00+00:00",
-    "published_ts": 1790347140.0,
-    "summary": "A new bill calling for lowering Social Security\u2019s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered system among workers, retirement experts said.",
-    "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
-    "category": "Economy",
+    "published": "2026-09-25T20:32:00+00:00",
+    "published_ts": 1790368320.0,
+    "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+    "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-09-25T20:30:00+00:00",
+    "published_ts": 1790368200.0,
+    "summary": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+    "category": "Fed",
     "priority": 1
   },
   {
     "title": "Don\u2019t Fall for Bond Funds That Say They\u2019re Beating the Market",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-25T14:00:00+00:00",
-    "published_ts": 1790344800.0,
+    "published": "2026-09-25T20:16:00+00:00",
+    "published_ts": 1790367360.0,
     "summary": "Active bond funds claim to beat the benchmark, but hidden risks often drive returns.",
     "link": "https://www.wsj.com/finance/investing/dont-fall-for-bond-funds-that-say-theyre-beating-the-market-fe8876d4?mod=rss_markets_main",
     "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "U.S. crude oil falls nearly 8% for the week after Tehran and Washington hold talks at the U.N.",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-25T19:38:31+00:00",
+    "published_ts": 1790365111.0,
+    "summary": "Iran has asked the U.S. to meet the same conditions laid out in the June 17 memorandum of understanding, Iran's foreign minister said.",
+    "link": "https://www.cnbc.com/2026/09/25/oil-falls-as-potential-diplomatic-solution-to-iran-conflict-arises.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-25T18:46:23+00:00",
+    "published_ts": 1790361983.0,
+    "summary": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
+    "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-25T17:57:14+00:00",
+    "published_ts": 1790359034.0,
+    "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
+    "link": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump says Scott Bessent won't be AI czar",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-25T17:28:32+00:00",
+    "published_ts": 1790357312.0,
+    "summary": "President Donald Trump said Treasury Secretary Bessent doesn't want to be what the president is calling the \"Super Intelligence czar.\"",
+    "link": "https://www.cnbc.com/2026/09/25/trump-bessent-ai-czar.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-25T17:19:19+00:00",
+    "published_ts": 1790356759.0,
+    "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
+    "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "category": "Markets",
     "priority": 1
   }
 ]
