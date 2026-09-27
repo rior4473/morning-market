@@ -1,5 +1,27 @@
 [
   {
+    "title": "Look closer, and Wall Street\u2019s rally is showing cracks",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-27T13:00:00+00:00",
+    "published_ts": 1790514000.0,
+    "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+    "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
+    "title": "Why the upcoming jobs report could send 10-year and 30-year Treasury yields surging",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-27T11:00:00+00:00",
+    "published_ts": 1790506800.0,
+    "summary": "Another hot jobs report could also pressure the Federal Reserve to raise interest rates again in October.",
+    "link": "https://www.marketwatch.com/story/why-the-upcoming-jobs-report-could-send-10-year-and-30-year-treasury-yields-surging-67eab4ba?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
     "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -13,7 +35,7 @@
   {
     "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-09-26T13:30:06+00:00",
     "published_ts": 1790429406.0,
     "summary": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
@@ -66,6 +88,17 @@
     "priority": 4
   },
   {
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-27T15:35:34+00:00",
+    "published_ts": 1790523334.0,
+    "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+    "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
     "title": "Stock Market News, Sept. 25, 2026: Bond Yields Drop With Oil Prices Near End of Volatile Week",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -73,17 +106,6 @@
     "published_ts": 1790326343.0,
     "summary": "Dow rises amid hopes for a deal to reopen the Strait of Hormuz",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-25-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "History shows financial calamities occur when rates rise rapidly like this: 'Something always breaks'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-24T20:57:11+00:00",
-    "published_ts": 1790283431.0,
-    "summary": "The 10-year Treasury note yield is spiking to levels not seen in years, and that may be a bad omen for financial markets.",
-    "link": "https://www.cnbc.com/2026/09/24/history-shows-financial-calamities-occur-when-rates-rise-rapidly-like-this-something-always-breaks.html",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -96,17 +118,6 @@
     "summary": "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
     "link": "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
     "category": "Economy",
-    "priority": 3
-  },
-  {
-    "title": "Don\u2019t Count Out Corporate Bonds Just Because the Fed Is Raising Rates",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-19T09:30:00+00:00",
-    "published_ts": 1789810200.0,
-    "summary": "A healthy economy and reduced issuance by tech companies could support corporate debt.",
-    "link": "https://www.wsj.com/finance/investing/dont-count-out-corporate-bonds-just-because-the-fed-is-raising-rates-de2e787a?mod=rss_markets_main",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -154,6 +165,17 @@
     "priority": 3
   },
   {
+    "title": "Stocks Are Defying Surging Bond Yields. Here\u2019s What History Says Could Come Next.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-09-27T01:00:00+00:00",
+    "published_ts": 1790470800.0,
+    "summary": "Investors panicked in 1994 and cheered in 2016. But, they\u2019re now debating how to handle 2026.",
+    "link": "https://www.wsj.com/finance/investing/stocks-are-defying-surging-bond-yields-heres-what-history-says-could-come-next-7d13bb2d?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Stocks Rise to Cap Week of Increasing Yields, Volatile Oil Prices",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -162,17 +184,6 @@
     "summary": "The Dow snaps its three-session losing streak, finishing the week higher.",
     "link": "https://www.wsj.com/finance/stocks/stocks-rise-to-cap-week-of-increasing-yields-volatile-oil-prices-de1cba89?mod=rss_markets_main",
     "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-09-25T15:38:16+00:00",
-    "published_ts": 1790350696.0,
-    "summary": "Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October.",
-    "link": "https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -206,17 +217,6 @@
     "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
     "link": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
     "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "\u2018It's awful\u2019: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-09-21T15:04:04+00:00",
-    "published_ts": 1790003044.0,
-    "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-    "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -297,22 +297,11 @@
     "priority": 2
   },
   {
-    "title": "Gold Fields approaches Northern Star over potential takeover, Bloomberg reports",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-09-26T15:03:15.402067+00:00",
-    "published_ts": 1790434995.402067,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/gold-fields-approaches-northern-star-over-potential-takeover-bloomberg-reports-4918575",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-26T15:03:15.214542+00:00",
-    "published_ts": 1790434995.214542,
+    "published": "2026-09-27T15:42:52.087648+00:00",
+    "published_ts": 1790523772.087648,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
     "category": "Commodities",
@@ -322,54 +311,87 @@
     "title": "Strive CEO: Bitcoin Could \u2018Go to Infinity' as Dollar Debt Crisis Breaks",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-09-26T15:03:15.214476+00:00",
-    "published_ts": 1790434995.214476,
+    "published": "2026-09-27T15:42:52.087583+00:00",
+    "published_ts": 1790523772.087583,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
     "category": "Crypto",
     "priority": 1
   },
   {
+    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-09-27T14:33:22+00:00",
+    "published_ts": 1790519602.0,
+    "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+    "link": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-27T14:00:00+00:00",
+    "published_ts": 1790517600.0,
+    "summary": "Micron is increasingly important to the S&amp;P 500, and its earnings report has become \u201ca market event in and of itself.\u201d",
+    "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "As A.I. Accelerates, Governments Are Increasingly Being Left Behind",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-09-27T11:22:48+00:00",
+    "published_ts": 1790508168.0,
+    "summary": "The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.",
+    "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-09-26T17:54:00+00:00",
+    "published_ts": 1790445240.0,
+    "summary": "Rising prices have been crushing consumer confidence and biting at Americans\u2019 wallets for more than five years now.",
+    "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
     "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-26T14:55:59+00:00",
-    "published_ts": 1790434559.0,
+    "published": "2026-09-26T16:57:57+00:00",
+    "published_ts": 1790441877.0,
     "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
     "link": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
     "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "A new bill in Congress would lower the retirement age to 60. See who would qualify.",
+    "title": "A 10% risk-free yield? For some, yes.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-26T14:19:00+00:00",
-    "published_ts": 1790432340.0,
-    "summary": "A new bill calling for lowering Social Security\u2019s full retirement age from 67 to 60 for workers in physically demanding jobs could put additional strain on the trust fund that backs the system and create a two-tiered system among workers, retirement experts said.",
-    "link": "https://www.marketwatch.com/story/a-new-bill-in-congress-would-lower-the-retirement-age-to-60-see-who-would-qualify-10563052?mod=mw_rss_topstories",
-    "category": "Economy",
+    "published": "2026-09-26T16:51:00+00:00",
+    "published_ts": 1790441460.0,
+    "summary": "This could be a bargain, especially for very high earners and those in high-tax locations.",
+    "link": "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?",
+    "title": "This may be the \u2018missing piece\u2019 for investors looking to boost AI exposure",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-09-26T14:16:07+00:00",
-    "published_ts": 1790432167.0,
-    "summary": "The public has soured on AI data centers and states are slowing development, but for HVAC, plumbing, welding, and electrical workers, it's been a jobs boom.",
-    "link": "https://www.cnbc.com/2026/09/26/blue-collar-jobs-ai-data-center-backlash.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "\u2018It doesn\u2019t seem fair\u2019: I\u2019m retired and have plenty of money. Why can\u2019t I qualify for a retail credit card?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-09-26T13:15:00+00:00",
-    "published_ts": 1790428500.0,
-    "summary": "\u201cI draw from my IRA as needed for household repairs, trips and other larger expenses.\u201d",
-    "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+    "published": "2026-09-26T15:00:01+00:00",
+    "published_ts": 1790434801.0,
+    "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy.",
+    "link": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
     "category": "Markets",
     "priority": 1
   },
@@ -415,28 +437,6 @@
     "summary": "Active bond funds claim to beat the benchmark, but hidden risks often drive returns.",
     "link": "https://www.wsj.com/finance/investing/dont-fall-for-bond-funds-that-say-theyre-beating-the-market-fe8876d4?mod=rss_markets_main",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "AI Is Supercharging Stock Scams",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-09-25T10:32:00+00:00",
-    "published_ts": 1790332320.0,
-    "summary": "Plus, the bond panic subsides.",
-    "link": "https://www.wsj.com/finance/investing/ai-is-supercharging-stock-scams-62fb2811?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "The rental market in Portland, Ore., is so depressed that high earners are paying some of the same rents as lower-income residents who qualify for subsidized housing",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-25T09:30:00+00:00",
-    "published_ts": 1790328600.0,
-    "summary": "Rarely has the Oregon city seen such a narrow price gap between market-rate and affordable units.",
-    "link": "https://www.wsj.com/real-estate/portland-real-estate-is-such-a-mess-that-all-housing-is-affordable-housing-26bbea6a?mod=rss_socialeconomyfeed",
-    "category": "Economy",
     "priority": 1
   }
 ]
