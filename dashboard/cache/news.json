@@ -33,28 +33,6 @@
     "priority": 4
   },
   {
-    "title": "Nasdaq Leads Stocks Higher as Hiring Softens",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-02T20:30:00+00:00",
-    "published_ts": 1790973000.0,
-    "summary": "Plus, bond yields turn higher and oil falls as G-7 agrees to release diesel and crude.",
-    "link": "https://www.wsj.com/finance/investing/nasdaq-leads-stocks-higher-as-hiring-softens-9a254192?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-02T20:03:56+00:00",
-    "published_ts": 1790971436.0,
-    "summary": "U.S. Treasury yields rose despite a September jobs report came in much weaker than expected.",
-    "link": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Week Ahead for FX, Bonds: Fed Minutes in Focus as Near-Term Rate-Hike Prospects Dim",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -77,20 +55,9 @@
     "priority": 3
   },
   {
-    "title": "\u2018A Fabulous Debt\u2019 Review: In the Name of Good Credit",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-02T15:38:00+00:00",
-    "published_ts": 1790955480.0,
-    "summary": "In the 17th century, the Dutch invented perpetual bonds. Some are still yielding returns today.",
-    "link": "https://www.wsj.com/arts-culture/books/a-fabulous-debt-review-in-the-name-of-good-credit-6e1ff1aa?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-02T13:45:58+00:00",
     "published_ts": 1790948758.0,
     "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
@@ -101,7 +68,7 @@
   {
     "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-10-02T13:29:27+00:00",
     "published_ts": 1790947767.0,
     "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
@@ -154,6 +121,17 @@
     "priority": 3
   },
   {
+    "title": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-03T15:11:32.379830+00:00",
+    "published_ts": 1791040292.37983,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/usrussia-talks-on-ukraine-involve-multibillion-dollar-oil-deal-nyt-reports-4930830",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
     "title": "AI Is Squeezing Out the Rest of the Stock Market",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -162,28 +140,6 @@
     "summary": "Expect stocks outside tech to struggle, earnings to expand more slowly and concern about credit risk to grow.",
     "link": "https://www.wsj.com/finance/investing/ai-is-squeezing-out-the-rest-of-the-stock-market-60928dd3?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 2
-  },
-  {
-    "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-02T22:01:17+00:00",
-    "published_ts": 1790978477.0,
-    "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation.",
-    "link": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "The Underwhelming Jobs Data That Sparked a Stock Rally",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-02T20:53:00+00:00",
-    "published_ts": 1790974380.0,
-    "summary": "The September report eased fears of further rate increases, boosting the Nasdaq to an intraday high.",
-    "link": "https://www.wsj.com/finance/stocks/the-underwhelming-jobs-data-that-sparked-a-stock-rally-a8f0b3a5?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 2
   },
   {
@@ -200,7 +156,7 @@
   {
     "title": "Hiring Slows as U.S. Jobs Report Shows Labor Market Shifting Into Lower Gear",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-02T17:09:45+00:00",
     "published_ts": 1790960985.0,
     "summary": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
@@ -355,8 +311,8 @@
     "title": "G7 countries agree on release of diesel and oil stocks after US pressure",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-03T00:15:31.126727+00:00",
-    "published_ts": 1790986531.126727,
+    "published": "2026-10-03T15:11:32.379979+00:00",
+    "published_ts": 1791040292.379979,
     "summary": "",
     "link": "https://www.investing.com/news/stock-market-news/europe-discussing-plan-for-diesel-stock-releases-after-us-pressure-source-says-4929100",
     "category": "Commodities",
@@ -366,8 +322,8 @@
     "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-10-03T00:15:30.822572+00:00",
-    "published_ts": 1790986530.822572,
+    "published": "2026-10-03T15:11:32.145658+00:00",
+    "published_ts": 1791040292.145658,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
     "category": "Commodities",
@@ -377,22 +333,99 @@
     "title": "Strive CEO: Bitcoin Could \u2018Go to Infinity' as Dollar Debt Crisis Breaks",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-10-03T00:15:30.822517+00:00",
-    "published_ts": 1790986530.822517,
+    "published": "2026-10-03T15:11:32.145589+00:00",
+    "published_ts": 1791040292.145589,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
     "category": "Crypto",
     "priority": 1
   },
   {
-    "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
+    "title": "The Treasury Department started Trump accounts for 60 million kids \u2014 but families still have to take this step if they want one",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-02T21:54:00+00:00",
-    "published_ts": 1790978040.0,
-    "summary": "Is it time to dust off the financial playbook from that dismal decade?",
-    "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+    "published": "2026-10-03T15:06:00+00:00",
+    "published_ts": 1791039960.0,
+    "summary": "Here\u2019s what parents seeking the $1,000 seed money for their child need to know.",
+    "link": "https://www.marketwatch.com/story/the-treasury-department-started-trump-accounts-for-60-million-kids-but-families-still-have-to-take-this-step-if-they-want-one-003d9282?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Cars have become unaffordable for many Americans. Here\u2019s what the numbers show.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-03T14:36:00+00:00",
+    "published_ts": 1791038160.0,
+    "summary": "At today\u2019s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+    "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Novig credits Sydney Sweeney-backed campaign for platform\u2019s surge in growth",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-03T13:30:48+00:00",
+    "published_ts": 1791034248.0,
+    "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
+    "link": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "High interest rates are foreclosing on the American home remodeling dream",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-03T13:11:37+00:00",
+    "published_ts": 1791033097.0,
+    "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
+    "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-03T13:00:00+00:00",
+    "published_ts": 1791032400.0,
+    "summary": "The bottom didn\u2019t drop out of the labor market after a poor September U.S. jobs report. But what it did show is hiring is slow and it\u2019s a tough time to find work.",
+    "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "China Resumes Curbs on Fuel Exports, Tightening Global Energy Markets",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-03T12:47:42+00:00",
+    "published_ts": 1791031662.0,
+    "summary": "China has started limiting exports of refined products again as its own inventories of crude oil and refined products have dwindled.",
+    "link": "https://www.nytimes.com/2026/10/02/business/china-exports-diesel-energy.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-03T12:00:01+00:00",
+    "published_ts": 1791028801.0,
+    "summary": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
+    "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "How the French Bond Trade Backfired on Investors",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-03T09:30:00+00:00",
+    "published_ts": 1791019800.0,
+    "summary": "Hedge funds piled into leveraged bets over the summer, figuring French politics wouldn\u2019t get much rockier.",
+    "link": "https://www.wsj.com/finance/investing/how-the-french-bond-trade-backfired-on-investors-4f2aba71?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -403,39 +436,6 @@
     "published_ts": 1790973900.0,
     "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-02T20:36:55+00:00",
-    "published_ts": 1790973415.0,
-    "summary": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
-    "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Europe\u2019s leaders rush to release diesel from stockpiles as fuel shock hangs over U.S. midterms",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-02T20:26:00+00:00",
-    "published_ts": 1790972760.0,
-    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-    "link": "https://www.marketwatch.com/story/europes-leaders-rush-to-release-diesel-from-stockpiles-as-fuel-shock-hangs-over-u-s-midterms-80bf0f38?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-02T20:00:00+00:00",
-    "published_ts": 1790971200.0,
-    "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
     "category": "Fed",
     "priority": 1
   }
