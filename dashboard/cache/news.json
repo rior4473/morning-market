@@ -11,28 +11,6 @@
     "priority": 5
   },
   {
-    "title": "These bond strategies can help you get a safe 5% return on your cash",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-03T18:49:00+00:00",
-    "published_ts": 1791053340.0,
-    "summary": "With U.S. Treasury yields on the rise, financial planners say they\u2019re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
-    "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
-    "title": "Dollar Falls After Weak U.S. Jobs Data, Boosting Swiss Franc Further",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-02T14:34:00+00:00",
-    "published_ts": 1790951640.0,
-    "summary": "The U.S. dollar fell after weaker-than-expected U.S. jobs data dampened expectations for another interest-rate rise by the Federal Reserve later this month.",
-    "link": "https://www.wsj.com/economy/central-banking/swiss-franc-rises-as-dollar-eases-and-french-german-yield-spreads-widen-sharply-59b3a50e?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 4
-  },
-  {
     "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -44,14 +22,25 @@
     "priority": 4
   },
   {
-    "title": "Stock Funds Cling to a 10.3% Gain for 2026",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-04T14:00:00+00:00",
-    "published_ts": 1791122400.0,
-    "summary": "Slammed by rising interest rates and global turmoil, markets were resilient in the third quarter. Plus: A Financial Flashback to 15 years ago, Steve Jobs\u2019s death.",
-    "link": "https://www.wsj.com/finance/investing/stock-funds-q3-2026-ebcfc5c8?mod=rss_markets_main",
-    "category": "Commodities",
+    "title": "High Interest Rates Aren\u2019t Slowing the A.I. Boom. That\u2019s a Problem for the Fed.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-05T15:27:50+00:00",
+    "published_ts": 1791214070.0,
+    "summary": "Rising borrowing costs are taking a toll on households and businesses. But they are doing little to dampen enthusiasm for investments in A.I. infrastructure, which are contributing to inflation.",
+    "link": "https://www.nytimes.com/2026/10/05/business/ai-boom-interest-rates-fed.html",
+    "category": "Economy",
+    "priority": 3
+  },
+  {
+    "title": "Rebuked by Bond Market, Bessent Says \u2018House\u2019 Does Not Always Win",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-04T18:33:25+00:00",
+    "published_ts": 1791138805.0,
+    "summary": "The Treasury secretary said in an interview with Axios that he cannot control the Treasury market but argued that U.S. bond yields would come back down over time.",
+    "link": "https://www.nytimes.com/2026/10/04/business/bond-market-scott-bessent.html",
+    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -68,7 +57,7 @@
   {
     "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-02T15:50:14+00:00",
     "published_ts": 1790956214.0,
     "summary": "The odds of an interest rate change at the Federal Reserve\u2019s meeting in late October have dropped following a softer jobs report and strong signaling from bank officials.",
@@ -110,17 +99,6 @@
     "priority": 3
   },
   {
-    "title": "Heard on the Street: High government debt is adding fuel to the global bond market selloff",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-02T09:30:00+00:00",
-    "published_ts": 1790933400.0,
-    "summary": "Oil prices are driving rates higher, but indebtedness is a key risk factor.",
-    "link": "https://www.wsj.com/finance/investing/high-government-debt-is-adding-fuel-to-the-global-bond-market-selloff-a93fa0fe?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good'",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -132,47 +110,25 @@
     "priority": 3
   },
   {
-    "title": "The Fed Raised Rates. What Comes Next?",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-09-17T09:05:11+00:00",
-    "published_ts": 1789635911.0,
-    "summary": "Kevin M. Warsh, the chairman of the Federal Reserve, on Wednesday left open-ended how much more interest rates may have to rise to tame inflation.",
-    "link": "https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Corporate America has never been this upbeat about future profits",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-04T14:00:00+00:00",
-    "published_ts": 1791122400.0,
-    "summary": "As third-quarter earnings kick off this week, more companies than ever have expressed optimism about their bottom lines.",
-    "link": "https://www.marketwatch.com/story/corporate-america-has-never-been-this-upbeat-about-future-profits-fbaf8cd9?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 2
-  },
-  {
-    "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-04T12:00:00+00:00",
-    "published_ts": 1791115200.0,
-    "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
-    "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Paramount\u2019s $52 Billion Debt Sale Shows How Higher Rates Are Biting Corporate America",
+    "title": "Stock Market Today: 10-Year Yield Rises; Nasdaq Poised to Hit New High",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-04T09:30:00+00:00",
-    "published_ts": 1791106200.0,
-    "summary": "The media company paid through the nose for its record-setting bond deal. Other corporate issuers will too.",
-    "link": "https://www.wsj.com/finance/investing/paramounts-52-billion-debt-sale-shows-how-higher-rates-are-biting-corporate-america-aed59897?mod=rss_markets_main",
+    "published": "2026-10-05T09:11:59+00:00",
+    "published_ts": 1791191519.0,
+    "summary": "Dollar strengthens, while Brazilian assets rally after election",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-05-2026?mod=rss_markets_main",
     "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "ECB\u2019s Lane Sees \u2018Demand Destruction\u2019 Muting Energy Impact On Inflation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-05T08:42:00+00:00",
+    "published_ts": 1791189720.0,
+    "summary": "The recent rise in energy prices may cool demand in the eurozone that would limit the need for rate rises to contain inflation, ECB\u2019s Chief Economist Philip Lane said.",
+    "link": "https://www.wsj.com/economy/central-banking/ecbs-lane-sees-demand-destruction-muting-energy-impact-on-inflation-03bd423e?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -195,17 +151,6 @@
     "summary": "The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs.",
     "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market News, Oct. 2, 2026: Stocks Jump as Hiring Softens",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-02T09:07:29+00:00",
-    "published_ts": 1790932049.0,
-    "summary": "Nasdaq hits new intraday record; bond yields turn higher",
-    "link": "https://www.wsj.com/livecoverage/jobs-report-september-stock-market-10-02-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -275,17 +220,6 @@
     "priority": 2
   },
   {
-    "title": "France's fresh budget battle threatens to topple another government",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-09-24T06:21:00+00:00",
-    "published_ts": 1790230860.0,
-    "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
-    "link": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -319,33 +253,11 @@
     "priority": 2
   },
   {
-    "title": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-04T15:53:57.262121+00:00",
-    "published_ts": 1791129237.262121,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-supreme-court-to-kick-off-term-with-bid-by-big-oil-to-toss-climate-suits-4930919",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Why has e-Commerce accelerated and who is gaining?",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-04T15:53:57.262089+00:00",
-    "published_ts": 1791129237.262089,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-has-ecommerce-accelerated-and-who-is-gaining-4930926",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Vista Gold (VGZ) Agrees to Sale. Can its Buyer Fund the Mt Todd Gold Mine?",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-10-04T15:53:57.073178+00:00",
-    "published_ts": 1791129237.073178,
+    "published": "2026-10-05T19:51:37.279116+00:00",
+    "published_ts": 1791229897.279116,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/commodities/articles/vista-gold-vgz-agrees-sale-014206537.html",
     "category": "Commodities",
@@ -355,88 +267,176 @@
     "title": "Strive CEO: Bitcoin Could \u2018Go to Infinity' as Dollar Debt Crisis Breaks",
     "source": "Yahoo Finance",
     "feed": "Yahoo Finance",
-    "published": "2026-10-04T15:53:57.073112+00:00",
-    "published_ts": 1791129237.073112,
+    "published": "2026-10-05T19:51:37.279077+00:00",
+    "published_ts": 1791229897.279077,
     "summary": "",
     "link": "https://finance.yahoo.com/markets/crypto/articles/strive-ceo-bitcoin-could-infinity-015100441.html",
     "category": "Crypto",
     "priority": 1
   },
   {
-    "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-04T12:35:35+00:00",
-    "published_ts": 1791117335.0,
-    "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
-    "link": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Ukraine\u2019s surprise robot offensive exposes a vulnerability in Putin\u2019s war machine",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-04T05:00:01+00:00",
-    "published_ts": 1791090001.0,
-    "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine\u2019s expanding use of robotic systems is reshaping frontline warfare.",
-    "link": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Falling wages, soaring energy prices and inflation: It\u2019s beginning to look a lot like the 1970s",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-03T23:58:00+00:00",
-    "published_ts": 1791071880.0,
-    "summary": "Is it time to dust off the financial playbook from that dismal decade?",
-    "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "\u2018I want to make her proud\u2019: My mother, a divorc\u00e9e, died and I\u2019m her executor. Do I need to file for probate?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-03T18:30:00+00:00",
-    "published_ts": 1791052200.0,
-    "summary": "\u201cThe only debts were utility and credit-card bills, which we will pay off.\u201d",
-    "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-03T17:57:40+00:00",
-    "published_ts": 1791050260.0,
-    "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap.",
-    "link": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "High-tech vehicles are driving up auto repair costs for shops and consumers",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-03T12:00:01+00:00",
-    "published_ts": 1791028801.0,
-    "summary": "Investments in ADAS calibration equipment, computers and software subscriptions can drive up the cost of even a windshield replacement or an oil change.",
-    "link": "https://www.cnbc.com/2026/10/03/vehicle-repair-costs.html",
+    "title": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-05T19:27:06+00:00",
+    "published_ts": 1791228426.0,
+    "summary": "Strikes on tankers in the Strait of Hormuz and oil infrastructure in Saudi Arabia came as the region\u2019s exporters were getting more oil to the world market.",
+    "link": "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "How the French Bond Trade Backfired on Investors",
+    "title": "\u2018People in the U.S. need to wake up\u2019: As a mortgage loan officer, I rejected wealthy couples due to overspending. We\u2019re all heading for trouble.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-05T19:00:00+00:00",
+    "published_ts": 1791226800.0,
+    "summary": "A reader writes: \u201cWe\u2019d better get real quick or we\u2019re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.\u201d",
+    "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Saudi Aramco\u2019s CEO may be too downbeat about the road to restocking global oil supplies",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-05T17:54:00+00:00",
+    "published_ts": 1791222840.0,
+    "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
+    "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Supreme Court Tangles Over a Major Climate Change Case",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-05T17:10:14+00:00",
+    "published_ts": 1791220214.0,
+    "summary": "The justices began their new term with a landmark dispute over whether local governments can hold oil companies liable for damages from climate change.",
+    "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Bank Stocks Are Haunted by the Ghosts of 2023",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-03T09:30:00+00:00",
-    "published_ts": 1791019800.0,
-    "summary": "Hedge funds piled into leveraged bets over the summer, figuring French politics wouldn\u2019t get much rockier.",
-    "link": "https://www.wsj.com/finance/investing/how-the-french-bond-trade-backfired-on-investors-4f2aba71?mod=rss_markets_main",
-    "category": "Fixed Income",
+    "published": "2026-10-05T09:30:00+00:00",
+    "published_ts": 1791192600.0,
+    "summary": "Lenders have stronger balance sheets now as they face a new rate-hiking cycle.",
+    "link": "https://www.wsj.com/finance/banking/bank-stocks-are-haunted-by-the-ghosts-of-2023-a2a64725?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "U.S. consumer spending is on the rise despite frustrations with persistent inflation and gloomy views about the economy",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-05T01:00:00+00:00",
+    "published_ts": 1791162000.0,
+    "summary": "Spending is rising because prices are climbing and Americans are buying more stuff.",
+    "link": "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "How Polymarket\u2019s \u2018Growth at All Costs\u2019 Strategy Opened the Door to Fraud",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-04T16:00:00+00:00",
+    "published_ts": 1791129600.0,
+    "summary": "Watch WSJ\u2019s Katherine Long break down Polymarket\u2019s pattern of compliance failures.",
+    "link": "https://www.wsj.com/finance/investing/how-polymarkets-growth-at-all-costs-strategy-opened-the-door-to-fraud-994f7c25?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-02T20:45:00+00:00",
+    "published_ts": 1790973900.0,
+    "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-02T20:00:00+00:00",
+    "published_ts": 1790971200.0,
+    "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-02T18:49:03+00:00",
+    "published_ts": 1790966943.0,
+    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents.",
+    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Black Unemployment Rose Sharply in September, Jobs Report Shows",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-02T16:41:45+00:00",
+    "published_ts": 1790959305.0,
+    "summary": "Economists had taken a recent drop in Black unemployment as a hopeful sign that job gains were lifting a broad share of workers.",
+    "link": "https://www.nytimes.com/2026/10/02/business/economy/jobs-report-black-unemployment.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-02T15:00:00+00:00",
+    "published_ts": 1790953200.0,
+    "summary": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Tariffs Are Making Instruments So Expensive, School Music Programs Are at Risk",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-02T09:03:00+00:00",
+    "published_ts": 1790931780.0,
+    "summary": "When a single cello can cost $1,000 and a tuba $9,000, tariffs are straining meager band and orchestra budgets.",
+    "link": "https://www.nytimes.com/2026/10/02/business/economy/tariffs-instruments-school-music-programs.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "The September jobs report will be released Friday. Here's what to expect",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-01T18:55:02+00:00",
+    "published_ts": 1790880902.0,
+    "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
+    "link": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-09-30T14:42:04+00:00",
+    "published_ts": 1790779324.0,
+    "summary": "Private job creation picked up in September after a brief slowdown.",
+    "link": "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+    "category": "Economy",
     "priority": 1
   }
 ]
