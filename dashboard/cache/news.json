@@ -22,46 +22,24 @@
     "priority": 4
   },
   {
-    "title": "European shares rise as retreating bond yields and oil prices boost risk appetite",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-06T17:19:57.833284+00:00",
-    "published_ts": 1791307197.833284,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-gain-as-genmab-jumps-bond-yields-retreat-4933561",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Boomers' dividend stocks take beating as bond yields rise, with retirement income on the line",
+    "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-06T16:59:17+00:00",
-    "published_ts": 1791305957.0,
-    "summary": "As interest rates and bond yields rise, dividend stocks many boomers rely on for income are taking a beating. There are ways to blunt the portfolio impact.",
-    "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
+    "published": "2026-10-06T22:23:01+00:00",
+    "published_ts": 1791325381.0,
+    "summary": "The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks.",
+    "link": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
     "category": "Fixed Income",
     "priority": 3
   },
   {
-    "title": "Stock Market Today: S&P 500 Hits New Record High",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-06T08:45:19+00:00",
-    "published_ts": 1791276319.0,
-    "summary": "U.S. 10-year bond yield eases; oil falls",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Nasdaq Hits New Record as Bond Yields March Higher",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-05T21:10:00+00:00",
-    "published_ts": 1791234600.0,
-    "summary": "The yield on the 10-year Treasury touched a fresh 24-year high, as a global bond rout and AI-investing boom ripple through markets in tandem.",
-    "link": "https://www.wsj.com/finance/investing/stocks-keep-climbingand-so-do-bond-yields-c91d7d75?mod=rss_markets_main",
+    "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-06T21:52:00+00:00",
+    "published_ts": 1791323520.0,
+    "summary": "After trading sideways for much of the past year, the \u201cMagnificent Seven\u201d have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+    "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -132,6 +110,17 @@
     "priority": 3
   },
   {
+    "title": "S&P 500 Hits Record High Amid Rising Interest Rates and Elevated Oil Prices",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-06T21:12:30+00:00",
+    "published_ts": 1791321150.0,
+    "summary": "The S&amp;P 500 rose 0.6 percent on Tuesday, exceeding its previous peak set in August and taking its gain this year to more than 14 percent.",
+    "link": "https://www.nytimes.com/2026/10/06/business/stock-market-record.html",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
     "title": "U.S. imports were higher than exports by about $106 billion in August",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -143,17 +132,6 @@
     "priority": 2
   },
   {
-    "title": "Should I put my nest egg in a 30-year Treasury bond?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-06T14:11:00+00:00",
-    "published_ts": 1791295860.0,
-    "summary": "Risk comes in many forms, even with \u201csafe\u201d investments.",
-    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "After Kevin Warsh took over the Fed this spring, he said he wanted investors to watch the economy, not the Fed: Play the ball, not the referee. Last week, the referees stepped in",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -162,6 +140,17 @@
     "summary": "Kevin Warsh wants investors to focus on the economy and not the Fed. Last week, his top lieutenants stepped in to reset bets on an October rate increase.",
     "link": "https://www.wsj.com/economy/central-banking/why-weaning-markets-off-fed-speak-is-harder-than-it-sounds-d202aefb?mod=rss_socialeconomyfeed",
     "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Stock Market News, Oct. 6, 2026: S&P 500 Hits New Record High",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-06T08:45:19+00:00",
+    "published_ts": 1791276319.0,
+    "summary": "U.S. 10-year Treasury yield eases after relentless rise",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-06-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -242,14 +231,91 @@
     "priority": 2
   },
   {
+    "title": "Factbox-Companies cutting jobs as investments shift toward AI",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-07T00:28:04.904313+00:00",
+    "published_ts": 1791332884.904313,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/factboxcompanies-cutting-jobs-as-investments-shift-toward-ai-4935376",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Former star US bond manager Leech fined by SEC, following guilty plea in \u2019cherry-picking\u2019 case",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-07T00:28:04.904289+00:00",
+    "published_ts": 1791332884.904289,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/former-star-us-bond-manager-leech-fined-by-sec-following-guilty-plea-in-cherrypicking-case-4935388",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "US luxury spending slows ahead of midterms, credit card data shows",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-07T00:28:04.904257+00:00",
+    "published_ts": 1791332884.904257,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-luxury-spending-slows-ahead-of-midterms-credit-card-data-shows-4935397",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Whatever Happens to Bonds, Stocks Win",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-06T20:42:00+00:00",
+    "published_ts": 1791319320.0,
+    "summary": "Plus, Brent crude climbs and chip stocks are mixed",
+    "link": "https://www.wsj.com/finance/investing/whatever-happens-to-bonds-stocks-win-d1c95f6f?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Marvell just impressed Wall Street with \u2018good numbers plus a better story\u2019",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-06T20:21:00+00:00",
+    "published_ts": 1791318060.0,
+    "summary": "Marvell\u2019s stock is popping after the company not only delivered with its financial forecasts but also demonstrated its diversified mix of customers and products.",
+    "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Battle Between Disney and the F.C.C. Moves to the Courts",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-06T19:56:04+00:00",
+    "published_ts": 1791316564.0,
+    "summary": "On Tuesday, a federal judge began hearing arguments in Disney\u2019s effort to stop the agency from reviewing its broadcast licenses.",
+    "link": "https://www.nytimes.com/2026/10/06/business/media/disney-abc-fcc-lawsuit-court.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
     "title": "How Trump\u2019s Tariff War With Canada Ensnared the Can-Am Spyder",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-10-06T16:46:42+00:00",
-    "published_ts": 1791305202.0,
+    "published": "2026-10-06T19:48:44+00:00",
+    "published_ts": 1791316124.0,
     "summary": "The Can-Am Spyder has a devoted fan base across the United States. Now it\u2019s a casualty in the trade war with Canada.",
     "link": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html",
     "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "A.I. Officials Stonewall on Questions About Technology\u2019s Risks",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-06T18:36:48+00:00",
+    "published_ts": 1791311808.0,
+    "summary": "A New York City Council hearing on artificial intelligence yielded few answers or assurances about how the industry would provide safeguards against catastrophic scenarios.",
+    "link": "https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -266,7 +332,7 @@
   {
     "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-06T15:52:22+00:00",
     "published_ts": 1791301942.0,
     "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
@@ -286,22 +352,11 @@
     "priority": 1
   },
   {
-    "title": "UBS CEO warns \u2018hard measures\u2019 are needed to tackle French debt crisis, as turmoil worsens",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-06T15:13:04+00:00",
-    "published_ts": 1791299584.0,
-    "summary": "UBS CEO Sergio Ermotti warned that \"hard measures\" are needed to tackle France's spiraling debt crisis.",
-    "link": "https://www.cnbc.com/2026/10/06/france-debt-crisis-ubs-ermotti.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "U.S. Trade Deficit Hits 17-Month High Despite Trump\u2019s Tariffs",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-10-06T15:01:36+00:00",
-    "published_ts": 1791298896.0,
+    "published": "2026-10-06T15:01:37+00:00",
+    "published_ts": 1791298897.0,
     "summary": "Imports and the trade deficit have ballooned in recent months, defying the Trump administration\u2019s efforts to reduce it through tariffs.",
     "link": "https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html",
     "category": "Geopolitics",
@@ -330,17 +385,6 @@
     "priority": 1
   },
   {
-    "title": "Battle Between Disney and the F.C.C. Moves to the Courts",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-06T09:03:19+00:00",
-    "published_ts": 1791277399.0,
-    "summary": "On Tuesday, a federal judge will begin hearing arguments in Disney\u2019s effort to stop the agency from reviewing its broadcast licenses.",
-    "link": "https://www.nytimes.com/2026/10/06/business/media/disney-abc-fcc-lawsuit-court.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "Goldman: Diesel prices set to stay high through 2027 as refineries struggle to meet demand",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -360,17 +404,6 @@
     "summary": "Private-capital funds have proliferated in recent years as investors seek to reduce reliance on public markets.",
     "link": "https://www.wsj.com/finance/investing/kkr-strikes-deal-to-buy-private-capital-fund-administrator-gen-ii-40b951a5?mod=rss_markets_main",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "A.I. Officials Stonewall on Questions About Technology\u2019s Risks",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-06T02:07:54+00:00",
-    "published_ts": 1791252474.0,
-    "summary": "A New York City Council hearing on artificial intelligence yielded few answers or assurances about how the industry would provide safeguards against catastrophic scenarios.",
-    "link": "https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -404,39 +437,6 @@
     "summary": "Lenders have stronger balance sheets now as they face a new rate-hiking cycle.",
     "link": "https://www.wsj.com/finance/banking/bank-stocks-are-haunted-by-the-ghosts-of-2023-a2a64725?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-02T20:45:00+00:00",
-    "published_ts": 1790973900.0,
-    "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-02T20:00:00+00:00",
-    "published_ts": 1790971200.0,
-    "summary": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "How AI is redefining Wall Street jobs \u2014 and boosting demand for this new 'hottest skill' by 1,721%",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-02T18:49:03+00:00",
-    "published_ts": 1790966943.0,
-    "summary": "Banks are fueling a hiring surge for AI engineers who are good at \"agent orchestration\" \u2014 the ability to coordinate teams of specialized agents.",
-    "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
