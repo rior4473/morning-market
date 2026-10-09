@@ -1,52 +1,19 @@
 [
   {
-    "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data",
+    "title": "Stock Market Today: Stocks Advance as Oil, Bonds Reflect Latest Mideast Anxiety",
     "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-09-04T13:43:00+00:00",
-    "published_ts": 1788529380.0,
-    "summary": "U.S. Treasury yields jump after significantly stronger-than-expected employment data for August lifted expectations of a Federal Reserve rate hike at the Sept. 16 meeting.",
-    "link": "https://www.wsj.com/economy/global/u-s-european-bond-yields-little-changed-ahead-of-key-jobs-data-6528bb59?mod=rss_socialeconomyfeed",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-09T08:23:12+00:00",
+    "published_ts": 1791534192.0,
+    "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
     "category": "Fed",
     "priority": 5
   },
   {
-    "title": "Treasury yields are lower after reaching multiyear highs, traders weigh latest bond auction",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T20:06:52+00:00",
-    "published_ts": 1791490012.0,
-    "summary": "Traders digested comments from a top Federal Reserve official while awaiting another long-dated bond auction.",
-    "link": "https://www.cnbc.com/2026/10/08/us-treasury-yields-30-year-bond-auction.html",
-    "category": "Fed",
-    "priority": 4
-  },
-  {
-    "title": "Why the Battered Bond Market Is Finally Getting a Reprieve",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T21:33:00+00:00",
-    "published_ts": 1791495180.0,
-    "summary": "Rising yields have spread to mortgage bonds and other debt markets, which in turn deepened the selloff in Treasurys, a cycle that Wall Street sees petering out.",
-    "link": "https://www.wsj.com/finance/investing/why-the-battered-bond-market-is-finally-getting-a-reprieve-79ec4348?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "France Is Veering Toward a Potential Debt Crisis Amid Protests and Turmoil",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T18:05:29+00:00",
-    "published_ts": 1791482729.0,
-    "summary": "French bond investors are demanding sharply higher interest rates, a cautionary development for other high-debt countries.",
-    "link": "https://www.nytimes.com/2026/10/08/business/france-bond-yields.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-08T17:31:03+00:00",
     "published_ts": 1791480663.0,
     "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
@@ -63,17 +30,6 @@
     "summary": "Before chasing higher rates, bond buyers have to figure out what type of investor they actually are.",
     "link": "https://www.wsj.com/finance/investing/choosing-the-right-bond-strategy-for-todays-high-yield-world-0c4b6a78?mod=rss_markets_main",
     "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T08:38:57+00:00",
-    "published_ts": 1791448737.0,
-    "summary": "The Federal Reserve is poised to raise interest rates further as it seeks to tame inflation, but that is unlikely to happen until the end of the year.",
-    "link": "https://www.nytimes.com/2026/10/08/business/federal-reserve-christopher-waller-rates.html",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -132,36 +88,47 @@
     "priority": 3
   },
   {
-    "title": "A Guide to Buying Bonds When Yields Are on the Rise",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T21:41:00+00:00",
-    "published_ts": 1791495660.0,
-    "summary": "Soaring yields are making bond returns look more attractive, but there is more to it than that.",
-    "link": "https://www.wsj.com/finance/investing/a-guide-to-buying-bonds-when-yields-are-on-the-rise-f8b6cc98?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Treasury yields are 'really, really high' but can come down soon, Bessent's new advisor says",
+    "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T20:06:31+00:00",
-    "published_ts": 1791489991.0,
-    "summary": "The comments from David Zervos come after the 10-year and 30-year yields marched to 24-year highs in recent days.",
-    "link": "https://www.cnbc.com/2026/10/08/treasury-yields-david-zervos.html",
+    "published": "2026-10-09T16:10:41+00:00",
+    "published_ts": 1791562241.0,
+    "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Canada Jobless Rate Edges Up With Another Drop in Employment",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-09T15:58:00+00:00",
+    "published_ts": 1791561480.0,
+    "summary": "Employers in Canada cut 68,300 jobs in September, nudging the unemployment rate up 0.1 percentage point to 6.5%.",
+    "link": "https://www.wsj.com/economy/jobs/canada-jobless-rate-edges-up-with-another-drop-in-employment-a58c642d?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-09T15:58:00+00:00",
+    "published_ts": 1791561480.0,
+    "summary": "Investors will be focused on inflation data from the U.S., eurozone and China as well as U.K. economic growth figures and trade data out of China.",
+    "link": "https://www.wsj.com/economy/central-banking/week-ahead-for-fx-bonds-u-s-inflation-data-in-focus-2e3de315?mod=rss_socialeconomyfeed",
     "category": "Fixed Income",
     "priority": 2
   },
   {
-    "title": "Trump Throws His Weight Behind Credit-Card Legislation Most Feared by Banks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T19:00:00+00:00",
-    "published_ts": 1791486000.0,
-    "summary": "The bill could upend the system that moves billions of dollars in fees that merchants hate and banks use to power rewards.",
-    "link": "https://www.wsj.com/finance/regulation/the-credit-card-bill-that-banks-fear-most-has-gained-trump-as-an-ally-013551b3?mod=rss_markets_main",
-    "category": "Geopolitics",
+    "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T13:09:19+00:00",
+    "published_ts": 1791551359.0,
+    "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    "category": "Fed",
     "priority": 2
   },
   {
@@ -173,39 +140,6 @@
     "summary": "Wages aren\u2019t rising at a rate that would trigger inflation alarms, European Central Bank Chief Economist Philip Lane said Thursday.",
     "link": "https://www.wsj.com/economy/global/ecbs-lane-not-seeing-noticeable-pickup-in-eurozone-wages-bec01297?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "The French debt crisis is turning existential. Read more in today\u2019s WSJ Economics newsletter:",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-08T10:00:00+00:00",
-    "published_ts": 1791453600.0,
-    "summary": "Plus, a growing trade deficit, MAGA economics after Trump, and the Fed\u2019s rate-hike outlook.",
-    "link": "https://www.wsj.com/economy/central-banking/default-may-be-the-tail-risk-haunting-french-bonds-620b67fc?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Can Your College Affect Your Income?",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T09:24:22+00:00",
-    "published_ts": 1791451462.0,
-    "summary": "A new analysis of federal earnings data measures how much students who received federal financial aid earned four years after graduating. Our graphics reporter Arfa Momin studied the data to see when a graduate\u2019s major and college mattered most to earnings.",
-    "link": "https://www.nytimes.com/video/business/100000011168809/can-your-college-affect-your-income.html",
-    "category": "Equities",
-    "priority": 2
-  },
-  {
-    "title": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-07T19:18:48+00:00",
-    "published_ts": 1791400728.0,
-    "summary": "Policymakers grew increasingly concerned about inflation risks at their most recent meeting in September.",
-    "link": "https://www.nytimes.com/2026/10/07/business/fed-minutes-show-officials-saw-more-work-to-do-to-quell-inflation.html",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -264,28 +198,6 @@
     "priority": 2
   },
   {
-    "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-09-29T20:51:43+00:00",
-    "published_ts": 1790715103.0,
-    "summary": "Data is expected to show ongoing price pressures and consumers who nevertheless continue to spend.",
-    "link": "https://www.cnbc.com/2026/09/29/the-feds-main-inflation-measure-will-be-released-wednesday-heres-what-to-expect.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Federal Reserve issues FOMC statement",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-09-16T18:00:00+00:00",
-    "published_ts": 1789581600.0,
-    "summary": "Federal Reserve issues FOMC statement",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Markets",
@@ -297,11 +209,198 @@
     "priority": 2
   },
   {
-    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "title": "Delta Air Lines earnings analysis: questions answered and next catalysts",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-09T17:30:19.075772+00:00",
+    "published_ts": 1791567019.075772,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/delta-air-lines-earnings-analysis-questions-answered-and-next-catalysts-93CH-4941509",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "IBM bull and bear case ahead of October earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-09T17:30:19.075726+00:00",
+    "published_ts": 1791567019.075726,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/ibm-bull-and-bear-case-ahead-of-october-earnings-93CH-4941516",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Pepsi beats estimates ahead of Coca-Cola\u2019s October earnings report",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-09T17:30:19.075578+00:00",
+    "published_ts": 1791567019.075578,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/pepsi-beats-estimates-ahead-of-cocacolas-october-earnings-report-93CH-4941525",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "President Trump has formed a committee to evaluate the mortgage-fraud allegations made against Fed governor Lisa Cook",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-09T17:15:00+00:00",
+    "published_ts": 1791566100.0,
+    "summary": "The move signaled a renewed effort to fire the Biden-appointed Fed governor as part of the president\u2019s desire to wield more control over the central bank.",
+    "link": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T23:57:23+00:00",
-    "published_ts": 1791503843.0,
+    "published": "2026-10-09T17:12:17+00:00",
+    "published_ts": 1791565937.0,
+    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
+    "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-09T16:22:00+00:00",
+    "published_ts": 1791562920.0,
+    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-09T16:12:00+00:00",
+    "published_ts": 1791562320.0,
+    "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
+    "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T16:10:02+00:00",
+    "published_ts": 1791562202.0,
+    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-09T15:56:34+00:00",
+    "published_ts": 1791561394.0,
+    "summary": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.",
+    "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "The typical American family got a little wealthier in the years following the pandemic, while well-off and older Americans got much richer",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-09T15:26:00+00:00",
+    "published_ts": 1791559560.0,
+    "summary": "A Federal Reserve study found overall median net worth rose 2% between 2022 and 2025.",
+    "link": "https://www.wsj.com/economy/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-f53b3113?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T15:07:46+00:00",
+    "published_ts": 1791558466.0,
+    "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Whistle-Blower Says I.R.S. Leaked His Tax Records in Retaliation",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-09T15:04:54+00:00",
+    "published_ts": 1791558294.0,
+    "summary": "Brian J. Visalli, a veteran investigator of tax fraud, said in a lawsuit that the agency had sent his personal and tax information to federal prosecutors.",
+    "link": "https://www.nytimes.com/2026/10/07/business/economy/whistle-blower-irs-lawsuit.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Here\u2019s how much stocks could fall if the Democrats sweep Congress, according to BofA",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-09T15:02:00+00:00",
+    "published_ts": 1791558120.0,
+    "summary": "The rising probability of the Democratic Party taking control of both houses of Congress in the midterm elections poses a \u201cmeaningful\u201d threat to risk appetite, said Michael Hartnett, Bank of America\u2019s chief equity strategist.",
+    "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-09T14:08:51+00:00",
+    "published_ts": 1791554931.0,
+    "summary": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home.",
+    "link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-09T14:00:00+00:00",
+    "published_ts": 1791554400.0,
+    "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Borrowing Costs\u2019 Double Whammy Boosts Recession Odds",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-09T10:39:00+00:00",
+    "published_ts": 1791542340.0,
+    "summary": "Plus, cellphone service from Elon?",
+    "link": "https://www.wsj.com/finance/stocks/borrowing-costs-double-whammy-boosts-recession-odds-622860e5?mod=rss_markets_main",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "The Winning Stock Funds This Time Weren\u2019t Tech. They Were Energy.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-09T09:03:21+00:00",
+    "published_ts": 1791536601.0,
+    "summary": "Stock and bond fund returns for the quarter were bad nearly everywhere you looked, our columnist says. Energy stocks, lifted by the war with Iran, were an exception.",
+    "link": "https://www.nytimes.com/2026/10/09/business/stock-bonds-tech-energy.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-09T06:30:01+00:00",
+    "published_ts": 1791527401.0,
     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
     "category": "Equities",
@@ -319,28 +418,6 @@
     "priority": 1
   },
   {
-    "title": "America shut out Chinese EVs. Britain welcomed them \u2014 and now faces a difficult choice",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T20:55:39+00:00",
-    "published_ts": 1791492939.0,
-    "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
-    "link": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Winds Pick Up, Yields Tick Down",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T20:38:00+00:00",
-    "published_ts": 1791491880.0,
-    "summary": "Plus, AI stocks sink while Pepsi pops",
-    "link": "https://www.wsj.com/finance/stocks/winds-pick-up-yields-tick-down-5cb62df6?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
     "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm\u2019s failure to sufficiently detect and report certain suspicious activity rel\u2026",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -352,91 +429,14 @@
     "priority": 1
   },
   {
-    "title": "Oil Prices Jump on Outburst of Violence in the Middle East",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T20:01:15+00:00",
-    "published_ts": 1791489675.0,
-    "summary": "Attacks on ships around the Strait of Hormuz have continued as a war between Saudi Arabia and the Houthi militia intensified.",
-    "link": "https://www.nytimes.com/2026/10/08/business/iran-war-oil-prices.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T19:06:55+00:00",
-    "published_ts": 1791486415.0,
-    "summary": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home.",
-    "link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T19:00:49+00:00",
-    "published_ts": 1791486049.0,
-    "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
-    "link": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump says U.S. will not attack Iran before midterm election",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T17:41:20+00:00",
-    "published_ts": 1791481280.0,
-    "summary": "Trump said talks with Tehran were \u201cproductive\u201d as the Iran war pushes oil and gas prices higher and support for the conflict falls.",
-    "link": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-08T17:13:32+00:00",
-    "published_ts": 1791479612.0,
-    "summary": "The additional sanctions are part of the Trump administration's military and economic campaign against Iran.",
-    "link": "https://www.cnbc.com/2026/10/08/iran-treasury-sanctions-shadow-fleet.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "At Nearly $300,000, Some Recent Duke Graduates Out-Earned All Their Peers",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-08T11:06:16+00:00",
-    "published_ts": 1791457576.0,
-    "summary": "Federal data show Duke math majors earning a bigger median income four years after graduation than any other majors from any school. It\u2019s a small cohort.",
-    "link": "https://www.nytimes.com/2026/10/07/your-money/duke-math-major-salaries.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Gridlock Is Good for Stocks. Certainty Is Better.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T10:56:00+00:00",
-    "published_ts": 1791456960.0,
-    "summary": "Plus, oil is back on the boil",
-    "link": "https://www.wsj.com/finance/investing/gridlock-is-good-for-stocks-certainty-is-better-d4d2bb1a?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market News, Oct. 8, 2026: Oil Rises, Nasdaq Slips on Fresh Tanker Attack",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T08:21:45+00:00",
-    "published_ts": 1791447705.0,
-    "summary": "Nasdaq drops more than 1.2% on concerns about AI growth",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-08-2026?mod=rss_markets_main",
-    "category": "Commodities",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-07T18:42:36+00:00",
+    "published_ts": 1791398556.0,
+    "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+    "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "category": "Fed",
     "priority": 1
   }
 ]
