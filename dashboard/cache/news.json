@@ -1,6 +1,17 @@
 [
   {
-    "title": "Stock Market Today: Stocks Advance as Oil, Bonds Reflect Latest Mideast Anxiety",
+    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T19:19:00+00:00",
+    "published_ts": 1791573540.0,
+    "summary": "Trump\u2019s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-10-09T08:23:12+00:00",
@@ -8,7 +19,7 @@
     "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
     "category": "Fed",
-    "priority": 5
+    "priority": 3
   },
   {
     "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
@@ -88,11 +99,33 @@
     "priority": 3
   },
   {
+    "title": "Cramer\u2019s week ahead: Earnings kick off as banks and chipmakers face big tests",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T22:22:35+00:00",
+    "published_ts": 1791584555.0,
+    "summary": "CNBC\u2019s Jim Cramer said next week\u2019s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+    "link": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+    "category": "Equities",
+    "priority": 2
+  },
+  {
+    "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T20:51:25+00:00",
+    "published_ts": 1791579085.0,
+    "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+    "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T16:10:41+00:00",
-    "published_ts": 1791562241.0,
+    "published": "2026-10-09T19:18:24+00:00",
+    "published_ts": 1791573504.0,
     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
     "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
     "category": "Geopolitics",
@@ -123,7 +156,7 @@
   {
     "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-09T13:09:19+00:00",
     "published_ts": 1791551359.0,
     "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
@@ -209,47 +242,80 @@
     "priority": 2
   },
   {
-    "title": "Delta Air Lines earnings analysis: questions answered and next catalysts",
+    "title": "Venezuela president authorizes SpaceX\u2019s Starlink to operate in the country",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-09T17:30:19.075772+00:00",
-    "published_ts": 1791567019.075772,
+    "published": "2026-10-10T00:34:26.709034+00:00",
+    "published_ts": 1791592466.709034,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/delta-air-lines-earnings-analysis-questions-answered-and-next-catalysts-93CH-4941509",
-    "category": "Equities",
+    "link": "https://www.investing.com/news/stock-market-news/venezuela-president-authorizes-spacexs-starlink-to-operate-in-the-country-4941872",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "IBM bull and bear case ahead of October earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-09T17:30:19.075726+00:00",
-    "published_ts": 1791567019.075726,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/ibm-bull-and-bear-case-ahead-of-october-earnings-93CH-4941516",
-    "category": "Equities",
+    "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-09T22:24:25+00:00",
+    "published_ts": 1791584665.0,
+    "summary": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.",
+    "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
+    "category": "Fed",
     "priority": 1
   },
   {
-    "title": "Pepsi beats estimates ahead of Coca-Cola\u2019s October earnings report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-09T17:30:19.075578+00:00",
-    "published_ts": 1791567019.075578,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/pepsi-beats-estimates-ahead-of-cocacolas-october-earnings-report-93CH-4941525",
-    "category": "Equities",
+    "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be \u2018too little, too late,\u2019 says strategist.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-09T22:00:00+00:00",
+    "published_ts": 1791583200.0,
+    "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+    "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-09T21:45:00+00:00",
+    "published_ts": 1791582300.0,
+    "summary": "The Russell 2000, which tracks the shares of small companies, closed Friday on a five-week losing streak.",
+    "link": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX\u2019s Wireless Move Trips Up Telecoms",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-09T20:35:00+00:00",
+    "published_ts": 1791578100.0,
+    "summary": "Plus, yields rise and Delta cuts its profit outlook",
+    "link": "https://www.wsj.com/finance/stocks/spacexs-wireless-move-trips-up-telecoms-49d5f27f?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
     "title": "President Trump has formed a committee to evaluate the mortgage-fraud allegations made against Fed governor Lisa Cook",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-09T17:15:00+00:00",
-    "published_ts": 1791566100.0,
+    "published": "2026-10-09T20:27:00+00:00",
+    "published_ts": 1791577620.0,
     "summary": "The move signaled a renewed effort to fire the Biden-appointed Fed governor as part of the president\u2019s desire to wield more control over the central bank.",
     "link": "https://www.wsj.com/economy/central-banking/trump-announces-committee-to-investigate-fed-governor-lisa-cook-bcd509fa?mod=rss_socialeconomyfeed",
     "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-09T17:56:24+00:00",
+    "published_ts": 1791568584.0,
+    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
+    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -261,50 +327,6 @@
     "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
     "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here\u2019s who could pay the most.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-09T16:22:00+00:00",
-    "published_ts": 1791562920.0,
-    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-    "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Hurricane Isaias to \u2018stress test\u2019 oil markets already hobbled by tight fuel supplies",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-09T16:12:00+00:00",
-    "published_ts": 1791562320.0,
-    "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
-    "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T16:10:02+00:00",
-    "published_ts": 1791562202.0,
-    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Trump Announces White House Inquiry Into Fed Governor Lisa Cook",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-09T15:56:34+00:00",
-    "published_ts": 1791561394.0,
-    "summary": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.",
-    "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
-    "category": "Fed",
     "priority": 1
   },
   {
@@ -341,25 +363,14 @@
     "priority": 1
   },
   {
-    "title": "Here\u2019s how much stocks could fall if the Democrats sweep Congress, according to BofA",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-09T15:02:00+00:00",
-    "published_ts": 1791558120.0,
-    "summary": "The rising probability of the Democratic Party taking control of both houses of Congress in the midterm elections poses a \u201cmeaningful\u201d threat to risk appetite, said Michael Hartnett, Bank of America\u2019s chief equity strategist.",
-    "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Highest Mortgage Rates in 3 Years Chills the Housing Market",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-09T14:08:51+00:00",
     "published_ts": 1791554931.0,
     "summary": "The average 30-year fixed-rate mortgage rose to 7.4 percent, putting more pressure on Americans struggling to afford to buy a home.",
     "link": "https://www.nytimes.com/2026/10/08/business/mortgage-rates-housing-prices.html",
-    "category": "Markets",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -404,17 +415,6 @@
     "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
     "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Arini, Hedge Fund Known for Bold Bets, Loses 16%",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-08T22:27:00+00:00",
-    "published_ts": 1791498420.0,
-    "summary": "Investors continue to put money into Arini\u2019s $7.3 billion flagship fund, betting that rising rates will create more opportunities for its founder, Hamza Lemssouguer.",
-    "link": "https://www.wsj.com/finance/investing/arini-hedge-fund-known-for-bold-bets-loses-16-c4d8f2c0?mod=rss_markets_main",
-    "category": "Markets",
     "priority": 1
   },
   {
