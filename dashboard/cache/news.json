@@ -1,16 +1,5 @@
 [
   {
-    "title": "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T19:19:00+00:00",
-    "published_ts": 1791573540.0,
-    "summary": "Trump\u2019s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
-    "link": "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -88,15 +77,15 @@
     "priority": 3
   },
   {
-    "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-02T13:29:27+00:00",
-    "published_ts": 1790947767.0,
-    "summary": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
-    "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
-    "category": "Fed",
-    "priority": 3
+    "title": "European bank stocks slide as bond yields spark investor caution",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-10T16:18:51.659224+00:00",
+    "published_ts": 1791649131.659224,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/european-bank-stocks-slide-8-as-bond-yields-spark-investor-caution--bloomberg-4942017",
+    "category": "Fixed Income",
+    "priority": 2
   },
   {
     "title": "Cramer\u2019s week ahead: Earnings kick off as banks and chipmakers face big tests",
@@ -110,20 +99,9 @@
     "priority": 2
   },
   {
-    "title": "Junk bonds are 'flashing yellow.' Watch these warning signs",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T20:51:25+00:00",
-    "published_ts": 1791579085.0,
-    "summary": "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
-    "link": "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-09T19:18:24+00:00",
     "published_ts": 1791573504.0,
     "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
@@ -242,13 +220,79 @@
     "priority": 2
   },
   {
-    "title": "Venezuela president authorizes SpaceX\u2019s Starlink to operate in the country",
+    "title": "Where could stocks and bonds collide? Here\u2019s what to watch",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-10T00:34:26.709034+00:00",
-    "published_ts": 1791592466.709034,
+    "published": "2026-10-10T16:18:51.659189+00:00",
+    "published_ts": 1791649131.659189,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/venezuela-president-authorizes-spacexs-starlink-to-operate-in-the-country-4941872",
+    "link": "https://www.investing.com/news/stock-market-news/where-could-stocks-and-bonds-collide-heres-what-to-watch-4942081",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Will rising French bond spreads disrupt the rally in European stocks?",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-10T16:18:51.659150+00:00",
+    "published_ts": 1791649131.65915,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/will-rising-french-bond-spreads-disrupt-the-rally-in-european-stocks-4942091",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "France\u2019s bond stress may remain contained as wider European risks stay limited",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-10T16:18:51.659113+00:00",
+    "published_ts": 1791649131.659113,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/why-the-french-problem-is-a-french-problem-not-a-european-one-4942112",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-10T15:00:01+00:00",
+    "published_ts": 1791644401.0,
+    "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+    "link": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Why Nvidia\u2019s stock is dodging the AI credit scare that is crushing Broadcom and Oracle",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-10T12:30:00+00:00",
+    "published_ts": 1791635400.0,
+    "summary": "The P/E ratios have contracted and the CDS spreads have widened in all three cases, but Nvidia appears unscathed",
+    "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-dodging-the-ai-credit-scare-that-is-crushing-broadcom-and-oracle-abc8f598?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "From BJ\u2019s to Lululemon, retailers are trimming assortments to boost business",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-10T12:00:01+00:00",
+    "published_ts": 1791633601.0,
+    "summary": "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
+    "link": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "\u2018What you don\u2019t know is greater than anything you do know\u2019: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-10T12:00:00+00:00",
+    "published_ts": 1791633600.0,
+    "summary": "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
+    "link": "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
     "category": "Economy",
     "priority": 1
   },
@@ -261,17 +305,6 @@
     "summary": "President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.",
     "link": "https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be \u2018too little, too late,\u2019 says strategist.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-09T22:00:00+00:00",
-    "published_ts": 1791583200.0,
-    "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
-    "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -308,28 +341,6 @@
     "priority": 1
   },
   {
-    "title": "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T17:56:24+00:00",
-    "published_ts": 1791568584.0,
-    "summary": "Trump tried to fire Cook, a nominee of former President Joe Biden, but the Supreme Court blocked his first attempt.",
-    "link": "https://www.cnbc.com/2026/10/09/fed-lisa-cook-trump.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Hurricane Isaias disrupts U.S. oil production in Gulf of Mexico, threatens refineries",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T17:12:17+00:00",
-    "published_ts": 1791565937.0,
-    "summary": "The hurricane could tighten a fuel market that is already facing big disruptions from the wars in Eastern Europe and the Middle East.",
-    "link": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "The typical American family got a little wealthier in the years following the pandemic, while well-off and older Americans got much richer",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -338,17 +349,6 @@
     "summary": "A Federal Reserve study found overall median net worth rose 2% between 2022 and 2025.",
     "link": "https://www.wsj.com/economy/affluent-and-older-americans-got-much-richer-in-the-postpandemic-years-f53b3113?mod=rss_socialeconomyfeed",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-09T15:07:46+00:00",
-    "published_ts": 1791558466.0,
-    "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "category": "Equities",
     "priority": 1
   },
   {
@@ -382,17 +382,6 @@
     "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Borrowing Costs\u2019 Double Whammy Boosts Recession Odds",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-09T10:39:00+00:00",
-    "published_ts": 1791542340.0,
-    "summary": "Plus, cellphone service from Elon?",
-    "link": "https://www.wsj.com/finance/stocks/borrowing-costs-double-whammy-boosts-recession-odds-622860e5?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -436,6 +425,17 @@
     "published_ts": 1791398556.0,
     "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
     "link": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-07T18:00:00+00:00",
+    "published_ts": 1791396000.0,
+    "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "category": "Fed",
     "priority": 1
   }
