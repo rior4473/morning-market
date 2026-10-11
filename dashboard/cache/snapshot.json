@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:18:51.662042+00:00",
+  "generated_at": "2026-10-11T16:42:20.258696+00:00",
   "sections": {
     "yields": {
       "rows": [
@@ -104,7 +104,7 @@
         }
       ],
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "key_rates": {
       "rows": [
@@ -117,8 +117,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.771201413427562,
-          "as_of": "2026-10-10",
+          "ytd_avg": 3.772007042253521,
+          "as_of": "2026-10-11",
           "stale": false
         },
         {
@@ -130,8 +130,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.521201413427562,
-          "as_of": "2026-10-10",
+          "ytd_avg": 3.522007042253521,
+          "as_of": "2026-10-11",
           "stale": false
         },
         {
@@ -240,7 +240,7 @@
         }
       ],
       "source": "FRED",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "credit": {
       "rows": [
@@ -285,7 +285,7 @@
         }
       ],
       "source": "ICE BofA / Moody's via FRED",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "spreads": {
       "rows": [
@@ -340,7 +340,7 @@
         }
       ],
       "source": "U.S. Treasury (+ EFFR via FRED)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "curve": {
       "points": [
@@ -426,17 +426,17 @@
           "30Y": 5.6
         },
         "1m": {
-          "1M": 3.91,
-          "3M": 4.0,
-          "6M": 4.07,
-          "1Y": 4.28,
-          "2Y": 4.56,
-          "3Y": 4.63,
-          "5Y": 4.75,
-          "7Y": 4.84,
-          "10Y": 4.95,
-          "20Y": 5.39,
-          "30Y": 5.37
+          "1M": 3.93,
+          "3M": 4.07,
+          "6M": 4.12,
+          "1Y": 4.35,
+          "2Y": 4.63,
+          "3Y": 4.69,
+          "5Y": 4.78,
+          "7Y": 4.87,
+          "10Y": 4.96,
+          "20Y": 5.38,
+          "30Y": 5.35
         },
         "1y": {
           "1M": 4.19,
@@ -456,7 +456,7 @@
       "spread_10y_2y": 0.4400000000000004,
       "as_of": "2026-10-09",
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "macro": {
       "rows": [
@@ -506,7 +506,7 @@
         }
       ],
       "source": "FRED (BLS/BEA)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "jpm_focus": {
       "rows": [
@@ -556,7 +556,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "volatility_futures": {
       "rows": [
@@ -617,7 +617,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "fixed_income": {
       "rows": [
@@ -711,7 +711,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "commodities": {
       "rows": [
@@ -751,28 +751,28 @@
         {
           "asset": "Copper",
           "ticker": "HG=F",
-          "latest": 6.642499923706055,
+          "latest": 6.691999912261963,
           "previous": 6.519000053405762,
-          "change": 0.12349987030029297,
-          "pct_change": 1.894460335765332,
-          "ytd_pct": 17.77482413036187,
+          "change": 0.17299985885620117,
+          "pct_change": 2.6537790679387983,
+          "ytd_pct": 18.652483522697153,
           "as_of": "2026-10-09",
           "stale": false
         },
         {
           "asset": "Silver",
           "ticker": "SI=F",
-          "latest": 60.66999816894531,
+          "latest": 61.04800033569336,
           "previous": 59.06399917602539,
-          "change": 1.6059989929199219,
-          "pct_change": 2.7190827159089683,
-          "ytd_pct": -14.011567579117285,
+          "change": 1.9840011596679688,
+          "pct_change": 3.3590701397566267,
+          "ytd_pct": -13.475819849574759,
           "as_of": "2026-10-09",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "fx_crypto": {
       "rows": [
@@ -828,34 +828,34 @@
           "change": -0.019099712371826172,
           "pct_change": -0.2849810200008225,
           "ytd_pct": -4.47534860040138,
-          "as_of": "2026-10-10",
+          "as_of": "2026-10-11",
           "stale": false
         },
         {
           "asset": "Bitcoin",
           "ticker": "BTC-USD",
-          "latest": 82988.0390625,
-          "previous": 82546.3203125,
-          "change": 441.71875,
-          "pct_change": 0.5351162212049694,
-          "ytd_pct": -6.473365103867035,
-          "as_of": "2026-10-10",
+          "latest": 83786.59375,
+          "previous": 82912.2265625,
+          "change": 874.3671875,
+          "pct_change": 1.0545696621003104,
+          "ytd_pct": -5.573402488216358,
+          "as_of": "2026-10-11",
           "stale": false
         },
         {
           "asset": "Ethereum",
           "ticker": "ETH-USD",
-          "latest": 2508.139892578125,
-          "previous": 2485.53857421875,
-          "change": 22.601318359375,
-          "pct_change": 0.9093127177267408,
-          "ytd_pct": -16.40632355041228,
-          "as_of": "2026-10-10",
+          "latest": 2540.969970703125,
+          "previous": 2504.02783203125,
+          "change": 36.942138671875,
+          "pct_change": 1.4753086287346813,
+          "ytd_pct": -15.312131421529479,
+          "as_of": "2026-10-11",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "global_indexes": {
       "rows": [
@@ -960,7 +960,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "equity_index": {
       "rows": [
@@ -1010,26 +1010,26 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-10T16:18:50.307605+00:00"
+      "fetched_at": "2026-10-11T16:42:18.168179+00:00"
     },
     "market_wrap": {
-      "text": "In the 2026-10-09 session, the S&P 500 rose 0.59%, the Nasdaq rose 0.64% and the 10-year Treasury yield rose 2 bps to 5.24%. The Russell 2000, which tracks the shares of small companies, closed Friday on a five-week losing streak (WSJ). The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks (CNBC).",
+      "text": "In the 2026-10-09 session, the S&P 500 rose 0.59%, the Nasdaq rose 0.64% and the 10-year Treasury yield rose 2 bps to 5.24%. The S&amp;P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks (CNBC). Dollar set for fourth straight week of gains on higher Fed rate expectations (WSJ).",
       "sources": [
-        {
-          "title": "As Yields Surged, Small-Cap Stocks Were Hit Hard",
-          "url": "https://www.wsj.com/finance/stocks/as-yields-surged-small-cap-stocks-were-hit-hard-7470f7e4?mod=rss_markets_main",
-          "source": "WSJ"
-        },
         {
           "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
           "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-09-2026?mod=rss_markets_main",
+          "source": "WSJ"
         }
       ],
       "mode": "extractive",
       "as_of": "2026-10-09",
-      "generated_at": "2026-10-10T16:18:51.661795+00:00",
-      "fetched_at": "2026-10-10T16:18:51.662042+00:00"
+      "generated_at": "2026-10-11T16:42:20.258495+00:00",
+      "fetched_at": "2026-10-11T16:42:20.258696+00:00"
     }
   }
 }
