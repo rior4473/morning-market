@@ -1,16 +1,5 @@
 [
   {
-    "title": "Oil rallies, sending dollar higher on expectations of higher US rates",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-12T20:22:33.980042+00:00",
-    "published_ts": 1791836553.980042,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/shares-cautious-in-asia-as-earnings-loom-oil-slips-4942949",
-    "category": "Commodities",
-    "priority": 3
-  },
-  {
     "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -88,15 +77,15 @@
     "priority": 3
   },
   {
-    "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-02T13:45:58+00:00",
-    "published_ts": 1790948758.0,
-    "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-    "link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+    "title": "U.S. stock futures steady as bank earnings, inflation data loom",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-13T02:29:33.145535+00:00",
+    "published_ts": 1791858573.145535,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-bank-earnings-inflation-data-loom-4945262",
     "category": "Economy",
-    "priority": 3
+    "priority": 2
   },
   {
     "title": "Oil Climbs as Fighting Flares in Middle East, Ukraine",
@@ -220,14 +209,58 @@
     "priority": 2
   },
   {
-    "title": "Trump\u2019s \u2018energy ceasefire\u2019 collides with real-world problems of dwindling fuel supplies",
+    "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-12T18:36:00+00:00",
-    "published_ts": 1791830160.0,
-    "summary": "Oil markets were struggling on Monday to gauge how President Donald Trump\u2019s new declaration of an \u201cenergy ceasefire\u201d between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on.",
-    "link": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+    "published": "2026-10-13T02:00:00+00:00",
+    "published_ts": 1791856800.0,
+    "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+    "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-13T01:26:41+00:00",
+    "published_ts": 1791854801.0,
+    "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
+    "link": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-12T23:00:01+00:00",
+    "published_ts": 1791846001.0,
+    "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+    "link": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-12T21:17:58+00:00",
+    "published_ts": 1791839878.0,
+    "summary": "Musk\u2019s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
+    "link": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-12T20:35:51+00:00",
+    "published_ts": 1791837351.0,
+    "summary": "Blockbuster profits are coming for the S&amp;P 500. It may not be enough to keep fueling the rally.",
+    "link": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -242,28 +275,6 @@
     "priority": 1
   },
   {
-    "title": "Why older Americans' wealth may be helping keep consumer spending strong",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-12T17:23:35+00:00",
-    "published_ts": 1791825815.0,
-    "summary": "Boomers report more financial confidence as Federal Reserve and JPMorgan data show older households hold more wealth and draw more from investments.",
-    "link": "https://www.cnbc.com/2026/10/12/baby-boomers-may-be-driving-resilient-consumer-spending.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "UnitedHealth shares are doing something unusual ahead of earnings",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-12T16:42:13+00:00",
-    "published_ts": 1791823333.0,
-    "summary": "The only thing more expensive than health insurance is perhaps the costs of insuring shares of health insurers",
-    "link": "https://www.cnbc.com/2026/10/12/unitedhealth-shares-are-doing-something-unusual-ahead-of-earnings.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "Inflation likely peaked for 2026 but will remain sticky, according to prediction markets",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -272,17 +283,6 @@
     "summary": "Traders think there's little chance core inflation, which excludes food and energy prices, will fall to 2.2% this year.",
     "link": "https://www.cnbc.com/2026/10/12/inflation-will-remain-sticky-in-2026-according-to-prediction-markets.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Banks are set to report this week. Here's what the options market expects",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-12T13:27:20+00:00",
-    "published_ts": 1791811640.0,
-    "summary": "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates.",
-    "link": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -297,23 +297,12 @@
     "priority": 1
   },
   {
-    "title": "Narrow Stock-Market Rallies Aren\u2019t Unusual. When to Start Worrying.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-12T10:44:00+00:00",
-    "published_ts": 1791801840.0,
-    "summary": "Plus, earnings season begins.",
-    "link": "https://www.wsj.com/finance/stocks/narrow-stock-market-rallies-arent-unusual-when-to-start-worrying-d4dd127d?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market Today: Oil Gains on Fresh Energy Strikes in Ukraine",
+    "title": "Stock Market News, Oct. 12, 2026: Oil Gains on Fresh Energy Strikes in Ukraine",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-10-12T09:01:16+00:00",
     "published_ts": 1791795676.0,
-    "summary": "Dow industrials, diesel prices edge higher",
+    "summary": "Dow industrials rise, energy stocks hit record",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-12-2026?mod=rss_markets_main",
     "category": "Commodities",
     "priority": 1
@@ -437,6 +426,17 @@
     "summary": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
     "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "ICE came to town and left behind weakened economies",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-07T12:24:32+00:00",
+    "published_ts": 1791375872.0,
+    "summary": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+    "link": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+    "category": "Economy",
     "priority": 1
   }
 ]
