@@ -1,23 +1,45 @@
 [
   {
-    "title": "Stock Market Today: Treasury Yields Turn Lower as Stocks Slump",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-14T09:00:38+00:00",
-    "published_ts": 1791968438.0,
-    "summary": "Tech shares lead declines, pulling bond yields lower after hot inflation report",
-    "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026?mod=rss_markets_main",
+    "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T13:24:41+00:00",
+    "published_ts": 1792070681.0,
+    "summary": "Investors rotated into bonds amid a broader flight to safety.",
+    "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
     "category": "Fixed Income",
-    "priority": 4
+    "priority": 3
+  },
+  {
+    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T12:11:15+00:00",
+    "published_ts": 1792066275.0,
+    "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "category": "Fixed Income",
+    "priority": 3
   },
   {
     "title": "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-14T22:03:00+00:00",
-    "published_ts": 1792015380.0,
+    "published": "2026-10-15T11:17:00+00:00",
+    "published_ts": 1792063020.0,
     "summary": "CoreWeave\u2019s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
     "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "Rising Rates Threaten Wall Street\u2019s Golden Goose in Trading",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T09:30:00+00:00",
+    "published_ts": 1792056600.0,
+    "summary": "Weak bond markets undermine what had been a strength for big banks.",
+    "link": "https://www.wsj.com/finance/banking/rising-rates-threaten-wall-streets-golden-goose-in-trading-db7fc8cb?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -55,15 +77,59 @@
     "priority": 3
   },
   {
-    "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    "title": "U.S. stocks mixed as tech softness and hot PPI offset by slide in Treasury yields",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-15T15:40:42.620290+00:00",
+    "published_ts": 1792078842.62029,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Economists: Hot PPI shows Fed's work is not done",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-08T17:31:03+00:00",
-    "published_ts": 1791480663.0,
-    "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
-    "link": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    "published": "2026-10-15T15:37:59+00:00",
+    "published_ts": 1792078679.0,
+    "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+    "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
     "category": "Fed",
-    "priority": 3
+    "priority": 2
+  },
+  {
+    "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-15T15:21:00+00:00",
+    "published_ts": 1792077660.0,
+    "summary": "The continued selloff in the AI trade is forcing investors to ditch highflying tech for relative safety of government bonds, even as hot inflation threatens to make that trade complicated.",
+    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T13:42:32+00:00",
+    "published_ts": 1792071752.0,
+    "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+    "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Stock Market Today: Investors Boost Dow, Treasurys as They Rotate Out of Tech",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T08:17:42+00:00",
+    "published_ts": 1792052262.0,
+    "summary": "CoreWeave stock and bonds slump as worries around heavy AI borrowing spread",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
   },
   {
     "title": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
@@ -74,17 +140,6 @@
     "summary": "A hot inflation report reset expectations for an October rate increase. Then wavering confidence in the AI trade took center stage.",
     "link": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-14T20:46:32+00:00",
-    "published_ts": 1792010792.0,
-    "summary": "Shares of CoreWeave sank 15%, while yields in its bonds blew out further.",
-    "link": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -101,7 +156,7 @@
   {
     "title": "How high inflation became a 'fact of life' in the U.S.",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-14T17:20:23+00:00",
     "published_ts": 1791998423.0,
     "summary": "U.S. inflation has stayed elevated for years, raising concern at the Federal Reserve that consumers may come to expect stubbornly high prices.",
@@ -112,23 +167,12 @@
   {
     "title": "Democrats Blame Trump After CPI Report Shows Energy Prices Drove Up Inflation",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-14T15:25:31+00:00",
     "published_ts": 1791991531.0,
     "summary": "Inflation and economic frustrations have expanded the map of competitive midterm election districts deep into Republican territory.",
     "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-trump-democrats-midterms-energy.html",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Fed\u2019s Bowman Says Inflation Above Goal, But No Urgency to Act",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T10:58:00+00:00",
-    "published_ts": 1791975480.0,
-    "summary": "There is room to assess economic developments before taking further monetary policy action, said Michelle Bowman, the Federal Reserve\u2019s vice chair of supervision.",
-    "link": "https://www.wsj.com/economy/central-banking/feds-bowman-says-inflation-above-goal-but-no-urgency-to-act-e20f9529?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -165,28 +209,6 @@
     "priority": 2
   },
   {
-    "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-09T19:18:24+00:00",
-    "published_ts": 1791573504.0,
-    "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
-    "link": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-09T13:09:19+00:00",
-    "published_ts": 1791551359.0,
-    "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
-    "link": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "ECB\u2019s Lane Not Seeing \u2018Noticeable\u2019 Pickup in Eurozone Wages",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -195,28 +217,6 @@
     "summary": "Wages aren\u2019t rising at a rate that would trigger inflation alarms, European Central Bank Chief Economist Philip Lane said Thursday.",
     "link": "https://www.wsj.com/economy/global/ecbs-lane-not-seeing-noticeable-pickup-in-eurozone-wages-bec01297?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-07T18:44:36+00:00",
-    "published_ts": 1791398676.0,
-    "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
-    "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Mortgage rates posted their largest increase in four years this week",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-01T16:00:00+00:00",
-    "published_ts": 1790870400.0,
-    "summary": "The rise to 7.28% follows the bond-market rout and deals another blow to a limping housing market.",
-    "link": "https://www.wsj.com/economy/housing/mortgage-rates-surge-notching-largest-weekly-gain-in-four-years-e4d029af?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -231,13 +231,112 @@
     "priority": 2
   },
   {
-    "title": "The AI trade is splintering as inflation fears rattle hyped-up tech stocks",
+    "title": "Tractor Supply stock may move 7.9% on Oct. 22 earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-15T15:40:42.620328+00:00",
+    "published_ts": 1792078842.620328,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/tractor-supply-stock-may-move-79-on-oct-22-earnings-93CH-4952243",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Union Pacific shares may move 4.1% on Oct. 22 earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-15T15:40:42.620307+00:00",
+    "published_ts": 1792078842.620307,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/union-pacific-shares-may-move-41-on-oct-22-earnings-93CH-4952244",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "PulteGroup options suggest 4.4% move after earnings report",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-15T15:40:42.620266+00:00",
+    "published_ts": 1792078842.620266,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/pultegroup-options-suggest-44-move-after-earnings-report-93CH-4952246",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-15T15:40:42.620243+00:00",
+    "published_ts": 1792078842.620243,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/quest-diagnostics-shares-may-shift-44-on-oct-22-earnings-93CH-4952253",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T15:29:53+00:00",
+    "published_ts": 1792078193.0,
+    "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
+    "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T15:24:57+00:00",
+    "published_ts": 1792077897.0,
+    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T13:57:33+00:00",
+    "published_ts": 1792072653.0,
+    "summary": "Tech stocks plunged, led by a steep drop in South Korea\u2019s benchmark index, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
+    "link": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-14T23:36:00+00:00",
-    "published_ts": 1792020960.0,
-    "summary": "Investors are wondering if steep inflation and increased borrowing costs could derail the AI buildout.",
-    "link": "https://www.marketwatch.com/story/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped-up-tech-stocks-dbf49369?mod=mw_rss_topstories",
+    "published": "2026-10-15T13:16:00+00:00",
+    "published_ts": 1792070160.0,
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-15T13:14:00+00:00",
+    "published_ts": 1792070040.0,
+    "summary": "Two new forecasts spell bad news for home buyers and sellers",
+    "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Wholesale Inflation Hit 4-Year High in September",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-15T13:01:00+00:00",
+    "published_ts": 1792069260.0,
+    "summary": "The producer-price index rose by 1.3% last month, versus a 0.4% increase in August. It\u2019s the index\u2019s largest advance since March 2022.",
+    "link": "https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee?mod=rss_socialeconomyfeed",
     "category": "Economy",
     "priority": 1
   },
@@ -245,33 +344,22 @@
     "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-14T22:30:00+00:00",
-    "published_ts": 1792017000.0,
+    "published": "2026-10-15T10:15:00+00:00",
+    "published_ts": 1792059300.0,
     "summary": "\u201dI earn $110,000 a year.\u201d",
     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-14T22:24:00+00:00",
-    "published_ts": 1792016640.0,
-    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
-    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "title": "UK economy grew 0.1% in August, beating expectations",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-15T08:44:17+00:00",
+    "published_ts": 1792053857.0,
+    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-14T21:40:00+00:00",
-    "published_ts": 1792014000.0,
-    "summary": "Bank of America\u2019s stock falls as investor disappointment over the $1.2 billion government fine added to the bank\u2019s downbeat earnings report.",
-    "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-    "category": "Equities",
     "priority": 1
   },
   {
@@ -282,17 +370,6 @@
     "published_ts": 1792013457.0,
     "summary": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
     "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Inflation Runs Hot, Stocks Go Cold",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-14T20:21:00+00:00",
-    "published_ts": 1792009260.0,
-    "summary": "Plus, Bank of America posts disappointing results, and investment banks rake in AI-boom cash",
-    "link": "https://www.wsj.com/finance/stocks/inflation-runs-hot-stocks-go-cold-eb83d91a?mod=rss_markets_main",
     "category": "Economy",
     "priority": 1
   },
@@ -308,47 +385,14 @@
     "priority": 1
   },
   {
-    "title": "Treasury says largest U.S. banks let politics influence who received banking services",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-14T18:51:42+00:00",
-    "published_ts": 1792003902.0,
-    "summary": "New Treasury Department findings may lend weight to President Donald Trump\u2019s long-running grievance that major banks have discriminated against conservatives.",
-    "link": "https://www.cnbc.com/2026/10/14/treasury-banks-debanking-trump-reputation-risk.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
     "title": "Surging Inflation Complicates Trump\u2019s Final Push to Sell Voters on Strong Economy",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-14T18:42:13+00:00",
-    "published_ts": 1792003333.0,
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-14T18:42:14+00:00",
+    "published_ts": 1792003334.0,
     "summary": "The final inflation report before the 2026 election \u2014 showing price increases and stagnant wages \u2014 spelled bad political news for the White House.",
     "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T18:39:00+00:00",
-    "published_ts": 1792003140.0,
-    "summary": "Beijing\u2019s concession on hybrid vehicles shows how much it needs the European market",
-    "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Fannie Mae sharply raises mortgage rate forecast for 2027",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-14T17:08:07+00:00",
-    "published_ts": 1791997687.0,
-    "summary": "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
-    "link": "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -363,42 +407,9 @@
     "priority": 1
   },
   {
-    "title": "Inflation picked up in September, with consumer prices rising 3.7% in September from a year earlier, in a sign that high energy prices are tightening their squeeze on consumers",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T16:32:00+00:00",
-    "published_ts": 1791995520.0,
-    "summary": "The hotter reading is a sign that high energy prices are tightening their squeeze on consumers ahead of next month\u2019s midterm elections.",
-    "link": "https://www.wsj.com/economy/cpi-inflation-report-september-2026-b2037469?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Here's the inflation breakdown for September 2026 \u2014 in one chart",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-14T14:56:25+00:00",
-    "published_ts": 1791989785.0,
-    "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war.",
-    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "5 Costs Americans Are Paying More for as Inflation Rises",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-14T14:52:43+00:00",
-    "published_ts": 1791989563.0,
-    "summary": "Consumers are paying more for everyday goods and services, like food, computers and streaming.",
-    "link": "https://www.nytimes.com/2026/10/14/business/prices-inflation-food-airfare-car-rentals.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-14T14:18:28+00:00",
     "published_ts": 1791987508.0,
     "summary": "Energy prices have surged since the start of war with Iran, lifting inflation in the United States.",
@@ -407,20 +418,9 @@
     "priority": 1
   },
   {
-    "title": "Inflation is cooler than it was four years ago, but voters are still paying much higher prices",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T14:02:00+00:00",
-    "published_ts": 1791986520.0,
-    "summary": "Inflation is cooler than it was four years ago, but voters are still paying much higher prices.",
-    "link": "https://www.wsj.com/economy/consumers/inflation-midterm-election-2026-0f809bec?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Rising Costs Push Necessities Out of Reach for Nearly Half of Americans",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-14T14:00:06+00:00",
     "published_ts": 1791986406.0,
     "summary": "Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.",
