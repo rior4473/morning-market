@@ -1,34 +1,12 @@
 [
   {
-    "title": "Treasury yields slide as investors flee to safety of bonds amid tech rout",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-15T13:24:41+00:00",
-    "published_ts": 1792070681.0,
-    "summary": "Investors rotated into bonds amid a broader flight to safety.",
-    "link": "https://www.cnbc.com/2026/10/15/us-treasury-yields-investors-economic-data-.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-15T12:11:15+00:00",
     "published_ts": 1792066275.0,
     "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
     "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "CoreWeave\u2019s AI bonds tumble, raising red flags for the wider market",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T11:17:00+00:00",
-    "published_ts": 1792063020.0,
-    "summary": "CoreWeave\u2019s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-    "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
     "category": "Fixed Income",
     "priority": 3
   },
@@ -77,14 +55,14 @@
     "priority": 3
   },
   {
-    "title": "U.S. stocks mixed as tech softness and hot PPI offset by slide in Treasury yields",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-15T15:40:42.620290+00:00",
-    "published_ts": 1792078842.62029,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-hot-inflation-revives-fed-hike-concerns-4950317",
-    "category": "Fixed Income",
+    "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T19:53:29+00:00",
+    "published_ts": 1792094009.0,
+    "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
+    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
+    "category": "Commodities",
     "priority": 2
   },
   {
@@ -99,47 +77,14 @@
     "priority": 2
   },
   {
-    "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T15:21:00+00:00",
-    "published_ts": 1792077660.0,
-    "summary": "The continued selloff in the AI trade is forcing investors to ditch highflying tech for relative safety of government bonds, even as hot inflation threatens to make that trade complicated.",
-    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
     "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-10-15T13:42:32+00:00",
     "published_ts": 1792071752.0,
     "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
     "link": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
     "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market Today: Investors Boost Dow, Treasurys as They Rotate Out of Tech",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-15T08:17:42+00:00",
-    "published_ts": 1792052262.0,
-    "summary": "CoreWeave stock and bonds slump as worries around heavy AI borrowing spread",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "AI Jitters and Rate-Hike Fears Combine for Worst Day for Stocks Since July",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-14T21:13:00+00:00",
-    "published_ts": 1792012380.0,
-    "summary": "A hot inflation report reset expectations for an October rate increase. Then wavering confidence in the AI trade took center stage.",
-    "link": "https://www.wsj.com/finance/stocks/ai-jitters-and-rate-hike-fears-combine-for-worst-day-for-stocks-since-july-6abd3a0f?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 2
   },
   {
@@ -231,123 +176,156 @@
     "priority": 2
   },
   {
-    "title": "Tractor Supply stock may move 7.9% on Oct. 22 earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-15T15:40:42.620328+00:00",
-    "published_ts": 1792078842.620328,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/tractor-supply-stock-may-move-79-on-oct-22-earnings-93CH-4952243",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Union Pacific shares may move 4.1% on Oct. 22 earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-15T15:40:42.620307+00:00",
-    "published_ts": 1792078842.620307,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/union-pacific-shares-may-move-41-on-oct-22-earnings-93CH-4952244",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "PulteGroup options suggest 4.4% move after earnings report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-15T15:40:42.620266+00:00",
-    "published_ts": 1792078842.620266,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/pultegroup-options-suggest-44-move-after-earnings-report-93CH-4952246",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-15T15:40:42.620243+00:00",
-    "published_ts": 1792078842.620243,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/quest-diagnostics-shares-may-shift-44-on-oct-22-earnings-93CH-4952253",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-15T15:29:53+00:00",
-    "published_ts": 1792078193.0,
-    "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
-    "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-15T15:24:57+00:00",
-    "published_ts": 1792077897.0,
-    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Tech Stocks Plunge as Doubts Over A.I. Spending Intensify",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-15T13:57:33+00:00",
-    "published_ts": 1792072653.0,
-    "summary": "Tech stocks plunged, led by a steep drop in South Korea\u2019s benchmark index, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
-    "link": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T13:16:00+00:00",
-    "published_ts": 1792070160.0,
-    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Will mortgage rates stay above 7% in 2027? Signs point to yes.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T13:14:00+00:00",
-    "published_ts": 1792070040.0,
-    "summary": "Two new forecasts spell bad news for home buyers and sellers",
-    "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Wholesale Inflation Hit 4-Year High in September",
+    "title": "Lutnick Throws the Future of U.S.-Mexico Trade Talks Into Further Doubt",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-15T13:01:00+00:00",
-    "published_ts": 1792069260.0,
-    "summary": "The producer-price index rose by 1.3% last month, versus a 0.4% increase in August. It\u2019s the index\u2019s largest advance since March 2022.",
-    "link": "https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee?mod=rss_socialeconomyfeed",
-    "category": "Economy",
+    "published": "2026-10-15T23:24:00+00:00",
+    "published_ts": 1792106640.0,
+    "summary": "The commerce secretary has objected to significant reductions in tariffs on Mexican steel, aluminum and automobiles.",
+    "link": "https://www.wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T22:48:12+00:00",
+    "published_ts": 1792104492.0,
+    "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
+    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+    "category": "Markets",
     "priority": 1
   },
   {
     "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T10:15:00+00:00",
-    "published_ts": 1792059300.0,
+    "published": "2026-10-15T22:31:00+00:00",
+    "published_ts": 1792103460.0,
     "summary": "\u201dI earn $110,000 a year.\u201d",
     "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-15T21:33:24+00:00",
+    "published_ts": 1792100004.0,
+    "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-15T21:03:00+00:00",
+    "published_ts": 1792098180.0,
+    "summary": "Beijing\u2019s concession on hybrid vehicles shows how much it needs the European market",
+    "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T21:00:00+00:00",
+    "published_ts": 1792098000.0,
+    "summary": "The CoreWeave selloff shows a pressure point from climbing borrowing costs.",
+    "link": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-15T20:40:00+00:00",
+    "published_ts": 1792096800.0,
+    "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
+    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T20:32:46+00:00",
+    "published_ts": 1792096366.0,
+    "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
+    "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Investors Seek Safety in a Rocky Market",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T20:28:00+00:00",
+    "published_ts": 1792096080.0,
+    "summary": "Plus, CoreWeave stock turns upward, and a tax-saving strategy is supercharging margin loans.",
+    "link": "https://www.wsj.com/finance/stocks/investors-seek-safety-in-a-rocky-market-4d1e17e5?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Tech Stocks Drop Further Amid Doubts Over AI Spending",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T20:22:42+00:00",
+    "published_ts": 1792095762.0,
+    "summary": "Tech stocks plunged before reversing course, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
+    "link": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "A Popular Tax-Saving Trade is Juicing Wall Street\u2019s Borrowing Binge",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T19:08:00+00:00",
+    "published_ts": 1792091280.0,
+    "summary": "Margin loan balances at Charles Schwab swelled to nearly $190 billion in the third quarter, fueled by the growth of one tax-loss harvesting strategy.",
+    "link": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T18:12:19+00:00",
+    "published_ts": 1792087939.0,
+    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-15T16:09:19+00:00",
+    "published_ts": 1792080559.0,
+    "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
+    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Wholesale Inflation Hit Four-Year High in September",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-15T13:01:00+00:00",
+    "published_ts": 1792069260.0,
+    "summary": "The producer-price index rose by 1.3% last month, marking the index\u2019s largest advance since March 2022. Economists were expecting a more modest 0.6% increase.",
+    "link": "https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee?mod=rss_socialeconomyfeed",
     "category": "Economy",
     "priority": 1
   },
@@ -360,6 +338,17 @@
     "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
     "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market News, Oct. 15, 2026: Investors Boost Dow, Treasurys as They Rotate Out of Tech",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-15T08:17:42+00:00",
+    "published_ts": 1792052262.0,
+    "summary": "AI jitters weigh on Nasdaq; CoreWeave bounces back",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -436,6 +425,17 @@
     "published_ts": 1791983940.0,
     "summary": "The total value of building permits rose 8.8% from the month before to a seasonally adjusted 13.57 billion Canadian dollars, the equivalent of $9.55 billion, Statistics Canada said.",
     "link": "https://www.wsj.com/economy/housing/canada-building-permits-rebound-in-august-a801156b?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-14T09:30:00+00:00",
+    "published_ts": 1791970200.0,
+    "summary": "Mortgage rates above 7% might not be enough to crack home values if owners hold the line.",
+    "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
     "category": "Economy",
     "priority": 1
   }
