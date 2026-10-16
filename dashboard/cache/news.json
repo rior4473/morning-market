@@ -1,5 +1,49 @@
 [
   {
+    "title": "A stock-market \u2018sell\u2019 signal has been silenced \u2014 but these Bank of America strategists say it\u2019s too early to buy",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-16T14:14:00+00:00",
+    "published_ts": 1792160040.0,
+    "summary": "Even though October\u2019s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America\u2019s strategists recommend staying risk-off until after the midterms and the next Fed meeting.",
+    "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T13:35:08+00:00",
+    "published_ts": 1792157708.0,
+    "summary": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.",
+    "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-16T12:36:00+00:00",
+    "published_ts": 1792154160.0,
+    "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "When Will the Fed Move on Rates?",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T12:00:34+00:00",
+    "published_ts": 1792152034.0,
+    "summary": "Kevin Warsh, the central bank\u2019s chairman, suggested he wouldn\u2019t push to raise borrowing rates this month. But persistent inflation may force the Fed\u2019s hand.",
+    "link": "https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -55,14 +99,47 @@
     "priority": 3
   },
   {
-    "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-15T19:53:29+00:00",
-    "published_ts": 1792094009.0,
-    "summary": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
-    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-    "category": "Commodities",
+    "title": "Week Ahead for FX, Bonds: U.S., European PMI Data in Focus",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-16T14:15:00+00:00",
+    "published_ts": 1792160100.0,
+    "summary": "Purchasing managers\u2019 indexes for the U.S. and Europe will offer insights into business sentiment and a further clue on future interest-rate rises.",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-european-pmi-data-in-focus-b2ef9cd5?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Bank of Japan Must Ensure Underlying Inflation Doesn\u2019t Go Above 2%, Ueda Says",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-16T12:39:00+00:00",
+    "published_ts": 1792154340.0,
+    "summary": "The central bank\u2019s governor said the Middle East situation, AI demand and foreign-exchange rates would affect the timing of the decision.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "High Rates Have Upturned How Moody\u2019s Looks at Credit Risk, Chief Credit Officer Says",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T08:02:00+00:00",
+    "published_ts": 1792137720.0,
+    "summary": "Leverage matters more now because interest costs are rising, said Atsi Sheth, the ratings company\u2019s chief credit officer.",
+    "link": "https://www.wsj.com/finance/investing/high-rates-have-upturned-how-moodys-looks-at-credit-risk-chief-credit-officer-says-e84c61fd?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
+    "title": "Why Bad News in the Bond Market May Be Good News for Investors",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T05:07:20+00:00",
+    "published_ts": 1792127240.0,
+    "summary": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
+    "link": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -176,58 +253,102 @@
     "priority": 2
   },
   {
-    "title": "Lutnick Throws the Future of U.S.-Mexico Trade Talks Into Further Doubt",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-15T23:24:00+00:00",
-    "published_ts": 1792106640.0,
-    "summary": "The commerce secretary has objected to significant reductions in tariffs on Mexican steel, aluminum and automobiles.",
-    "link": "https://www.wsj.com/economy/trade/lutnick-throws-the-future-of-u-s-mexico-trade-talks-into-further-doubt-5cfb85a4?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-15T22:48:12+00:00",
-    "published_ts": 1792104492.0,
-    "summary": "Big Tech gave millions to Trump's White House ballroom, documents show",
-    "link": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T22:31:00+00:00",
-    "published_ts": 1792103460.0,
-    "summary": "\u201dI earn $110,000 a year.\u201d",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+    "title": "Private credit roundup: CoreWeave\u2019s debt stress tests private credit\u2019s AI financing boom",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-16T15:26:21.378226+00:00",
+    "published_ts": 1792164381.378226,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/private-credit-roundup-coreweaves-debt-stress-tests-private-credits-ai-financing-boom-4954178",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-15T21:33:24+00:00",
-    "published_ts": 1792100004.0,
-    "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-    "link": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
+    "title": "US federal bankruptcy court operations disrupted by cybersecurity incident",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-16T15:26:21.378037+00:00",
+    "published_ts": 1792164381.378037,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-16T15:00:00+00:00",
+    "published_ts": 1792162800.0,
+    "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+    "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "For years, China flooded Europe with exports that were crushing profits and killing jobs, while warning the bloc not to fight back. Now, Beijing is backing down, at least temporarily.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-15T21:03:00+00:00",
-    "published_ts": 1792098180.0,
-    "summary": "Beijing\u2019s concession on hybrid vehicles shows how much it needs the European market",
-    "link": "https://www.wsj.com/economy/trade/with-china-facing-more-trade-barriers-it-cant-afford-to-lose-europe-d041ab25?mod=rss_socialeconomyfeed",
+    "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-10-16T15:00:00+00:00",
+    "published_ts": 1792162800.0,
+    "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "After Welcoming China\u2019s Electric Vehicles, This Country Is Paying the Price",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T11:20:58+00:00",
+    "published_ts": 1792149658.0,
+    "summary": "Thailand introduced subsidies and tax cuts to encourage electric vehicle adoption. Now it is trying to recalibrate, alarmed by the threat to its industrial landscape.",
+    "link": "https://www.nytimes.com/2026/10/16/business/china-ev-thailand-cars.html",
     "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-16T11:15:00+00:00",
+    "published_ts": 1792149300.0,
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "The Radical Plan That Could Torch Your Portfolio",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T10:39:00+00:00",
+    "published_ts": 1792147140.0,
+    "summary": "Plus, rate bets ease.",
+    "link": "https://www.wsj.com/finance/stocks/the-radical-plan-that-could-torch-your-portfolio-5baa09b3?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Feel Like You\u2019re Overpaying for Hotels? Blame Expedia, a New Lawsuit Says.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T09:04:20+00:00",
+    "published_ts": 1792141460.0,
+    "summary": "The booking giant is accused of breaking federal antitrust laws and forcing millions of customers to overspend on stays by as much as 30 percent.",
+    "link": "https://www.nytimes.com/2026/10/16/travel/expedia-lawsuit-hotel-prices.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market Today: Tech Stocks Slump as Nasdaq Faces Weekly Loss",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T08:08:29+00:00",
+    "published_ts": 1792138109.0,
+    "summary": "AI anxieties deepen while investors pare rate-hike bets",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -242,28 +363,6 @@
     "priority": 1
   },
   {
-    "title": "Investors are dumping AI stocks as \u2018tech wreck\u2019 worsens. Here\u2019s where they\u2019re turning now.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-15T20:40:00+00:00",
-    "published_ts": 1792096800.0,
-    "summary": "A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.",
-    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Gulf Oil Is Still Flowing Despite a Surge in Attacks on Ships",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-15T20:32:46+00:00",
-    "published_ts": 1792096366.0,
-    "summary": "Shipping operators are braving the Strait of Hormuz, but the risks are high and transportation costs have skyrocketed.",
-    "link": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "Investors Seek Safety in a Rocky Market",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -272,28 +371,6 @@
     "summary": "Plus, CoreWeave stock turns upward, and a tax-saving strategy is supercharging margin loans.",
     "link": "https://www.wsj.com/finance/stocks/investors-seek-safety-in-a-rocky-market-4d1e17e5?mod=rss_markets_main",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Tech Stocks Drop Further Amid Doubts Over AI Spending",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-15T20:22:42+00:00",
-    "published_ts": 1792095762.0,
-    "summary": "Tech stocks plunged before reversing course, as concerns over soaring A.I. spending and stubborn inflation fueled a sell-off.",
-    "link": "https://www.nytimes.com/2026/10/15/business/chip-stocks-technology.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "A Popular Tax-Saving Trade is Juicing Wall Street\u2019s Borrowing Binge",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-15T19:08:00+00:00",
-    "published_ts": 1792091280.0,
-    "summary": "Margin loan balances at Charles Schwab swelled to nearly $190 billion in the third quarter, fueled by the growth of one tax-loss harvesting strategy.",
-    "link": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2?mod=rss_markets_main",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -319,17 +396,6 @@
     "priority": 1
   },
   {
-    "title": "Wholesale Inflation Hit Four-Year High in September",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-15T13:01:00+00:00",
-    "published_ts": 1792069260.0,
-    "summary": "The producer-price index rose by 1.3% last month, marking the index\u2019s largest advance since March 2022. Economists were expecting a more modest 0.6% increase.",
-    "link": "https://www.wsj.com/economy/central-banking/wholesale-inflation-hit-4-year-high-in-september-e1754eee?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "UK economy grew 0.1% in August, beating expectations",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -337,28 +403,6 @@
     "published_ts": 1792053857.0,
     "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
     "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market News, Oct. 15, 2026: Investors Boost Dow, Treasurys as They Rotate Out of Tech",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-15T08:17:42+00:00",
-    "published_ts": 1792052262.0,
-    "summary": "AI jitters weigh on Nasdaq; CoreWeave bounces back",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-15-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Stocks Tumble as Concerns Over Inflation and A.I. Investments Grow",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-14T21:30:57+00:00",
-    "published_ts": 1792013457.0,
-    "summary": "The S&amp;P 500 fell 1.1 percent on Wednesday, the steepest drop in more than two months.",
-    "link": "https://www.nytimes.com/2026/10/14/business/stocks-500-index-ai.html",
     "category": "Economy",
     "priority": 1
   },
@@ -393,50 +437,6 @@
     "summary": "Weak earnings coupled with a fine has analysts pressing executives about whether there is more pain to come.",
     "link": "https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T14:18:28+00:00",
-    "published_ts": 1791987508.0,
-    "summary": "Energy prices have surged since the start of war with Iran, lifting inflation in the United States.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Rising Costs Push Necessities Out of Reach for Nearly Half of Americans",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T14:00:06+00:00",
-    "published_ts": 1791986406.0,
-    "summary": "Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Canada Building Permits Rebound in August",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T13:19:00+00:00",
-    "published_ts": 1791983940.0,
-    "summary": "The total value of building permits rose 8.8% from the month before to a seasonally adjusted 13.57 billion Canadian dollars, the equivalent of $9.55 billion, Statistics Canada said.",
-    "link": "https://www.wsj.com/economy/housing/canada-building-permits-rebound-in-august-a801156b?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Stubborn Sellers Are the Last Thing Propping Up Home Prices",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-14T09:30:00+00:00",
-    "published_ts": 1791970200.0,
-    "summary": "Mortgage rates above 7% might not be enough to crack home values if owners hold the line.",
-    "link": "https://www.wsj.com/economy/housing/stubborn-sellers-are-the-last-thing-propping-up-home-prices-da1a26c9?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 1
   }
 ]
