@@ -1,34 +1,45 @@
 [
   {
-    "title": "A stock-market \u2018sell\u2019 signal has been silenced \u2014 but these Bank of America strategists say it\u2019s too early to buy",
+    "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-16T14:14:00+00:00",
-    "published_ts": 1792160040.0,
-    "summary": "Even though October\u2019s correction has brought about some relief for bond markets and revivified the rate sensitive sectors of the stock market, Bank of America\u2019s strategists recommend staying risk-off until after the midterms and the next Fed meeting.",
-    "link": "https://www.marketwatch.com/story/a-stock-market-sell-signal-has-been-silenced-but-these-bank-of-america-strategists-say-its-too-early-to-buy-8cdf98c8?mod=mw_rss_topstories",
-    "category": "Fed",
+    "published": "2026-10-16T21:30:00+00:00",
+    "published_ts": 1792186200.0,
+    "summary": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+    "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 5
+  },
+  {
+    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-16T22:33:05+00:00",
+    "published_ts": 1792189985.0,
+    "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
+    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+    "category": "Fixed Income",
     "priority": 3
   },
   {
     "title": "Warsh Vows to Tame Inflation as A.I. Delivers \u2018Shock\u2019 to Economy",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-10-16T13:35:08+00:00",
-    "published_ts": 1792157708.0,
+    "published": "2026-10-16T18:06:41+00:00",
+    "published_ts": 1792174001.0,
     "summary": "The Federal Reserve chairman stuck to his pledge to avoid providing guidance about the path forward for interest rates, but did nothing to convey an urgency to raise them later this month.",
     "link": "https://www.nytimes.com/2026/10/16/business/warsh-fed-imf-bangkok.html",
     "category": "Fed",
     "priority": 3
   },
   {
-    "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-16T12:36:00+00:00",
-    "published_ts": 1792154160.0,
-    "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-    "link": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-16T16:27:31+00:00",
+    "published_ts": 1792168051.0,
+    "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
     "category": "Fed",
     "priority": 3
   },
@@ -41,17 +52,6 @@
     "summary": "Kevin Warsh, the central bank\u2019s chairman, suggested he wouldn\u2019t push to raise borrowing rates this month. But persistent inflation may force the Fed\u2019s hand.",
     "link": "https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
     "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-15T12:11:15+00:00",
-    "published_ts": 1792066275.0,
-    "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-    "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -99,6 +99,39 @@
     "priority": 3
   },
   {
+    "title": "New Cracks in AI Trade Push Wall Street to Worst Week Since June",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T22:43:00+00:00",
+    "published_ts": 1792190580.0,
+    "summary": "A stock rout swept up companies from CoreWeave to Alphabet while Treasury yields tumbled.",
+    "link": "https://www.wsj.com/finance/stocks/us-death-penalty-execution-rates-41ea3427?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Why Bad News in the Bond Market May Be Good News for Investors",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T20:55:01+00:00",
+    "published_ts": 1792184101.0,
+    "summary": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
+    "link": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump\u2019s Cost Cutting",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T18:28:21+00:00",
+    "published_ts": 1792175301.0,
+    "summary": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds.",
+    "link": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
     "title": "Week Ahead for FX, Bonds: U.S., European PMI Data in Focus",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -118,28 +151,6 @@
     "summary": "The central bank\u2019s governor said the Middle East situation, AI demand and foreign-exchange rates would affect the timing of the decision.",
     "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_socialeconomyfeed",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "High Rates Have Upturned How Moody\u2019s Looks at Credit Risk, Chief Credit Officer Says",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-16T08:02:00+00:00",
-    "published_ts": 1792137720.0,
-    "summary": "Leverage matters more now because interest costs are rising, said Atsi Sheth, the ratings company\u2019s chief credit officer.",
-    "link": "https://www.wsj.com/finance/investing/high-rates-have-upturned-how-moodys-looks-at-credit-risk-chief-credit-officer-says-e84c61fd?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 2
-  },
-  {
-    "title": "Why Bad News in the Bond Market May Be Good News for Investors",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-16T05:07:20+00:00",
-    "published_ts": 1792127240.0,
-    "summary": "In the contrarian logic of investing, rising interest rates have made bonds much more attractive, our columnist says.",
-    "link": "https://www.nytimes.com/2026/10/16/business/bonds-investors-interest-rates.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -220,17 +231,6 @@
     "priority": 2
   },
   {
-    "title": "India\u2019s retail inflation jumps to 5.54% in September, above estimates",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-12T10:49:24+00:00",
-    "published_ts": 1791802164.0,
-    "summary": "India inflations jumps for the 11-straight month, raising prospects of a further interest rate hike",
-    "link": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "ECB\u2019s Lane Not Seeing \u2018Noticeable\u2019 Pickup in Eurozone Wages",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -253,36 +253,124 @@
     "priority": 2
   },
   {
-    "title": "Private credit roundup: CoreWeave\u2019s debt stress tests private credit\u2019s AI financing boom",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-16T15:26:21.378226+00:00",
-    "published_ts": 1792164381.378226,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/private-credit-roundup-coreweaves-debt-stress-tests-private-credits-ai-financing-boom-4954178",
+    "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-16T23:13:35+00:00",
+    "published_ts": 1792192415.0,
+    "summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
+    "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "US federal bankruptcy court operations disrupted by cybersecurity incident",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-16T15:26:21.378037+00:00",
-    "published_ts": 1792164381.378037,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/usfederal-bankruptcy-court-operations-disrupted-bycybersecurity-incident-4954551",
-    "category": "Economy",
+    "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-16T22:34:29+00:00",
+    "published_ts": 1792190069.0,
+    "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
+    "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-16T15:00:00+00:00",
-    "published_ts": 1792162800.0,
-    "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
-    "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+    "published": "2026-10-16T21:59:00+00:00",
+    "published_ts": 1792187940.0,
+    "summary": "The software and semiconductor sectors haven\u2019t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+    "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "A Volatile Week Ends with Tech Stocks Down, Oil Up",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T20:35:00+00:00",
+    "published_ts": 1792182900.0,
+    "summary": "Plus, Tesla\u2019s Roadster launch gets a cool reception, and companies don\u2019t like stock tokenization.",
+    "link": "https://www.wsj.com/finance/stocks/a-volatile-week-ends-with-tech-stocks-down-oil-up-5f286ce3?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "EchoStar\u2019s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-16T20:05:00+00:00",
+    "published_ts": 1792181100.0,
+    "summary": "Investors aren\u2019t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
+    "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-16T20:02:21+00:00",
+    "published_ts": 1792180941.0,
+    "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+    "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Your Social Security check will rise an average of $75 a month \u2014 will it be able to keep up with inflation?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-16T19:45:00+00:00",
+    "published_ts": 1792179900.0,
+    "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Cyber Incident Halts Bankruptcy Notices Nationwide",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T18:56:00+00:00",
+    "published_ts": 1792176960.0,
+    "summary": "A disruption at BAE Systems has halted the federal bankruptcy-noticing system since Oct. 9, forcing courts nationwide to adopt emergency measures.",
+    "link": "https://www.wsj.com/pro/bankruptcy/cyber-incident-halts-bankruptcy-notices-nationwide-a4a00ae5?mod=rss_markets_main",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "From Verizon to UnitedHealth, Corporate America Is Balking at \u2018Tokenized\u2019 Stocks",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-16T18:18:00+00:00",
+    "published_ts": 1792174680.0,
+    "summary": "Broadcom and other companies have objected to tokenizing their shares under a new regulatory framework.",
+    "link": "https://www.wsj.com/finance/stocks/from-verizon-to-unitedhealth-corporate-america-is-balking-at-tokenized-stocks-6dbbeada?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Why Trump and the GOP's billion-dollar midterm blitz isn\u2019t working",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-16T17:55:05+00:00",
+    "published_ts": 1792173305.0,
+    "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+    "link": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-16T16:46:18+00:00",
+    "published_ts": 1792169178.0,
+    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -308,17 +396,6 @@
     "priority": 1
   },
   {
-    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-16T11:15:00+00:00",
-    "published_ts": 1792149300.0,
-    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "The Radical Plan That Could Torch Your Portfolio",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -341,47 +418,14 @@
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Tech Stocks Slump as Nasdaq Faces Weekly Loss",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-16T08:08:29+00:00",
-    "published_ts": 1792138109.0,
-    "summary": "AI anxieties deepen while investors pare rate-hike bets",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "The Riskiest Corner of the AI Trade Is Crashing Into Higher Rates",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-15T21:00:00+00:00",
-    "published_ts": 1792098000.0,
-    "summary": "The CoreWeave selloff shows a pressure point from climbing borrowing costs.",
-    "link": "https://www.wsj.com/finance/stocks/the-riskiest-corner-of-the-ai-trade-is-crashing-into-higher-rates-fcdaad37?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Investors Seek Safety in a Rocky Market",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-15T20:28:00+00:00",
-    "published_ts": 1792096080.0,
-    "summary": "Plus, CoreWeave stock turns upward, and a tax-saving strategy is supercharging margin loans.",
-    "link": "https://www.wsj.com/finance/stocks/investors-seek-safety-in-a-rocky-market-4d1e17e5?mod=rss_markets_main",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-15T18:12:19+00:00",
     "published_ts": 1792087939.0,
     "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "category": "Markets",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -393,50 +437,6 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "UK economy grew 0.1% in August, beating expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-15T08:44:17+00:00",
-    "published_ts": 1792053857.0,
-    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-14T20:20:46+00:00",
-    "published_ts": 1792009246.0,
-    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Surging Inflation Complicates Trump\u2019s Final Push to Sell Voters on Strong Economy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T18:42:14+00:00",
-    "published_ts": 1792003334.0,
-    "summary": "The final inflation report before the 2026 election \u2014 showing price increases and stagnant wages \u2014 spelled bad political news for the White House.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Wall Street Worries Bank of America\u2019s Problems Will Linger",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-14T17:05:00+00:00",
-    "published_ts": 1791997500.0,
-    "summary": "Weak earnings coupled with a fine has analysts pressing executives about whether there is more pain to come.",
-    "link": "https://www.wsj.com/finance/banking/wall-street-worries-bank-of-americas-problems-will-linger-a564492f?mod=rss_markets_main",
-    "category": "Equities",
     "priority": 1
   }
 ]
