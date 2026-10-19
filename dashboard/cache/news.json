@@ -1,14 +1,25 @@
 [
   {
-    "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-18T13:00:00+00:00",
-    "published_ts": 1792328400.0,
-    "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn\u2019t quite right, one strategist notes.",
-    "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+    "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-19T15:44:00+00:00",
+    "published_ts": 1792424640.0,
+    "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
+    "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
     "category": "Fixed Income",
-    "priority": 4
+    "priority": 3
+  },
+  {
+    "title": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-19T15:44:00+00:00",
+    "published_ts": 1792424640.0,
+    "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
+    "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
+    "priority": 3
   },
   {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -33,17 +44,6 @@
     "priority": 3
   },
   {
-    "title": "When Will the Fed Move on Rates?",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-16T12:00:34+00:00",
-    "published_ts": 1792152034.0,
-    "summary": "Kevin Warsh, the central bank\u2019s chairman, suggested he wouldn\u2019t push to raise borrowing rates this month. But persistent inflation may force the Fed\u2019s hand.",
-    "link": "https://www.nytimes.com/2026/10/16/business/dealbook/fed-rates-warsh-inflation.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Rising Rates Threaten Wall Street\u2019s Golden Goose in Trading",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -64,72 +64,6 @@
     "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
     "category": "Fed",
     "priority": 3
-  },
-  {
-    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-13T04:54:07+00:00",
-    "published_ts": 1791867247.0,
-    "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-18T12:34:51+00:00",
-    "published_ts": 1792326891.0,
-    "summary": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-    "link": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-17T15:42:34+00:00",
-    "published_ts": 1792251754.0,
-    "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
-    "link": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "U.S. Budget Deficit Nears $2 Trillion, a Reality Check for Trump\u2019s Cost Cutting",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-16T18:28:21+00:00",
-    "published_ts": 1792175301.0,
-    "summary": "Higher interest rates are inflating borrowing costs as the Trump administration spends on the Iran war and tariff refunds.",
-    "link": "https://www.nytimes.com/2026/10/16/business/us-budget-deficit.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Week Ahead for FX, Bonds: U.S., European PMI Data in Focus",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-16T14:15:00+00:00",
-    "published_ts": 1792160100.0,
-    "summary": "Purchasing managers\u2019 indexes for the U.S. and Europe will offer insights into business sentiment and a further clue on future interest-rate rises.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-european-pmi-data-in-focus-b2ef9cd5?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Bank of Japan Must Ensure Underlying Inflation Doesn\u2019t Go Above 2%, Ueda Says",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-16T12:39:00+00:00",
-    "published_ts": 1792154340.0,
-    "summary": "The central bank\u2019s governor said the Middle East situation, AI demand and foreign-exchange rates would affect the timing of the decision.",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-japan-must-ensure-underlying-inflation-doesnt-go-above-2-ueda-says-0d94c2f0?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 2
   },
   {
     "title": "Economists: Hot PPI shows Fed's work is not done",
@@ -231,25 +165,201 @@
     "priority": 2
   },
   {
-    "title": "As AI rally wobbles, stock market\u2019s spotlight turns to earnings",
+    "title": "European stocks drop amid political turmoil in France",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-18T14:43:00.970496+00:00",
-    "published_ts": 1792334580.970496,
+    "published": "2026-10-19T17:37:34.269904+00:00",
+    "published_ts": 1792431454.269904,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4955913",
+    "link": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Cleveland-Cliffs options activity after Q3 earnings beat",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-19T17:37:34.269890+00:00",
+    "published_ts": 1792431454.26989,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+    "title": "US stocks rebound with AI earnings test ahead; French markets tumble",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-19T17:37:34.269876+00:00",
+    "published_ts": 1792431454.269876,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Truist previews lodging sector earnings, adjusts estimates",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-19T17:37:34.269846+00:00",
+    "published_ts": 1792431454.269846,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Plata hits $1 billion revenue run rate in under 4 years - Bloomberg",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-19T17:37:34.269830+00:00",
+    "published_ts": 1792431454.26983,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/plata-hits-1-billion-revenue-run-rate-in-under-4-years--bloomberg-93CH-4958092",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Hedge funds cut tech stocks at record pace, Goldman says",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-19T17:37:34.269816+00:00",
+    "published_ts": 1792431454.269816,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/hedge-funds-cut-tech-stocks-at-record-pace-goldman-says-4958101",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Micron and other chip stocks spring back to life after bruising selloff",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-18T14:00:00+00:00",
-    "published_ts": 1792332000.0,
-    "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter\u2019s results look especially strong by comparison.",
-    "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+    "published": "2026-10-19T16:59:00+00:00",
+    "published_ts": 1792429140.0,
+    "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T15:30:00+00:00",
+    "published_ts": 1792423800.0,
+    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-19T15:25:59+00:00",
+    "published_ts": 1792423559.0,
+    "summary": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers.",
+    "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Canada Inflation Heats Up in September With Jump in Gas Prices",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-19T15:15:00+00:00",
+    "published_ts": 1792422900.0,
+    "summary": "Canadian inflation ticked higher last month as prices at the pump jumped again, though underlying price pressures look to be holding steady.",
+    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-in-september-with-jump-in-gas-prices-7cffb4b8?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T15:10:54+00:00",
+    "published_ts": 1792422654.0,
+    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T15:00:00+00:00",
+    "published_ts": 1792422000.0,
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T13:36:41+00:00",
+    "published_ts": 1792417001.0,
+    "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T12:59:13+00:00",
+    "published_ts": 1792414753.0,
+    "summary": "\"It looks like either the bond markets riot, or the people riot, or both,\" one analyst told CNBC.",
+    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "The Weak Points in AI Bonds Are Becoming Clearer",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-19T09:30:00+00:00",
+    "published_ts": 1792402200.0,
+    "summary": "Traders are revealing where they see the biggest pitfalls in debt issuance related to artificial intelligence.",
+    "link": "https://www.wsj.com/finance/investing/the-weak-points-in-ai-bonds-are-becoming-clearer-12f09cc6?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "America\u2019s home-buying market is a house divided as surging mortgage rates send many buyers to the sidelines, while the affluent drive overall prices higher with big cash purchases",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-19T09:30:00+00:00",
+    "published_ts": 1792402200.0,
+    "summary": "Surging mortgage rates are sending many buyers to the sidelines, while affluent shoppers are driving overall prices higher with big cash purchases.",
+    "link": "https://www.wsj.com/economy/housing/americas-new-housing-market-is-all-about-luxuryand-it-runs-on-cash-8a5fcb8e?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market Today: Tech Stocks Rebound After Friday\u2019s Selloff",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-19T08:35:05+00:00",
+    "published_ts": 1792398905.0,
+    "summary": "Intel, CoreWeave make up some ground; European stocks, French bonds slump",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "China\u2019s economic growth picked up in the third quarter, recovering from a three-year low as booming exports mitigate a deepening economic slowdown at home",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-19T04:03:00+00:00",
+    "published_ts": 1792382580.0,
+    "summary": "Economic growth accelerated, though consumer confidence and property market woes persist.",
+    "link": "https://www.wsj.com/economy/chinas-economy-expanded-4-5-in-third-quarter-powered-by-exports-53910a55?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -264,28 +374,6 @@
     "priority": 1
   },
   {
-    "title": "Why hedge funds could be making a bond market shock more likely",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-18T06:13:05+00:00",
-    "published_ts": 1792303985.0,
-    "summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock.",
-    "link": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "\u2018Some people did everything right\u2019: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-17T16:47:00+00:00",
-    "published_ts": 1792255620.0,
-    "summary": "\u201dI earn $110,000 a year.\u201d",
-    "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage over bonds",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -294,61 +382,6 @@
     "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
     "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-17T13:00:00+00:00",
-    "published_ts": 1792242000.0,
-    "summary": "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September \u2014 the highest share in a little over a year.",
-    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-17T09:02:09+00:00",
-    "published_ts": 1792227729.0,
-    "summary": "The annual decline was about $70 billion. Companies are writing off billions in A.I. investments, taking advantage of tax cuts that President Trump signed into law.",
-    "link": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "A Popular Tax-Saving Trade is Juicing Wall Street\u2019s Borrowing Binge",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-17T02:06:00+00:00",
-    "published_ts": 1792202760.0,
-    "summary": "Margin loan balances at Charles Schwab swelled to nearly $190 billion in the third quarter, fueled by the growth of one tax-loss harvesting strategy.",
-    "link": "https://www.wsj.com/finance/investing/a-popular-tax-minimizing-trade-is-juicing-wall-streets-borrowing-binge-6d81eac2?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Blue Owl Founders Promised a Comeback. The Company\u2019s Share Price Hasn\u2019t Budged.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-17T00:00:00+00:00",
-    "published_ts": 1792195200.0,
-    "summary": "Executives at the private-credit giant have been trying to reassure employees, yet Blue Owl stock is down about 67% from its record high in January 2025.",
-    "link": "https://www.wsj.com/finance/blue-owl-stock-price-private-credit-ca6673d9?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Netflix Hurries to Rewrite Its Narrative With Layoffs and a Sudden Firing",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-16T23:22:21+00:00",
-    "published_ts": 1792192941.0,
-    "summary": "Despite strong revenues and profits, the streaming service cut 1,000 jobs and jettisoned its chief content officer. Drops in the stock price and viewer engagement are to blame.",
-    "link": "https://www.nytimes.com/2026/10/16/business/media/netflix-layoffs-bela-bajaria.html",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -404,39 +437,6 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "UK economy grew 0.1% in August, beating expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-15T08:44:17+00:00",
-    "published_ts": 1792053857.0,
-    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-14T20:20:46+00:00",
-    "published_ts": 1792009246.0,
-    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Surging Inflation Complicates Trump\u2019s Final Push to Sell Voters on Strong Economy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T18:42:14+00:00",
-    "published_ts": 1792003334.0,
-    "summary": "The final inflation report before the 2026 election \u2014 showing price increases and stagnant wages \u2014 spelled bad political news for the White House.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
-    "category": "Geopolitics",
     "priority": 1
   }
 ]
