@@ -1,16 +1,5 @@
 [
   {
-    "title": "See What 71 Economists Told Us About Where Growth and Yields Are Headed",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-19T15:44:00+00:00",
-    "published_ts": 1792424640.0,
-    "summary": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation.",
-    "link": "https://www.wsj.com/finance/see-what-71-economists-told-us-about-where-growth-and-yields-are-headed-8977cb44?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -53,6 +42,39 @@
     "link": "https://www.wsj.com/finance/banking/rising-rates-threaten-wall-streets-golden-goose-in-trading-db7fc8cb?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 3
+  },
+  {
+    "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T23:34:14+00:00",
+    "published_ts": 1792539254.0,
+    "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
+    "link": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T22:29:45+00:00",
+    "published_ts": 1792535385.0,
+    "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+    "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+    "category": "Equities",
+    "priority": 2
+  },
+  {
+    "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T19:28:43+00:00",
+    "published_ts": 1792524523.0,
+    "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+    "category": "Fed",
+    "priority": 2
   },
   {
     "title": "A \u2018Doom Loop\u2019 Threatens France as Populism Confronts Markets",
@@ -198,47 +220,91 @@
     "priority": 2
   },
   {
-    "title": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
+    "title": "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-20T15:43:26.947121+00:00",
-    "published_ts": 1792511006.947121,
+    "published": "2026-10-20T23:41:44.281398+00:00",
+    "published_ts": 1792539704.281398,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
-    "category": "Commodities",
+    "link": "https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
+    "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Twilio reiterated as large-cap software top pick by BTIG",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-20T15:43:26.947097+00:00",
-    "published_ts": 1792511006.947097,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
-    "category": "Geopolitics",
+    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-20T22:30:00+00:00",
+    "published_ts": 1792535400.0,
+    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
+    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "China criticizes US ban on DeepSeek AI from federal systems",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-20T15:43:26.947069+00:00",
-    "published_ts": 1792511006.947069,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "title": "Prediction-market odds rise for Marine Le Pen in France 2027 presidential race as protests roil nation",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-20T15:32:49+00:00",
-    "published_ts": 1792510369.0,
-    "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
-    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "published": "2026-10-20T20:34:23+00:00",
+    "published_ts": 1792528463.0,
+    "summary": "Speculators on Kalshi see higher odds that Marine Le Pen will win France 2027 presidential contest amid growing unrest in the country.",
+    "link": "https://www.cnbc.com/2026/10/20/marine-le-pen-france-2027-election-odds-kalshi.html",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Stocks Make a U-Turn on Hopes of U.S.-Iran Diplomacy",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-20T20:18:00+00:00",
+    "published_ts": 1792527480.0,
+    "summary": "Plus, oil prices slip and General Motors\u2019 shares fall after company warns of a rocky 2027",
+    "link": "https://www.wsj.com/finance/stocks/stocks-make-a-u-turn-on-hopes-of-u-s-iran-diplomacy-39fb739b?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Boeing\u2019s Large 737 Max Jet Secures U.S. Approval",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-20T20:04:15+00:00",
+    "published_ts": 1792526655.0,
+    "summary": "After years of delay, the Federal Aviation Administration certified the 737 Max 10, the largest version of Boeing\u2019s most popular plane.",
+    "link": "https://www.nytimes.com/2026/10/20/business/boeing-737-max-10-faa.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Traders are betting Netflix's stock drama may be coming to an end",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T18:10:13+00:00",
+    "published_ts": 1792519813.0,
+    "summary": "Current options prices are implying a 9% post-earnings move for Netflix, which is the highest since its Q3 2022 report, when it was priced for an 11% move.",
+    "link": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T18:06:13+00:00",
+    "published_ts": 1792519573.0,
+    "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
+    "link": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Investors in Anticipation Over Musk\u2019s Next Big SpaceX Deal",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-20T16:17:54+00:00",
+    "published_ts": 1792513074.0,
+    "summary": "Ahead of SpaceX\u2019s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.",
+    "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -253,50 +319,6 @@
     "priority": 1
   },
   {
-    "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-20T15:01:00+00:00",
-    "published_ts": 1792508460.0,
-    "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
-    "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-20T15:00:00+00:00",
-    "published_ts": 1792508400.0,
-    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-20T14:12:38+00:00",
-    "published_ts": 1792505558.0,
-    "summary": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S.",
-    "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "What options traders expect from SpaceX earnings after the bell",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-20T14:01:49+00:00",
-    "published_ts": 1792504909.0,
-    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
-    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -308,13 +330,13 @@
     "priority": 1
   },
   {
-    "title": "Investors in Anticipation Over Musk\u2019s Next Big SpaceX Deal",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-20T12:38:10+00:00",
-    "published_ts": 1792499890.0,
-    "summary": "Ahead of SpaceX\u2019s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.",
-    "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+    "title": "SpaceX Earnings Today: SpaceX Stock Rises After Revenue Doubles",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-20T09:11:54+00:00",
+    "published_ts": 1792487514.0,
+    "summary": "CEO Elon Musk says SpaceX and Tesla have formed committees to study a merger",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-20-2026?mod=rss_markets_main",
     "category": "Equities",
     "priority": 1
   },
@@ -415,28 +437,6 @@
     "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-15T18:12:20+00:00",
-    "published_ts": 1792087940.0,
-    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Mortgage Rates Hover at 7.4%, Highest Since 2023",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-15T16:09:19+00:00",
-    "published_ts": 1792080559.0,
-    "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
