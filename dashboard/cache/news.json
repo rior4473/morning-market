@@ -55,25 +55,36 @@
     "priority": 3
   },
   {
-    "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-13T19:46:12+00:00",
-    "published_ts": 1791920772.0,
-    "summary": "New York Fed President John Williams sees one more rate hike in 2026 but no additional increase in 2027 as inflation pressures ease.",
-    "link": "https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
-    "category": "Fed",
-    "priority": 3
+    "title": "A \u2018Doom Loop\u2019 Threatens France as Populism Confronts Markets",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-20T14:24:30+00:00",
+    "published_ts": 1792506270.0,
+    "summary": "The turmoil shows the profound challenges facing governments stuck between unhappy citizens and wary bond investors.",
+    "link": "https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html",
+    "category": "Fixed Income",
+    "priority": 2
   },
   {
-    "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T21:36:00+00:00",
-    "published_ts": 1792445760.0,
-    "summary": "Credit markets are sending unusually mixed messages to investors right now, and it\u2019s making some people nervous.",
-    "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
-    "category": "Fixed Income",
+    "title": "Yes, the Fed Can Kill the AI Boom",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-20T09:58:00+00:00",
+    "published_ts": 1792490280.0,
+    "summary": "Plus, AI slop comes for the government, why large families are a status symbol, and lessons from Jerome Powell\u2019s calendar.",
+    "link": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Bulls think AI is immune to higher rates. Dot-com investors made the same mistake. Read more in today\u2019s WSJ Economics newsletter:",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-20T09:58:00+00:00",
+    "published_ts": 1792490280.0,
+    "summary": "Plus, AI slop comes for the government, why large families are a status symbol, and lessons from Jerome Powell\u2019s calendar.",
+    "link": "https://www.wsj.com/finance/investing/yes-the-fed-can-kill-the-ai-boom-3c25da2e?mod=rss_socialeconomyfeed",
+    "category": "Fed",
     "priority": 2
   },
   {
@@ -85,17 +96,6 @@
     "summary": "Economists say the survey results could set the stage for a Bank of Canada interest-rate increase next week.",
     "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-survey-records-notable-rise-in-inflation-expectations-9d035987?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T05:29:51+00:00",
-    "published_ts": 1792387791.0,
-    "summary": "The prime minister denied that her policies were responsible for the yen\u2019s weakness or rising JGB yields.",
-    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -198,25 +198,135 @@
     "priority": 2
   },
   {
-    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
+    "title": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-20T00:10:03.584919+00:00",
-    "published_ts": 1792455003.584919,
+    "published": "2026-10-20T15:43:26.947121+00:00",
+    "published_ts": 1792511006.947121,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+    "link": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Twilio reiterated as large-cap software top pick by BTIG",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-20T15:43:26.947097+00:00",
+    "published_ts": 1792511006.947097,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "China criticizes US ban on DeepSeek AI from federal systems",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-20T15:43:26.947069+00:00",
+    "published_ts": 1792511006.947069,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T15:32:49+00:00",
+    "published_ts": 1792510369.0,
+    "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks.",
+    "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Trump Tariffs on Canada Spark Latest Lawsuit Over Trade Powers",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-20T15:18:04+00:00",
+    "published_ts": 1792509484.0,
+    "summary": "Once again, the president\u2019s ability to wage a trade war without Congress will come before a court that has repeatedly ruled against him.",
+    "link": "https://www.nytimes.com/2026/10/20/business/trump-tariffs-canada-lawsuit.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-20T15:01:00+00:00",
+    "published_ts": 1792508460.0,
+    "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
+    "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-20T15:00:00+00:00",
+    "published_ts": 1792508400.0,
+    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T14:12:38+00:00",
+    "published_ts": 1792505558.0,
+    "summary": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S.",
+    "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "What options traders expect from SpaceX earnings after the bell",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T14:01:49+00:00",
+    "published_ts": 1792504909.0,
+    "summary": "It's been a busy three months for SpaceX. Traders think that means more gains for the stock after it reports earnings after the bell today.",
+    "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Exclusive-OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-20T00:10:03.584778+00:00",
-    "published_ts": 1792455003.584778,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/exclusiveopenai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say-4958511",
+    "title": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-20T12:52:29+00:00",
+    "published_ts": 1792500749.0,
+    "summary": "The key level traders are watching on the S&amp;P 500 that could mean an even bigger decline is ahead.",
+    "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Investors in Anticipation Over Musk\u2019s Next Big SpaceX Deal",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-20T12:38:10+00:00",
+    "published_ts": 1792499890.0,
+    "summary": "Ahead of SpaceX\u2019s quarterly earnings report, many on Wall Street are wondering whether Elon Musk will combine it with Tesla.",
+    "link": "https://www.nytimes.com/2026/10/20/business/dealbook/musk-spacex-deal-tesla.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "U.K. Wage Growth Picks Up, Jobless Rate Falls Ahead of Bank of England Meeting",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-20T07:33:00+00:00",
+    "published_ts": 1792481580.0,
+    "summary": "Wage growth rose a little in the three months through August, with unemployment also falling, raising the likelihood that the Bank of England will raise its key rate next month.",
+    "link": "https://www.wsj.com/world/uk/u-k-wage-growth-picks-up-ahead-of-bank-of-england-meeting-6e4a979b?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -227,61 +337,6 @@
     "published_ts": 1792448520.0,
     "summary": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers.",
     "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T21:15:00+00:00",
-    "published_ts": 1792444500.0,
-    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Micron and other chip stocks spring back to life after bruising selloff",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T21:06:00+00:00",
-    "published_ts": 1792443960.0,
-    "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "SpaceX earnings will be all about AI \u2014 for better or for worse",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T21:02:00+00:00",
-    "published_ts": 1792443720.0,
-    "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
-    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T20:33:00+00:00",
-    "published_ts": 1792441980.0,
-    "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
-    "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Canada Inflation Heats Up in September With Jump in Gas Prices",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-19T15:15:00+00:00",
-    "published_ts": 1792422900.0,
-    "summary": "Canadian inflation ticked higher last month as prices at the pump jumped again, though underlying price pressures look to be holding steady.",
-    "link": "https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-in-september-with-jump-in-gas-prices-7cffb4b8?mod=rss_socialeconomyfeed",
     "category": "Economy",
     "priority": 1
   },
@@ -308,42 +363,9 @@
     "priority": 1
   },
   {
-    "title": "Stock Market News, Oct. 19, 2026: Tech Stocks Rebound After Friday\u2019s Selloff",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-19T08:35:05+00:00",
-    "published_ts": 1792398905.0,
-    "summary": "Intel makes up some ground; European stocks, French bonds slump",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T07:48:53+00:00",
-    "published_ts": 1792396133.0,
-    "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-    "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T04:36:39+00:00",
-    "published_ts": 1792384599.0,
-    "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
-    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-10-18T09:00:50+00:00",
     "published_ts": 1792314050.0,
     "summary": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
@@ -376,7 +398,7 @@
   {
     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-10-16T16:46:18+00:00",
     "published_ts": 1792169178.0,
     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
@@ -415,28 +437,6 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "UK economy grew 0.1% in August, beating expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-15T08:44:17+00:00",
-    "published_ts": 1792053857.0,
-    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-14T20:20:46+00:00",
-    "published_ts": 1792009246.0,
-    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "category": "Fixed Income",
     "priority": 1
   }
 ]
