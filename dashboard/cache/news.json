@@ -66,6 +66,39 @@
     "priority": 3
   },
   {
+    "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T21:36:00+00:00",
+    "published_ts": 1792445760.0,
+    "summary": "Credit markets are sending unusually mixed messages to investors right now, and it\u2019s making some people nervous.",
+    "link": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Bank of Canada Survey Records Notable Rise in Inflation Expectations",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-19T20:27:00+00:00",
+    "published_ts": 1792441620.0,
+    "summary": "Economists say the survey results could set the stage for a Bank of Canada interest-rate increase next week.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-survey-records-notable-rise-in-inflation-expectations-9d035987?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T05:29:51+00:00",
+    "published_ts": 1792387791.0,
+    "summary": "The prime minister denied that her policies were responsible for the yen\u2019s weakness or rising JGB yields.",
+    "link": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
     "title": "Economists: Hot PPI shows Fed's work is not done",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -165,102 +198,80 @@
     "priority": 2
   },
   {
-    "title": "European stocks drop amid political turmoil in France",
+    "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269904+00:00",
-    "published_ts": 1792431454.269904,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Cleveland-Cliffs options activity after Q3 earnings beat",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269890+00:00",
-    "published_ts": 1792431454.26989,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/clevelandcliffs-options-activity-after-q3-earnings-beat-93CH-4958081",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "US stocks rebound with AI earnings test ahead; French markets tumble",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269876+00:00",
-    "published_ts": 1792431454.269876,
+    "published": "2026-10-20T00:10:03.584919+00:00",
+    "published_ts": 1792455003.584919,
     "summary": "",
     "link": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Truist previews lodging sector earnings, adjusts estimates",
+    "title": "Exclusive-OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269846+00:00",
-    "published_ts": 1792431454.269846,
+    "published": "2026-10-20T00:10:03.584778+00:00",
+    "published_ts": 1792455003.584778,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/truist-previews-lodging-sector-earnings-adjusts-estimates-4958085",
+    "link": "https://www.investing.com/news/stock-market-news/exclusiveopenai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say-4958511",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Plata hits $1 billion revenue run rate in under 4 years - Bloomberg",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269830+00:00",
-    "published_ts": 1792431454.26983,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/plata-hits-1-billion-revenue-run-rate-in-under-4-years--bloomberg-93CH-4958092",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Hedge funds cut tech stocks at record pace, Goldman says",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-19T17:37:34.269816+00:00",
-    "published_ts": 1792431454.269816,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/hedge-funds-cut-tech-stocks-at-record-pace-goldman-says-4958101",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Micron and other chip stocks spring back to life after bruising selloff",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T16:59:00+00:00",
-    "published_ts": 1792429140.0,
-    "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T15:30:00+00:00",
-    "published_ts": 1792423800.0,
-    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
-    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-    "category": "Markets",
     "priority": 1
   },
   {
     "title": "Black Unemployment Hints at a Job Market in Worse Shape Than It Seems",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-10-19T15:25:59+00:00",
-    "published_ts": 1792423559.0,
+    "published": "2026-10-19T22:22:00+00:00",
+    "published_ts": 1792448520.0,
     "summary": "The Black unemployment rate climbed a percentage point to 7 percent in September, almost double the rate for white workers.",
     "link": "https://www.nytimes.com/2026/10/19/business/black-unemployment-job-market.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "\u2018I\u2019m naturally skeptical\u2019: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T21:15:00+00:00",
+    "published_ts": 1792444500.0,
+    "summary": "\u201cThey insist that the details will be provided after they have carried out a soft credit check.\u201d",
+    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Micron and other chip stocks spring back to life after bruising selloff",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T21:06:00+00:00",
+    "published_ts": 1792443960.0,
+    "summary": "It\u2019s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+    "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "SpaceX earnings will be all about AI \u2014 for better or for worse",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T21:02:00+00:00",
+    "published_ts": 1792443720.0,
+    "summary": "SpaceX has been renting out access to computing power, which is a big source of revenue growth but also one that comes at a high cost.",
+    "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Retiring abroad? Don\u2019t cut these financial ties to the U.S.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-19T20:33:00+00:00",
+    "published_ts": 1792441980.0,
+    "summary": "Think carefully about your Social Security, Medicare, credit cards and bank accounts before picking your new home overseas.",
+    "link": "https://www.marketwatch.com/story/retiring-abroad-dont-cut-these-financial-ties-to-the-u-s-5e7e4fc2?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -272,50 +283,6 @@
     "summary": "Canadian inflation ticked higher last month as prices at the pump jumped again, though underlying price pressures look to be holding steady.",
     "link": "https://www.wsj.com/economy/central-banking/canada-inflation-heats-up-in-september-with-jump-in-gas-prices-7cffb4b8?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T15:10:54+00:00",
-    "published_ts": 1792422654.0,
-    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-    "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "My wife says we can\u2019t afford to retire. I vetoed her $8,000 trip to Italy. We\u2019re in our 60s and have $4 million. Do I keep working?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-19T15:00:00+00:00",
-    "published_ts": 1792422000.0,
-    "summary": "\u201cI worry about healthcare, long-term care, inflation, a long bear market and living to 95.\u201d",
-    "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Google says it can build data centers the right way. Some experts and residents are skeptical",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T13:36:41+00:00",
-    "published_ts": 1792417001.0,
-    "summary": "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
-    "link": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-19T12:59:13+00:00",
-    "published_ts": 1792414753.0,
-    "summary": "\"It looks like either the bond markets riot, or the people riot, or both,\" one analyst told CNBC.",
-    "link": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -341,24 +308,35 @@
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Tech Stocks Rebound After Friday\u2019s Selloff",
+    "title": "Stock Market News, Oct. 19, 2026: Tech Stocks Rebound After Friday\u2019s Selloff",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-10-19T08:35:05+00:00",
     "published_ts": 1792398905.0,
-    "summary": "Intel, CoreWeave make up some ground; European stocks, French bonds slump",
+    "summary": "Intel makes up some ground; European stocks, French bonds slump",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-19-2026?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "China\u2019s economic growth picked up in the third quarter, recovering from a three-year low as booming exports mitigate a deepening economic slowdown at home",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-19T04:03:00+00:00",
-    "published_ts": 1792382580.0,
-    "summary": "Economic growth accelerated, though consumer confidence and property market woes persist.",
-    "link": "https://www.wsj.com/economy/chinas-economy-expanded-4-5-in-third-quarter-powered-by-exports-53910a55?mod=rss_socialeconomyfeed",
+    "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T07:48:53+00:00",
+    "published_ts": 1792396133.0,
+    "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+    "link": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-19T04:36:39+00:00",
+    "published_ts": 1792384599.0,
+    "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+    "link": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
     "category": "Geopolitics",
     "priority": 1
   },
@@ -398,7 +376,7 @@
   {
     "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
+    "feed": "CNBC \u2014 Top News",
     "published": "2026-10-16T16:46:18+00:00",
     "published_ts": 1792169178.0,
     "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
@@ -437,6 +415,28 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "UK economy grew 0.1% in August, beating expectations",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-15T08:44:17+00:00",
+    "published_ts": 1792053857.0,
+    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
+    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-14T20:20:46+00:00",
+    "published_ts": 1792009246.0,
+    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "category": "Fixed Income",
     "priority": 1
   }
 ]
