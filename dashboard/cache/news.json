@@ -1,13 +1,35 @@
 [
   {
-    "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+    "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-23T15:27:33+00:00",
-    "published_ts": 1792769253.0,
-    "summary": "The 10-year Treasury yield stayed below 5% Friday after AI-driven tech selling sent investors into government bonds.",
-    "link": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+    "published": "2026-10-23T22:49:42+00:00",
+    "published_ts": 1792795782.0,
+    "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+    "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
     "category": "Fixed Income",
+    "priority": 3
+  },
+  {
+    "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-23T22:49:04+00:00",
+    "published_ts": 1792795744.0,
+    "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+    "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+    "category": "Commodities",
+    "priority": 3
+  },
+  {
+    "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-23T16:23:00+00:00",
+    "published_ts": 1792772580.0,
+    "summary": "An interest-rate decision by the Federal Reserve will be the highlight of a busy week ahead.",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-decisions-from-fed-other-central-banks-in-focus-92a52730?mod=rss_socialeconomyfeed",
+    "category": "Fed",
     "priority": 3
   },
   {
@@ -33,6 +55,28 @@
     "priority": 3
   },
   {
+    "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-23T20:49:09+00:00",
+    "published_ts": 1792788549.0,
+    "summary": "While higher interest rates are a complication for stocks and bonds, they are an unequivocal boon if you just want to park some cash and make a little money, our columnist says.",
+    "link": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Live Q&A: How the economy, inflation and tariffs could shape midterm elections and determine control of Congress and Trump\u2019s agenda",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-23T19:21:00+00:00",
+    "published_ts": 1792783260.0,
+    "summary": "Join two WSJ reporters for a real-time written chat on Tuesday, Oct. 27, from 1 p.m. to 2 p.m. ET. WSJ subscribers can submit questions in the comments section at any time.",
+    "link": "https://www.wsj.com/politics/elections/live-q-a-ask-us-your-questions-about-midterms-and-the-economy-58bf8f9f?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
     "title": "American Express is slashing around 3,500 jobs globally in an attempt to put a cap on rising costs",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -41,17 +85,6 @@
     "summary": "The credit-card company is the latest to announce job cuts this week as Barclays, eBay and Volvo also lay off thousands of employees.",
     "link": "https://www.wsj.com/economy/jobs/american-express-to-cut-3-500-jobs-63955c6f?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "A Simple Way to Benefit From Rising Rates: Buy Money Market Funds",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-23T09:02:32+00:00",
-    "published_ts": 1792746152.0,
-    "summary": "While higher interest rates are a complication for stocks and bonds, they are an unequivocal boon if you just want to park some cash and make a little money, our columnist says.",
-    "link": "https://www.nytimes.com/2026/10/23/business/interest-rates-money-market-funds-stocks-bonds.html",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -132,17 +165,6 @@
     "priority": 2
   },
   {
-    "title": "ECB\u2019s Lane Not Seeing \u2018Noticeable\u2019 Pickup in Eurozone Wages",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-08T10:57:00+00:00",
-    "published_ts": 1791457020.0,
-    "summary": "Wages aren\u2019t rising at a rate that would trigger inflation alarms, European Central Bank Chief Economist Philip Lane said Thursday.",
-    "link": "https://www.wsj.com/economy/global/ecbs-lane-not-seeing-noticeable-pickup-in-eurozone-wages-bec01297?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
     "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Markets",
@@ -154,47 +176,146 @@
     "priority": 2
   },
   {
-    "title": "Truist names top clean energy stocks to watch ahead of Q3 earnings season",
+    "title": "JetBlue creditors working with restructuring adviser PJT Partners, WSJ reports",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-23T15:49:21.476473+00:00",
-    "published_ts": 1792770561.476473,
+    "published": "2026-10-23T23:47:37.905453+00:00",
+    "published_ts": 1792799257.905453,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/truist-names-top-clean-energy-stocks-to-watch-ahead-of-q3-earnings-season-4970046",
-    "category": "Equities",
+    "link": "https://www.investing.com/news/stock-market-news/jetblue-creditors-working-with-restructuring-adviser-pjt-partners-wsj-reports-4970498",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Wells Fargo Names Top Pick Ahead of Q3 Earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-23T15:49:21.476447+00:00",
-    "published_ts": 1792770561.476447,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/wells-fargo-names-top-pick-ahead-of-q3-earnings-4970047",
-    "category": "Equities",
+    "title": "France\u2019s Avoids a Debt Downgrade From Moody\u2019s, but Is Given a Warning",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-23T23:23:10+00:00",
+    "published_ts": 1792797790.0,
+    "summary": "Moody\u2019s held the country\u2019s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France\u2019s debt situation.",
+    "link": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "Everyone\u2019s talking about Roth conversions, but here\u2019s how few people really do them \u2014 and why you shouldn\u2019t have FOMO about it",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-23T15:00:00+00:00",
-    "published_ts": 1792767600.0,
-    "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
-    "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-    "category": "Markets",
+    "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-23T21:26:59+00:00",
+    "published_ts": 1792790819.0,
+    "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+    "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-23T14:40:00+00:00",
-    "published_ts": 1792766400.0,
+    "published": "2026-10-23T21:13:00+00:00",
+    "published_ts": 1792789980.0,
     "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-23T21:10:00+00:00",
+    "published_ts": 1792789800.0,
+    "summary": "Inflation and jitters over artificial intelligence are fighting for investors\u2019 attention.",
+    "link": "https://www.wsj.com/finance/stocks/stocks-pulled-in-two-directions-fall-to-end-volatile-week-0c2042a8?mod=rss_markets_main",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Some Republicans are opposing Trump on tariffs. Maine\u2019s Susan Collins just got him to back down on Canadian levies.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-23T20:50:00+00:00",
+    "published_ts": 1792788600.0,
+    "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+    "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-23T20:49:42+00:00",
+    "published_ts": 1792788582.0,
+    "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Ahead of Tight Race, Trump Swaps Tariffs on Some Canadian Goods",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-23T20:29:40+00:00",
+    "published_ts": 1792787380.0,
+    "summary": "The move was announced by Senator Susan Collins, a Maine Republican who faces a tough re-election fight amid rising prices.",
+    "link": "https://www.nytimes.com/2026/10/23/business/trump-susan-collins-canada-tariffs.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-23T20:19:00+00:00",
+    "published_ts": 1792786740.0,
+    "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+    "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Stock Selloff Continues as Oil Surges",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-23T20:19:00+00:00",
+    "published_ts": 1792786740.0,
+    "summary": "Plus, SK Hynix scraps U.S. IPO plan for its flash-memory subsidiary and American Express cuts 5% of its headcount.",
+    "link": "https://www.wsj.com/finance/stocks/stock-selloff-continues-as-oil-surges-a6d20245?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Investors are starting to find opportunities in the battered bond market",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-23T20:09:36+00:00",
+    "published_ts": 1792786176.0,
+    "summary": "Some market participants see reason for hope in a market bludgeoned this year.",
+    "link": "https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Global Oil Price Hits $116 a Barrel, Highest Since April",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-23T20:03:29+00:00",
+    "published_ts": 1792785809.0,
+    "summary": "Investors have grown increasingly concerned that the war in Iran could escalate again, putting energy supplies at greater risk.",
+    "link": "https://www.nytimes.com/2026/10/23/business/energy-environment/oil-prices-iran-war.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-23T20:02:00+00:00",
+    "published_ts": 1792785720.0,
+    "summary": "\u201cI\u2019m 32 years old and feel like I should know how to do this stuff by now.\u201d",
+    "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -206,39 +327,6 @@
     "summary": "Just as they were finding a toehold stateside, artisanal producers got caught in a trade war.",
     "link": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Restaurant earnings will test whether owning more brands pays off",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-23T13:55:46+00:00",
-    "published_ts": 1792763746.0,
-    "summary": "Shares of companies with multiple restaurant brands like Brinker and Darden are outperforming single-chain stocks like McDonald's and Chipotle.",
-    "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-23T13:50:46+00:00",
-    "published_ts": 1792763446.0,
-    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I\u2019m crazy. Who\u2019s right?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-23T13:30:00+00:00",
-    "published_ts": 1792762200.0,
-    "summary": "\u201cI don\u2019t want to enter retirement owing six figures when we have the cash to clear it.\u201d",
-    "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -264,17 +352,6 @@
     "priority": 1
   },
   {
-    "title": "With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-23T11:00:01+00:00",
-    "published_ts": 1792753201.0,
-    "summary": "A Tesla-SpaceX merger may be in the works, but the companies face a long road of negotiations and regulatory reviews.",
-    "link": "https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "Elite Colleges Can Give You an Investing Lesson",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -297,12 +374,12 @@
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Dow Slides as Oil Prices Climb to Highest in Five Months",
+    "title": "Stock Market News, Oct. 23, 2026: Dow Slides as Oil Prices Climb to Highest in Five Months",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-10-23T09:07:32+00:00",
     "published_ts": 1792746452.0,
-    "summary": "Nasdaq losses are more muted after Thursday's selloff",
+    "summary": "Nasdaq stems weekly loss; Brent crude trades above $116",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-23-2026?mod=rss_markets_main",
     "category": "Commodities",
     "priority": 1
@@ -316,39 +393,6 @@
     "summary": "The private student loan company, formally SLM Corp., now expects earnings per share for the year to be $1.95 to $2.05, down from its earlier guidance of $3.10 to $3.20.",
     "link": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21?mod=rss_markets_main",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "WSJ Dollar Index Falls 0.12% to 96.80",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-22T21:27:00+00:00",
-    "published_ts": 1792704420.0,
-    "summary": "The WSJ Dollar Index edged 0.1% lower, down for three consecutive trading days.",
-    "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-focus-on-mideast-developments-716c953b?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Mortgage Rates Remain Above 7%, Pushing Home Prices Lower in Some Areas",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-22T19:18:58+00:00",
-    "published_ts": 1792696738.0,
-    "summary": "The 30-year, fixed-rate mortgage dropped slightly to 7.32 percent as prospective home buyers continue to struggle with affordability. But home prices are starting to drop in some areas.",
-    "link": "https://www.nytimes.com/2026/10/22/business/mortgage-rates-housing-costs.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-22T13:18:36+00:00",
-    "published_ts": 1792675116.0,
-    "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
-    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -393,50 +437,6 @@
     "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
     "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-16T22:34:29+00:00",
-    "published_ts": 1792190069.0,
-    "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-16T16:46:18+00:00",
-    "published_ts": 1792169178.0,
-    "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-    "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-16T15:00:00+00:00",
-    "published_ts": 1792162800.0,
-    "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Homeownership Drifts Further Out of Reach as Mortgage Rates Rise",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-15T18:12:20+00:00",
-    "published_ts": 1792087940.0,
-    "summary": "Mortgage rates have pushed above 7 percent and home prices remain elevated, hurting the prospects of would-be buyers.",
-    "link": "https://www.nytimes.com/2026/10/15/business/economy/housing-market-mortgage-rates.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
