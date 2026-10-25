@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:42:41.080566+00:00",
+  "generated_at": "2026-10-25T15:00:20.437811+00:00",
   "sections": {
     "yields": {
       "rows": [
@@ -104,7 +104,7 @@
         }
       ],
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "key_rates": {
       "rows": [
@@ -117,8 +117,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.781986531986532,
-          "as_of": "2026-10-24",
+          "ytd_avg": 3.7827181208053693,
+          "as_of": "2026-10-25",
           "stale": false
         },
         {
@@ -130,8 +130,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.531986531986532,
-          "as_of": "2026-10-24",
+          "ytd_avg": 3.5327181208053693,
+          "as_of": "2026-10-25",
           "stale": false
         },
         {
@@ -240,7 +240,7 @@
         }
       ],
       "source": "FRED",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "credit": {
       "rows": [
@@ -285,7 +285,7 @@
         }
       ],
       "source": "ICE BofA / Moody's via FRED",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "spreads": {
       "rows": [
@@ -340,7 +340,7 @@
         }
       ],
       "source": "U.S. Treasury (+ EFFR via FRED)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "curve": {
       "points": [
@@ -426,17 +426,17 @@
           "30Y": 5.33
         },
         "1m": {
-          "1M": 4.01,
+          "1M": 4.04,
           "3M": 4.24,
-          "6M": 4.34,
-          "1Y": 4.51,
-          "2Y": 4.87,
-          "3Y": 4.99,
-          "5Y": 5.03,
-          "7Y": 5.1,
-          "10Y": 5.18,
-          "20Y": 5.53,
-          "30Y": 5.47
+          "6M": 4.33,
+          "1Y": 4.5,
+          "2Y": 4.81,
+          "3Y": 4.94,
+          "5Y": 4.98,
+          "7Y": 5.06,
+          "10Y": 5.17,
+          "20Y": 5.54,
+          "30Y": 5.49
         },
         "1y": {
           "1M": 4.11,
@@ -456,7 +456,7 @@
       "spread_10y_2y": 0.3099999999999996,
       "as_of": "2026-10-23",
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "macro": {
       "rows": [
@@ -506,7 +506,7 @@
         }
       ],
       "source": "FRED (BLS/BEA)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "jpm_focus": {
       "rows": [
@@ -556,7 +556,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "volatility_futures": {
       "rows": [
@@ -617,7 +617,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "fixed_income": {
       "rows": [
@@ -711,7 +711,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "commodities": {
       "rows": [
@@ -740,39 +740,39 @@
         {
           "asset": "Brent Crude",
           "ticker": "BZ=F",
-          "latest": 116.72000122070312,
+          "latest": 111.69999694824219,
           "previous": 113.16999816894531,
-          "change": 3.5500030517578125,
-          "pct_change": 3.1368764771544897,
-          "ytd_pct": 92.1316892521862,
+          "change": -1.470001220703125,
+          "pct_change": -1.2989319117144813,
+          "ytd_pct": 83.868307733732,
           "as_of": "2026-10-23",
           "stale": false
         },
         {
           "asset": "Copper",
           "ticker": "HG=F",
-          "latest": 6.47599983215332,
+          "latest": 6.507500171661377,
           "previous": 6.362500190734863,
-          "change": 0.11349964141845703,
-          "pct_change": 1.783884291017175,
-          "ytd_pct": 14.822694777626902,
+          "change": 0.14499998092651367,
+          "pct_change": 2.2789780208991446,
+          "ytd_pct": 15.381211448792802,
           "as_of": "2026-10-23",
           "stale": false
         },
         {
           "asset": "Silver",
           "ticker": "SI=F",
-          "latest": 53.71099853515625,
+          "latest": 53.94900131225586,
           "previous": 54.763999938964844,
-          "change": -1.0530014038085938,
-          "pct_change": -1.9227985628920037,
-          "ytd_pct": -23.87465457082439,
+          "change": -0.8149986267089844,
+          "pct_change": -1.4882014235945338,
+          "ytd_pct": -23.537329923844464,
           "as_of": "2026-10-23",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "fx_crypto": {
       "rows": [
@@ -812,50 +812,50 @@
         {
           "asset": "GBP/USD",
           "ticker": "GBPUSD=X",
-          "latest": 1.3374885320663452,
-          "previous": 1.339566707611084,
-          "change": -0.0020781755447387695,
-          "pct_change": -0.15513789144886136,
-          "ytd_pct": -0.7329347373994105,
-          "as_of": "2026-10-23",
+          "latest": 1.3373990058898926,
+          "previous": 1.3403927087783813,
+          "change": -0.0029937028884887695,
+          "pct_change": -0.22334520837681937,
+          "ytd_pct": -0.7395792809506776,
+          "as_of": "2026-10-25",
           "stale": false
         },
         {
           "asset": "USD/CNY",
           "ticker": "CNY=X",
-          "latest": 6.670199871063232,
+          "latest": 6.6697001457214355,
           "previous": 6.6778998374938965,
-          "change": -0.0076999664306640625,
-          "pct_change": -0.11530520999179482,
-          "ytd_pct": -4.658310776018214,
-          "as_of": "2026-10-24",
+          "change": -0.008199691772460938,
+          "pct_change": -0.12278848098952835,
+          "ytd_pct": -4.665453689147645,
+          "as_of": "2026-10-25",
           "stale": false
         },
         {
           "asset": "Bitcoin",
           "ticker": "BTC-USD",
-          "latest": 80123.6171875,
-          "previous": 81074.1875,
-          "change": -950.5703125,
-          "pct_change": -1.1724697364373835,
-          "ytd_pct": -9.701538005866333,
-          "as_of": "2026-10-24",
+          "latest": 80530.2265625,
+          "previous": 80790.8359375,
+          "change": -260.609375,
+          "pct_change": -0.32257294032903444,
+          "ytd_pct": -9.243293577023644,
+          "as_of": "2026-10-25",
           "stale": false
         },
         {
           "asset": "Ethereum",
           "ticker": "ETH-USD",
-          "latest": 2340.52001953125,
-          "previous": 2384.077392578125,
-          "change": -43.557373046875,
-          "pct_change": -1.8270117061834286,
-          "ytd_pct": -21.99291841119514,
-          "as_of": "2026-10-24",
+          "latest": 2340.050048828125,
+          "previous": 2355.95361328125,
+          "change": -15.903564453125,
+          "pct_change": -0.6750372487587029,
+          "ytd_pct": -22.008582042643322,
+          "as_of": "2026-10-25",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "global_indexes": {
       "rows": [
@@ -960,7 +960,7 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "equity_index": {
       "rows": [
@@ -1010,10 +1010,10 @@
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-10-24T14:42:39.327367+00:00"
+      "fetched_at": "2026-10-25T15:00:18.943982+00:00"
     },
     "market_wrap": {
-      "text": "In the 2026-10-23 session, the S&P 500 fell 0.52%, the Nasdaq fell 0.21% and the 10-year Treasury yield rose 4 bps to 5.00%. French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests (CNBC). Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest (CNBC).",
+      "text": "In the 2026-10-23 session, the S&P 500 fell 0.52%, the Nasdaq fell 0.21% and the 10-year Treasury yield rose 4 bps to 5.00%. French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests (CNBC). \u201cWith cautious to negative market sentiment, it could be a tricky week,\u201d one strategist says (MarketWatch).",
       "sources": [
         {
           "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
@@ -1021,15 +1021,15 @@
           "source": "CNBC"
         },
         {
-          "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-          "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-          "source": "CNBC"
+          "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+          "url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         }
       ],
       "mode": "extractive",
       "as_of": "2026-10-23",
-      "generated_at": "2026-10-24T14:42:41.080330+00:00",
-      "fetched_at": "2026-10-24T14:42:41.080566+00:00"
+      "generated_at": "2026-10-25T15:00:20.437505+00:00",
+      "fetched_at": "2026-10-25T15:00:20.437811+00:00"
     }
   }
 }
