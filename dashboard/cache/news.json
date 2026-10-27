@@ -1,14 +1,25 @@
 [
   {
-    "title": "Treasury Yields Little Changed, French Bonds Outperform",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-26T19:34:00+00:00",
-    "published_ts": 1793043240.0,
-    "summary": "U.S. Treasury yields were mixed, while French government bonds outperformed after Moody\u2019s Ratings left its credit rating on France unchanged.",
-    "link": "https://www.wsj.com/economy/central-banking/treasury-yields-turn-slightly-higher-french-bonds-outperform-2fd1aaa0?mod=rss_socialeconomyfeed",
+    "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-27T15:25:00+00:00",
+    "published_ts": 1793114700.0,
+    "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn\u2019t change your strategy.",
+    "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
     "category": "Fixed Income",
-    "priority": 4
+    "priority": 3
+  },
+  {
+    "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-27T09:03:48+00:00",
+    "published_ts": 1793091828.0,
+    "summary": "Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.",
+    "link": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
+    "category": "Fed",
+    "priority": 3
   },
   {
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
@@ -19,17 +30,6 @@
     "summary": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
     "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
     "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "The Federal Reserve is expected to hold interest rates steady this week for reasons that have as much to do with what Fed officials have said as with what the economy is doing",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-26T09:30:00+00:00",
-    "published_ts": 1793007000.0,
-    "summary": "Officials\u2019 calls for patience and the approaching midterms make a surprise rate increase hard to pull off, even after firmer inflation readings.",
-    "link": "https://www.wsj.com/economy/central-banking/why-the-fed-is-expected-to-hold-rates-steady-despite-a-case-for-raising-them-3761e47f?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -44,25 +44,69 @@
     "priority": 3
   },
   {
-    "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey",
+    "title": "JetBlue shares rally after airline flags \u2019disconnect\u2019 between earnings and bond rout",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-27T16:45:56.727961+00:00",
+    "published_ts": 1793119556.727961,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/jetblue-shares-rally-as-airline-seeks-to-calm-financial-concerns-4975611",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-26T23:51:07+00:00",
-    "published_ts": 1793058667.0,
-    "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
-    "link": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html",
+    "published": "2026-10-27T15:52:26+00:00",
+    "published_ts": 1793116346.0,
+    "summary": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
+    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
     "category": "Fed",
     "priority": 2
   },
   {
-    "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+    "title": "Fed rate hikes are coming, but not this week: CNBC survey",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-26T18:51:23+00:00",
-    "published_ts": 1793040683.0,
-    "summary": "The Federal Reserve is expected to keep its overnight rate unchanged at the conclusion of its October meeting this week.",
-    "link": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-10-27T15:51:00+00:00",
+    "published_ts": 1793116260.0,
+    "summary": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
+    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
     "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-10-27T10:09:10+00:00",
+    "published_ts": 1793095750.0,
+    "summary": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.",
+    "link": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "Last month\u2019s rate hike didn\u2019t even get the Fed back to \u2018neutral.\u2019 Read more in today\u2019s WSJ Economics newsletter:",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-27T09:58:00+00:00",
+    "published_ts": 1793095080.0,
+    "summary": "Plus, Anthropic\u2019s AI vision, chatbots do econ data, and Kevin Warsh\u2019s global audience.",
+    "link": "https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Eurozone Banks Report Declining Loan Demand, Tougher Conditions",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-27T09:57:00+00:00",
+    "published_ts": 1793095020.0,
+    "summary": "A rise in the share of rejected loan applications during the quarter and declining demand for credit signal that interest rate rises were helping to cool activity.",
+    "link": "https://www.wsj.com/economy/global/eurozone-banks-report-declining-loan-demand-tougher-conditions-b6e277cf?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -154,14 +198,135 @@
     "priority": 2
   },
   {
-    "title": "Ben & Jerry\u2019s founders explore deal to separate brand from owner, WSJ reports",
+    "title": "Top E&C stocks to watch ahead of Q3 earnings, says Citi",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-27T00:17:27.198798+00:00",
-    "published_ts": 1793060247.198798,
+    "published": "2026-10-27T16:45:56.728148+00:00",
+    "published_ts": 1793119556.728148,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/ben--jerrys-exploring-deal-with-kkr-executive-to-separate-ice-cream-brand-from-owner-wsj-reports-4973492",
-    "category": "Economy",
+    "link": "https://www.investing.com/news/stock-market-news/top-ec-stocks-to-watch-ahead-of-q3-earnings-says-citi-4976409",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T16:35:45+00:00",
+    "published_ts": 1793118945.0,
+    "summary": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
+    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
+    "category": "Crypto",
+    "priority": 1
+  },
+  {
+    "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T16:28:16+00:00",
+    "published_ts": 1793118496.0,
+    "summary": "Oracle is integrating OpenAI\u2019s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI\u2019s Jalape\u00f1o chip to OCI.",
+    "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-27T16:24:00+00:00",
+    "published_ts": 1793118240.0,
+    "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
+    "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T15:48:32+00:00",
+    "published_ts": 1793116112.0,
+    "summary": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-27T15:15:00+00:00",
+    "published_ts": 1793114100.0,
+    "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d",
+    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T15:04:36+00:00",
+    "published_ts": 1793113476.0,
+    "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "A $300 Billion \u2018Debt Wall\u2019 Is Looming Over Private-Equity Backed Companies",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-27T12:17:00+00:00",
+    "published_ts": 1793103420.0,
+    "summary": "Software firms account for about a third of the risky corporate loans due in 2028 and 2029.",
+    "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-27T10:26:00+00:00",
+    "published_ts": 1793096760.0,
+    "summary": "The merger of the two business-development companies will boost Ares Capital Corp. to over $31 billion.",
+    "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Inside the 11th-Hour Scramble to Save Anthropic\u2019s Debt Deal",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-27T10:05:00+00:00",
+    "published_ts": 1793095500.0,
+    "summary": "Plus, Microsoft and Skydance turn to voluntary exits to shrink their workforces, and Trump\u2019s tariff exposes America\u2019s reliance on Canadian aluminum.",
+    "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Fed Chairman Kevin Warsh wants to stop previewing coming moves. Several colleagues say the central bank still owes the public an explanation of how it will respond to the economy.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-27T10:00:00+00:00",
+    "published_ts": 1793095200.0,
+    "summary": "The central bank\u2019s chairman wants to stop previewing coming moves. Several colleagues say the Fed still owes the public an explanation of how it will respond to the economy.",
+    "link": "https://www.wsj.com/economy/central-banking/kevin-warsh-wanted-the-fed-to-be-quiet-instead-its-as-noisy-as-ever-b2346ca2?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Anthropic\u2019s \u2018Adjusted\u2019 Profit Exposes Wall Street\u2019s Earnings Game",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-27T09:30:00+00:00",
+    "published_ts": 1793093400.0,
+    "summary": "The AI developer\u2019s losses were the flip side of the big gains for Amazon and Alphabet.",
+    "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -176,61 +341,6 @@
     "priority": 1
   },
   {
-    "title": "\u2018You need only watch episodes of Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-26T22:30:00+00:00",
-    "published_ts": 1793053800.0,
-    "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d",
-    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-26T21:38:17+00:00",
-    "published_ts": 1793050697.0,
-    "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
-    "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Financial Wisdom From Cartoon Apes",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-26T10:43:00+00:00",
-    "published_ts": 1793011380.0,
-    "summary": "Plus, the earnings floodgates open.",
-    "link": "https://www.wsj.com/finance/stocks/financial-wisdom-from-cartoon-apes-051eeb11?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "5 Hotels That Celebrate Music",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-26T09:01:49+00:00",
-    "published_ts": 1793005309.0,
-    "summary": "From San Antonio to London, hotels are taking the music theme seriously, offering concerts, listening rooms, studios and more.",
-    "link": "https://www.nytimes.com/2026/10/26/travel/music-hotels.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-25T00:00:00+00:00",
-    "published_ts": 1792886400.0,
-    "summary": "A subculture of people obsessed with reaping rewards is prompting banks to adjust to their evolving tactics.",
-    "link": "https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?mod=rss_markets_main",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -239,17 +349,6 @@
     "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-22T21:31:00+00:00",
-    "published_ts": 1792704660.0,
-    "summary": "The private student loan company, formally SLM Corp., now expects earnings per share for the year to be $1.95 to $2.05, down from its earlier guidance of $3.10 to $3.20.",
-    "link": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21?mod=rss_markets_main",
-    "category": "Equities",
     "priority": 1
   },
   {
@@ -338,105 +437,6 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "UK economy grew 0.1% in August, beating expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-15T08:44:17+00:00",
-    "published_ts": 1792053857.0,
-    "summary": "The U.K. is grappling with a cost-of-living crisis sparked by sticky inflation and surging energy costs.",
-    "link": "https://www.cnbc.com/2026/10/15/uk-gdp-august-2026-economy.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-14T20:20:46+00:00",
-    "published_ts": 1792009246.0,
-    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Surging Inflation Complicates Trump\u2019s Final Push to Sell Voters on Strong Economy",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T18:42:14+00:00",
-    "published_ts": 1792003334.0,
-    "summary": "The final inflation report before the 2026 election \u2014 showing price increases and stagnant wages \u2014 spelled bad political news for the White House.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T14:18:28+00:00",
-    "published_ts": 1791987508.0,
-    "summary": "Energy prices have surged since the start of war with Iran, lifting inflation in the United States.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Rising Costs Push Necessities Out of Reach for Nearly Half of Americans",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-14T14:00:06+00:00",
-    "published_ts": 1791986406.0,
-    "summary": "Inflation has made basic goods hard to afford and attitudes toward inequality have changed, studies from the Pew Research Center showed.",
-    "link": "https://www.nytimes.com/2026/10/14/business/economy/high-prices-cost-of-living-pew-research.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "IMF Warns Governments Against Reliance on Short-Term Debt",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-14T03:05:00+00:00",
-    "published_ts": 1791947100.0,
-    "summary": "The IMF warned that as inflation shocks become frequent, governments\u2019 shift to selling more short-term debt may have the opposite effect to the one intended.",
-    "link": "https://www.wsj.com/economy/global/imf-warns-governments-against-reliance-on-short-term-debt-1c067436?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-13T18:00:00+00:00",
-    "published_ts": 1791914400.0,
-    "summary": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "IMF Warns of Global Economic Setbacks as Shocks Test Resilience",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-13T02:29:00+00:00",
-    "published_ts": 1791858540.0,
-    "summary": "If borrowing costs and inflation go unchecked, a sharp slowdown looms for the global economy, the International Monetary Fund said.",
-    "link": "https://www.wsj.com/economy/global/imf-warns-of-global-economic-setbacks-as-shocks-test-resilience-57066f51?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-09T14:00:00+00:00",
-    "published_ts": 1791554400.0,
-    "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-    "category": "Fed",
     "priority": 1
   }
 ]
