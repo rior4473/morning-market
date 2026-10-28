@@ -1,16 +1,5 @@
 [
   {
-    "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-27T15:25:00+00:00",
-    "published_ts": 1793114700.0,
-    "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn\u2019t change your strategy.",
-    "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
     "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -44,25 +33,25 @@
     "priority": 3
   },
   {
-    "title": "JetBlue shares rally after airline flags \u2019disconnect\u2019 between earnings and bond rout",
+    "title": "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about turnaround",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-27T16:45:56.727961+00:00",
-    "published_ts": 1793119556.727961,
+    "published": "2026-10-28T00:19:33.739866+00:00",
+    "published_ts": 1793146773.739866,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/jetblue-shares-rally-as-airline-seeks-to-calm-financial-concerns-4975611",
+    "link": "https://www.investing.com/news/stock-market-news/exclusivejetblue-ceo-says-company-not-in-talks-with-its-creditors-4976528",
     "category": "Fixed Income",
     "priority": 2
   },
   {
-    "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    "title": "Early third-quarter earnings show a 'resilient' U.S. consumer, with signs of strain",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-27T15:52:26+00:00",
-    "published_ts": 1793116346.0,
-    "summary": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase.",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-    "category": "Fed",
+    "published": "2026-10-27T21:12:55+00:00",
+    "published_ts": 1793135575.0,
+    "summary": "Companies from Royal Caribbean to Coca-Cola and UPS say they are seeing steady consumer spending despite high inflation.",
+    "link": "https://www.cnbc.com/2026/10/27/q3-earnings-resilient-consumer.html",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -85,17 +74,6 @@
     "summary": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.",
     "link": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
     "category": "Commodities",
-    "priority": 2
-  },
-  {
-    "title": "Last month\u2019s rate hike didn\u2019t even get the Fed back to \u2018neutral.\u2019 Read more in today\u2019s WSJ Economics newsletter:",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-27T09:58:00+00:00",
-    "published_ts": 1793095080.0,
-    "summary": "Plus, Anthropic\u2019s AI vision, chatbots do econ data, and Kevin Warsh\u2019s global audience.",
-    "link": "https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -198,112 +176,90 @@
     "priority": 2
   },
   {
-    "title": "Top E&C stocks to watch ahead of Q3 earnings, says Citi",
+    "title": "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-27T16:45:56.728148+00:00",
-    "published_ts": 1793119556.728148,
+    "published": "2026-10-28T00:19:33.739812+00:00",
+    "published_ts": 1793146773.739812,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/top-ec-stocks-to-watch-ahead-of-q3-earnings-says-citi-4976409",
+    "link": "https://www.investing.com/news/stock-market-news/td-cowen-keeps-united-delta-top-airline-picks-as-fuel-costs-threaten-earnings-4977155",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Ripple strikes deal with Robinhood to expand its RLUSD digital dollar",
+    "title": "Trump administration sued over rollback of corporate ownership reporting rules",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-10-28T00:19:33.739729+00:00",
+    "published_ts": 1793146773.739729,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/trump-administration-sued-over-rollback-of-corporate-ownership-reporting-rules-4977180",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-27T16:35:45+00:00",
-    "published_ts": 1793118945.0,
-    "summary": "As crypto evolves past its trading roots, and global markets shift to 24/7 liquidity, stablecoins are becoming essential financial infrastructure.",
-    "link": "https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html",
-    "category": "Crypto",
-    "priority": 1
-  },
-  {
-    "title": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-27T16:28:16+00:00",
-    "published_ts": 1793118496.0,
-    "summary": "Oracle is integrating OpenAI\u2019s ChatGPT and Codex into its applications and plans to add Google TPUs and OpenAI\u2019s Jalape\u00f1o chip to OCI.",
-    "link": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Bond investors are starting to say \u2018anything but tech.\u2019 What that means for the AI boom.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-27T16:24:00+00:00",
-    "published_ts": 1793118240.0,
-    "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
-    "link": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Honda warns 50% Canada auto tariffs would be catastrophic for auto industry",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-27T15:48:32+00:00",
-    "published_ts": 1793116112.0,
-    "summary": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-    "link": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "\u2018Just watch Judge Judy\u2019: I\u2019m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-27T15:15:00+00:00",
-    "published_ts": 1793114100.0,
-    "summary": "\u201cConsider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.\u201d",
-    "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-27T15:04:36+00:00",
-    "published_ts": 1793113476.0,
-    "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-    "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    "published": "2026-10-28T00:09:17+00:00",
+    "published_ts": 1793146157.0,
+    "summary": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+    "link": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "A $300 Billion \u2018Debt Wall\u2019 Is Looming Over Private-Equity Backed Companies",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-27T12:17:00+00:00",
-    "published_ts": 1793103420.0,
-    "summary": "Software firms account for about a third of the risky corporate loans due in 2028 and 2029.",
-    "link": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Ares Private-Credit Fund to Buy Competitor From Apollo",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-27T10:26:00+00:00",
-    "published_ts": 1793096760.0,
-    "summary": "The merger of the two business-development companies will boost Ares Capital Corp. to over $31 billion.",
-    "link": "https://www.wsj.com/finance/investing/ares-private-credit-fund-to-buy-competitor-from-apollo-daecb67c?mod=rss_markets_main",
+    "title": "Polymarket faces renewed CFTC probe over U.S. access to offshore platform",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T21:24:06+00:00",
+    "published_ts": 1793136246.0,
+    "summary": "The federal agency had previously investigated whether Polymarket allowed U.S. users on to its offshore platform in 2024, but dropped the measures in July 2025.",
+    "link": "https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Inside the 11th-Hour Scramble to Save Anthropic\u2019s Debt Deal",
+    "title": "The big reason Boeing\u2019s stock is falling so hard after earnings",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-10-27T20:43:00+00:00",
+    "published_ts": 1793133780.0,
+    "summary": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
+    "link": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Tech Stocks Power Higher, Oil Cools",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-27T10:05:00+00:00",
-    "published_ts": 1793095500.0,
-    "summary": "Plus, Microsoft and Skydance turn to voluntary exits to shrink their workforces, and Trump\u2019s tariff exposes America\u2019s reliance on Canadian aluminum.",
-    "link": "https://www.wsj.com/articles/inside-the-11th-hour-scramble-to-save-anthropics-debt-deal-1c8ad883?mod=rss_markets_main",
+    "published": "2026-10-27T20:23:00+00:00",
+    "published_ts": 1793132580.0,
+    "summary": "Plus, Boeing shares slide on new losses and Weil Gotshal hires bankruptcy lawyer",
+    "link": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-10-27T18:57:45+00:00",
+    "published_ts": 1793127465.0,
+    "summary": "Amazon has rapidly integrated AI across the e-commerce giant's sprawling business operations under CEO Andy Jassy.",
+    "link": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "China has reported robust growth this year, but a growing chorus of economists are asking: Are the numbers accurate?",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-10-27T17:08:00+00:00",
+    "published_ts": 1793120880.0,
+    "summary": "Beijing has reported robust growth this year, but a growing chorus of economists are asking if the numbers are accurate.",
+    "link": "https://www.wsj.com/economy/china-claims-strong-economic-growth-but-skeptics-question-official-figures-22e583db?mod=rss_socialeconomyfeed",
     "category": "Geopolitics",
     "priority": 1
   },
@@ -326,6 +282,17 @@
     "published_ts": 1793093400.0,
     "summary": "The AI developer\u2019s losses were the flip side of the big gains for Amazon and Alphabet.",
     "link": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "The \u2018Buy, Borrow and Die\u2019 Wealth Strategy Has Become a $5 Trillion Market",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-10-27T01:00:00+00:00",
+    "published_ts": 1793062800.0,
+    "summary": "A Deloitte study found a booming market in stock-based loans to billionaires\u2014and the lesser rich.",
+    "link": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d?mod=rss_markets_main",
     "category": "Equities",
     "priority": 1
   },
@@ -437,6 +404,39 @@
     "summary": "The average 30-year, fixed-rate mortgage has steadily risen in recent weeks, compounding affordability challenges for many Americans.",
     "link": "https://www.nytimes.com/2026/10/15/business/economy/mortgage-rates-home-buying.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-14T20:20:46+00:00",
+    "published_ts": 1792009246.0,
+    "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Surging Inflation Complicates Trump\u2019s Final Push to Sell Voters on Strong Economy",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-14T18:42:14+00:00",
+    "published_ts": 1792003334.0,
+    "summary": "The final inflation report before the 2026 election \u2014 showing price increases and stagnant wages \u2014 spelled bad political news for the White House.",
+    "link": "https://www.nytimes.com/2026/10/14/business/economy/inflation-economy-midterms.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Gas Prices Are Up 34% From a Year Ago, Adding to Inflation Pressures",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-14T14:18:28+00:00",
+    "published_ts": 1791987508.0,
+    "summary": "Energy prices have surged since the start of war with Iran, lifting inflation in the United States.",
+    "link": "https://www.nytimes.com/2026/10/14/business/economy/gas-prices-inflation-cpi.html",
+    "category": "Geopolitics",
     "priority": 1
   }
 ]
