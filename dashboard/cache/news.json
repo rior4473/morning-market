@@ -1,5 +1,16 @@
 [
   {
+    "title": "Everything changed for the oil, AI and bond trades over the past month",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-01T15:58:24+00:00",
+    "published_ts": 1793548704.0,
+    "summary": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+    "link": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+    "category": "Fixed Income",
+    "priority": 5
+  },
+  {
     "title": "Inflation Accelerated in October, PCE Index Shows",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -9,39 +20,6 @@
     "link": "https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html",
     "category": "Fed",
     "priority": 4
-  },
-  {
-    "title": "Stocks Slide, Intel Plunges, Binance Hacked",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-30T20:37:00+00:00",
-    "published_ts": 1793392620.0,
-    "summary": "Plus, Fed officials signal rate-hike support and Treasurys gain on tech selloff",
-    "link": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-30T17:28:00+00:00",
-    "published_ts": 1793381280.0,
-    "summary": "Outside the U.S., interest-rate decisions are due from the Bank of England, Sweden\u2019s Riksbank, Australia\u2019s RBA and central banks in Norway, Czech Republic, Malaysia, Brazil and Mexico.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-midterms-jobs-data-in-focus-boe-expected-to-raise-rates-aa39e25d?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 3
-  },
-  {
-    "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-30T17:15:53+00:00",
-    "published_ts": 1793380553.0,
-    "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-    "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-    "category": "Fixed Income",
-    "priority": 3
   },
   {
     "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
@@ -86,39 +64,6 @@
     "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
     "category": "Fed",
     "priority": 3
-  },
-  {
-    "title": "Alaska Air to cut about 200 jobs as fuel shock squeezes earnings",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-31T16:13:25.832984+00:00",
-    "published_ts": 1793463205.832984,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-31T16:02:00+00:00",
-    "published_ts": 1793462520.0,
-    "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn\u2019t change your strategy.",
-    "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Your stock portfolio increasingly hinges on the bond market \u2014 and the midterm elections",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-31T14:03:00+00:00",
-    "published_ts": 1793455380.0,
-    "summary": "Tech stocks in late October caught the cold that for months has been a drag on the corporate bond market.",
-    "link": "https://www.marketwatch.com/story/your-stock-portfolio-increasingly-hinges-on-the-bond-market-and-the-midterm-elections-dc1abadb?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 2
   },
   {
     "title": "Fed Needs to Implement at Least Two More Rate Increases, Dallas Fed\u2019s Logan Says",
@@ -242,36 +187,113 @@
     "priority": 2
   },
   {
-    "title": "GS flags interest rates and AI disruption as risks to long-term equity demand",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-10-31T16:13:25.832890+00:00",
-    "published_ts": 1793463205.83289,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/gs-flags-interest-rates-and-ai-disruption-as-risks-to-longterm-equity-demand-4989261",
+    "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-01T15:23:00+00:00",
+    "published_ts": 1793546580.0,
+    "summary": "With trillions of dollars riding on the artificial-intelligence trade, investors, traders and even tech executives are hunting for high-stakes protection.",
+    "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Voters head to the polls on Tuesday as beneficiaries of a stable job market and fatter salaries, but frustrated with the cost of living and President Trump\u2019s handling of the economy",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-01T15:15:00+00:00",
+    "published_ts": 1793546100.0,
+    "summary": "Voters head to the polls on Tuesday as beneficiaries of a stable job market and fatter salaries, but frustrated with the cost of living and President Trump\u2019s handling of the economy.",
+    "link": "https://www.wsj.com/economy/us-economic-data-growth-9a4f7690?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "As Political Ad Spending Skyrockets, Broadcast TV Remains King",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-01T15:04:46+00:00",
+    "published_ts": 1793545486.0,
+    "summary": "Even though marketers have increasingly shifted their dollars to other media, local stations are reaping a bonanza during these midterm elections. Nowhere is this is more evident than in Texas.",
+    "link": "https://www.nytimes.com/2026/11/01/business/media/advertising-paxton-talarico-texas-television.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-01T15:00:00+00:00",
+    "published_ts": 1793545200.0,
+    "summary": "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+    "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "This is the biggest threat to the AI-powered bull market",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-01T14:00:00+00:00",
+    "published_ts": 1793541600.0,
+    "summary": "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
+    "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-01T12:34:06+00:00",
+    "published_ts": 1793536446.0,
+    "summary": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
+    "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "The midterm election could reshape the muni bond market. Here\u2019s what investors need to know",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-01T12:30:48+00:00",
+    "published_ts": 1793536248.0,
+    "summary": "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+    "link": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "How a Little-Known Company Dominated the Persian Gulf Oil Trade",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-01T10:02:30+00:00",
+    "published_ts": 1793527350.0,
+    "summary": "South Korea\u2019s Sinokor controls about half the tanker transits through the Strait of Hormuz, benefiting from a big bet just before the war in Iran started.",
+    "link": "https://www.nytimes.com/2026/11/01/business/sinokor-oil-tankers-strait-hormuz-shipping-iran.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "South Korea\u2019s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-01T00:42:00+00:00",
+    "published_ts": 1793493720.0,
+    "summary": "",
+    "link": "https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
     "title": "We\u2019re in our 70s. Should we pay off our 2.5% mortgage \u2014 or put the money in a high-yield savings account?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-10-31T16:00:00+00:00",
-    "published_ts": 1793462400.0,
+    "published": "2026-10-31T19:00:00+00:00",
+    "published_ts": 1793473200.0,
     "summary": "\u201cLet\u2019s say 10 years from now, when I\u2019m 84, we need a substantial amount of cash.\u201d",
     "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Trump promised to slash energy costs \u2014 but gasoline, diesel and jet fuel all soared instead",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-31T12:49:58+00:00",
-    "published_ts": 1793450998.0,
-    "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
-    "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -293,50 +315,6 @@
     "published_ts": 1793404800.0,
     "summary": "The national debt is growing at an unprecedented pace and almost nobody is prepared to stop it.",
     "link": "https://www.wsj.com/economy/fiscal-hawks-national-debt-midterms-gdp-8b7a950d?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Cracks in AI Trade Power Sharp Tech Selloff",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-30T21:36:00+00:00",
-    "published_ts": 1793396160.0,
-    "summary": "Plus, Binance executives are racing to cover billions in losses from the biggest crypto heist in history, and Ukraine struck a Russian oil refinery.",
-    "link": "https://www.wsj.com/finance/stocks/cracks-in-ai-trade-power-sharp-tech-selloff-8e49471b?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Lawsuit Accuses Education Dept. of Throttling Debt Cancellation Through PSLF Program",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-10-30T20:09:36+00:00",
-    "published_ts": 1793390976.0,
-    "summary": "Public servants on the brink of student debt forgiveness are facing setbacks and extensive delays. The American Federation of Teachers sued to help them.",
-    "link": "https://www.nytimes.com/2026/10/30/business/pslf-education-department-lawsuit.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-10-30T16:55:41+00:00",
-    "published_ts": 1793379341.0,
-    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Canada GDP Seen Dipping in September After Two Flat Months",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-30T15:53:00+00:00",
-    "published_ts": 1793375580.0,
-    "summary": "Canada\u2019s economy cooled in the latest quarter after activity unexpectedly stalled two months running and early data points to a slight contraction in September.",
-    "link": "https://www.wsj.com/economy/canada-gdp-seen-dipping-in-september-after-two-flat-months-2dccc3a3?mod=rss_socialeconomyfeed",
     "category": "Economy",
     "priority": 1
   },
@@ -437,6 +415,28 @@
     "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "3 Charts That Explain the Economy as Voters Head to the Polls",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-10-18T09:00:50+00:00",
+    "published_ts": 1792314050.0,
+    "summary": "Inflation is high, consumer spending is strong and seemingly everything depends on what happens with artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/10/18/business/economy/economy-midterm-elections.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "'Dead money\u2019 for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-17T15:00:01+00:00",
+    "published_ts": 1792249201.0,
+    "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+    "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+    "category": "Fixed Income",
     "priority": 1
   }
 ]
