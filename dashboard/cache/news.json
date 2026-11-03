@@ -77,14 +77,47 @@
     "priority": 3
   },
   {
-    "title": "Stock Market News, November 2, 2026: Apple Stock Slips After Earnings; Nasdaq Falls",
+    "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T18:05:18+00:00",
+    "published_ts": 1793729118.0,
+    "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
+    "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "Flouting Consumer Law, Insurers Refuse to Pay Medical Bills for Emergency Care",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-03T18:04:05+00:00",
+    "published_ts": 1793729045.0,
+    "summary": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money.",
+    "link": "https://www.nytimes.com/2026/11/03/us/insuers-nonpayment-arbitration.html",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Australia Central Bank Raises Interest Rates to Highest Level in 18 Years",
     "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-02T09:46:46+00:00",
-    "published_ts": 1793612806.0,
-    "summary": "Oil slides amid signs U.S., Iran could consider diplomacy",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-02-2026?mod=rss_markets_main",
-    "category": "Commodities",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-03T05:25:00+00:00",
+    "published_ts": 1793683500.0,
+    "summary": "The Reserve Bank of Australia raised interest rates by 25 basis points to 4.85%, the highest since 2008 after \u201cmaterially\u201d revising up its inflation forecasts.",
+    "link": "https://www.wsj.com/economy/central-banking/australias-rba-raises-interest-rates-to-highest-level-in-18-years-5be0979a?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Australia hikes rates to 18-year high to fight inflation",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-03T03:46:20+00:00",
+    "published_ts": 1793677580.0,
+    "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+    "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -176,17 +209,6 @@
     "priority": 2
   },
   {
-    "title": "UK inflation jumps to 3.5% \u2014 cementing rate hike expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-21T07:50:10+00:00",
-    "published_ts": 1792569010.0,
-    "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
-    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Markets",
@@ -198,14 +220,157 @@
     "priority": 2
   },
   {
+    "title": "Once election results are in, here\u2019s what investors should focus on next",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-03T18:27:00+00:00",
+    "published_ts": 1793730420.0,
+    "summary": "It is important to separate your political preferences from your investment and trading decisions.",
+    "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Ghosted after a job interview? There's a website for that\u2014and thousands of frustrated job seekers have weighed in",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T18:00:01+00:00",
+    "published_ts": 1793728801.0,
+    "summary": "Being ghosted during the hiring process can be frustrating and demoralizing for candidates. Gary Meyer created a space for them to vent.",
+    "link": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T17:37:31+00:00",
+    "published_ts": 1793727451.0,
+    "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+    "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "U.S. jobs market perks up, but it\u2019s still not a great time to get hired",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-03T16:56:00+00:00",
+    "published_ts": 1793724960.0,
+    "summary": "Job openings in the U.S. rose in September to a four-month high and hiring also increased, signaling mild but perhaps not sustainable improvement in a sluggish U.S. labor market.",
+    "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-03T16:38:42+00:00",
+    "published_ts": 1793723922.0,
+    "summary": "Saudi Arabia\u2019s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+    "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Shopify\u2019s stock slides after earnings. This is what\u2019s worrying Wall Street.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-03T16:31:00+00:00",
+    "published_ts": 1793723460.0,
+    "summary": "The company missed revenue expectations, a tough outcome in today\u2019s less-forgiving tech market.",
+    "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
     "title": "Here\u2019s why Palantir\u2019s stock is down despite a \u2018bombastic\u2019 quarter",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-03T00:59:00+00:00",
-    "published_ts": 1793667540.0,
+    "published": "2026-11-03T16:21:00+00:00",
+    "published_ts": 1793722860.0,
     "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir\u2019s earnings beat.",
     "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T16:10:21+00:00",
+    "published_ts": 1793722221.0,
+    "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T16:01:39+00:00",
+    "published_ts": 1793721699.0,
+    "summary": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
+    "link": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T14:43:43+00:00",
+    "published_ts": 1793717023.0,
+    "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+    "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-03T14:38:03+00:00",
+    "published_ts": 1793716683.0,
+    "summary": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
+    "link": "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Health Insurance Is the Sleeper Inflation Issue",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-03T11:00:00+00:00",
+    "published_ts": 1793703600.0,
+    "summary": "Plus: AI in economics, William Nordhaus\u2019s climate insights, and how the U.S. is beating China in the \u2018Global Office.\u2019",
+    "link": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "The sleeper inflation issue in the midterms: health Insurance. Read more in today\u2019s WSJ Economics newsletter:",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-03T11:00:00+00:00",
+    "published_ts": 1793703600.0,
+    "summary": "Plus: AI in economics, William Nordhaus\u2019s climate insights, and how the U.S. is beating China in the \u2018Global Office.\u2019",
+    "link": "https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-03T08:49:00+00:00",
+    "published_ts": 1793695740.0,
+    "summary": "Annual inflation was 1.5% in October, compared with 1.0% in the prior month, Switzerland\u2019s statistics office said.",
+    "link": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -220,25 +385,14 @@
     "priority": 1
   },
   {
-    "title": "South Korea Inflation Remains Above Target at 2.8% in October",
+    "title": "South Korea Inflation Remained Above Target in October",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
     "published": "2026-11-02T23:34:00+00:00",
     "published_ts": 1793662440.0,
-    "summary": "South Korea\u2019s headline inflation remained above the central bank\u2019s 2% target in October, although it eased from the previous month, potentially reinforcing the case for further monetary policy tightening.",
+    "summary": "Headline inflation eased in October but remained above the central bank\u2019s 2% target.",
     "link": "https://www.wsj.com/economy/south-korea-inflation-eases-to-2-8-in-october-still-above-target-3d4069db?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-02T23:12:15+00:00",
-    "published_ts": 1793661135.0,
-    "summary": "States like Saudi Arabia and the United Arab Emirates that have worked to rebalance from a dependence on energy have seen growth plunge in a year of strife.",
-    "link": "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -250,83 +404,6 @@
     "summary": "Investors are following races in key states for pushback against the AI infrastructure build-out.",
     "link": "https://www.wsj.com/finance/stocks/the-risks-state-and-local-elections-pose-for-wall-street-and-the-ai-trade-3bc5219d?mod=rss_markets_main",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Intel foundry push faces critical test after stock's 45% plunge in October",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-02T21:59:48+00:00",
-    "published_ts": 1793656788.0,
-    "summary": "Intel\u2019s turnaround now hinges on proving its foundry strategy can deliver, as customers look for signs the company will add fab capacity and catch TSMC",
-    "link": "https://www.cnbc.com/2026/11/02/intel-foundry-faces-critical-test-after-stocks-45percent-plunge-in-october.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-02T21:35:06+00:00",
-    "published_ts": 1793655306.0,
-    "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue",
-    "link": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "The stock market has gone nowhere for the past 5 months. It\u2019s now looking like a bargain.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-02T21:29:00+00:00",
-    "published_ts": 1793654940.0,
-    "summary": "The S&amp;P 500\u2019s forward price-to-earnings ratio is below its five-year and 10-year averages.",
-    "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Oil Tumbles, but Stocks Fail To Launch",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-02T21:16:00+00:00",
-    "published_ts": 1793654160.0,
-    "summary": "Plus, Marvell makes a big acquisition and gets punished",
-    "link": "https://www.wsj.com/finance/investing/oil-tumbles-but-stocks-fail-to-launch-90972f94?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Palantir earnings reveal a major AI turning point",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-02T21:09:00+00:00",
-    "published_ts": 1793653740.0,
-    "summary": "The U.S. commercial business brought in more money than the U.S. government segment in the third quarter.",
-    "link": "https://www.marketwatch.com/story/palantir-earnings-reveal-a-major-ai-turning-point-db766110?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "I bonds now pay 5.51% \u2014 but there are trade-offs. What to know before buying",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-02T20:57:50+00:00",
-    "published_ts": 1793653070.0,
-    "summary": "I bonds are now paying 5.51%. Here are some key things to know before investing, according to financial experts.",
-    "link": "https://www.cnbc.com/2026/11/02/i-bonds-rate.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-02T20:19:25+00:00",
-    "published_ts": 1793650765.0,
-    "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
-    "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-    "category": "Commodities",
     "priority": 1
   },
   {
@@ -360,83 +437,6 @@
     "summary": "The Iran war, tariffs and the AI build-out have pushed up the costs of materials, labor and borrowing.",
     "link": "https://www.wsj.com/economy/housing/just-about-every-part-of-building-a-house-is-getting-more-expensive-d0f5ebcb?mod=rss_socialeconomyfeed",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "The Market Isn\u2019t Buying Skydance\u2019s Balance-Sheet Math",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-10-30T09:30:00+00:00",
-    "published_ts": 1793352600.0,
-    "summary": "The media conglomerate\u2019s goodwill alone exceeds its stock-market value.",
-    "link": "https://www.wsj.com/finance/the-market-isnt-buying-skydances-balance-sheet-math-11705c2c?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Coinbase net income surges 66% in third quarter, benefiting from bitcoin investment gains",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-29T21:38:16+00:00",
-    "published_ts": 1793309896.0,
-    "summary": "Coinbase posted better-than-expected earnings in the third quarter, largely due to a recovery in the cryptocurrency market.",
-    "link": "https://www.cnbc.com/2026/10/29/coinbase-coin-earnings-q3-2026-.html",
-    "category": "Crypto",
-    "priority": 1
-  },
-  {
-    "title": "U.S. GDP Increased 3.4% in Third Quarter",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-29T21:10:38+00:00",
-    "published_ts": 1793308238.0,
-    "summary": "The economy grew 3.4 percent in the third quarter, the fastest pace in a year. Strong spending and growth contrast with the poor marks many voters are giving the economy.",
-    "link": "https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-29T20:30:00+00:00",
-    "published_ts": 1793305800.0,
-    "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-29T17:32:34+00:00",
-    "published_ts": 1793295154.0,
-    "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-29T14:48:01+00:00",
-    "published_ts": 1793285281.0,
-    "summary": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
-    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Trump\u2019s Push to Fire Fed Governor Lisa Cook Looms Over Warsh",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-10-28T18:14:16+00:00",
-    "published_ts": 1793211256.0,
-    "summary": "Lisa D. Cook, a Fed governor, is set to face an unorthodox, private hearing over allegations of mortgage fraud she has consistently denied.",
-    "link": "https://www.nytimes.com/2026/10/28/business/economy/trump-lisa-cook-warsh.html",
-    "category": "Fed",
     "priority": 1
   }
 ]
