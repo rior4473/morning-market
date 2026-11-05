@@ -66,17 +66,6 @@
     "priority": 3
   },
   {
-    "title": "Fed holds rates steady despite concerns over inflation",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-28T19:43:48+00:00",
-    "published_ts": 1793216628.0,
-    "summary": "Two of the 12 Federal Open Market Committee voters dissented from the decision. Both wanted to raise rates by a quarter percentage point.",
-    "link": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "How the Fed\u2019s Interest Rate Decision Affects Credit Cards, Loans and More",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -88,25 +77,58 @@
     "priority": 3
   },
   {
-    "title": "Brazil\u2019s Central Bank Stops Easing Cycle as Inflation Remains High",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-04T23:09:00+00:00",
-    "published_ts": 1793833740.0,
-    "summary": "Brazil\u2019s central bank held its steep interest rates unchanged after five consecutive cuts as inflation drifted away from target amid growing concern around government spending.",
-    "link": "https://www.wsj.com/economy/central-banking/brazils-central-bank-stops-easing-cycle-as-inflation-remains-high-8529c4e5?mod=rss_socialeconomyfeed",
-    "category": "Economy",
+    "title": "Bank of England Raises Rates for First Time in Three Years",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-05T16:53:44+00:00",
+    "published_ts": 1793897624.0,
+    "summary": "The central bank increased interest rates for the first time in more than three years and warned that inflation would climb to about 5 percent next year, far above its target.",
+    "link": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
+    "category": "Geopolitics",
     "priority": 2
   },
   {
-    "title": "Canada\u2019s Trade Surplus Widens as Oil, Gold Drive Record Exports",
+    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-05T16:34:33+00:00",
+    "published_ts": 1793896473.0,
+    "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+    "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-05T16:01:47+00:00",
+    "published_ts": 1793894507.0,
+    "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+    "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
+    "title": "The Bank of England raised its key interest rate Thursday for the first time since the war U.S.-Iran sent oil prices soaring",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-04T16:26:00+00:00",
-    "published_ts": 1793809560.0,
-    "summary": "The widening to C$5.35 billion in September marked the the biggest surplus in over four years as exports hit a fresh record high.",
-    "link": "https://www.wsj.com/economy/trade/canada-trade-surplus-widens-with-rise-in-oil-gold-exports-7ffe4cf9?mod=rss_socialeconomyfeed",
+    "published": "2026-11-05T13:26:00+00:00",
+    "published_ts": 1793885160.0,
+    "summary": "The conflict has lifted energy prices, though they have fallen since the midterms raised hopes for an end to the war.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-england-raises-rates-for-first-time-since-start-of-iran-war-f6353d96?mod=rss_socialeconomyfeed",
     "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "Norway\u2019s Central Bank Holds Key Interest Rate, Signals Readiness to Tighten",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-05T12:25:00+00:00",
+    "published_ts": 1793881500.0,
+    "summary": "Norway\u2019s central bank held its key interest rate, but kept open the possibility of further policy tightening should inflation remain high.",
+    "link": "https://www.wsj.com/economy/central-banking/norges-bank-holds-key-interest-rate-but-signals-readiness-to-tighten-dedee6ad?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -165,17 +187,6 @@
     "priority": 2
   },
   {
-    "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-28T21:06:37+00:00",
-    "published_ts": 1793221597.0,
-    "summary": "Treasury Secretary Scott Bessent joined CNBC for an interview on Oct. 28, 2026.",
-    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -198,17 +209,6 @@
     "priority": 2
   },
   {
-    "title": "Eurozone Banks Report Declining Loan Demand, Tougher Conditions",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-10-27T09:57:00+00:00",
-    "published_ts": 1793095020.0,
-    "summary": "A rise in the share of rejected loan applications during the quarter and declining demand for credit signal that interest rate rises were helping to cool activity.",
-    "link": "https://www.wsj.com/economy/global/eurozone-banks-report-declining-loan-demand-tougher-conditions-b6e277cf?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
     "title": "U.S. stock futures and bond yields drop on reports Putin has updated nuclear doctrine",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Markets",
@@ -220,47 +220,113 @@
     "priority": 2
   },
   {
-    "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-05T01:11:26+00:00",
-    "published_ts": 1793841086.0,
-    "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-    "link": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "This year\u2019s worst-performing S&P 500 stock is finally seeing some major relief",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-05T01:05:00+00:00",
-    "published_ts": 1793840700.0,
-    "summary": "AppLovin\u2019s stock is popping after \u201cclearly positive\u201d earnings results.",
-    "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-04T23:38:11+00:00",
-    "published_ts": 1793835491.0,
-    "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
-    "link": "https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html",
+    "title": "ELF Beauty earnings analysis: questions answered and next catalysts",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-05T18:53:12.858834+00:00",
+    "published_ts": 1793904792.858834,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/elf-beauty-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005338",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+    "title": "Dutch Bros earnings analysis: questions answered and next catalysts",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-05T18:53:12.858784+00:00",
+    "published_ts": 1793904792.858784,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/dutch-bros-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005339",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Goldman\u2019s Exclusive Club of Partners Welcomes an Influx from Wealth Management",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-05T18:27:00+00:00",
+    "published_ts": 1793903220.0,
+    "summary": "In a shift from previous years, the bank didn\u2019t provide a gender or racial breakdown of the class.",
+    "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Insurer Sues Autism-Therapy Provider Over $160 Million in Allegedly Misleading Claims",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-05T18:13:00+00:00",
+    "published_ts": 1793902380.0,
+    "summary": "Elevance Health claims the Perfect Child used LLCs to charge out-of-network rates.",
+    "link": "https://www.wsj.com/health/healthcare/insurer-sues-autism-therapy-provider-over-160-million-in-allegedly-misleading-claims-704ab4e4?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-05T16:35:52+00:00",
+    "published_ts": 1793896552.0,
+    "summary": "Hundreds of garment factories were shut down this week as workers in the country, the world\u2019s second-largest exporter of clothing, demonstrated for higher pay.",
+    "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "California\u2019s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-04T23:23:03+00:00",
-    "published_ts": 1793834583.0,
-    "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
-    "link": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-    "category": "Commodities",
+    "published": "2026-11-05T16:19:21+00:00",
+    "published_ts": 1793895561.0,
+    "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
+    "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
+    "category": "Wealth Mgmt",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-05T16:00:00+00:00",
+    "published_ts": 1793894400.0,
+    "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-05T15:24:47+00:00",
+    "published_ts": 1793892287.0,
+    "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+    "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "China Blocks SoftBank\u2019s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-05T11:23:03+00:00",
+    "published_ts": 1793877783.0,
+    "summary": "Chinese authorities stopped the sale of ABB Robotics, owned by a Swiss conglomerate, to SoftBank of Japan amid wider scrutiny of global transactions that could affect Beijing\u2019s technology ambitions.",
+    "link": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Malaysia\u2019s Central Bank Holds Rate Steady, Cites Resilient Growth",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-05T08:28:00+00:00",
+    "published_ts": 1793867280.0,
+    "summary": "The central bank expects Malaysia\u2019s economy to grow more than 5% in 2026 and remain resilient in 2027.",
+    "link": "https://www.wsj.com/economy/central-banking/malaysias-central-bank-holds-rate-steady-cites-resilient-growth-affcfd09?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -275,17 +341,6 @@
     "priority": 1
   },
   {
-    "title": "What Republicans' huge loss means for Trump",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-04T21:50:05+00:00",
-    "published_ts": 1793829005.0,
-    "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-    "link": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Stocks Surge, Oil Plummets on Democrat Victory",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -294,61 +349,6 @@
     "summary": "Plus, CVS decides to break itself up.",
     "link": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-04T21:20:03+00:00",
-    "published_ts": 1793827203.0,
-    "summary": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
-    "link": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-04T20:14:52+00:00",
-    "published_ts": 1793823292.0,
-    "summary": "Crude oil prices tumbled Wednesday after Vice President JD Vance blamed the Republicans' steep midterm election losses on the Iran war.",
-    "link": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Drone Boat Maker Saildrone Wins Protest Over Navy Contract",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-04T19:55:07+00:00",
-    "published_ts": 1793822107.0,
-    "summary": "A federal judge\u2019s ruling on the side of the small defense contractor was a rarity, as most company protests against government bidding decisions do not prevail.",
-    "link": "https://www.nytimes.com/2026/11/03/us/politics/drone-boat-maker-navy-protest.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-04T18:22:34+00:00",
-    "published_ts": 1793816554.0,
-    "summary": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
-    "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "America\u2019s Trade Deficit Remained Elevated in September",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-04T14:42:20+00:00",
-    "published_ts": 1793803340.0,
-    "summary": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs.",
-    "link": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -363,17 +363,6 @@
     "priority": 1
   },
   {
-    "title": "Private-Sector Hiring Remained Solid in October",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-04T13:39:00+00:00",
-    "published_ts": 1793799540.0,
-    "summary": "Private companies added a net 86,000 jobs in October, ADP said. Economists polled expected 75,000 new private-sector jobs.",
-    "link": "https://www.wsj.com/economy/jobs/private-sector-hiring-remained-solid-in-october-39ac72ae?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Eurozone Inflation Rises to 4%, Driven by Energy Costs",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -382,17 +371,6 @@
     "summary": "Inflation in the eurozone reached double the European Central Bank\u2019s target in October as energy costs continued to rise.",
     "link": "https://www.wsj.com/economy/global/eurozone-inflation-climbs-again-driven-by-energy-costs-0adbaef3?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market Today: Dow Jumps to Best Day in 18 Months, Oil Slides",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-04T03:22:53+00:00",
-    "published_ts": 1793762573.0,
-    "summary": "After Democrats win midterms, crude drops 8.7% on hopes of Iran war ending",
-    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026?mod=rss_markets_main",
-    "category": "Commodities",
     "priority": 1
   },
   {
@@ -436,6 +414,28 @@
     "published_ts": 1793695740.0,
     "summary": "Annual inflation was 1.5% in October, compared with 1.0% in the prior month, Switzerland\u2019s statistics office said.",
     "link": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-02T20:05:13+00:00",
+    "published_ts": 1793649913.0,
+    "summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president\u2019s erratic approach.",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-30T16:55:41+00:00",
+    "published_ts": 1793379341.0,
+    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
     "category": "Economy",
     "priority": 1
   }
