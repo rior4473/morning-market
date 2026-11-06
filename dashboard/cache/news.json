@@ -55,17 +55,6 @@
     "priority": 3
   },
   {
-    "title": "Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-28T19:53:50+00:00",
-    "published_ts": 1793217230.0,
-    "summary": "The DoubleLine founder spoke with CNBC's \"Closing Bell\" on Wednesday after the Fed held interest rates steady.",
-    "link": "https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "How the Fed\u2019s Interest Rate Decision Affects Credit Cards, Loans and More",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -75,6 +64,28 @@
     "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
     "category": "Fed",
     "priority": 3
+  },
+  {
+    "title": "Wall Street Gets $2.5 Trillion AI Reality Check With Historic Rout of Tech Stocks",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-05T21:41:00+00:00",
+    "published_ts": 1793914860.0,
+    "summary": "The Nasdaq composite closes in correction territory in the stock market\u2019s worst day since last April\u2019s tariff turmoil.",
+    "link": "https://www.wsj.com/finance/stocks/wall-street-gets-2-5-trillion-ai-reality-check-with-historic-rout-of-tech-stocks-93985d7c?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "The October jobs report is out Friday. Here's everything to expect",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-05T21:32:52+00:00",
+    "published_ts": 1793914372.0,
+    "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+    "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+    "category": "Economy",
+    "priority": 2
   },
   {
     "title": "Bank of England Raises Rates for First Time in Three Years",
@@ -90,7 +101,7 @@
   {
     "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-05T16:34:33+00:00",
     "published_ts": 1793896473.0,
     "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
@@ -176,17 +187,6 @@
     "priority": 2
   },
   {
-    "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-10-28T21:31:46+00:00",
-    "published_ts": 1793223106.0,
-    "summary": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -220,47 +220,102 @@
     "priority": 2
   },
   {
-    "title": "ELF Beauty earnings analysis: questions answered and next catalysts",
+    "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-05T18:53:12.858834+00:00",
-    "published_ts": 1793904792.858834,
+    "published": "2026-11-06T01:26:18.639682+00:00",
+    "published_ts": 1793928378.639682,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/elf-beauty-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005338",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-ai-rout-batters-wall-st-payrolls-data-in-focus-5006240",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "IRS announces new federal income tax brackets for 2027",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-06T01:21:08+00:00",
+    "published_ts": 1793928068.0,
+    "summary": "The IRS has announced higher federal income tax brackets and standard deductions for 2027. Here's what taxpayers need to know.",
+    "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Cloudflare\u2019s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-06T01:06:00+00:00",
+    "published_ts": 1793927160.0,
+    "summary": "Demand for automated AI protection is on the rise \u2014 and manifesting in Cloudflare\u2019s earnings results.",
+    "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "Dutch Bros earnings analysis: questions answered and next catalysts",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-05T18:53:12.858784+00:00",
-    "published_ts": 1793904792.858784,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/dutch-bros-earnings-analysis-questions-answered-and-next-catalysts-93CH-5005339",
-    "category": "Equities",
+    "title": "Here are the 2027 capital-gains tax rates for each income level",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-05T23:48:00+00:00",
+    "published_ts": 1793922480.0,
+    "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Goldman\u2019s Exclusive Club of Partners Welcomes an Influx from Wealth Management",
+    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-05T22:40:00+00:00",
+    "published_ts": 1793918400.0,
+    "summary": "The tax brackets at the heart of Americans\u2019 income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation\u2019s rekindled presence.",
+    "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-05T22:21:29+00:00",
+    "published_ts": 1793917289.0,
+    "summary": "President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.",
+    "link": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "After tech-stock rout, October jobs report could bring relief \u2014 or more pain",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-05T21:39:00+00:00",
+    "published_ts": 1793914740.0,
+    "summary": "After a tech-led meltdown in the stock market, the October jobs report on Friday morning could bring investors some encouraging news \u2014 or add to their misery.",
+    "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "AI Panic Grips Stocks",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-05T18:27:00+00:00",
-    "published_ts": 1793903220.0,
+    "published": "2026-11-05T21:17:00+00:00",
+    "published_ts": 1793913420.0,
+    "summary": "Plus, bonds rally and General Mills considers a divestiture",
+    "link": "https://www.wsj.com/finance/investing/ai-panic-grips-stocks-60a59518?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Goldman\u2019s Exclusive Club of Partners Welcomes Its Biggest Class Since 2010",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-05T18:54:00+00:00",
+    "published_ts": 1793904840.0,
     "summary": "In a shift from previous years, the bank didn\u2019t provide a gender or racial breakdown of the class.",
     "link": "https://www.wsj.com/finance/banking/goldmans-exclusive-club-of-partners-welcomes-an-influx-from-wealth-management-ebe2e32a?mod=rss_markets_main",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Insurer Sues Autism-Therapy Provider Over $160 Million in Allegedly Misleading Claims",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-05T18:13:00+00:00",
-    "published_ts": 1793902380.0,
-    "summary": "Elevance Health claims the Perfect Child used LLCs to charge out-of-network rates.",
-    "link": "https://www.wsj.com/health/healthcare/insurer-sues-autism-therapy-provider-over-160-million-in-allegedly-misleading-claims-704ab4e4?mod=rss_markets_main",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -275,17 +330,6 @@
     "priority": 1
   },
   {
-    "title": "California\u2019s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-05T16:19:21+00:00",
-    "published_ts": 1793895561.0,
-    "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
-    "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-    "category": "Wealth Mgmt",
-    "priority": 1
-  },
-  {
     "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -294,17 +338,6 @@
     "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-05T15:24:47+00:00",
-    "published_ts": 1793892287.0,
-    "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
-    "link": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -327,28 +360,6 @@
     "summary": "The central bank expects Malaysia\u2019s economy to grow more than 5% in 2026 and remain resilient in 2027.",
     "link": "https://www.wsj.com/economy/central-banking/malaysias-central-bank-holds-rate-steady-cites-resilient-growth-affcfd09?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "White House Delays Hearing on Fed Governor",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-04T22:55:30+00:00",
-    "published_ts": 1793832930.0,
-    "summary": "The administration pushed back a hearing for Lisa D. Cook, the Federal Reserve governor that President Trump has tried to fire, after her lawyers raised scheduling issues.",
-    "link": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Stocks Surge, Oil Plummets on Democrat Victory",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-04T21:32:00+00:00",
-    "published_ts": 1793827920.0,
-    "summary": "Plus, CVS decides to break itself up.",
-    "link": "https://www.wsj.com/finance/stocks/stocks-surge-oil-plummets-on-democrat-victory-d4f606b5?mod=rss_markets_main",
-    "category": "Commodities",
     "priority": 1
   },
   {
@@ -426,17 +437,6 @@
     "summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president\u2019s erratic approach.",
     "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-30T16:55:41+00:00",
-    "published_ts": 1793379341.0,
-    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
