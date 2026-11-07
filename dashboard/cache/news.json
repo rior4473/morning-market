@@ -11,17 +11,6 @@
     "priority": 4
   },
   {
-    "title": "Week Ahead for FX, Bonds: U.S. Inflation Data Could Give Clues on Rate-Hike Prospects",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-06T16:52:00+00:00",
-    "published_ts": 1793983920.0,
-    "summary": "U.S. inflation data for October will be closely watched as investors continue to digest the implications of the recent Democratic sweep in the U.S. midterm elections for the conflict in the Middle East, oil prices, and technology and AI-linked stocks.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-inflation-data-could-give-clues-on-rate-hike-prospects-53a07d17?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 4
-  },
-  {
     "title": "Inflation Accelerated in October, PCE Index Shows",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -35,7 +24,7 @@
   {
     "title": "The AI \u2018credit card\u2019 is getting costlier as CoreWeave bond yield tops 16%",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-06T17:09:53+00:00",
     "published_ts": 1793984993.0,
     "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
@@ -121,14 +110,14 @@
     "priority": 3
   },
   {
-    "title": "As tech swoon roils market, US inflation data on tap",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-07T00:42:09.725203+00:00",
-    "published_ts": 1794012129.725203,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5007256",
-    "category": "Commodities",
+    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-07T15:23:46+00:00",
+    "published_ts": 1794065026.0,
+    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+    "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "category": "Equities",
     "priority": 2
   },
   {
@@ -198,6 +187,17 @@
     "priority": 2
   },
   {
+    "title": "BOE Expected to Join Peers in Raising Key Rate",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-02T07:28:00+00:00",
+    "published_ts": 1793604480.0,
+    "summary": "The bank is expected to join its peers in raising borrowing costs Thursday, with the Fed, ECB and BoJ having each raised rates at least once since start of U.S.-Iran war.",
+    "link": "https://www.wsj.com/economy/central-banking/boe-expected-to-join-peers-in-raising-key-rate-62a61c5b?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 2
+  },
+  {
     "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -242,14 +242,47 @@
     "priority": 2
   },
   {
-    "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+    "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-07T00:42:09.725184+00:00",
-    "published_ts": 1794012129.725184,
+    "published": "2026-11-07T16:57:00.566497+00:00",
+    "published_ts": 1794070620.566497,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/goldman-raises-global-data-center-capacity-forecast-to-273-gw-by-2030-5009439",
-    "category": "Commodities",
+    "link": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-5009882",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-07T16:30:00+00:00",
+    "published_ts": 1794069000.0,
+    "summary": "The tax brackets at the heart of Americans\u2019 income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation\u2019s rekindled presence.",
+    "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Is AI a white-collar job killer? Strong hiring at law offices and consulting firms in the October jobs report is staving off fears of a job apocalypse",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-07T16:09:00+00:00",
+    "published_ts": 1794067740.0,
+    "summary": "Strong hiring at law offices and consulting firms is staving off fears of a job apocalypse.",
+    "link": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "New Zealand\u2019s ruling conservatives led by a slim margin in an election Saturday, despite facing a backlash from voters over the cost of living, rising interest rates and a patchy economic recovery",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-07T11:40:00+00:00",
+    "published_ts": 1794051600.0,
+    "summary": "Prime Minister Christopher Luxon and allies face weeks of uncertainty as late ballots are tallied.",
+    "link": "https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -275,83 +308,6 @@
     "priority": 1
   },
   {
-    "title": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-06T21:37:00+00:00",
-    "published_ts": 1794001020.0,
-    "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won\u2019t get any better with Democrats in control of Congress.",
-    "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-06T21:15:00+00:00",
-    "published_ts": 1793999700.0,
-    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Micron\u2019s stock is dirt cheap \u2014 and that\u2019s igniting a fierce online debate",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-06T20:58:00+00:00",
-    "published_ts": 1793998680.0,
-    "summary": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron\u2019s earnings power won\u2019t hold up.",
-    "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "How Farmers\u2019 Frustration With Trump\u2019s Policies Helped Democrats",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-06T20:03:41+00:00",
-    "published_ts": 1793995421.0,
-    "summary": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue \u2014 or stay home.",
-    "link": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-06T19:44:33+00:00",
-    "published_ts": 1793994273.0,
-    "summary": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black.",
-    "link": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "My adviser recommended an annuity. Is it the right move in this market environment?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-06T18:53:00+00:00",
-    "published_ts": 1793991180.0,
-    "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
-    "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Canada Unemployment Rate Climbs to Six-Month High of 6.7%",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-06T16:19:00+00:00",
-    "published_ts": 1793981940.0,
-    "summary": "Canada\u2019s labor market softened again last month, with a dip in employment and rise in the number of people hunting for work pushing the jobless rate to a six-month high.",
-    "link": "https://www.wsj.com/economy/jobs/canada-unemployment-rate-climbs-to-six-month-high-of-6-7-90a664ca?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -371,17 +327,6 @@
     "summary": "Norges Bank Investment Management and co-lead plaintiff Sjunde AP-fonden, Sweden\u2019s state pension fund, reached a $224.5 million settlement in principle.",
     "link": "https://www.wsj.com/finance/banking/norway-oil-fund-reaches-224-5-million-settlement-with-kpmg-over-silicon-valley-bank-collapse-e0cc9045?mod=rss_markets_main",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market News, Nov. 6, 2026: AI Stocks Rebound at End of Brutal Week for Nasdaq",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-06T07:48:13+00:00",
-    "published_ts": 1793951293.0,
-    "summary": "Tech stocks narrow Thursday losses; Dow slips after strong jobs report",
-    "link": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026?mod=rss_markets_main",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -437,6 +382,61 @@
     "summary": "The unemployment rate rose to 5.7%, its highest level since mid-2015, defying expectations of a fall and affirming the central bank\u2019s recent caution around raising interest rates further.",
     "link": "https://www.wsj.com/economy/global/new-zealands-jobless-rate-climbs-ahead-of-election-4873a97a?mod=rss_socialeconomyfeed",
     "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-03T19:15:21+00:00",
+    "published_ts": 1793733321.0,
+    "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-03T18:37:00+00:00",
+    "published_ts": 1793731020.0,
+    "summary": "Macklem defended the decision to raise interest rates to 2.5% last week, saying officials needed to address a buildup of cost pressures and expectations that a larger share of firms would raise their prices over the next 12 months.",
+    "link": "https://www.wsj.com/economy/global/bank-of-canada-gov-macklem-pledges-to-proceed-carefully-on-further-rate-increases-a27c79ee?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-03T08:49:00+00:00",
+    "published_ts": 1793695740.0,
+    "summary": "Annual inflation was 1.5% in October, compared with 1.0% in the prior month, Switzerland\u2019s statistics office said.",
+    "link": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-02T20:05:13+00:00",
+    "published_ts": 1793649913.0,
+    "summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president\u2019s erratic approach.",
+    "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-10-30T16:55:41+00:00",
+    "published_ts": 1793379341.0,
+    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
+    "category": "Economy",
     "priority": 1
   }
 ]
