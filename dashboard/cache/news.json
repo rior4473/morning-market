@@ -46,7 +46,7 @@
   {
     "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-06T13:45:01+00:00",
     "published_ts": 1793972701.0,
     "summary": "The Federal Reserve decided against raising interest rates at its meeting last week, but it is widely expected to move again in December to help tame inflation.",
@@ -108,6 +108,28 @@
     "link": "https://www.nytimes.com/2026/10/28/business/economy/fed-interest-rates-credit-cards-loans.html",
     "category": "Fed",
     "priority": 3
+  },
+  {
+    "title": "As tech swoon roils market, US inflation data on tap",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-08T17:10:02.459865+00:00",
+    "published_ts": 1794157802.459865,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/as-tech-swoon-roils-market-us-inflation-data-on-tap-5010231",
+    "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "Corporate America\u2019s profit numbers are just barely beating Wall Street\u2019s expectations",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-08T15:00:00+00:00",
+    "published_ts": 1794150000.0,
+    "summary": "S&amp;P 500 companies\u2019 earnings are mostly topping analysts\u2019 estimates \u2014 but by the narrowest margin in roughly four years.",
+    "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 2
   },
   {
     "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -242,25 +264,58 @@
     "priority": 2
   },
   {
-    "title": "Berkshire Hathaway accelerates stock buybacks, operating profit falls",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-07T16:57:00.566497+00:00",
-    "published_ts": 1794070620.566497,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/berkshire-hathaway-accelerates-stock-buybacks-operating-profit-falls-5009882",
-    "category": "Equities",
+    "title": "How a Duck Named Olivia Helped Pass D.C.\u2019s Foie Gras Ban",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-08T17:03:40+00:00",
+    "published_ts": 1794157420.0,
+    "summary": "Initiative 86, which bars the force-feeding of birds and the sale of foie gras, passed handily but restaurateurs and prominent chefs are preparing for a fight.",
+    "link": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-07T16:30:00+00:00",
-    "published_ts": 1794069000.0,
-    "summary": "The tax brackets at the heart of Americans\u2019 income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation\u2019s rekindled presence.",
-    "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
-    "category": "Economy",
+    "published": "2026-11-08T16:00:00+00:00",
+    "published_ts": 1794153600.0,
+    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
+    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-08T15:39:12+00:00",
+    "published_ts": 1794152352.0,
+    "summary": "The shock to global oil prices has caused a surge in demand for electric vehicles while propelling a race for immediate, secure power supplies.",
+    "link": "https://www.nytimes.com/2026/11/08/business/cop-31-iran-war-oil.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "How Democrats will try to end Trump's tariffs",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-08T15:36:39+00:00",
+    "published_ts": 1794152199.0,
+    "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+    "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-07T20:36:00+00:00",
+    "published_ts": 1794083760.0,
+    "summary": "\u201cI haven\u2019t committed to the strategy yet and would appreciate some independent perspectives.\u201d",
+    "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -299,7 +354,7 @@
   {
     "title": "Strong Hiring Reinforces a Sturdy Job Market",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-06T22:29:37+00:00",
     "published_ts": 1794004177.0,
     "summary": "Unemployment fell in October, extending years of stability for a U.S. work force threatened by inflation and artificial intelligence.",
@@ -310,7 +365,7 @@
   {
     "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-06T16:02:34+00:00",
     "published_ts": 1793980954.0,
     "summary": "White collar industries that are most exposed to artificial intelligence continued to add jobs in October, although that growth has been weak.",
@@ -382,61 +437,6 @@
     "summary": "The unemployment rate rose to 5.7%, its highest level since mid-2015, defying expectations of a fall and affirming the central bank\u2019s recent caution around raising interest rates further.",
     "link": "https://www.wsj.com/economy/global/new-zealands-jobless-rate-climbs-ahead-of-election-4873a97a?mod=rss_socialeconomyfeed",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-03T19:15:21+00:00",
-    "published_ts": 1793733321.0,
-    "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
-    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Bank of Canada Gov. Macklem Pledges to Proceed Carefully on Further Rate Increases",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-03T18:37:00+00:00",
-    "published_ts": 1793731020.0,
-    "summary": "Macklem defended the decision to raise interest rates to 2.5% last week, saying officials needed to address a buildup of cost pressures and expectations that a larger share of firms would raise their prices over the next 12 months.",
-    "link": "https://www.wsj.com/economy/global/bank-of-canada-gov-macklem-pledges-to-proceed-carefully-on-further-rate-increases-a27c79ee?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Swiss Inflation Jumps to Highest Since 2023 as Energy Costs Climb",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-03T08:49:00+00:00",
-    "published_ts": 1793695740.0,
-    "summary": "Annual inflation was 1.5% in October, compared with 1.0% in the prior month, Switzerland\u2019s statistics office said.",
-    "link": "https://www.wsj.com/economy/global/swiss-inflation-jumps-to-highest-since-2023-on-imported-energy-costs-5da88199?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Trump\u2019s Tariffs Are On the Ballot in Michigan",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-02T20:05:13+00:00",
-    "published_ts": 1793649913.0,
-    "summary": "The levies as well as trade fighting with Canada are facing a test in the state, where voters appear skeptical of free trade but also of the president\u2019s erratic approach.",
-    "link": "https://www.nytimes.com/2026/11/02/business/economy/trump-tariffs-midterms-michigan.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Halloween gets pricier as chocolate costs climb \u2014 Hershey may feel the pinch",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-10-30T16:55:41+00:00",
-    "published_ts": 1793379341.0,
-    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-    "link": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
