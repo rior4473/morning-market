@@ -33,17 +33,6 @@
     "priority": 3
   },
   {
-    "title": "Hot U.S. inflation hasn\u2019t cooled off. Rising consumer prices to keep Fed rate hike on track.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-09T21:01:00+00:00",
-    "published_ts": 1794258060.0,
-    "summary": "Rising prices point to the Fed increasing borrowing costs before Christmas.",
-    "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "China Producer Inflation Accelerates to Over Four-Year High",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -121,6 +110,17 @@
     "priority": 3
   },
   {
+    "title": "Lawsuit Says Republican Strategist Alex Bruesewitz Took Money From Qatari Interests",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-10T02:32:06+00:00",
+    "published_ts": 1794277926.0,
+    "summary": "The suit claims that any payments to Alex Bruesewitz, a Republican strategist, could have violated federal law. He has denied ever taking such funds.",
+    "link": "https://www.nytimes.com/2026/11/09/business/media/lawsuit-x-strategies.html",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
     "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -129,17 +129,6 @@
     "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
     "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "When the Boss on the Phone Isn\u2019t Real: How More Than $129 Million Was Stolen Using A.I.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-08T23:34:09+00:00",
-    "published_ts": 1794180849.0,
-    "summary": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars.",
-    "link": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
-    "category": "Markets",
     "priority": 2
   },
   {
@@ -242,36 +231,91 @@
     "priority": 2
   },
   {
-    "title": "Mid-cap biotech catalysts: FDA dates, earnings, and pipeline data to watch",
+    "title": "Why is New Zealand Dollar U.S. Dollar pair gaining today?",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-09T21:31:55.515905+00:00",
-    "published_ts": 1794259915.515905,
+    "published": "2026-11-10T03:18:20.112656+00:00",
+    "published_ts": 1794280700.112656,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/midcap-biotech-catalysts-fda-dates-earnings-and-pipeline-data-to-watch-93CH-5013128",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "PepsiCo to cut some jobs in North America",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-09T21:31:55.515844+00:00",
-    "published_ts": 1794259915.515844,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/pepsico-to-cut-around-1000-jobs-in-north-america-wsj-reports-5013034",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-new-zealand-dollar-us-dollar-pair-gaining-today-93CH-5013946",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Lucid misses Wall Street\u2019s earnings expectations, expands loan from Saudi Arabia fund",
+    "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-09T21:27:54+00:00",
-    "published_ts": 1794259674.0,
-    "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
-    "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+    "published": "2026-11-10T01:50:57+00:00",
+    "published_ts": 1794275457.0,
+    "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+    "link": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Exxon Strikes Preliminary Deal to Return to Venezuela",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-10T00:51:53+00:00",
+    "published_ts": 1794271913.0,
+    "summary": "The agreement brings the biggest U.S. oil company a step closer to pumping oil again in Venezuela, nearly two decades after it left the country.",
+    "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/exxon-mobil-venezuela-oil-deal.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-09T23:31:17+00:00",
+    "published_ts": 1794267077.0,
+    "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-09T23:14:38+00:00",
+    "published_ts": 1794266078.0,
+    "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
+    "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-09T22:23:56+00:00",
+    "published_ts": 1794263036.0,
+    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-09T22:00:00+00:00",
+    "published_ts": 1794261600.0,
+    "summary": "Find insight on UniCredit, Credit Agricole, Banco BPM and more in the latest Market Talks covering Financial Services.",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn\u2019t over yet.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-09T21:52:00+00:00",
+    "published_ts": 1794261120.0,
+    "summary": "\u201cIt took one election and a poor Nvidia headline to go from D.C. being a tailwind to D.C. as a potential headwind,\u201d says strategist.",
+    "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -308,17 +352,6 @@
     "priority": 1
   },
   {
-    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-09T20:41:38+00:00",
-    "published_ts": 1794256898.0,
-    "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
-    "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -327,17 +360,6 @@
     "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
     "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-09T20:15:00+00:00",
-    "published_ts": 1794255300.0,
-    "summary": "\u201cOur kitchen dates from 1999 and the oven only works if you hit the door a certain way.\u201d",
-    "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -363,17 +385,6 @@
     "priority": 1
   },
   {
-    "title": "Financial Services Roundup: Market Talk",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-09T17:23:00+00:00",
-    "published_ts": 1794244980.0,
-    "summary": "Find insight on Standard Life, Allianz, Credit Agricole and more in the latest Market Talks covering Financial Services.",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -381,17 +392,6 @@
     "published_ts": 1794237510.0,
     "summary": "State leaders and residents in Virginia have opposed NextEra\u2019s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
     "link": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "These states are offering extra ACA premium subsidies in 2027",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-09T13:00:01+00:00",
-    "published_ts": 1794229201.0,
-    "summary": "Roughly a dozen states are offering some premium assistance for Obamacare enrollees, following the lapse of enhanced federal subsidies at the end of 2025.",
-    "link": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
     "category": "Markets",
     "priority": 1
   },
