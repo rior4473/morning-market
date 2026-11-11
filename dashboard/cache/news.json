@@ -3,8 +3,8 @@
     "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-10T18:40:12+00:00",
-    "published_ts": 1794336012.0,
+    "published": "2026-11-10T21:06:07+00:00",
+    "published_ts": 1794344767.0,
     "summary": "Treasury yields moved higher after a hotter-than-expected CPI report.",
     "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
     "category": "Fed",
@@ -22,11 +22,11 @@
     "priority": 5
   },
   {
-    "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
+    "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-10T17:34:00+00:00",
-    "published_ts": 1794332040.0,
+    "published": "2026-11-10T21:42:00+00:00",
+    "published_ts": 1794346920.0,
     "summary": "\u201cI don\u2019t think they should be raising another 25 basis points,\u201d one portfolio manager said about the Federal Reserve\u2019s benchmark interest rate.",
     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
     "category": "Fed",
@@ -55,6 +55,61 @@
     "priority": 4
   },
   {
+    "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-11T01:07:12.849744+00:00",
+    "published_ts": 1794359232.849744,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-futures-climb-as-oil-slide-lifts-sentiment-5014579",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Two Federal Reserve officials suggested the central bank may need to quicken the pace of its rate increases, as the Fed\u2019s December meeting nears",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-11T01:00:00+00:00",
+    "published_ts": 1794358800.0,
+    "summary": "A third straight month of firm underlying inflation reopens the question of how far and how fast the central bank must go.",
+    "link": "https://www.wsj.com/economy/central-banking/fed-forced-to-confront-case-for-bigger-and-faster-rate-rises-ac181706?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-10T23:53:58+00:00",
+    "published_ts": 1794354838.0,
+    "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Hot Inflation Revives Wall Street\u2019s Rate Hike Fears",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-10T21:30:00+00:00",
+    "published_ts": 1794346200.0,
+    "summary": "A Fed governor\u2019s hawkish speech also got the attention of investors recently distracted by wobbles in the AI trade.",
+    "link": "https://www.wsj.com/finance/investing/hot-inflation-revives-wall-streets-rate-hike-fears-1ce54f85?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Yields Jump as Inflation Comes in Hotter Than Expected",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-10T21:17:00+00:00",
+    "published_ts": 1794345420.0,
+    "summary": "Plus, stocks fall as the case for interest-rate hikes grows.",
+    "link": "https://www.wsj.com/finance/stocks/yields-jump-as-inflation-comes-in-hotter-than-expected-77358c3f?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
     "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -73,17 +128,6 @@
     "published_ts": 1794330824.0,
     "summary": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
     "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-10T16:47:05+00:00",
-    "published_ts": 1794329225.0,
-    "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
-    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
     "category": "Fed",
     "priority": 3
   },
@@ -143,25 +187,25 @@
     "priority": 3
   },
   {
-    "title": "Bank of Canada Raised Rates to Mitigate Inflation Risk, Minutes Say",
+    "title": "Fed\u2019s Paulson Urges Gradual Approach to Rate Hikes",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-10T18:42:00+00:00",
-    "published_ts": 1794336120.0,
-    "summary": "Senior policymakers agreed it was prudent to raise rates to dampen upside inflation risks despite elevated uncertainty and the presence of economic slack, according to meeting minutes.",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-raised-rates-to-mitigate-inflation-risk-minutes-say-1bece759?mod=rss_socialeconomyfeed",
-    "category": "Economy",
+    "published": "2026-11-10T23:58:00+00:00",
+    "published_ts": 1794355080.0,
+    "summary": "Paulson, a voter on the rate-setting committee, said she expects more tightening to come, but would prefer to tighten gradually when conditions allow",
+    "link": "https://www.wsj.com/economy/central-banking/feds-paulson-urges-gradual-approach-to-rate-hikes-efe287f9?mod=rss_socialeconomyfeed",
+    "category": "Fed",
     "priority": 2
   },
   {
-    "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-10T18:08:40+00:00",
-    "published_ts": 1794334120.0,
-    "summary": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet.",
-    "link": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-    "category": "Fed",
+    "title": "Bank of Canada Raised Rates to Mitigate Inflation Risk, Minutes Say",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-10T18:57:00+00:00",
+    "published_ts": 1794337020.0,
+    "summary": "Senior policymakers agreed it was prudent to raise rates to dampen upside inflation risks despite elevated uncertainty and the presence of economic slack, according to meeting minutes.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-raised-rates-to-mitigate-inflation-risk-minutes-say-1bece759?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -176,34 +220,12 @@
     "priority": 2
   },
   {
-    "title": "The Nvidia Affair Is Terrible Timing for Corporate America",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-10T11:05:00+00:00",
-    "published_ts": 1794308700.0,
-    "summary": "Plus: Anthropic\u2019s diminishing returns, energy inflation pass-throughs, and how AI could commodify work.",
-    "link": "https://www.wsj.com/finance/investing/the-nvidia-affair-is-terrible-timing-for-corporate-america-aa3166c2?mod=rss_markets_main",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "The Nvidia Scandal Is Terrible Timing for Corporate America. Read more in today\u2019s WSJ Economics newsletter:",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-10T11:05:00+00:00",
-    "published_ts": 1794308700.0,
-    "summary": "Plus: Anthropic\u2019s diminishing returns, energy inflation pass-throughs, and how AI could commodify work.",
-    "link": "https://www.wsj.com/finance/investing/the-nvidia-affair-is-terrible-timing-for-corporate-america-aa3166c2?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected",
+    "title": "Stock Market News, November 10, 2026: Yields Jump as Inflation Comes in Hotter Than Expected",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-11-10T10:01:59+00:00",
     "published_ts": 1794304919.0,
-    "summary": "Nvidia stock slides for second straight day; Nasdaq falls 1%",
+    "summary": "Nvidia stock slides again; CoreWeave stock gains afterhours",
     "link": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026?mod=rss_markets_main",
     "category": "Fixed Income",
     "priority": 2
@@ -297,14 +319,91 @@
     "priority": 2
   },
   {
-    "title": "Troubled US debt levels ticked up in third quarter, New York Fed report says",
+    "title": "U.S. stock futures tick higher after Wall St slips on hot CPI, Nvidia losses",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-10T18:44:53.423700+00:00",
-    "published_ts": 1794336293.4237,
+    "published": "2026-11-11T01:07:12.849696+00:00",
+    "published_ts": 1794359232.849696,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/ny-fed-finds-troubled-debt-levels-ticked-up-in-third-quarter-5016249",
-    "category": "Fed",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-tick-higher-after-wall-st-slips-on-hot-cpi-nvidia-losses-5017417",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-10T23:16:15+00:00",
+    "published_ts": 1794352575.0,
+    "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+    "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-10T22:39:30+00:00",
+    "published_ts": 1794350370.0,
+    "summary": "Watchmaker Fossil said Tuesday that the company is returning to profit and sales growth in the first signs of its turnaround strategy.",
+    "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "AMD\u2019s stock fades as investors weigh whether Nvidia\u2019s turmoil will mean lasting wins",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-10T22:37:00+00:00",
+    "published_ts": 1794350220.0,
+    "summary": "It\u2019s one thing for money to shift between stocks, but it\u2019s another thing for customers to shift their supplier relationships.",
+    "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-10T22:29:00+00:00",
+    "published_ts": 1794349740.0,
+    "summary": "Plus, Wall Street is worried about interest rates again, and Anthropic\u2019s founders are about to be worth billions.",
+    "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-10T21:45:46+00:00",
+    "published_ts": 1794347146.0,
+    "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+    "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "How the stock market has performed after Veterans Day over the past decade",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-10T21:29:00+00:00",
+    "published_ts": 1794346140.0,
+    "summary": "The stock market is open Wednesday on Veterans Day, but not the bond market",
+    "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Prices rose by 0.4% in October from the previous month, the Labor Department said, higher than expected",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-10T18:55:00+00:00",
+    "published_ts": 1794336900.0,
+    "summary": "Consumer prices climbed notably again in October from the previous month, extending a stretch of stubborn inflation.",
+    "link": "https://www.wsj.com/economy/cpi-inflation-report-october-2026-369f8032?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -319,17 +418,6 @@
     "priority": 1
   },
   {
-    "title": "Prices rose by 0.4% in October from the previous month, the Labor Department said, higher than expected",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-10T16:49:00+00:00",
-    "published_ts": 1794329340.0,
-    "summary": "Consumer prices climbed notably again in October from the previous month, extending a stretch of stubborn inflation.",
-    "link": "https://www.wsj.com/economy/cpi-inflation-report-october-2026-369f8032?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
     "title": "Here's the inflation breakdown for October 2026 \u2014 in one chart",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -341,50 +429,6 @@
     "priority": 1
   },
   {
-    "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-10T16:30:23+00:00",
-    "published_ts": 1794328223.0,
-    "summary": "Anthropic is on target for an IPO that could value the AI company at over $1.4 trillion. Investors had multiple ways to buy the stock much earlier.",
-    "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. \u2018failed\u2019 survivors",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-10T16:17:20+00:00",
-    "published_ts": 1794327440.0,
-    "summary": "\"The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell's horrific crimes for decades,\" Rep. James Comer, R-Ky., said.",
-    "link": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "I\u2019m Always Wrong About Gold. You Probably Are, Too.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-10T15:55:00+00:00",
-    "published_ts": 1794326100.0,
-    "summary": "Plus, what does fund \u201credemption\u201d mean?",
-    "link": "https://www.wsj.com/finance/investing/im-always-wrong-about-gold-you-probably-are-too-2c6ac551?mod=rss_markets_main",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "CoreWeave earnings put debt-fueled AI build-out under scrutiny",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-10T15:01:21+00:00",
-    "published_ts": 1794322881.0,
-    "summary": "CoreWeave\u2019s earnings after the bell could calm fears about its debt-fueled AI buildout \u2014 or stoke more fear.",
-    "link": "https://www.cnbc.com/2026/11/10/coreweave-earnings-preview-debt-capex.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "Nvidia\u2019s Game of Thrones",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -393,50 +437,6 @@
     "summary": "Analysts and investors are asking whether the chipmaker needs to consider a successor to Jensen Huang, its C.E.O., as the company is engulfed in a spy scandal.",
     "link": "https://www.nytimes.com/2026/11/10/business/dealbook/nvidia-huang-succession.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Polymarket says annualized revenue has topped $1.8 billion",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-10T13:00:01+00:00",
-    "published_ts": 1794315601.0,
-    "summary": "Amid growth of its U.S. exchange, the prediction market platform\u2019s current annual run-rate is $1.8 billion.",
-    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "CoreWeave Brings AI\u2019s Financing Concern Into Focus",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-10T11:25:00+00:00",
-    "published_ts": 1794309900.0,
-    "summary": "Plus, Nvidia\u2019s spy-scandal storm rages, and corporate America braces for investigations.",
-    "link": "https://www.wsj.com/finance/investing/coreweave-brings-ais-financing-concern-into-focus-20f3a19e?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Here\u2019s why last year\u2019s government shutdown will haunt October\u2019s inflation data.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-10T10:48:00+00:00",
-    "published_ts": 1794307680.0,
-    "summary": "",
-    "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "3 unexpected reasons the October jobs report was so strong",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-09T22:23:56+00:00",
-    "published_ts": 1794263036.0,
-    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
-    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-    "category": "Economy",
     "priority": 1
   }
 ]
