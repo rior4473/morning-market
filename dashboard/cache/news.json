@@ -1,13 +1,13 @@
 [
   {
-    "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-11T06:37:00+00:00",
-    "published_ts": 1794379020.0,
-    "summary": "Hotter-than-expected U.S. inflation data and Federal Reserve officials\u2019 hawkish commentary raised the chances of a rate increase next month.",
-    "link": "https://www.wsj.com/finance/asian-bond-yields-rise-on-growing-expectations-for-fed-rate-hike-a2491a28?mod=rss_markets_main",
-    "category": "Fed",
+    "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world\u2019s most important bond market",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-11T21:42:00+00:00",
+    "published_ts": 1794433320.0,
+    "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It\u2019s a sign that inflation concerns are extending beyond the energy shock.",
+    "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+    "category": "Fixed Income",
     "priority": 5
   },
   {
@@ -31,6 +31,17 @@
     "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
     "category": "Fed",
     "priority": 4
+  },
+  {
+    "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-11T23:30:00+00:00",
+    "published_ts": 1794439800.0,
+    "summary": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual percentage rate to decline because of it.",
+    "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
+    "category": "Economy",
+    "priority": 3
   },
   {
     "title": "Dollar Rises to 19-Month High on Fed Rate-Hike Bets",
@@ -132,25 +143,25 @@
     "priority": 3
   },
   {
-    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-11T19:54:27+00:00",
+    "published_ts": 1794426867.0,
+    "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research.",
+    "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-11T16:49:02+00:00",
     "published_ts": 1794415742.0,
     "summary": "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
     "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-11T15:15:00+00:00",
-    "published_ts": 1794410100.0,
-    "summary": "Anxiety in the U.S. stock market has surged amid a sharp selloff in artificial intelligence names and stubbornly high bond yields.",
-    "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -253,69 +264,58 @@
     "priority": 2
   },
   {
-    "title": "Rigetti Computing earnings analysis: questions answered and next catalysts",
+    "title": "Why is Strategy stock falling after hours today?",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.661087+00:00",
-    "published_ts": 1794422933.661087,
+    "published": "2026-11-12T02:09:55.371058+00:00",
+    "published_ts": 1794449395.371058,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/rigetti-computing-earnings-analysis-questions-answered-and-next-catalysts-93CH-5019653",
+    "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-falling-after-hours-today-93CH-5020096",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "StubHub earnings analysis: questions answered and next catalysts",
+    "title": "Australian corporate watchdog sues CBA over alleged business customer overcharging",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.661067+00:00",
-    "published_ts": 1794422933.661067,
+    "published": "2026-11-12T02:09:55.370958+00:00",
+    "published_ts": 1794449395.370958,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/stubhub-earnings-analysis-questions-answered-and-next-catalysts-93CH-5019654",
-    "category": "Equities",
+    "link": "https://www.investing.com/news/stock-market-news/australian-corporate-watchdog-sues-cba-over-alleged-business-customer-overcharging-5020156",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Cisco earnings preview: EPS, margins, and guidance in focus",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.661047+00:00",
-    "published_ts": 1794422933.661047,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/cisco-earnings-preview-eps-margins-and-guidance-in-focus-93CH-5019656",
-    "category": "Equities",
+    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-11T23:57:38+00:00",
+    "published_ts": 1794441458.0,
+    "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
+    "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "Applied Materials fiscal Q4 2026 earnings preview: what to watch for in the print",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.661027+00:00",
-    "published_ts": 1794422933.661027,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/applied-materials-fiscal-q4-2026-earnings-preview-what-to-watch-for-in-the-print-93CH-5019657",
-    "category": "Equities",
+    "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-11T22:58:11+00:00",
+    "published_ts": 1794437891.0,
+    "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+    "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Nebius earnings preview: what to watch when Q3 results hit Thursday",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.661006+00:00",
-    "published_ts": 1794422933.661006,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/nebius-earnings-preview-what-to-watch-when-q3-results-hit-thursday-93CH-5019658",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Cerebras Systems Q3 2026 earnings preview: key metrics and risks to watch",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-11T18:48:53.660984+00:00",
-    "published_ts": 1794422933.660984,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/cerebras-systems-q3-2026-earnings-preview-key-metrics-and-risks-to-watch-93CH-5019659",
-    "category": "Equities",
+    "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-11T22:30:57+00:00",
+    "published_ts": 1794436257.0,
+    "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
+    "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -326,17 +326,6 @@
     "published_ts": 1794421493.0,
     "summary": "From a valuation standpoint, WYNN is trading very close to its five-year historical averages across key metrics. So how should traders play this setup?",
     "link": "https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T17:39:26+00:00",
-    "published_ts": 1794418766.0,
-    "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
-    "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
     "category": "Equities",
     "priority": 1
   },
@@ -363,28 +352,6 @@
     "priority": 1
   },
   {
-    "title": "Need money for a down payment? More employers are offering to help.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-11T17:06:00+00:00",
-    "published_ts": 1794416760.0,
-    "summary": "The rise in home-buying help from employers \u201cspeaks volumes about how difficult buying a home has become, even for people with steady jobs.\u201d",
-    "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-11T15:08:00+00:00",
-    "published_ts": 1794409680.0,
-    "summary": "Many service members face an often invisible financial trap when they step out of uniform.",
-    "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -393,17 +360,6 @@
     "summary": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
     "link": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "U.K. Police Arrested a U.S. Army Soldier on Allegations of Spying for Russia",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-10T22:29:00+00:00",
-    "published_ts": 1794349740.0,
-    "summary": "Plus, Wall Street is worried about interest rates again, and Anthropic\u2019s founders are about to be worth billions.",
-    "link": "https://www.wsj.com/world/uk/u-k-police-arrested-a-u-s-army-soldier-on-allegations-of-spying-for-russia-f87c5257?mod=rss_markets_main",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -437,6 +393,50 @@
     "summary": "",
     "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-09T22:23:56+00:00",
+    "published_ts": 1794263036.0,
+    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Financial Services Roundup: Market Talk",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-09T22:00:00+00:00",
+    "published_ts": 1794261600.0,
+    "summary": "Find insight on UniCredit, Credit Agricole, Banco BPM and more in the latest Market Talks covering Financial Services.",
+    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-09T21:00:00+00:00",
+    "published_ts": 1794258000.0,
+    "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-09T18:14:47+00:00",
+    "published_ts": 1794248087.0,
+    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "category": "Commodities",
     "priority": 1
   }
 ]
