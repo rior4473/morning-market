@@ -1,25 +1,14 @@
 [
   {
-    "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world\u2019s most important bond market",
+    "title": "The bond market now has an even bigger fear than AI fallout",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-11T21:42:00+00:00",
-    "published_ts": 1794433320.0,
-    "summary": "The tight trading relationship between oil prices and Treasury yields has broken down. It\u2019s a sign that inflation concerns are extending beyond the energy shock.",
-    "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 5
-  },
-  {
-    "title": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-11T11:44:00+00:00",
-    "published_ts": 1794397440.0,
-    "summary": "The yen weakened to two-month lows against the dollar on Wednesday after stronger-than-expected U.S. inflation data heightened expectations for Federal Reserve interest-rate hikes.",
-    "link": "https://www.wsj.com/economy/central-banking/yen-slumps-to-over-one-month-low-on-fed-hike-bets-fc05bf61?mod=rss_socialeconomyfeed",
+    "published": "2026-11-12T18:08:00+00:00",
+    "published_ts": 1794506880.0,
+    "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+    "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
     "category": "Fed",
-    "priority": 4
+    "priority": 5
   },
   {
     "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -33,36 +22,14 @@
     "priority": 4
   },
   {
-    "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-11T23:30:00+00:00",
-    "published_ts": 1794439800.0,
-    "summary": "The government may have lost a month of inflation data, but don\u2019t expect your credit card\u2019s annual percentage rate to decline because of it.",
-    "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 3
-  },
-  {
-    "title": "Dollar Rises to 19-Month High on Fed Rate-Hike Bets",
+    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-11T16:28:00+00:00",
-    "published_ts": 1794414480.0,
-    "summary": "The dollar strengthened against rival currencies as markets increasingly bet on the possibility of more aggressive interest-rate hikes by the Federal Reserve.",
-    "link": "https://www.wsj.com/economy/central-banking/euro-falls-to-18-month-low-against-dollar-on-fed-rate-hike-bets-02d386c5?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Two Federal Reserve officials suggested the central bank may need to quicken the pace of its rate increases, as the Fed\u2019s December meeting nears",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-11T01:00:00+00:00",
-    "published_ts": 1794358800.0,
-    "summary": "A third straight month of firm underlying inflation reopens the question of how far and how fast the central bank must go.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-forced-to-confront-case-for-bigger-and-faster-rate-rises-ac181706?mod=rss_socialeconomyfeed",
-    "category": "Fed",
+    "published": "2026-11-12T14:35:00+00:00",
+    "published_ts": 1794494100.0,
+    "summary": "The selloff in Treasurys accelerated after President Trump dashed hopes for an Iran peace deal.",
+    "link": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
     "priority": 3
   },
   {
@@ -121,17 +88,6 @@
     "priority": 3
   },
   {
-    "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-06T13:45:01+00:00",
-    "published_ts": 1793972701.0,
-    "summary": "The Federal Reserve decided against raising interest rates at its meeting last week, but it is widely expected to move again in December to help tame inflation.",
-    "link": "https://www.nytimes.com/2026/11/06/business/economy/stable-labor-market-to-keep-fed-on-track-to-raise-rates-gradually.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "The Argument for Buying Treasury Bonds Is Still Strong",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -143,14 +99,69 @@
     "priority": 3
   },
   {
-    "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+    "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T18:51:05+00:00",
+    "published_ts": 1794509465.0,
+    "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
+    "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "U.S. inflation is already bad enough. It might get worse.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-12T18:39:00+00:00",
+    "published_ts": 1794508740.0,
+    "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation \u2014 but the death blows won\u2019t come fast or easy.",
+    "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-12T18:33:00+00:00",
+    "published_ts": 1794508380.0,
+    "summary": "The central bank\u2019s proposed schedule calls for eight meetings in 2027, as is typical, but notes that the meeting slated for late October will not include a policy decision.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-to-forgo-rate-decision-at-october-2027-meeting-99c5523f?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check \u2026",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-12T18:30:00+00:00",
+    "published_ts": 1794508200.0,
+    "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T19:54:27+00:00",
-    "published_ts": 1794426867.0,
-    "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research.",
-    "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-    "category": "Economy",
+    "published": "2026-11-12T18:26:52+00:00",
+    "published_ts": 1794508012.0,
+    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "The trillion-dollar mistake corporate America is making about retirement",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-12T17:59:00+00:00",
+    "published_ts": 1794506340.0,
+    "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 2
   },
   {
@@ -165,17 +176,6 @@
     "priority": 2
   },
   {
-    "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-11T13:40:22+00:00",
-    "published_ts": 1794404422.0,
-    "summary": "The Federal Reserve\u2019s gradual approach to raising rates is being tested by intensifying price pressures.",
-    "link": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -184,17 +184,6 @@
     "summary": "Bank of England policymakers were set to move too slowly, the National Institute of Economic and Social Research said, urging them to raise the key rate to around 5% to tame inflation within three years.",
     "link": "https://www.wsj.com/economy/global/boe-should-raise-key-rate-to-around-5-u-k-economic-think-tank-says-04090d09?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Fed\u2019s Paulson Urges Gradual Approach to Rate Hikes",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-10T23:58:00+00:00",
-    "published_ts": 1794355080.0,
-    "summary": "Paulson, a voter on the rate-setting committee, said she expects more tightening to come, but would prefer to tighten gradually when conditions allow",
-    "link": "https://www.wsj.com/economy/central-banking/feds-paulson-urges-gradual-approach-to-rate-hikes-efe287f9?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -264,75 +253,130 @@
     "priority": 2
   },
   {
-    "title": "Why is Strategy stock falling after hours today?",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-12T02:09:55.371058+00:00",
-    "published_ts": 1794449395.371058,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-falling-after-hours-today-93CH-5020096",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Australian corporate watchdog sues CBA over alleged business customer overcharging",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-12T02:09:55.370958+00:00",
-    "published_ts": 1794449395.370958,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/australian-corporate-watchdog-sues-cba-over-alleged-business-customer-overcharging-5020156",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T23:57:38+00:00",
-    "published_ts": 1794441458.0,
-    "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
-    "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
-    "category": "Geopolitics",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-12T18:58:31+00:00",
+    "published_ts": 1794509911.0,
+    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+    "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T22:58:11+00:00",
-    "published_ts": 1794437891.0,
-    "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-    "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+    "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T18:15:39+00:00",
+    "published_ts": 1794507339.0,
+    "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
+    "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Canada\u2019s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T22:30:57+00:00",
-    "published_ts": 1794436257.0,
-    "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
-    "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-    "category": "Geopolitics",
+    "title": "Jensen Huang\u2019s Affairs That Upended Nvidia: Timeline of Events",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T18:04:05+00:00",
+    "published_ts": 1794506645.0,
+    "summary": "News of the Nvidia co-founder\u2019s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company.",
+    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-affairs-timeline.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Bouncing Wynn Shares might be primed for the 'wheel strategy'",
+    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-11T18:24:53+00:00",
-    "published_ts": 1794421493.0,
-    "summary": "From a valuation standpoint, WYNN is trading very close to its five-year historical averages across key metrics. So how should traders play this setup?",
-    "link": "https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html",
+    "published": "2026-11-12T17:53:31+00:00",
+    "published_ts": 1794506011.0,
+    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
+    "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018cocktail of disruption'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-12T17:50:59+00:00",
+    "published_ts": 1794505859.0,
+    "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
+    "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+    "category": "Wealth Mgmt",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-12T17:45:00+00:00",
+    "published_ts": 1794505500.0,
+    "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T17:33:19+00:00",
+    "published_ts": 1794504799.0,
+    "summary": "In a statement, Singapore said it held Alice Huang\u2019s passport months after President Trump was briefed that she was a spy.",
+    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-12T16:00:00+00:00",
+    "published_ts": 1794499200.0,
+    "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won\u2019t Cover a Hotel.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T14:31:56+00:00",
+    "published_ts": 1794493916.0,
+    "summary": "Turkish Airlines tried to wiggle out of paying for a passenger\u2019s $512 overnight stay after a stomach-churning malfunction forced it to cancel a flight in Denver.",
+    "link": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as \u2018Perpetual Trades.\u2019",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T14:23:52+00:00",
+    "published_ts": 1794493432.0,
+    "summary": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+    "category": "Crypto",
+    "priority": 1
+  },
+  {
+    "title": "The Inflation Fight May Be About to Turn Painful",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-12T10:57:00+00:00",
+    "published_ts": 1794481020.0,
+    "summary": "Plus, retirees\u2019 investments, the affordability agenda and the downsides of a boring job market.",
+    "link": "https://www.wsj.com/finance/investing/the-inflation-fight-may-be-about-to-turn-painful-1d053d79?mod=rss_markets_main",
+    "category": "Economy",
     "priority": 1
   },
   {
     "title": "Heating Costs Will Rise 7% on Average This Winter",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-11T17:16:17+00:00",
     "published_ts": 1794417377.0,
     "summary": "People who use heating oil will see increases of around 70 percent because the war in Iran has greatly reduced supply of that fuel.",
@@ -343,23 +387,12 @@
   {
     "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-11T17:11:59+00:00",
     "published_ts": 1794417119.0,
     "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
     "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-11T14:03:47+00:00",
-    "published_ts": 1794405827.0,
-    "summary": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
-    "link": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -404,39 +437,6 @@
     "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
     "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Financial Services Roundup: Market Talk",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-09T22:00:00+00:00",
-    "published_ts": 1794261600.0,
-    "summary": "Find insight on UniCredit, Credit Agricole, Banco BPM and more in the latest Market Talks covering Financial Services.",
-    "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-09T21:00:00+00:00",
-    "published_ts": 1794258000.0,
-    "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-09T18:14:47+00:00",
-    "published_ts": 1794248087.0,
-    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
-    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-    "category": "Commodities",
     "priority": 1
   }
 ]
