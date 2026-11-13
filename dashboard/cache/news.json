@@ -1,14 +1,36 @@
 [
   {
+    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-12T20:53:00+00:00",
+    "published_ts": 1794516780.0,
+    "summary": "The selloff in Treasurys accelerated as Federal Reserve officials spoke about their path to lower inflation through higher interest rates.",
+    "link": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 5
+  },
+  {
     "title": "The bond market now has an even bigger fear than AI fallout",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-12T18:08:00+00:00",
-    "published_ts": 1794506880.0,
+    "published": "2026-11-12T20:44:00+00:00",
+    "published_ts": 1794516240.0,
     "summary": "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
     "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
     "category": "Fed",
     "priority": 5
+  },
+  {
+    "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-12T22:16:00+00:00",
+    "published_ts": 1794521760.0,
+    "summary": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets.",
+    "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 4
   },
   {
     "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
@@ -20,17 +42,6 @@
     "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
     "category": "Fed",
     "priority": 4
-  },
-  {
-    "title": "Treasury Selloff Accelerates, European Bonds Follow Suit",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-12T14:35:00+00:00",
-    "published_ts": 1794494100.0,
-    "summary": "The selloff in Treasurys accelerated after President Trump dashed hopes for an Iran peace deal.",
-    "link": "https://www.wsj.com/economy/central-banking/treasury-yields-rise-as-fed-rate-hike-expectations-remain-strong-401fed89?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
-    "priority": 3
   },
   {
     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
@@ -88,15 +99,26 @@
     "priority": 3
   },
   {
-    "title": "The Argument for Buying Treasury Bonds Is Still Strong",
+    "title": "Fed\u2019s Williams Says Still Work to Do to Get Monetary Policy to Right Place",
     "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-06T10:30:00+00:00",
-    "published_ts": 1793961000.0,
-    "summary": "As AI fears take down stocks, bonds offer compelling yields.",
-    "link": "https://www.wsj.com/finance/investing/the-argument-for-buying-treasury-bonds-is-still-strong-be338920?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 3
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-13T01:26:00+00:00",
+    "published_ts": 1794533160.0,
+    "summary": "New York Fed President John Williams said inflation remains too high.",
+    "link": "https://www.wsj.com/economy/central-banking/feds-williams-says-still-work-to-do-to-get-monetary-policy-to-right-place-cc3b5992?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-12T19:05:25+00:00",
+    "published_ts": 1794510325.0,
+    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
+    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+    "category": "Fed",
+    "priority": 2
   },
   {
     "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
@@ -106,17 +128,6 @@
     "published_ts": 1794509465.0,
     "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
     "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "U.S. inflation is already bad enough. It might get worse.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-12T18:39:00+00:00",
-    "published_ts": 1794508740.0,
-    "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation \u2014 but the death blows won\u2019t come fast or easy.",
-    "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
     "category": "Fed",
     "priority": 2
   },
@@ -140,28 +151,6 @@
     "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-12T18:26:52+00:00",
-    "published_ts": 1794508012.0,
-    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "The trillion-dollar mistake corporate America is making about retirement",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-12T17:59:00+00:00",
-    "published_ts": 1794506340.0,
-    "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-    "category": "Markets",
     "priority": 2
   },
   {
@@ -253,25 +242,91 @@
     "priority": 2
   },
   {
+    "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-13T01:00:00+00:00",
+    "published_ts": 1794531600.0,
+    "summary": "Stripe is positioning itself as a key cog for agentic commerce, while JPMorgan Chase is a skeptic.",
+    "link": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_markets_main",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
     "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-12T18:58:31+00:00",
-    "published_ts": 1794509911.0,
+    "published": "2026-11-13T00:01:19+00:00",
+    "published_ts": 1794528079.0,
     "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
     "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
     "category": "Commodities",
     "priority": 1
   },
   {
+    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T22:54:19+00:00",
+    "published_ts": 1794524059.0,
+    "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
+    "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "The 10 best stocks for a year-end momentum trade",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-12T21:50:00+00:00",
+    "published_ts": 1794520200.0,
+    "summary": "Why December is the best month of the year for momentum strategies",
+    "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-12T21:20:35+00:00",
+    "published_ts": 1794518435.0,
+    "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+    "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Nvidia Tumbles as its CEO Jensen Huang Departs Amid Multiplying Scandals",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-12T21:11:00+00:00",
+    "published_ts": 1794517860.0,
+    "summary": "Plus, competitors AMD and Broadcom advance and yields rise.",
+    "link": "https://www.wsj.com/finance/stocks/nvidia-tumbles-as-its-ceo-jensen-huang-departs-amid-multiplying-scandals-d380df1f?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
     "title": "Mortgage Rates Remain High as Affordability Challenges Persist",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-11-12T18:15:39+00:00",
-    "published_ts": 1794507339.0,
+    "published": "2026-11-12T19:42:30+00:00",
+    "published_ts": 1794512550.0,
     "summary": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.",
     "link": "https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-12T19:19:40+00:00",
+    "published_ts": 1794511180.0,
+    "summary": "In a statement, Singapore said it held Alice Huang\u2019s passport months after President Trump was briefed that she was a spy.",
+    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+    "category": "Fed",
     "priority": 1
   },
   {
@@ -286,28 +341,6 @@
     "priority": 1
   },
   {
-    "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-12T17:53:31+00:00",
-    "published_ts": 1794506011.0,
-    "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
-    "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Bain Capital\u2019s head of real estate uses this strategy to counter the economy\u2019s \u2018cocktail of disruption'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-12T17:50:59+00:00",
-    "published_ts": 1794505859.0,
-    "summary": "Ryan Cotton, Bain Capital's head of real estate, sits for an interview with the Property Play video podcast.",
-    "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
-    "category": "Wealth Mgmt",
-    "priority": 1
-  },
-  {
     "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -315,17 +348,6 @@
     "published_ts": 1794505500.0,
     "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-12T17:33:19+00:00",
-    "published_ts": 1794504799.0,
-    "summary": "In a statement, Singapore said it held Alice Huang\u2019s passport months after President Trump was briefed that she was a spy.",
-    "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
     "category": "Fed",
     "priority": 1
   },
@@ -341,36 +363,14 @@
     "priority": 1
   },
   {
-    "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won\u2019t Cover a Hotel.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-12T14:31:56+00:00",
-    "published_ts": 1794493916.0,
-    "summary": "Turkish Airlines tried to wiggle out of paying for a passenger\u2019s $512 overnight stay after a stomach-churning malfunction forced it to cancel a flight in Denver.",
-    "link": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as \u2018Perpetual Trades.\u2019",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-12T14:23:52+00:00",
-    "published_ts": 1794493432.0,
-    "summary": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
-    "link": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
-    "category": "Crypto",
-    "priority": 1
-  },
-  {
-    "title": "The Inflation Fight May Be About to Turn Painful",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-12T10:57:00+00:00",
-    "published_ts": 1794481020.0,
-    "summary": "Plus, retirees\u2019 investments, the affordability agenda and the downsides of a boring job market.",
-    "link": "https://www.wsj.com/finance/investing/the-inflation-fight-may-be-about-to-turn-painful-1d053d79?mod=rss_markets_main",
-    "category": "Economy",
+    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-11T23:57:38+00:00",
+    "published_ts": 1794441458.0,
+    "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
+    "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
