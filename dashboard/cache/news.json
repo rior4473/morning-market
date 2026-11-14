@@ -5,7 +5,7 @@
     "feed": "WSJ \u2014 Economy",
     "published": "2026-11-13T18:00:00+00:00",
     "published_ts": 1794592800.0,
-    "summary": "Bond yields rose in Europe and the U.S. on Friday as inflationary pressures kept expectations for further Federal Reserve interest-rate increases strong.",
+    "summary": "Bond yields rose in Europe and the U.S. as inflationary pressures kept expectations for further Federal Reserve interest-rate increases strong.",
     "link": "https://www.wsj.com/economy/central-banking/upward-pressure-remains-in-treasury-yields-even-as-two-year-yield-stabilizes-0c267082?mod=rss_socialeconomyfeed",
     "category": "Fed",
     "priority": 5
@@ -66,6 +66,28 @@
     "priority": 3
   },
   {
+    "title": "The trillion-dollar mistake corporate America is making about retirement",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-13T21:09:00+00:00",
+    "published_ts": 1794604140.0,
+    "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
+    "title": "Of all the ways Chairman Kevin Warsh wants to remake the Fed, the least flashy may be the most lasting: He is cutting the number of interest-rate decisions the central bank makes each year",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-13T21:01:00+00:00",
+    "published_ts": 1794603660.0,
+    "summary": "The Federal Reserve confirmed that it won\u2019t vote on interest rates at its October meeting next year.",
+    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-calendar-changes-890c4390?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
     "title": "Fewer Fed Meetings Raise Stakes of Warsh\u2019s Communications",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -77,31 +99,9 @@
     "priority": 2
   },
   {
-    "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-13T15:34:48+00:00",
-    "published_ts": 1794584088.0,
-    "summary": "Jensen Huang\u2019s resignation puts Nvidia\u2019s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
-    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
-    "category": "Markets",
-    "priority": 2
-  },
-  {
-    "title": "Of all the ways Chairman Kevin Warsh wants to remake the Fed, the least flashy may be the most lasting: He is cutting the number of interest-rate decisions the central bank makes each year",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-13T15:02:00+00:00",
-    "published_ts": 1794582120.0,
-    "summary": "The Federal Reserve confirmed that it won\u2019t vote on interest rates at its October meeting next year.",
-    "link": "https://www.wsj.com/economy/central-banking/federal-reserve-calendar-changes-890c4390?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-13T14:22:07+00:00",
     "published_ts": 1794579727.0,
     "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
@@ -128,17 +128,6 @@
     "published_ts": 1794509465.0,
     "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
     "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check \u2026",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-12T18:30:00+00:00",
-    "published_ts": 1794508200.0,
-    "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
     "category": "Fed",
     "priority": 2
   },
@@ -176,17 +165,6 @@
     "priority": 2
   },
   {
-    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-07T15:23:46+00:00",
-    "published_ts": 1794065026.0,
-    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-    "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-    "category": "Equities",
-    "priority": 2
-  },
-  {
     "title": "The October jobs report is out Friday. Here's everything to expect",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -195,28 +173,6 @@
     "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
     "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-05T16:01:47+00:00",
-    "published_ts": 1793894507.0,
-    "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
-    "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-    "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Federal Reserve issues FOMC statement",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-10-28T18:00:00+00:00",
-    "published_ts": 1793210400.0,
-    "summary": "Federal Reserve issues FOMC statement",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -231,47 +187,80 @@
     "priority": 2
   },
   {
-    "title": "Barclays to cut about 200 investment banking jobs in New York and London - report",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-13T18:37:44.877118+00:00",
-    "published_ts": 1794595064.877118,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/barclays-to-cut-about-200-investment-banking-jobs-in-new-york-and-london--report-5026272",
-    "category": "Economy",
+    "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-14T01:09:11+00:00",
+    "published_ts": 1794618551.0,
+    "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+    "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "European shares end best week since June as strong earnings lift sentiment",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-13T18:37:44.877104+00:00",
-    "published_ts": 1794595064.877104,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-retreat-from-record-highs-ai-uncertainty-weighs-5024437",
-    "category": "Equities",
+    "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-13T23:10:21+00:00",
+    "published_ts": 1794611421.0,
+    "summary": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
+    "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Nvidia-led tech sell-off drags Wall Street lower despite inflation relief",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-13T18:37:44.877056+00:00",
-    "published_ts": 1794595064.877056,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-nvidia-ceo-exit-spooks-wall-st-5023780",
-    "category": "Economy",
+    "title": "Global oil supplies are suddenly flowing. Why a crude glut won\u2019t mean cheaper diesel.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-13T22:04:00+00:00",
+    "published_ts": 1794607440.0,
+    "summary": "It\u2019s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn\u2019t automatically lead to lower diesel prices.",
+    "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-13T21:18:30+00:00",
+    "published_ts": 1794604710.0,
+    "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "They train people to avoid 'honeypot' scams\u2014here are the common red flags they spot: 'It feels so good to be wanted'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-13T21:06:25+00:00",
+    "published_ts": 1794603985.0,
+    "summary": "Corporate security firms train companies and their employees on strategies for being vigilant against honeypots, and other social engineering attacks.",
+    "link": "https://www.cnbc.com/make-it/2026/11/13/honeypot-scam-red-flags.html",
+    "category": "Markets",
     "priority": 1
   },
   {
     "title": "Wall Street Loses a Powerful Dealmaker After Nvidia\u2019s CEO Is Ousted",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-11-13T17:38:44+00:00",
-    "published_ts": 1794591524.0,
+    "published": "2026-11-13T19:52:01+00:00",
+    "published_ts": 1794599521.0,
     "summary": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
     "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-13T19:30:36+00:00",
+    "published_ts": 1794598236.0,
+    "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
+    "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -297,17 +286,6 @@
     "priority": 1
   },
   {
-    "title": "From living in his car to a 756 credit score: How one veteran rebuilt his finances",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-13T16:10:00+00:00",
-    "published_ts": 1794586200.0,
-    "summary": "Many service members face an often invisible financial trap when they step out of uniform.",
-    "link": "https://www.marketwatch.com/story/from-living-in-his-car-to-a-756-credit-score-how-one-veteran-rebuilt-his-finances-026c3336?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -319,17 +297,6 @@
     "priority": 1
   },
   {
-    "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-13T15:31:58+00:00",
-    "published_ts": 1794583918.0,
-    "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
-    "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Jensen Huang\u2019s Fall Costs Asia an A.I. Ambassador to the U.S.",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
@@ -338,28 +305,6 @@
     "summary": "The ex-Nvidia C.E.O. was a bridge between companies and governments. His exit will reverberate, especially in China where it could accelerate a self-reliance drive.",
     "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-china-asia.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "\u2018We will sue them\u2019: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-13T14:24:57+00:00",
-    "published_ts": 1794579897.0,
-    "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
-    "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Producer-Price Inflation Cooled Last Month, Remains Elevated",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-13T14:05:00+00:00",
-    "published_ts": 1794578700.0,
-    "summary": "Prices charged by U.S. producers rose less quickly last month than during their rapid increase in September, but wholesale inflation over the past year remains well above trend.",
-    "link": "https://www.wsj.com/economy/central-banking/producer-price-inflation-cooled-last-month-remains-elevated-d2d4007f?mod=rss_socialeconomyfeed",
-    "category": "Economy",
     "priority": 1
   },
   {
@@ -385,12 +330,12 @@
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Nvidia Shares Slide Again as Investors Eye Fallout From Huang's Removal",
+    "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-11-13T09:55:33+00:00",
     "published_ts": 1794563733.0,
-    "summary": "Tech stocks slump; AI trade faces two major tests next week with chip giant's earnings and Anthropic's IPO",
+    "summary": "AI trade faces major tests next week with chip giant's earnings and Anthropic's IPO",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026?mod=rss_markets_main",
     "category": "Equities",
     "priority": 1
@@ -418,25 +363,80 @@
     "priority": 1
   },
   {
-    "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
+    "title": "Heating Costs Will Rise 7% on Average This Winter",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-12T22:54:20+00:00",
-    "published_ts": 1794524060.0,
-    "summary": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
-    "link": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-11T17:16:17+00:00",
+    "published_ts": 1794417377.0,
+    "summary": "People who use heating oil will see increases of around 70 percent because the war in Iran has greatly reduced supply of that fuel.",
+    "link": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-11T17:11:59+00:00",
+    "published_ts": 1794417119.0,
+    "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
+    "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-10T17:25:51+00:00",
+    "published_ts": 1794331551.0,
+    "summary": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
+    "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Polymarket says annualized revenue has topped $1.8 billion",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-10T13:00:01+00:00",
+    "published_ts": 1794315601.0,
+    "summary": "Amid growth of its U.S. exchange, the prediction market platform\u2019s current annual run-rate is $1.8 billion.",
+    "link": "https://www.cnbc.com/2026/11/10/polymarket-annualized-revenue-us-growth.html",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-12T17:45:00+00:00",
-    "published_ts": 1794505500.0,
-    "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "category": "Fed",
+    "title": "Here\u2019s why last year\u2019s government shutdown will haunt October\u2019s inflation data.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-10T10:48:00+00:00",
+    "published_ts": 1794307680.0,
+    "summary": "",
+    "link": "https://www.nytimes.com/live/2026/11/10/business/inflation-cpi-report-october/heres-why-last-years-government-shutdown-will-haunt-octobers-inflation-data",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "3 unexpected reasons the October jobs report was so strong",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-09T22:23:56+00:00",
+    "published_ts": 1794263036.0,
+    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
+    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-09T18:14:47+00:00",
+    "published_ts": 1794248087.0,
+    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+    "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+    "category": "Commodities",
     "priority": 1
   }
 ]
