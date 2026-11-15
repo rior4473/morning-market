@@ -11,17 +11,6 @@
     "priority": 5
   },
   {
-    "title": "Week Ahead for FX, Bonds: Fed Minutes, U.K. Data in Focus",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-13T14:21:00+00:00",
-    "published_ts": 1794579660.0,
-    "summary": "Market expectations for another Fed rate rise in December have increased in the wake of stronger-than-expected jobs data and higher-than-anticipated inflation.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-fed-minutes-u-k-data-in-focus-679dc61f?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 5
-  },
-  {
     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -66,14 +55,36 @@
     "priority": 3
   },
   {
-    "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-14T14:30:01+00:00",
-    "published_ts": 1794666601.0,
-    "summary": "With household budgets already squeezed by persistent inflation, some residents are seeking emergency help with heating oil bills before winter begins.",
-    "link": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
+    "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-15T12:30:00+00:00",
+    "published_ts": 1794745800.0,
+    "summary": "Charts show the potential for more pain ahead",
+    "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
     "category": "Commodities",
+    "priority": 2
+  },
+  {
+    "title": "Microsoft Outlook Outage and FAA Groundstop Show Dependence on Fragile Technology",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-15T10:02:06+00:00",
+    "published_ts": 1794736926.0,
+    "summary": "Incidents involving Microsoft\u2019s Outlook and the Federal Aviation Administration this past week demonstrated our dependence on fragile technology.",
+    "link": "https://www.nytimes.com/2026/11/15/business/technology-dependence-microsoft-airlines.html",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
+    "title": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-14T23:20:04+00:00",
+    "published_ts": 1794698404.0,
+    "summary": "Since 2023, the discount retailer has been overcharging shoppers \u201cmillions of dollars\u201d at checkout, according to a complaint filed by federal regulators and 17 states.",
+    "link": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
+    "category": "Markets",
     "priority": 2
   },
   {
@@ -198,25 +209,113 @@
     "priority": 2
   },
   {
-    "title": "What does Goldman expect for European stocks in 2027?",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-14T17:15:06.521243+00:00",
-    "published_ts": 1794676506.521243,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/what-does-goldman-expect-for-european-stocks-in-2027-5027285",
-    "category": "Commodities",
+    "title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-15T15:00:00+00:00",
+    "published_ts": 1794754800.0,
+    "summary": "Jensen Huang\u2019s sudden departure has made Tuesday\u2019s earnings call \u201cthe most important in the company\u2019s history.\u201d",
+    "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-15T14:30:01+00:00",
+    "published_ts": 1794753001.0,
+    "summary": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
+    "link": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-15T14:24:18+00:00",
+    "published_ts": 1794752658.0,
+    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+    "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Rivian, Lucid, Scout CEOs aren\u2019t counting on Democrats to restore EV federal support after midterm wins",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-15T13:00:02+00:00",
+    "published_ts": 1794747602.0,
+    "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+    "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-15T12:00:01+00:00",
+    "published_ts": 1794744001.0,
+    "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+    "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "The Individual Investors Who Are Hot on Anthropic\u2019s IPO but Cool on AI",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-15T10:30:00+00:00",
+    "published_ts": 1794738600.0,
+    "summary": "Artificial intelligent\u2019s future makes it hard for some to sit out the trillion-dollar offering, but it\u2019s complicated. \u201cFeels almost like the last chopper out of Saigon,\u201d says one.",
+    "link": "https://www.wsj.com/finance/stocks/the-individual-investors-who-are-hot-on-anthropics-ipo-but-cool-on-ai-461f89b4?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "High mortgage rates have crushed homeowners\u2019 budgets. Some lucky Americans haven\u2019t felt any of it. Meet the one in five mortgage holders who are America\u2019s three percenters.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-15T10:30:00+00:00",
+    "published_ts": 1794738600.0,
+    "summary": "Meet the one in five mortgage holders who are America\u2019s three percenters.",
+    "link": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "New AI Millionaires Want Wealth Advisers Who Can Help Give Their Money Away",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-15T01:00:00+00:00",
+    "published_ts": 1794704400.0,
+    "summary": "The urge to give is being fueled by mission-driven corporate cultures, as well as guilt about AI\u2019s potential harms.",
+    "link": "https://www.wsj.com/finance/investing/new-ai-millionaires-want-wealth-advisers-who-can-help-give-their-money-away-7d586775?mod=rss_markets_main",
+    "category": "Wealth Mgmt",
     "priority": 1
   },
   {
     "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-11-14T16:36:36+00:00",
-    "published_ts": 1794674196.0,
+    "published": "2026-11-14T23:14:32+00:00",
+    "published_ts": 1794698072.0,
     "summary": "The Federal Aviation Administration\u2019s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
     "link": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-14T17:46:06+00:00",
+    "published_ts": 1794678366.0,
+    "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang\u2019s resignation.",
+    "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -233,23 +332,12 @@
   {
     "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-14T15:50:43+00:00",
     "published_ts": 1794671443.0,
     "summary": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
     "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Washington can start delivering on affordability by rejecting Trump\u2019s tariffs",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-14T13:30:00+00:00",
-    "published_ts": 1794663000.0,
-    "summary": "Americans voted against policies that drove up their costs. Will policymakers ignore them?",
-    "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -261,17 +349,6 @@
     "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
     "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-14T02:22:25+00:00",
-    "published_ts": 1794622945.0,
-    "summary": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
-    "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -297,20 +374,9 @@
     "priority": 1
   },
   {
-    "title": "Wall Street Loses a Powerful Dealmaker After Nvidia\u2019s CEO Is Ousted",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-13T19:52:01+00:00",
-    "published_ts": 1794599521.0,
-    "summary": "The ousted Nvidia chief executive was the consummate dealmaker leading the trillion-dollar A.I. build out.",
-    "link": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-13T17:05:12+00:00",
     "published_ts": 1794589512.0,
     "summary": "The Treasury secretary blamed the department for not sanctioning the Singaporean firm and said that Nvidia employees should be held accountable if they sidestepped the law.",
@@ -327,28 +393,6 @@
     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "The Stock Market\u2019s Bargain Bin Is Secretly Stuffed With AI Stocks",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-13T14:00:00+00:00",
-    "published_ts": 1794578400.0,
-    "summary": "Value funds don\u2019t always offer the exposure to cheap, boring stocks that investors might expect.",
-    "link": "https://www.wsj.com/finance/investing/the-stock-markets-bargain-bin-is-secretly-stuffed-with-ai-stocks-8fa3edbe?mod=rss_markets_main",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "How the AI Trade Hijacked the Treasury Market for a Month",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-13T11:17:00+00:00",
-    "published_ts": 1794568620.0,
-    "summary": "Plus, Nvidia enters its next phase, and Microsoft\u2019s global outage",
-    "link": "https://www.wsj.com/finance/stocks/how-the-ai-trade-hijacked-the-treasury-market-for-a-month-3fa26a9f?mod=rss_markets_main",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -392,50 +436,6 @@
     "published_ts": 1794505500.0,
     "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-12T16:00:00+00:00",
-    "published_ts": 1794499200.0,
-    "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Heating Costs Will Rise 7% on Average This Winter",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-11T17:16:17+00:00",
-    "published_ts": 1794417377.0,
-    "summary": "People who use heating oil will see increases of around 70 percent because the war in Iran has greatly reduced supply of that fuel.",
-    "link": "https://www.nytimes.com/2026/11/11/business/energy-environment/winter-heating-oil-costs.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-11T17:11:59+00:00",
-    "published_ts": 1794417119.0,
-    "summary": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
-    "link": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-10T17:25:51+00:00",
-    "published_ts": 1794331551.0,
-    "summary": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
-    "link": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
     "category": "Fed",
     "priority": 1
   }
