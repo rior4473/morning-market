@@ -1,5 +1,16 @@
 [
   {
+    "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-17T00:42:33+00:00",
+    "published_ts": 1794876153.0,
+    "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+    "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+    "category": "Geopolitics",
+    "priority": 3
+  },
+  {
     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -33,6 +44,28 @@
     "priority": 3
   },
   {
+    "title": "Bessent Takes Hawkish Turn in White House Debate on China",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-16T22:46:09+00:00",
+    "published_ts": 1794869169.0,
+    "summary": "The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology.",
+    "link": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html",
+    "category": "Fixed Income",
+    "priority": 2
+  },
+  {
+    "title": "AI Stocks Resume Their Slide",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-16T21:38:00+00:00",
+    "published_ts": 1794865080.0,
+    "summary": "Plus, the Fed weighs AI jobs scenarios and Tyson improves its beef outlook",
+    "link": "https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?mod=rss_markets_main",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
     "title": "The Fed is modeling how AI could transform jobs, productivity and markets as Kevin Warsh weighs its implications for America\u2019s economic and global power",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -41,6 +74,17 @@
     "summary": "The Fed chairman questions whether the U.S. can remain a superpower without leading in artificial intelligence.",
     "link": "https://www.wsj.com/economy/central-banking/warsh-says-fed-is-gaming-out-how-ai-could-reshape-economy-ab296fc9?mod=rss_socialeconomyfeed",
     "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Optimum Skips Bond Interest Payments Amid Restructuring Talks",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-16T17:37:00+00:00",
+    "published_ts": 1794850620.0,
+    "summary": "The broadband company entered a 30-day grace period as it negotiated with creditors.",
+    "link": "https://www.wsj.com/pro/bankruptcy/optimum-skips-bond-interest-payments-amid-restructuring-talks-3a1644f9?mod=rss_markets_main",
+    "category": "Fixed Income",
     "priority": 2
   },
   {
@@ -121,17 +165,6 @@
     "priority": 2
   },
   {
-    "title": "The October jobs report is out Friday. Here's everything to expect",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-05T21:32:52+00:00",
-    "published_ts": 1793914372.0,
-    "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
-    "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve issues FOMC statement",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -154,46 +187,79 @@
     "priority": 2
   },
   {
-    "title": "Fed minutes, Fedspeak and key data to watch this week",
+    "title": "JD.com Q3 earnings preview: e-commerce weakness, AI growth in focus",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-16T21:09:35.642054+00:00",
-    "published_ts": 1794863375.642054,
+    "published": "2026-11-17T03:30:10.071727+00:00",
+    "published_ts": 1794886210.071727,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/fed-minutes-fedspeak-and-key-data-to-watch-this-week-93CH-5030802",
+    "link": "https://www.investing.com/news/stock-market-news/jdcom-q3-earnings-preview-ecommerce-weakness-ai-growth-in-focus-93CH-5031505",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Berkshire Boosts Stake in Lennar, Doubling Down on Its U.S. Housing Bet",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-16T22:51:00+00:00",
+    "published_ts": 1794869460.0,
+    "summary": "The conglomerate formerly run by Warren Buffett also trimmed stakes in Capital One and Nucor during the September quarter.",
+    "link": "https://www.wsj.com/finance/stocks/berkshire-boosts-stake-in-lennar-doubling-down-on-its-u-s-housing-bet-b1237ca5?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "U.S. dollar\u2019s AI-driven breakout could become a stock-market wrecking ball",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-16T22:46:00+00:00",
+    "published_ts": 1794869160.0,
+    "summary": "The dollar recently climbed to its strongest level in a year and a half.",
+    "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-16T22:37:45+00:00",
+    "published_ts": 1794868665.0,
+    "summary": "Trump\u2019s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang\u2019s relationship with a suspected Chinese spy.",
+    "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
     "category": "Fed",
     "priority": 1
   },
   {
-    "title": "Nvidia earnings scenarios: what a guidance cut could mean for the stock",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-16T21:09:35.641979+00:00",
-    "published_ts": 1794863375.641979,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/nvidia-earnings-scenarios-what-a-guidance-cut-could-mean-for-the-stock-93CH-5030809",
-    "category": "Equities",
+    "title": "Trump Nominates Budget Deputy for Nonpartisan Federal Watchdog Role",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-16T22:37:01+00:00",
+    "published_ts": 1794868621.0,
+    "summary": "The move could put a top administration official in charge of an oversight agency that has faulted the White House for past violations of the law.",
+    "link": "https://www.nytimes.com/2026/11/16/business/trump-gao-watchdog-nominee-eric-ueland.html",
+    "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Nvidia investors will be clamoring for these answers during a historic earnings call",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-16T21:05:00+00:00",
-    "published_ts": 1794863100.0,
-    "summary": "There\u2019s a lot that Nvidia investors want to know about the post-Jensen Huang era \u2014 although management is likely to be tight-lipped on the topic of succession.",
-    "link": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Robert Pattinson cast as next James Bond",
+    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-16T21:03:36+00:00",
-    "published_ts": 1794863016.0,
-    "summary": "Pattinson has been in major films this year, including Christopher Nolan's \"The Odyssey,\" and will soon appear in \"Dune: Part Three.\"",
-    "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+    "published": "2026-11-16T22:19:02+00:00",
+    "published_ts": 1794867542.0,
+    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Robert Pattinson Named as the Next James Bond",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-16T22:10:07+00:00",
+    "published_ts": 1794867007.0,
+    "summary": "The announcement ends years of speculation over who would take over the role after Daniel Craig\u2019s five-film run.",
+    "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
     "category": "Fixed Income",
     "priority": 1
   },
@@ -201,44 +267,11 @@
     "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "source": "NYT",
     "feed": "NYT \u2014 Business",
-    "published": "2026-11-16T21:01:11+00:00",
-    "published_ts": 1794862871.0,
+    "published": "2026-11-16T21:08:30+00:00",
+    "published_ts": 1794863310.0,
     "summary": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
     "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-16T20:51:28+00:00",
-    "published_ts": 1794862288.0,
-    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Jensen Huang\u2019s fans want him back as Nvidia CEO. This is why that\u2019s unlikely.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-16T20:17:00+00:00",
-    "published_ts": 1794860220.0,
-    "summary": "Corporate-governance experts point to issues that would make a triumphant return difficult.",
-    "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-16T19:34:00+00:00",
-    "published_ts": 1794857640.0,
-    "summary": "If the AI trade falters, investors have \u201cinsurance\u201d in the former of bonds with a longer duration, says David Royal at Thrivent",
-    "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -264,17 +297,6 @@
     "priority": 1
   },
   {
-    "title": "Micron, AMD and other AI stocks fall as the chip sector\u2019s selloff intensifies",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-16T18:54:00+00:00",
-    "published_ts": 1794855240.0,
-    "summary": "Investors are jittery about Nvidia\u2019s upcoming earnings and whether the company will scale back its financing of the AI ecosystem.",
-    "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -283,17 +305,6 @@
     "summary": "",
     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-16T17:22:11+00:00",
-    "published_ts": 1794849731.0,
-    "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -319,17 +330,6 @@
     "priority": 1
   },
   {
-    "title": "Robert Pattinson Named as the Next James Bond",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-16T16:01:58+00:00",
-    "published_ts": 1794844918.0,
-    "summary": "The announcement ends years of speculation over who would take over the role after Daniel Craig\u2019s five-film run.",
-    "link": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
     "title": "New York Manufacturing Activity Moderates from October Surge",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -338,17 +338,6 @@
     "summary": "Factory activity in New York expanded modestly in November, decelerating from an October growth spurt, according to the latest monthly edition of the Empire State Manufacturing Survey.",
     "link": "https://www.wsj.com/economy/central-banking/new-york-manufacturing-activity-moderates-from-october-surge-4d9db965?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang\u2019s exit",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-16T13:42:43+00:00",
-    "published_ts": 1794836563.0,
-    "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
-    "link": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
-    "category": "Equities",
     "priority": 1
   },
   {
@@ -436,6 +425,17 @@
     "published_ts": 1794505500.0,
     "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-12T16:00:00+00:00",
+    "published_ts": 1794499200.0,
+    "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
     "category": "Fed",
     "priority": 1
   }
