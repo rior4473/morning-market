@@ -1,13 +1,46 @@
 [
   {
-    "title": "U.S. Treasury, Eurozone Bond Yields Edge Lower",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-17T17:56:00+00:00",
-    "published_ts": 1794938160.0,
-    "summary": "U.S. Treasury and eurozone government bond yields fell slightly on Tuesday amid continued caution over artificial intelligence as investors processed fresh economic indicators.",
-    "link": "https://www.wsj.com/economy/central-banking/u-s-treasury-eurozone-bond-yields-edge-lower-as-fresh-drivers-are-sought-746b3b6d?mod=rss_socialeconomyfeed",
-    "category": "Fixed Income",
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-18T19:26:32+00:00",
+    "published_ts": 1795029992.0,
+    "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+    "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed minutes show growing unease about the outlook for inflation",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-18T19:12:00+00:00",
+    "published_ts": 1795029120.0,
+    "summary": "At the October meeting, there was some discussion of an aggressive rate hike at the Federal Reserve\u2019s December meeting.",
+    "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed Saw Need to Continue Raising Rates Despite October Skip",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-18T19:09:22+00:00",
+    "published_ts": 1795028962.0,
+    "summary": "Minutes from the Federal Reserve\u2019s most recent gathering underscored that taming inflation remained officials\u2019 top priority.",
+    "link": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-18T15:13:39+00:00",
+    "published_ts": 1795014819.0,
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "category": "Fed",
     "priority": 3
   },
   {
@@ -22,17 +55,6 @@
     "priority": 3
   },
   {
-    "title": "Fed\u2019s Musalem Says Several Rate Hikes Likely Needed Before Spring 2027",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-17T13:14:00+00:00",
-    "published_ts": 1794921240.0,
-    "summary": "St. Louis Fed President Alberto Musalem said the central bank will likely need to raise interest rates several times before next spring if it wants to get a handle on inflation.",
-    "link": "https://www.wsj.com/economy/central-banking/feds-musalem-says-several-rate-hikes-likely-needed-before-spring-2027-ffb3a9fc?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -44,14 +66,36 @@
     "priority": 3
   },
   {
-    "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-17T22:08:00+00:00",
-    "published_ts": 1794953280.0,
-    "summary": "Don\u2019t rule out a half-point interest-rate hike in December, BofA Global\u2019s rates team said.",
-    "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-18T15:09:45+00:00",
+    "published_ts": 1795014585.0,
+    "summary": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
+    "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
+    "category": "Economy",
+    "priority": 2
+  },
+  {
+    "title": "Indonesia Resumes Rate Hikes to Aid Rupiah",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-18T11:27:00+00:00",
+    "published_ts": 1795001220.0,
+    "summary": "Indonesia\u2019s central bank raised interest rates again as record rupiah depreciation and persistent inflation threats pushed officials to hike for the fourth time this year.",
+    "link": "https://www.wsj.com/economy/central-banking/indonesia-resumes-rate-increases-as-rupiah-hits-record-low-d6ef3d12?mod=rss_socialeconomyfeed",
     "category": "Fed",
+    "priority": 2
+  },
+  {
+    "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-18T07:57:37+00:00",
+    "published_ts": 1794988657.0,
+    "summary": "It put the U.K.'s annual inflation rate at a 1-year high.",
+    "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+    "category": "Economy",
     "priority": 2
   },
   {
@@ -66,17 +110,6 @@
     "priority": 2
   },
   {
-    "title": "Some economic ideas from rising moderate Democrats don\u2019t sound all that moderate. Read more in today\u2019s WSJ Economics newsletter:",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-17T10:50:00+00:00",
-    "published_ts": 1794912600.0,
-    "summary": "Plus, change at the CBO, Russia\u2019s oil resilience and one reason more young people are gambling.",
-    "link": "https://www.wsj.com/politics/policy/just-how-moderate-are-moderate-democrats-9e64ebf9?mod=rss_socialeconomyfeed",
-    "category": "Commodities",
-    "priority": 2
-  },
-  {
     "title": "Home equity is among the biggest pools of consumers\u2019 wealth, and people are increasingly using it to pay down credit cards and buy cars",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -85,39 +118,6 @@
     "summary": "Home equity lines of credit are becoming popular again as people try to avoid giving up their low-rate primary mortgages.",
     "link": "https://www.wsj.com/economy/housing/these-charts-show-how-more-people-are-pulling-cash-out-of-their-homes-66584b69?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-13T14:22:07+00:00",
-    "published_ts": 1794579727.0,
-    "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-    "link": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-12T19:05:25+00:00",
-    "published_ts": 1794510325.0,
-    "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
-    "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
-    "title": "Fed Will Not Hold Policy Vote at October 2027 Meeting",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-12T18:51:05+00:00",
-    "published_ts": 1794509465.0,
-    "summary": "The shift to a strategy meeting next October is just the first step in a broader plan by Kevin M. Warsh, the chairman of the Federal Reserve, to change how the central bank operates.",
-    "link": "https://www.nytimes.com/2026/11/12/business/economy/fed-warsh-october.html",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -139,17 +139,6 @@
     "published_ts": 1794379320.0,
     "summary": "Bank of England policymakers were set to move too slowly, the National Institute of Economic and Social Research said, urging them to raise the key rate to around 5% to tame inflation within three years.",
     "link": "https://www.wsj.com/economy/global/boe-should-raise-key-rate-to-around-5-u-k-economic-think-tank-says-04090d09?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-09T21:03:55+00:00",
-    "published_ts": 1794258235.0,
-    "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
-    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
     "category": "Economy",
     "priority": 2
   },
@@ -176,42 +165,108 @@
     "priority": 2
   },
   {
-    "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+    "title": "Wall Street fluctuates in volatile session amid Nvidia questions, hawkish Fed bets",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-18T02:48:00.022898+00:00",
-    "published_ts": 1794970080.022898,
+    "published": "2026-11-18T19:28:25.413119+00:00",
+    "published_ts": 1795030105.413119,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/nvidia-earnings-spark-afterhours-rally-in-chipmakers-neocloud-stocks-5034434",
-    "category": "Equities",
+    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391",
+    "category": "Fed",
     "priority": 1
   },
   {
-    "title": "Amazon\u2019s Bezos says he helped pick Pattinson as Bond",
+    "title": "Jobless claims and Philadelphia Fed index due Thursday",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-18T02:48:00.022875+00:00",
-    "published_ts": 1794970080.022875,
+    "published": "2026-11-18T19:28:25.413050+00:00",
+    "published_ts": 1795030105.41305,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/amazons-bezos-says-he-helped-pick-pattinson-as-bond-5034420",
-    "category": "Fixed Income",
+    "link": "https://www.investing.com/news/stock-market-news/jobless-claims-and-philadelphia-fed-index-due-thursday-93CH-5036849",
+    "category": "Fed",
     "priority": 1
   },
   {
-    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
+    "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-18T19:00:00+00:00",
+    "published_ts": 1795028400.0,
+    "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "I tried TikTok\u2019s viral \u2018corporate slop lunch hacks\u2019 \u2014 and finally escaped the $20 desk salad",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-17T22:15:00+00:00",
-    "published_ts": 1794953700.0,
+    "published": "2026-11-18T17:16:00+00:00",
+    "published_ts": 1795022160.0,
+    "summary": "I\u2019m not telling you to start buying lunch if you don\u2019t already. I\u2019m showing you how to spend less when you do.",
+    "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks and buy real estate?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-18T17:15:00+00:00",
+    "published_ts": 1795022100.0,
     "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
     "category": "Commodities",
     "priority": 1
   },
   {
+    "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-18T17:14:00+00:00",
+    "published_ts": 1795022040.0,
+    "summary": "More builders are cutting prices in spite of rising construction costs that make it more expensive to build new homes.",
+    "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Walmart\u2019s Winning Combo: Thrifty Shoppers and Wary AI Investors",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-18T11:13:00+00:00",
+    "published_ts": 1795000380.0,
+    "summary": "Plus, Nvidia\u2019s earnings tailwind, and Anthropic\u2019s multibillionaires.",
+    "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Cost Pressures Already in Pipeline to Fuel Higher Inflation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-18T10:43:00+00:00",
+    "published_ts": 1794998580.0,
+    "summary": "Disruptions to supply chains caused by the Middle East conflict seem set to keep inflation high well into next year even if there is a lasting agreement to end the war between the U.S. and Iran.",
+    "link": "https://www.wsj.com/economy/global/cost-pressures-already-in-pipeline-to-fuel-higher-inflation-d2062d65?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors\u2019 Nerves",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-18T09:52:59+00:00",
+    "published_ts": 1794995579.0,
+    "summary": "Record revenue and upgraded forecasts don't restore confidence after Jensen Huang drama",
+    "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
     "title": "What to know about the Nvidia turmoil.",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-17T21:01:05+00:00",
     "published_ts": 1794949265.0,
     "summary": "",
@@ -222,7 +277,7 @@
   {
     "title": "Stocks Down Just Ahead of Nvidia\u2019s Earnings Report",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-17T20:38:02+00:00",
     "published_ts": 1794947882.0,
     "summary": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
@@ -233,7 +288,7 @@
   {
     "title": "Fed Governor Cook Won\u2019t Attend White House Hearing Without Changes",
     "source": "NYT",
-    "feed": "NYT \u2014 Business",
+    "feed": "NYT \u2014 Economy",
     "published": "2026-11-17T20:14:55+00:00",
     "published_ts": 1794946495.0,
     "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
@@ -253,17 +308,6 @@
     "priority": 1
   },
   {
-    "title": "A lawyer for Fed governor Lisa Cook said she won\u2019t participate in a White House hearing on whether to fire her unless the Trump administration removes a senior economic adviser from the panel",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-17T18:34:00+00:00",
-    "published_ts": 1794940440.0,
-    "summary": "In a letter to White House counsel William Scharf, Cook\u2019s attorney said she \u201chas no legal obligation to participate in an unfair hearing.\u201d",
-    "link": "https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
     "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -275,17 +319,6 @@
     "priority": 1
   },
   {
-    "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-17T15:36:43+00:00",
-    "published_ts": 1794929803.0,
-    "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
-    "link": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "Canada Housing Starts Fall 2.2% in October",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -294,28 +327,6 @@
     "summary": "Housing starts across Canada came in at a seasonally adjusted annualized rate in September of 244,558 units, a 2.2% decline from the month before.",
     "link": "https://www.wsj.com/economy/housing/canada-housing-starts-fall-2-2-in-october-df6e084d?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia\u2019s Earnings Call Is a High-Stakes Moment",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-17T13:02:17+00:00",
-    "published_ts": 1794920537.0,
-    "summary": "Wall Street is bracing for the chip maker\u2019s latest earnings call, as analysts seek clues about the artificial intelligence giant\u2019s future.",
-    "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Trump\u2019s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-17T10:08:32+00:00",
-    "published_ts": 1794910112.0,
-    "summary": "Trump\u2019s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang\u2019s relationship with a suspected Chinese spy.",
-    "link": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-    "category": "Fed",
     "priority": 1
   },
   {
@@ -415,17 +426,6 @@
     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-13T00:01:19+00:00",
-    "published_ts": 1794528079.0,
-    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
-    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-    "category": "Commodities",
     "priority": 1
   },
   {
