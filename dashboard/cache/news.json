@@ -44,6 +44,17 @@
     "priority": 3
   },
   {
+    "title": "Want to earn 5% on shorter-term Treasurys again? Watch for this shift.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-17T22:08:00+00:00",
+    "published_ts": 1794953280.0,
+    "summary": "Don\u2019t rule out a half-point interest-rate hike in December, BofA Global\u2019s rates team said.",
+    "link": "https://www.marketwatch.com/story/want-to-earn-5-on-shorter-term-treasurys-again-watch-for-this-shift-d6ff42f2?mod=mw_rss_topstories",
+    "category": "Fed",
+    "priority": 2
+  },
+  {
     "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -165,58 +176,80 @@
     "priority": 2
   },
   {
-    "title": "Why is Kinross Gold stock climbing today?",
+    "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-17T19:57:46.625279+00:00",
-    "published_ts": 1794945466.625279,
+    "published": "2026-11-18T02:48:00.022898+00:00",
+    "published_ts": 1794970080.022898,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/why-is-kinross-gold-stock-climbing-today-93CH-5033849",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Fed Governor Cook Won\u2019t Attend White House Hearing Without Changes",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-17T19:56:30+00:00",
-    "published_ts": 1794945390.0,
-    "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
-    "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-17T19:32:19+00:00",
-    "published_ts": 1794943939.0,
-    "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
-    "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
+    "link": "https://www.investing.com/news/stock-market-news/nvidia-earnings-spark-afterhours-rally-in-chipmakers-neocloud-stocks-5034434",
     "category": "Equities",
     "priority": 1
   },
   {
-    "title": "These charts show investor fears run even deeper than the stock market\u2019s decline suggests",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-17T19:22:00+00:00",
-    "published_ts": 1794943320.0,
-    "summary": "The yen\u2019s recent strengthening, particularly against the Australian dollar, suggests investors are unwinding risky bets.",
-    "link": "https://www.marketwatch.com/story/these-charts-show-investor-fears-run-even-deeper-than-the-stock-markets-decline-suggests-924e2647?mod=mw_rss_topstories",
-    "category": "Equities",
+    "title": "Amazon\u2019s Bezos says he helped pick Pattinson as Bond",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-18T02:48:00.022875+00:00",
+    "published_ts": 1794970080.022875,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/amazons-bezos-says-he-helped-pick-pattinson-as-bond-5034420",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
     "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-17T19:00:00+00:00",
-    "published_ts": 1794942000.0,
+    "published": "2026-11-17T22:15:00+00:00",
+    "published_ts": 1794953700.0,
     "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "What to know about the Nvidia turmoil.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-17T21:01:05+00:00",
+    "published_ts": 1794949265.0,
+    "summary": "",
+    "link": "https://www.nytimes.com/live/2026/11/17/technology/nvidia-earnings-stock-price/what-to-know-about-the-nvidia-turmoil",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Stocks Down Just Ahead of Nvidia\u2019s Earnings Report",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-17T20:38:02+00:00",
+    "published_ts": 1794947882.0,
+    "summary": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
+    "link": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Fed Governor Cook Won\u2019t Attend White House Hearing Without Changes",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-17T20:14:55+00:00",
+    "published_ts": 1794946495.0,
+    "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
+    "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-17T20:00:00+00:00",
+    "published_ts": 1794945600.0,
+    "summary": "The financing round is the fast-growing company\u2019s third fundraise in a year.",
+    "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -231,28 +264,6 @@
     "priority": 1
   },
   {
-    "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-17T18:31:00+00:00",
-    "published_ts": 1794940260.0,
-    "summary": "The financing round is the fast-growing company\u2019s third fundraise in a year.",
-    "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "As stocks struggle, bonds are finally helping investors play defense again. There\u2019s just one problem.",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-17T17:40:00+00:00",
-    "published_ts": 1794937200.0,
-    "summary": "For the first time since March, bonds are actually helping to offset some of the losses investors have been feeling in their stock portfolios lately.",
-    "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
     "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -261,28 +272,6 @@
     "summary": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
     "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Nvidia stock falls ahead of earnings as company reels from Huang resignation",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-17T16:49:12+00:00",
-    "published_ts": 1794934152.0,
-    "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
-    "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-17T16:03:38+00:00",
-    "published_ts": 1794931418.0,
-    "summary": "Cook's attorney sounded more hostile than ever in his first known letter to be sent in the matter since the GOP's drubbing in the Nov. 3 midterm elections.",
-    "link": "https://www.cnbc.com/2026/11/17/lisa-cook-trump-fed-committee-hearing.html",
-    "category": "Fed",
     "priority": 1
   },
   {
@@ -315,17 +304,6 @@
     "published_ts": 1794920537.0,
     "summary": "Wall Street is bracing for the chip maker\u2019s latest earnings call, as analysts seek clues about the artificial intelligence giant\u2019s future.",
     "link": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Stock Market Today: Dow Slides Ahead of Nvidia Earnings",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-17T10:11:07+00:00",
-    "published_ts": 1794910267.0,
-    "summary": "S&amp;P 500, Nasdaq also in the red as fallout from Jensen Huang's exit unfolds",
-    "link": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
     "category": "Equities",
     "priority": 1
   },
@@ -437,6 +415,28 @@
     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-13T00:01:19+00:00",
+    "published_ts": 1794528079.0,
+    "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+    "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-12T17:45:00+00:00",
+    "published_ts": 1794505500.0,
+    "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "category": "Fed",
     "priority": 1
   }
 ]
