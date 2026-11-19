@@ -3,32 +3,10 @@
     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-18T19:26:32+00:00",
-    "published_ts": 1795029992.0,
+    "published": "2026-11-18T19:41:59+00:00",
+    "published_ts": 1795030919.0,
     "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Fed minutes show growing unease about the outlook for inflation",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-18T19:12:00+00:00",
-    "published_ts": 1795029120.0,
-    "summary": "At the October meeting, there was some discussion of an aggressive rate hike at the Federal Reserve\u2019s December meeting.",
-    "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
-    "category": "Fed",
-    "priority": 3
-  },
-  {
-    "title": "Fed Saw Need to Continue Raising Rates Despite October Skip",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-18T19:09:22+00:00",
-    "published_ts": 1795028962.0,
-    "summary": "Minutes from the Federal Reserve\u2019s most recent gathering underscored that taming inflation remained officials\u2019 top priority.",
-    "link": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
     "category": "Fed",
     "priority": 3
   },
@@ -66,24 +44,13 @@
     "priority": 3
   },
   {
-    "title": "Two new housing reports point to bleak winter ahead, with record low sales",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-18T15:09:45+00:00",
-    "published_ts": 1795014585.0,
-    "summary": "Two new reports on the state of the housing market show things are just getting worse, as high mortgage rates and inflation plague builders and buyers.",
-    "link": "https://www.cnbc.com/2026/11/18/two-new-housing-reports-point-to-bleak-winter-ahead.html",
-    "category": "Economy",
-    "priority": 2
-  },
-  {
-    "title": "Indonesia Resumes Rate Hikes to Aid Rupiah",
+    "title": "Tech Stocks Boosted by Cybersecurity Rally",
     "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-18T11:27:00+00:00",
-    "published_ts": 1795001220.0,
-    "summary": "Indonesia\u2019s central bank raised interest rates again as record rupiah depreciation and persistent inflation threats pushed officials to hike for the fourth time this year.",
-    "link": "https://www.wsj.com/economy/central-banking/indonesia-resumes-rate-increases-as-rupiah-hits-record-low-d6ef3d12?mod=rss_socialeconomyfeed",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-18T21:40:00+00:00",
+    "published_ts": 1795038000.0,
+    "summary": "Plus, Nvidia slips after earnings and a Fed governor pushes for an aggressive hike",
+    "link": "https://www.wsj.com/finance/stocks/tech-stocks-boosted-by-cybersecurity-rally-5f9ff803?mod=rss_markets_main",
     "category": "Fed",
     "priority": 2
   },
@@ -165,25 +132,124 @@
     "priority": 2
   },
   {
-    "title": "Wall Street fluctuates in volatile session amid Nvidia questions, hawkish Fed bets",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-18T19:28:25.413119+00:00",
-    "published_ts": 1795030105.413119,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-jump-as-nvidia-earnings-revive-ai-optimism-5034391",
-    "category": "Fed",
+    "title": "Australia\u2019s Jobless Rate Rises to Highest Level Since 2021",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-19T02:03:00+00:00",
+    "published_ts": 1795053780.0,
+    "summary": "Australia\u2019s unemployment rate jumped in October, highlighting fears that the economy is slowing rapidly due to weak confidence and five interest-rate increases since the start of the year.",
+    "link": "https://www.wsj.com/economy/australias-jobless-rate-rises-to-highest-level-since-2021-b8cf74cb?mod=rss_socialeconomyfeed",
+    "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Jobless claims and Philadelphia Fed index due Thursday",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-18T19:28:25.413050+00:00",
-    "published_ts": 1795030105.41305,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/jobless-claims-and-philadelphia-fed-index-due-thursday-93CH-5036849",
-    "category": "Fed",
+    "title": "Palo Alto Networks\u2019 stock gets a fresh AI-fueled boost from earnings",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-19T01:02:00+00:00",
+    "published_ts": 1795050120.0,
+    "summary": "The company boosts its outlook in the face of the \u201ccurrent threat environment and demand we see ahead of us.\u201d",
+    "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Elon Musk Plays Down G.O.P. Support After Midterm Loss",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-19T00:58:47+00:00",
+    "published_ts": 1795049927.0,
+    "summary": "The C.E.O. of SpaceX, who spent millions to back Republican candidates, sought to portray himself as a political moderate.",
+    "link": "https://www.nytimes.com/2026/11/18/business/dealbook/elon-musk-midterms.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Watch: Elon Musk Says He\u2019s a Political Moderate, \u2018Not MAGA\u2019",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-19T00:42:19+00:00",
+    "published_ts": 1795048939.0,
+    "summary": "Despite his heavy support of Republicans, the SpaceX and Tesla C.E.O. said in an interview at the DealBook Summit that \u201cthere are positives and negatives in both parties.\u201d",
+    "link": "https://www.nytimes.com/2026/11/18/business/watch-elon-musk-dealbook-summit-not-maga.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-19T00:30:00+00:00",
+    "published_ts": 1795048200.0,
+    "summary": "Tempted to ditch stocks for property or CDs? Take a deep breath before making any sudden moves.",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-19T00:07:06+00:00",
+    "published_ts": 1795046826.0,
+    "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+    "link": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-19T00:01:23+00:00",
+    "published_ts": 1795046483.0,
+    "summary": "India\u2019s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.",
+    "link": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-18T23:38:55+00:00",
+    "published_ts": 1795045135.0,
+    "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+    "link": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Moody\u2019s Says U.S. Economy Grew More Than Expected",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-18T22:50:00+00:00",
+    "published_ts": 1795042200.0,
+    "summary": "The agency said it expects full-year growth of 2.3% this year, before slowing next year and in 2028 due to higher interest rates, elevated energy prices and normalization of the AI investment cycle.",
+    "link": "https://www.wsj.com/economy/moodys-says-u-s-economy-grew-more-than-expected-416c91a5?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Anthropic Sells More Shares Than Planned at a Higher Price Than Expected",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-18T22:35:00+00:00",
+    "published_ts": 1795041300.0,
+    "summary": "Plus, Pete Hegseth cemented a new military deal with Venezuela, and Nvidia\u2019s blockbuster earnings failed to soothe investors\u2019 nerves.",
+    "link": "https://www.wsj.com/finance/stocks/anthropic-sells-more-shares-than-planned-at-a-higher-price-than-expected-4b511002?mod=rss_markets_main",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Nvidia Says It\u2019s \u2018Business as Usual\u2019 After Huang\u2019s Ouster. Wall Street Doesn\u2019t Buy It.",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-18T22:01:00+00:00",
+    "published_ts": 1795039260.0,
+    "summary": "The AI chip-making giant\u2019s shares fell for a fifth-straight session after its much-awaited earnings call fell flat.",
+    "link": "https://www.wsj.com/finance/stocks/nvidia-says-its-business-as-usual-after-huangs-ouster-wall-street-doesnt-buy-it-954290c4?mod=rss_markets_main",
+    "category": "Equities",
     "priority": 1
   },
   {
@@ -198,50 +264,6 @@
     "priority": 1
   },
   {
-    "title": "I tried TikTok\u2019s viral \u2018corporate slop lunch hacks\u2019 \u2014 and finally escaped the $20 desk salad",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-18T17:16:00+00:00",
-    "published_ts": 1795022160.0,
-    "summary": "I\u2019m not telling you to start buying lunch if you don\u2019t already. I\u2019m showing you how to spend less when you do.",
-    "link": "https://www.marketwatch.com/story/i-tried-tiktoks-viral-corporate-slop-lunch-hacks-and-finally-escaped-the-20-desk-salad-60daf133?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Has the time come to sell my stocks and buy real estate?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-18T17:15:00+00:00",
-    "published_ts": 1795022100.0,
-    "summary": "\u201cReal estate here in Florida seems to be presenting some interesting opportunities.\u201d",
-    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Nearly half of home builders are cutting prices and offering lower mortgage rates as they struggle to find buyers",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-18T17:14:00+00:00",
-    "published_ts": 1795022040.0,
-    "summary": "More builders are cutting prices in spite of rising construction costs that make it more expensive to build new homes.",
-    "link": "https://www.marketwatch.com/story/nearly-half-of-home-builders-are-cutting-prices-and-offering-lower-mortgage-rates-as-they-struggle-to-find-buyers-033351e1?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Walmart\u2019s Winning Combo: Thrifty Shoppers and Wary AI Investors",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-18T11:13:00+00:00",
-    "published_ts": 1795000380.0,
-    "summary": "Plus, Nvidia\u2019s earnings tailwind, and Anthropic\u2019s multibillionaires.",
-    "link": "https://www.wsj.com/finance/stocks/walmarts-winning-combo-thrifty-shoppers-and-wary-ai-investors-183184e3?mod=rss_markets_main",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
     "title": "Cost Pressures Already in Pipeline to Fuel Higher Inflation",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -253,12 +275,12 @@
     "priority": 1
   },
   {
-    "title": "Stock Market Today: Nvidia Earnings Fail to Soothe Investors\u2019 Nerves",
+    "title": "Stock Market News, November 18, 2026: Nvidia Earnings Fail to Soothe Investors\u2019 Nerves",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
     "published": "2026-11-18T09:52:59+00:00",
     "published_ts": 1794995579.0,
-    "summary": "Record revenue and upgraded forecasts don't restore confidence after Jensen Huang drama",
+    "summary": "Chip giant's stock slips 2.9% as worries about the AI trade continue to haunt the market.",
     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-18-2026?mod=rss_markets_main",
     "category": "Equities",
     "priority": 1
@@ -294,17 +316,6 @@
     "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
     "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Corporate-Card Startup Ramp Raising Funds at $70 Billion Valuation",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-17T20:00:00+00:00",
-    "published_ts": 1794945600.0,
-    "summary": "The financing round is the fast-growing company\u2019s third fundraise in a year.",
-    "link": "https://www.wsj.com/finance/corporate-card-startup-ramp-raising-funds-at-70-billion-valuation-631b071a?mod=rss_markets_main",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -426,17 +437,6 @@
     "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-12T17:45:00+00:00",
-    "published_ts": 1794505500.0,
-    "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-    "category": "Fed",
     "priority": 1
   }
 ]
