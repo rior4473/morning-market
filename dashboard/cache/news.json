@@ -1,5 +1,27 @@
 [
   {
+    "title": "Fed governor Lisa Cook said the central bank\u2019s decision to skip raising interest rates in October threatened to put the Fed behind the curve in its struggle to tame inflation",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-20T18:23:00+00:00",
+    "published_ts": 1795198980.0,
+    "summary": "The comments come as Cook is battling President Trump\u2019s attempts to fire her.",
+    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-comments-inflation-44eb3f41?mod=rss_socialeconomyfeed",
+    "category": "Fed",
+    "priority": 3
+  },
+  {
+    "title": "Savings Bonds Offer Enticing Rates. You Need to Prove Your Identity First.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-20T14:00:05+00:00",
+    "published_ts": 1795183205.0,
+    "summary": "The Treasury Department is working with a private service, ID.me, to grant access to the TreasuryDirect website. Some users reported trouble getting in.",
+    "link": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
+    "category": "Fixed Income",
+    "priority": 3
+  },
+  {
     "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "source": "CNBC",
     "feed": "CNBC \u2014 Economy",
@@ -44,47 +66,36 @@
     "priority": 3
   },
   {
-    "title": "Japan Consumer Inflation Accelerates Amid Rate-Hike Views",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-19T23:52:00+00:00",
-    "published_ts": 1795132320.0,
-    "summary": "Consumer prices excluding fresh food climbed 2.2% from a year earlier, following September\u2019s 2.1% gain, reinforcing expectations for another interest-rate increase by the central bank.",
-    "link": "https://www.wsj.com/economy/japan-consumer-inflation-accelerates-amid-rate-hike-views-15cf7577?mod=rss_socialeconomyfeed",
-    "category": "Economy",
+    "title": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-20T18:55:39+00:00",
+    "published_ts": 1795200939.0,
+    "summary": "Unhappy workers are staying put at their jobs as anxiety around the job market looms. If conditions improve, these workers could be the first to quit, according to experts.",
+    "link": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+    "category": "Commodities",
     "priority": 2
   },
   {
-    "title": "Treasury Yields Fall as Anthropic Fails to Sustain Risk Appetite",
+    "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-19T21:00:00+00:00",
-    "published_ts": 1795122000.0,
-    "summary": "U.S. Treasury yields ended lower following the Anthropic IPO, which wasn\u2019t enough to revive risk appetite across financial markets.",
-    "link": "https://www.wsj.com/economy/central-banking/treasury-eurozone-bond-yields-edge-higher-47e08817?mod=rss_socialeconomyfeed",
+    "published": "2026-11-20T15:14:00+00:00",
+    "published_ts": 1795187640.0,
+    "summary": "November\u2019s flash purchasing managers\u2019 surveys for the U.S., eurozone and U.K. could signal whether there is scope for the central banks to raise interest rates further.",
+    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-flash-pmi-data-to-provide-gauge-on-economic-growth-86c1a572?mod=rss_socialeconomyfeed",
     "category": "Fixed Income",
     "priority": 2
   },
   {
-    "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-19T19:43:08+00:00",
-    "published_ts": 1795117388.0,
-    "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-    "link": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    "category": "Equities",
-    "priority": 2
-  },
-  {
-    "title": "South African Reserve Bank Maintains Main Repo Rate at 7.25%",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-19T13:57:00+00:00",
-    "published_ts": 1795096620.0,
-    "summary": "SARB Governor Lesetja Kganyago said South Africa\u2019s inflation has been much higher than expected and fixed investment is too low.",
-    "link": "https://www.wsj.com/economy/central-banking/south-african-reserve-bank-maintains-main-repo-rate-at-7-25-5c31ca05?mod=rss_socialeconomyfeed",
-    "category": "Economy",
+    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-20T15:00:00+00:00",
+    "published_ts": 1795186800.0,
+    "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+    "category": "Fed",
     "priority": 2
   },
   {
@@ -165,91 +176,113 @@
     "priority": 2
   },
   {
-    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "title": "Hewlett Packard Enterprise, Agilent, Zoom and more set to report earnings Friday",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-20T19:11:30.914294+00:00",
+    "published_ts": 1795201890.914294,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/hewlett-packard-enterprise-agilent-zoom-and-more-set-to-report-earnings-friday-93CH-5042430",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-20T17:49:00+00:00",
+    "published_ts": 1795196940.0,
+    "summary": "Portfolio rebalancing involves many implicit bets that investors may not even be aware of",
+    "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-20T17:20:29+00:00",
+    "published_ts": 1795195229.0,
+    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+    "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Under President Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that, writes @greg_ip",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-20T17:08:00+00:00",
+    "published_ts": 1795194480.0,
+    "summary": "Under Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that.",
+    "link": "https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "\u2018Buyers are out for blood\u2019: With home sales at a record low, buyers are calling the shots",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-20T16:37:00+00:00",
+    "published_ts": 1795192620.0,
+    "summary": "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+    "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    "category": "Wealth Mgmt",
+    "priority": 1
+  },
+  {
+    "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-20T15:28:00+00:00",
+    "published_ts": 1795188480.0,
+    "summary": "Negotiated wage growth accelerated to 2.57% in the third quarter from 2.45% in the previous quarter, according to the ECB.",
+    "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-20T15:20:54+00:00",
+    "published_ts": 1795188054.0,
+    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Grabbing Inflation Protection Now Is a No-Brainer",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-20T11:16:00+00:00",
+    "published_ts": 1795173360.0,
+    "summary": "Plus, the AI trade keeps deflating despite Anthropic\u2019s strong debut.",
+    "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "The Seven Charts That Explain the New Normal for Oil Prices",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-20T10:56:00+00:00",
+    "published_ts": 1795172160.0,
+    "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
+    "link": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-11-20T01:49:03+00:00",
     "published_ts": 1795139343.0,
     "summary": "The core inflation figure \u2014 which strips out prices of food \u2014 was lower than the 2.3% expected by Reuters-polled economists.",
     "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "The Federal Reserve is limiting pay raises at its 12 regional banks to 1% next year as it seeks to rein in costs and streamline operations",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-20T00:26:00+00:00",
-    "published_ts": 1795134360.0,
-    "summary": "Employees at the 12 regional banks were told to expect 1% annual raises, down from 3% this year.",
-    "link": "https://www.wsj.com/economy/central-banking/fed-cuts-pay-raises-for-regional-bank-staff-e3184f2d?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Anthropic\u2019s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-20T00:25:47+00:00",
-    "published_ts": 1795134347.0,
-    "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-    "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "With GTA 6 Release, DoorDash and Other Food Delivery Apps Are Making a Killing",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-19T23:19:31+00:00",
-    "published_ts": 1795130371.0,
-    "summary": "The gamers staying home in droves have to be fed, and the meal business is more than ready to feed them.",
-    "link": "https://www.nytimes.com/2026/11/19/dining/grand-theft-auto-food-delivery.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-19T22:41:00+00:00",
-    "published_ts": 1795128060.0,
-    "summary": "While executives typically buy shares to signal confidence, CoreWeave co-founder Brian Venturo is turning to the bond market to calm AI jitters.",
-    "link": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-    "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Anthropic\u2019s stock surges in its debut \u2014 and the rest of the market dives anyway",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-19T22:12:00+00:00",
-    "published_ts": 1795126320.0,
-    "summary": "All four major U.S. stock indexes are now on pace for their worst week since President Trump\u2019s \u201cliberation day\u201d tariffs of April 2025",
-    "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Markets are sending troubling signals about the state of the economy",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-19T21:57:00+00:00",
-    "published_ts": 1795125420.0,
-    "summary": "A number of recession trades have started to emerge, even as economic data has largely held up.",
-    "link": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-19T21:00:57+00:00",
-    "published_ts": 1795122057.0,
-    "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
-    "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-    "category": "Equities",
     "priority": 1
   },
   {
@@ -341,17 +374,6 @@
     "priority": 1
   },
   {
-    "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-16T22:19:02+00:00",
-    "published_ts": 1794867542.0,
-    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
     "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
     "source": "NYT",
     "feed": "NYT \u2014 Economy",
@@ -360,28 +382,6 @@
     "summary": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
     "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-16T18:46:07+00:00",
-    "published_ts": 1794854767.0,
-    "summary": "",
-    "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-16T12:13:23+00:00",
-    "published_ts": 1794831203.0,
-    "summary": "ETF experts say Nvidia\u2019s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
-    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-    "category": "Commodities",
     "priority": 1
   },
   {
