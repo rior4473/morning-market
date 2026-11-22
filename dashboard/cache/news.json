@@ -55,6 +55,17 @@
     "priority": 3
   },
   {
+    "title": "Corporate America hunts for \u2018generational\u2019 growth in AI, trading cards and the L.A. airport",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-22T15:01:00+00:00",
+    "published_ts": 1795359660.0,
+    "summary": "There\u2019s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+    "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 2
+  },
+  {
     "title": "Nasdaq Turns Red For The Year",
     "source": "WSJ",
     "feed": "WSJ \u2014 Markets",
@@ -62,17 +73,6 @@
     "published_ts": 1795211400.0,
     "summary": "Plus, Anthropic falls back and Treasury yields plunge",
     "link": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Week Ahead for FX, Bonds: Flash PMI Data to Provide Gauge on Economic Growth",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-20T15:14:00+00:00",
-    "published_ts": 1795187640.0,
-    "summary": "November\u2019s flash purchasing managers\u2019 surveys for the U.S., eurozone and U.K. could signal whether there is scope for the central banks to raise interest rates further.",
-    "link": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-flash-pmi-data-to-provide-gauge-on-economic-growth-86c1a572?mod=rss_socialeconomyfeed",
     "category": "Fixed Income",
     "priority": 2
   },
@@ -165,47 +165,69 @@
     "priority": 2
   },
   {
-    "title": "UBS flags resilient commodity investment case despite easing oil supply premium",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-21T18:07:38.085845+00:00",
-    "published_ts": 1795284458.085845,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/ubs-flags-resilient-commodity-investment-case-despite-easing-oil-supply-premium-5043001",
+    "title": "These little-known investments could be among the best bargains in a crash",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-22T18:23:00+00:00",
+    "published_ts": 1795371780.0,
+    "summary": "If this stock market turmoil turns into a full-blown crash, look for low-risk investment bargains among closed-end funds.",
+    "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
     "category": "Commodities",
     "priority": 1
   },
   {
-    "title": "Analysis-Wall Street banks set for banner year as Anthropic, SpaceX IPOs generate $1 billion in fees",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-21T18:07:38.085785+00:00",
-    "published_ts": 1795284458.085785,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/analysiswall-street-banks-set-for-banner-year-as-anthropic-spacex-ipos-generate-1-billion-in-fees-5042444",
-    "category": "Equities",
+    "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-22T17:55:31+00:00",
+    "published_ts": 1795370131.0,
+    "summary": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company\u2019s chief executive.",
+    "link": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+    "category": "Fixed Income",
     "priority": 1
   },
   {
-    "title": "How are AI chip flows reshaping dollar dominance? Deutsche Bank explains",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-21T18:07:38.085734+00:00",
-    "published_ts": 1795284458.085734,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/how-are-ai-chip-flows-reshaping-dollar-dominance-deutsche-bank-explains-5043246",
-    "category": "Economy",
+    "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-22T17:14:03+00:00",
+    "published_ts": 1795367643.0,
+    "summary": "Clayton\u2019s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+    "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
-    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks?",
+    "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Is it time to sell my stocks and buy real estate?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-21T15:15:00+00:00",
-    "published_ts": 1795274100.0,
+    "published": "2026-11-22T17:00:00+00:00",
+    "published_ts": 1795366800.0,
     "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
     "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "James Bond\u2019s Bare Wrist Sets Off Watch Industry War",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-22T10:30:00+00:00",
+    "published_ts": 1795343400.0,
+    "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+    "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-22T10:02:21+00:00",
+    "published_ts": 1795341741.0,
+    "summary": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+    "link": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -282,17 +304,6 @@
     "published_ts": 1795188480.0,
     "summary": "Negotiated wage growth accelerated to 2.57% in the third quarter from 2.45% in the previous quarter, according to the ECB.",
     "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Grabbing Inflation Protection Now Is a No-Brainer",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-20T11:16:00+00:00",
-    "published_ts": 1795173360.0,
-    "summary": "Plus, the AI trade keeps deflating despite Anthropic\u2019s strong debut.",
-    "link": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
     "category": "Economy",
     "priority": 1
   },
@@ -426,17 +437,6 @@
     "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
     "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
     "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-13T15:44:16+00:00",
-    "published_ts": 1794584656.0,
-    "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-    "category": "Equities",
     "priority": 1
   }
 ]
