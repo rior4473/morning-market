@@ -2,7 +2,7 @@
   {
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-23T21:02:17+00:00",
     "published_ts": 1795467737.0,
     "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
@@ -53,6 +53,17 @@
     "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
     "category": "Fed",
     "priority": 3
+  },
+  {
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T05:05:08+00:00",
+    "published_ts": 1795496708.0,
+    "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "category": "Fixed Income",
+    "priority": 2
   },
   {
     "title": "Nvidia Chief\u2019s Return Lifts Many Boats",
@@ -165,6 +176,28 @@
     "priority": 2
   },
   {
+    "title": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-24T05:11:08.739737+00:00",
+    "published_ts": 1795497068.739737,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/australia-to-fine-tech-firms-up-to-5-of-global-revenue-under-internet-safety-bill-5046886",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-24T01:01:00+00:00",
+    "published_ts": 1795482060.0,
+    "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
+    "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
     "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
@@ -176,31 +209,9 @@
     "priority": 1
   },
   {
-    "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-23T21:00:00+00:00",
-    "published_ts": 1795467600.0,
-    "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-    "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "An options strategy for making even more of your money back in Nvidia",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-23T18:52:46+00:00",
-    "published_ts": 1795459966.0,
-    "summary": "Nvidia shareholders can look to the options market to recoup lost money",
-    "link": "https://www.cnbc.com/2026/11/23/an-options-strategy-for-making-even-more-of-your-money-back-in-nvidia-.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
     "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-23T18:00:47+00:00",
     "published_ts": 1795456847.0,
     "summary": "Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
@@ -228,17 +239,6 @@
     "summary": "An oil shock is speeding a transformation of Vietnam\u2019s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
     "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "More Americans pay this Obama-era investment tax every year \u2014 how to avoid it",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-23T13:15:01+00:00",
-    "published_ts": 1795439701.0,
-    "summary": "As more Americans pay net investment income tax, there are strategies to avoid it, experts say.",
-    "link": "https://www.cnbc.com/2026/11/23/net-investment-income-tax-niit.html",
-    "category": "Markets",
     "priority": 1
   },
   {
