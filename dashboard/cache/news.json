@@ -3,8 +3,8 @@
     "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-23T21:02:17+00:00",
-    "published_ts": 1795467737.0,
+    "published": "2026-11-24T13:33:26+00:00",
+    "published_ts": 1795527206.0,
     "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
     "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
     "category": "Economy",
@@ -19,17 +19,6 @@
     "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
     "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
     "category": "Geopolitics",
-    "priority": 3
-  },
-  {
-    "title": "Fed governor Lisa Cook said the central bank\u2019s decision to skip raising interest rates in October threatened to put the Fed behind the curve in its struggle to tame inflation",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-20T18:23:00+00:00",
-    "published_ts": 1795198980.0,
-    "summary": "The comments come as Cook is battling President Trump\u2019s attempts to fire her.",
-    "link": "https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-comments-inflation-44eb3f41?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 3
   },
   {
@@ -55,25 +44,14 @@
     "priority": 3
   },
   {
-    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-24T05:05:08+00:00",
-    "published_ts": 1795496708.0,
-    "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
-    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-    "category": "Fixed Income",
-    "priority": 2
-  },
-  {
-    "title": "Nvidia Chief\u2019s Return Lifts Many Boats",
+    "title": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
     "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-23T21:12:00+00:00",
-    "published_ts": 1795468320.0,
-    "summary": "Plus, credit markets aren\u2019t so bullish about Jensen Huang\u2019s reinstatement, and Anthropic\u2019s impending bond-market challenge.",
-    "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
-    "category": "Fixed Income",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-24T18:41:00+00:00",
+    "published_ts": 1795545660.0,
+    "summary": "Though Canada\u2019s inflation might not accelerate as much as anticipated, survey responses and historical evidence point to more price increases stemming from the Middle East conflict, Macklem said.",
+    "link": "https://www.wsj.com/economy/central-banking/bank-of-canada-gov-macklem-expects-inflation-to-remain-persistent-1fbb15f1?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
     "priority": 2
   },
   {
@@ -176,25 +154,157 @@
     "priority": 2
   },
   {
-    "title": "Big Tech could face billions of dollars in fines under Australian internet safety bill",
+    "title": "Dell, HP, Autodesk and Workday earnings: what to watch today",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-24T05:11:08.739737+00:00",
-    "published_ts": 1795497068.739737,
+    "published": "2026-11-24T21:24:48.551180+00:00",
+    "published_ts": 1795555488.55118,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/australia-to-fine-tech-firms-up-to-5-of-global-revenue-under-internet-safety-bill-5046886",
-    "category": "Economy",
+    "link": "https://www.investing.com/news/stock-market-news/dell-hp-autodesk-and-workday-earnings-what-to-watch-today-93CH-5048981",
+    "category": "Equities",
     "priority": 1
   },
   {
     "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-24T01:01:00+00:00",
-    "published_ts": 1795482060.0,
+    "published": "2026-11-24T21:15:00+00:00",
+    "published_ts": 1795554900.0,
     "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Dell\u2019s stock rises as the AI boom helps sales more than double",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-24T21:14:00+00:00",
+    "published_ts": 1795554840.0,
+    "summary": "Earnings forecast also impresses.",
+    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "How Huang\u2019s Return Rewrote Corporate America\u2019s Rules",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-24T19:36:06+00:00",
+    "published_ts": 1795548966.0,
+    "summary": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+    "link": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Retail turnarounds are taking hold just in time for the holiday season",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T19:26:39+00:00",
+    "published_ts": 1795548399.0,
+    "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
+    "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Gold is doing something strange. Here's one way to play it",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T19:25:13+00:00",
+    "published_ts": 1795548313.0,
+    "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
+    "link": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+    "category": "Commodities",
+    "priority": 1
+  },
+  {
+    "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-24T19:00:00+00:00",
+    "published_ts": 1795546800.0,
+    "summary": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T18:34:43+00:00",
+    "published_ts": 1795545283.0,
+    "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T17:59:12+00:00",
+    "published_ts": 1795543152.0,
+    "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+    "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "U.S. prepares to raise tariffs on China and other countries",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-24T13:08:00+00:00",
+    "published_ts": 1795525680.0,
+    "summary": "Higher levies to target excess industrial capacity overseas are expected this week.",
+    "link": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740?mod=rss_socialeconomyfeed",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Why France is at risk of recession \u2014 and what could keep it out of one",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-24T11:15:30+00:00",
+    "published_ts": 1795518930.0,
+    "summary": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "These Technical Measures Warned of Stock Market Whiplash",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-24T11:10:00+00:00",
+    "published_ts": 1795518600.0,
+    "summary": "Plus, the Trillion Dollar Man",
+    "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-24T10:04:07+00:00",
+    "published_ts": 1795514647.0,
+    "summary": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
+    "link": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-24T10:03:27+00:00",
+    "published_ts": 1795514607.0,
+    "summary": "Against all odds, restaurants still get phone calls. A number of new services \u2014 some running on A.I. and some staffed by people \u2014 are vying for the chance to answer.",
+    "link": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+    "category": "Fed",
     "priority": 1
   },
   {
@@ -217,50 +327,6 @@
     "summary": "Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
     "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-23T14:20:00+00:00",
-    "published_ts": 1795443600.0,
-    "summary": "After a turbulent IPO, the startup\u2019s credit rating will affect its capital plans and the future of the AI industry.",
-    "link": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d?mod=rss_markets_main",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-23T13:18:42+00:00",
-    "published_ts": 1795439922.0,
-    "summary": "An oil shock is speeding a transformation of Vietnam\u2019s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-    "link": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-    "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "CVS Health\u2019s Planned Breakup Hasn\u2019t Quieted Antitrust Critics",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-23T10:03:26+00:00",
-    "published_ts": 1795428206.0,
-    "summary": "Lawmakers are warning that spinning off the health care conglomerate\u2019s drugstores will not end scrutiny over its power.",
-    "link": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "EU Inks Trade Deal With Indonesia to Cut Tariffs, Catalyze Investment",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-23T03:44:00+00:00",
-    "published_ts": 1795405440.0,
-    "summary": "The European Union signed ambitious agreements with Indonesia that eliminate most tariffs on goods between the two sides, aiming to deliver billions in economic benefits.",
-    "link": "https://www.wsj.com/economy/trade/eu-inks-trade-deal-with-indonesia-to-cut-tariffs-catalyze-investment-9810d41f?mod=rss_socialeconomyfeed",
-    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -371,72 +437,6 @@
     "summary": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
     "link": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
     "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Fed Governor Cook Won\u2019t Attend White House Hearing Without Changes",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-17T20:14:55+00:00",
-    "published_ts": 1794946495.0,
-    "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
-    "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Debt Problems of the Richest Countries Are Trickling Down to the Poorest",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-17T17:28:57+00:00",
-    "published_ts": 1794936537.0,
-    "summary": "The debt load of developing countries jumped to $9.4 trillion as high interest rates and other global shocks batter their economies.",
-    "link": "https://www.nytimes.com/2026/11/17/business/economy/global-debt-economy-world-bank.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Canada Housing Starts Fall 2.2% in October",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-17T14:45:00+00:00",
-    "published_ts": 1794926700.0,
-    "summary": "Housing starts across Canada came in at a seasonally adjusted annualized rate in September of 244,558 units, a 2.2% decline from the month before.",
-    "link": "https://www.wsj.com/economy/housing/canada-housing-starts-fall-2-2-in-october-df6e084d?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
-    "source": "NYT",
-    "feed": "NYT \u2014 Economy",
-    "published": "2026-11-16T21:08:30+00:00",
-    "published_ts": 1794863310.0,
-    "summary": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
-    "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "High mortgage rates have crushed homeowners\u2019 budgets. Some lucky Americans haven\u2019t felt any of it. Meet the one in five mortgage holders who are America\u2019s three percenters.",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-15T10:30:00+00:00",
-    "published_ts": 1794738600.0,
-    "summary": "Meet the one in five mortgage holders who are America\u2019s three percenters.",
-    "link": "https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-13T21:18:30+00:00",
-    "published_ts": 1794604710.0,
-    "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-    "category": "Fed",
     "priority": 1
   }
 ]
