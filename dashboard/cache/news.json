@@ -33,15 +33,15 @@
     "priority": 3
   },
   {
-    "title": "Fed\u2019s Waller says central bank may need to \u2018shock people\u2019 with half-point rate hike",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-18T15:13:39+00:00",
-    "published_ts": 1795014819.0,
-    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
-    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "title": "Australia\u2019s October Inflation Surges, Keeping RBA on Alert for Further Rate Hikes",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-25T01:16:00+00:00",
+    "published_ts": 1795569360.0,
+    "summary": "The consumer-price index rose 4.9% on year in October, keeping the Reserve Bank of Australia on alert to raise interest rates further even as evidence mounts that the economy is slowing.",
+    "link": "https://www.wsj.com/economy/australias-october-inflation-surges-keeping-rba-on-alert-for-further-rate-hikes-7cc40074?mod=rss_socialeconomyfeed",
     "category": "Fed",
-    "priority": 3
+    "priority": 2
   },
   {
     "title": "Bank of Canada Gov. Macklem Expects Inflation to Remain Persistent",
@@ -154,69 +154,91 @@
     "priority": 2
   },
   {
-    "title": "Dell, HP, Autodesk and Workday earnings: what to watch today",
+    "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-24T21:24:48.551180+00:00",
-    "published_ts": 1795555488.55118,
+    "published": "2026-11-25T04:00:28.491398+00:00",
+    "published_ts": 1795579228.491398,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/dell-hp-autodesk-and-workday-earnings-what-to-watch-today-93CH-5048981",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-24T21:15:00+00:00",
-    "published_ts": 1795554900.0,
-    "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
-    "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Dell\u2019s stock rises as the AI boom helps sales more than double",
-    "source": "MarketWatch",
-    "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-24T21:14:00+00:00",
-    "published_ts": 1795554840.0,
-    "summary": "Earnings forecast also impresses.",
-    "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "How Huang\u2019s Return Rewrote Corporate America\u2019s Rules",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-24T19:36:06+00:00",
-    "published_ts": 1795548966.0,
-    "summary": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
-    "link": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Retail turnarounds are taking hold just in time for the holiday season",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-24T19:26:39+00:00",
-    "published_ts": 1795548399.0,
-    "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-    "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+    "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-after-sp-500-nasdaq-end-lower-inflation-data-eyed-5049469",
     "category": "Economy",
     "priority": 1
   },
   {
-    "title": "Gold is doing something strange. Here's one way to play it",
+    "title": "Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-25T04:00:28.491153+00:00",
+    "published_ts": 1795579228.491153,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/asian-stocks-slide-as-ai-selloff-deepens-us-tariff-threats-weigh-on-sentiment-5049630",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
+    "source": "Investing.com",
+    "feed": "Investing.com \u2014 Economy",
+    "published": "2026-11-25T04:00:28.491077+00:00",
+    "published_ts": 1795579228.491077,
+    "summary": "",
+    "link": "https://www.investing.com/news/stock-market-news/starbucks-weighs-sale-of-japan-business-worth-several-billion-dollars--bloomberg-5049634",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-24T19:25:13+00:00",
-    "published_ts": 1795548313.0,
-    "summary": "Gold is not acting like the traditional safe haven. How one trader is playing the move.",
-    "link": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
-    "category": "Commodities",
+    "published": "2026-11-25T01:13:56+00:00",
+    "published_ts": 1795569236.0,
+    "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+    "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T22:18:47+00:00",
+    "published_ts": 1795558727.0,
+    "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
+    "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T22:07:45+00:00",
+    "published_ts": 1795558065.0,
+    "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
+    "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-24T22:03:01+00:00",
+    "published_ts": 1795557781.0,
+    "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters.",
+    "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-24T21:53:00+00:00",
+    "published_ts": 1795557180.0,
+    "summary": "Luxury Advent calendars in particular \u2014 which can run hundreds of dollars \u2014 have seen a spike in sales. Here\u2019s why.",
+    "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "category": "Markets",
     "priority": 1
   },
   {
@@ -233,23 +255,12 @@
   {
     "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-11-24T18:34:43+00:00",
     "published_ts": 1795545283.0,
     "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-24T17:59:12+00:00",
-    "published_ts": 1795543152.0,
-    "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Here's what families need to know.",
-    "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
-    "category": "Fixed Income",
     "priority": 1
   },
   {
@@ -286,31 +297,9 @@
     "priority": 1
   },
   {
-    "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-24T10:04:07+00:00",
-    "published_ts": 1795514647.0,
-    "summary": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
-    "link": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-    "category": "Markets",
-    "priority": 1
-  },
-  {
-    "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-24T10:03:27+00:00",
-    "published_ts": 1795514607.0,
-    "summary": "Against all odds, restaurants still get phone calls. A number of new services \u2014 some running on A.I. and some staffed by people \u2014 are vying for the chance to answer.",
-    "link": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
     "title": "Peterson: Here\u2019s what Bessent\u2019s about-face on Jensen Huang reveals about Trump and China",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-11-23T21:00:59+00:00",
     "published_ts": 1795467659.0,
     "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia\u2014 until he reversed course",
@@ -437,6 +426,17 @@
     "summary": "The chip maker is scheduled to release its quarterly results amid broader jitters about the A.I. trade.",
     "link": "https://www.nytimes.com/2026/11/17/business/economy/stock-market-nvidia-earnings.html",
     "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "Fed Governor Cook Won\u2019t Attend White House Hearing Without Changes",
+    "source": "NYT",
+    "feed": "NYT \u2014 Economy",
+    "published": "2026-11-17T20:14:55+00:00",
+    "published_ts": 1794946495.0,
+    "summary": "Lawyers for Lisa Cook, the Federal Reserve governor President Trump is trying to fire, called the hearing process a \u201cfacade.\u201d",
+    "link": "https://www.nytimes.com/2026/11/17/business/economy/fed-governor-lisa-cook-trump-white-house-hearing.html",
+    "category": "Fed",
     "priority": 1
   }
 ]
