@@ -1,5 +1,16 @@
 [
   {
+    "title": "Week Ahead for FX, Bonds: Key Labor Data in Focus Ahead of Fed\u2019s December Rate Decision",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-27T12:51:00+00:00",
+    "published_ts": 1795783860.0,
+    "summary": "U.S. labor market data, including the key nonfarm payrolls report, will be in focus in the week starting Nov. 30.",
+    "link": "https://www.wsj.com/finance/investing/week-ahead-for-fx-bonds-key-labor-data-in-focus-ahead-of-feds-december-rate-decision-52cad754?mod=rss_socialeconomyfeed",
+    "category": "Fixed Income",
+    "priority": 4
+  },
+  {
     "title": "Beware higher correlation but nab high U.S. credit yields, fund managers say",
     "source": "CNBC",
     "feed": "CNBC \u2014 Finance",
@@ -44,6 +55,17 @@
     "priority": 3
   },
   {
+    "title": "Black Friday Deals and Holiday Sales Are Big Money for Influencers",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-27T15:29:05+00:00",
+    "published_ts": 1795793345.0,
+    "summary": "A growing part of a brand\u2019s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos.",
+    "link": "https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html",
+    "category": "Markets",
+    "priority": 2
+  },
+  {
     "title": "Canada Nonfarm Payrolls Climb in September After Two Months of Declines",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -68,23 +90,12 @@
   {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Economy",
     "published": "2026-11-26T12:46:55+00:00",
     "published_ts": 1795697215.0,
     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
     "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
     "category": "Geopolitics",
-    "priority": 2
-  },
-  {
-    "title": "Bank of Korea Resumes Rate Hikes as AI Boom Fuels Growth",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-26T05:38:00+00:00",
-    "published_ts": 1795671480.0,
-    "summary": "South Korea\u2019s central bank signaled further tightening as inflation remained well above target.",
-    "link": "https://www.wsj.com/economy/central-banking/bank-of-korea-resumes-rate-hikes-as-ai-boom-fuels-growth-f28c5cdb?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 2
   },
   {
@@ -176,13 +187,35 @@
     "priority": 2
   },
   {
-    "title": "+54%, +41%, +41%: Asia\u2019s AI-picked strategies leading their markets in 2026",
+    "title": "Rubrik, Nano Nuclear Energy, and more set to report earnings Friday",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-27T03:32:55.848688+00:00",
-    "published_ts": 1795750375.848688,
+    "published": "2026-11-27T20:06:09.102300+00:00",
+    "published_ts": 1795809969.1023,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5052809",
+    "link": "https://www.investing.com/news/stock-market-news/rubrik-nano-nuclear-energy-and-more-set-to-report-earnings-friday-93CH-5053802",
+    "category": "Equities",
+    "priority": 1
+  },
+  {
+    "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-27T17:04:00+00:00",
+    "published_ts": 1795799040.0,
+    "summary": "Luxury Advent calendars in particular \u2014 which can run hundreds of dollars \u2014 have seen a spike in sales. Here\u2019s why.",
+    "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-27T15:52:00+00:00",
+    "published_ts": 1795794720.0,
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
     "category": "Economy",
     "priority": 1
   },
@@ -190,55 +223,99 @@
     "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-27T01:00:00+00:00",
-    "published_ts": 1795741200.0,
+    "published": "2026-11-27T15:45:00+00:00",
+    "published_ts": 1795794300.0,
     "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
     "category": "Markets",
     "priority": 1
   },
   {
-    "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+    "title": "Private-Equity Firms Have a Surprising New Source for Debt: the Nordic Bond Market",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-27T15:30:00+00:00",
+    "published_ts": 1795793400.0,
+    "summary": "Fast closings and minimal paperwork make Scandinavian financing an unexpectedly attractive alternative to the U.S.",
+    "link": "https://www.wsj.com/finance/investing/private-equity-firms-have-a-surprising-new-source-for-debt-the-nordic-bond-market-24163a71?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "My friends play \u2018credit-card roulette\u2019 to see who pays for dinner \u2014 but one \u2018winner\u2019 still Venmoed me afterward. Should I say something?",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-27T15:04:00+00:00",
+    "published_ts": 1795791840.0,
+    "summary": "\u2018I was stunned! I\u2019ve lost my fair share, and won my fair share, and truly believe it all evens out over time.\u2019",
+    "link": "https://www.marketwatch.com/story/my-friends-play-credit-card-roulette-to-see-who-pays-for-dinner-but-one-winner-still-venmoed-me-afterward-should-i-say-something-0a657eee?mod=mw_rss_topstories",
+    "category": "Geopolitics",
+    "priority": 1
+  },
+  {
+    "title": "Artificial intelligence usage is exploding, yet spending is stalling. Why a foundational rule of economics is breaking.",
+    "source": "MarketWatch",
+    "feed": "MarketWatch \u2014 Top",
+    "published": "2026-11-27T15:01:00+00:00",
+    "published_ts": 1795791660.0,
+    "summary": "For frontier model lab developers, the increased consumption of AI tokens (the means by which they get paid for their compute) is a positive. However, they don\u2019t seem to be generating revenues from it at the same rate.",
+    "link": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "The French economy tipped into a recession in the third quarter as summer heat waves slowed Airbus\u2019s factories, complicating the government\u2019s plans to narrow its yawning budget deficit",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-27T13:39:00+00:00",
+    "published_ts": 1795786740.0,
+    "summary": "The French economy tipped into a recession in the third quarter as summer heat waves slowed Airbus\u2019s factories.",
+    "link": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-27T13:29:43+00:00",
+    "published_ts": 1795786183.0,
+    "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
+    "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
     "source": "CNBC",
     "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-26T21:13:17+00:00",
-    "published_ts": 1795727597.0,
-    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-    "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "published": "2026-11-27T13:21:56+00:00",
+    "published_ts": 1795785716.0,
+    "summary": "The November sell-off has so far pushed the S&amp;P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
+    "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back",
+    "source": "NYT",
+    "feed": "NYT \u2014 Business",
+    "published": "2026-11-27T10:02:41+00:00",
+    "published_ts": 1795773761.0,
+    "summary": "Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most.",
+    "link": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
     "category": "Economy",
     "priority": 1
   },
   {
     "title": "Semiconductor chips are the new oil. Here's why",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
+    "feed": "CNBC \u2014 Finance",
     "published": "2026-11-26T17:52:15+00:00",
     "published_ts": 1795715535.0,
     "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
     "category": "Commodities",
-    "priority": 1
-  },
-  {
-    "title": "Trump\u2019s Latest Tariffs Revive Focus on Pressuring China",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-26T17:03:31+00:00",
-    "published_ts": 1795712611.0,
-    "summary": "President Trump sent a message to trading partners across Asia, many of which depend on trade and investment from both the United States and China, that he is ready to escalate tariffs.",
-    "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
-    "source": "NYT",
-    "feed": "NYT \u2014 Business",
-    "published": "2026-11-26T15:20:30+00:00",
-    "published_ts": 1795706430.0,
-    "summary": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.",
-    "link": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
-    "category": "Markets",
     "priority": 1
   },
   {
@@ -250,28 +327,6 @@
     "summary": "Consumer confidence remained at a subdued level amid weak views of the economy and jitters over inflation ahead of the all-important holiday season.",
     "link": "https://www.wsj.com/economy/german-consumer-confidence-edges-up-despite-worries-over-economy-inflation-20ec03af?mod=rss_socialeconomyfeed",
     "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-26T04:12:18+00:00",
-    "published_ts": 1795666338.0,
-    "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
-    "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "BOJ\u2019s Tamura Urges Timely Rate Hikes, Bolstering Case for December Move",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-26T02:03:00+00:00",
-    "published_ts": 1795658580.0,
-    "summary": "Naoki Tamura said the central bank needs to bring the policy rate to a neutral level soon, as financial conditions remain accommodative.",
-    "link": "https://www.wsj.com/economy/central-banking/bojs-tamura-urges-timely-rate-hikes-bolstering-case-for-december-move-9eb28f90?mod=rss_socialeconomyfeed",
-    "category": "Fed",
     "priority": 1
   },
   {
@@ -316,17 +371,6 @@
     "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
     "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
     "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Liesman: Nvidia whiplash tests Kevin Warsh\u2019s push to read market signals",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-25T12:26:41+00:00",
-    "published_ts": 1795609601.0,
-    "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-    "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-    "category": "Fed",
     "priority": 1
   },
   {
@@ -393,50 +437,6 @@
     "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
     "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
     "category": "Fixed Income",
-    "priority": 1
-  },
-  {
-    "title": "Federal Reserve announces College Fed Challenge winners",
-    "source": "Federal Reserve",
-    "feed": "Federal Reserve",
-    "published": "2026-11-20T21:15:00+00:00",
-    "published_ts": 1795209300.0,
-    "summary": "Federal Reserve announces College Fed Challenge winners",
-    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Finance",
-    "published": "2026-11-20T21:10:48+00:00",
-    "published_ts": 1795209048.0,
-    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
-    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
-    "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-20T15:28:00+00:00",
-    "published_ts": 1795188480.0,
-    "summary": "Negotiated wage growth accelerated to 2.57% in the third quarter from 2.45% in the previous quarter, according to the ECB.",
-    "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_socialeconomyfeed",
-    "category": "Economy",
-    "priority": 1
-  },
-  {
-    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-20T01:49:03+00:00",
-    "published_ts": 1795139343.0,
-    "summary": "The core inflation figure \u2014 which strips out prices of food \u2014 was lower than the 2.3% expected by Reuters-polled economists.",
-    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-    "category": "Economy",
     "priority": 1
   }
 ]

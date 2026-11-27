@@ -1,110 +1,110 @@
 {
-  "generated_at": "2026-11-27T03:32:55.851490+00:00",
+  "generated_at": "2026-11-27T20:06:09.105030+00:00",
   "sections": {
     "yields": {
       "rows": [
         {
           "maturity": "1M",
           "latest": 4.27,
-          "previous": 4.21,
-          "change": 0.05999999999999961,
+          "previous": 4.27,
+          "change": 0.0,
           "ytd_change": 0.5299999999999994,
-          "as_of": "2026-11-25",
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "3M",
-          "latest": 4.34,
-          "previous": 4.36,
-          "change": -0.020000000000000462,
-          "ytd_change": 0.6699999999999999,
-          "as_of": "2026-11-25",
+          "latest": 4.35,
+          "previous": 4.34,
+          "change": 0.009999999999999787,
+          "ytd_change": 0.6799999999999997,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "6M",
-          "latest": 4.44,
-          "previous": 4.46,
-          "change": -0.019999999999999574,
-          "ytd_change": 0.8500000000000005,
-          "as_of": "2026-11-25",
+          "latest": 4.46,
+          "previous": 4.44,
+          "change": 0.019999999999999574,
+          "ytd_change": 0.8700000000000001,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "1Y",
-          "latest": 4.56,
-          "previous": 4.59,
-          "change": -0.03000000000000025,
-          "ytd_change": 1.0799999999999996,
-          "as_of": "2026-11-25",
+          "latest": 4.61,
+          "previous": 4.56,
+          "change": 0.05000000000000071,
+          "ytd_change": 1.1300000000000003,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "2Y",
-          "latest": 4.61,
-          "previous": 4.63,
-          "change": -0.019999999999999574,
-          "ytd_change": 1.1400000000000001,
-          "as_of": "2026-11-25",
+          "latest": 4.69,
+          "previous": 4.61,
+          "change": 0.08000000000000007,
+          "ytd_change": 1.2200000000000002,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "3Y",
-          "latest": 4.64,
-          "previous": 4.67,
-          "change": -0.03000000000000025,
-          "ytd_change": 1.0899999999999999,
-          "as_of": "2026-11-25",
+          "latest": 4.72,
+          "previous": 4.64,
+          "change": 0.08000000000000007,
+          "ytd_change": 1.17,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "5Y",
-          "latest": 4.65,
-          "previous": 4.69,
-          "change": -0.040000000000000036,
-          "ytd_change": 0.9200000000000004,
-          "as_of": "2026-11-25",
+          "latest": 4.74,
+          "previous": 4.65,
+          "change": 0.08999999999999986,
+          "ytd_change": 1.0100000000000002,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "7Y",
-          "latest": 4.74,
-          "previous": 4.79,
-          "change": -0.04999999999999982,
-          "ytd_change": 0.8000000000000003,
-          "as_of": "2026-11-25",
+          "latest": 4.82,
+          "previous": 4.74,
+          "change": 0.08000000000000007,
+          "ytd_change": 0.8800000000000003,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "10Y",
-          "latest": 4.85,
-          "previous": 4.91,
-          "change": -0.0600000000000005,
-          "ytd_change": 0.6699999999999999,
-          "as_of": "2026-11-25",
+          "latest": 4.94,
+          "previous": 4.85,
+          "change": 0.09000000000000075,
+          "ytd_change": 0.7600000000000007,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "20Y",
-          "latest": 5.28,
-          "previous": 5.33,
-          "change": -0.04999999999999982,
-          "ytd_change": 0.4900000000000002,
-          "as_of": "2026-11-25",
+          "latest": 5.36,
+          "previous": 5.28,
+          "change": 0.08000000000000007,
+          "ytd_change": 0.5700000000000003,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "maturity": "30Y",
-          "latest": 5.24,
-          "previous": 5.3,
-          "change": -0.05999999999999961,
-          "ytd_change": 0.40000000000000036,
-          "as_of": "2026-11-25",
+          "latest": 5.33,
+          "previous": 5.24,
+          "change": 0.08999999999999986,
+          "ytd_change": 0.4900000000000002,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "key_rates": {
       "rows": [
@@ -117,8 +117,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.8037878787878787,
-          "as_of": "2026-11-26",
+          "ytd_avg": 3.804380664652568,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
@@ -130,8 +130,8 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.25,
-          "ytd_avg": 3.5537878787878787,
-          "as_of": "2026-11-26",
+          "ytd_avg": 3.554380664652568,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
@@ -143,21 +143,21 @@
           "change": 0.0,
           "pct_change": 0.0,
           "ytd_change": 0.23999999999999977,
-          "ytd_avg": 3.6848672566371685,
-          "as_of": "2026-11-24",
+          "ytd_avg": 3.6857268722466965,
+          "as_of": "2026-11-25",
           "stale": false
         },
         {
           "rate": "SOFR",
           "series_id": "SOFR",
           "source": "NY Fed via FRED",
-          "latest": 3.94,
-          "previous": 3.92,
-          "change": 0.020000000000000018,
-          "pct_change": 0.5102040816326535,
-          "ytd_change": 0.06999999999999984,
-          "ytd_avg": 3.6915625,
-          "as_of": "2026-11-24",
+          "latest": 3.95,
+          "previous": 3.94,
+          "change": 0.010000000000000231,
+          "pct_change": 0.25380710659899064,
+          "ytd_change": 0.08000000000000007,
+          "ytd_avg": 3.6927111111111106,
+          "as_of": "2026-11-25",
           "stale": false
         },
         {
@@ -240,7 +240,7 @@
         }
       ],
       "source": "FRED",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "credit": {
       "rows": [
@@ -248,26 +248,26 @@
           "name": "IG Corporate OAS",
           "series_id": "BAMLC0A0CM",
           "source": "ICE BofA via FRED",
-          "latest": 0.98,
-          "previous": 0.97,
-          "change": 0.010000000000000009,
-          "pct_change": 1.0309278350515474,
-          "ytd_change": 0.18999999999999995,
-          "ytd_avg": 0.8082203389830509,
-          "as_of": "2026-11-24",
+          "latest": 0.99,
+          "previous": 0.99,
+          "change": 0.0,
+          "pct_change": 0.0,
+          "ytd_change": 0.19999999999999996,
+          "ytd_avg": 0.8097478991596638,
+          "as_of": "2026-11-26",
           "stale": false
         },
         {
           "name": "High Yield OAS",
           "series_id": "BAMLH0A0HYM2",
           "source": "ICE BofA via FRED",
-          "latest": 3.72,
-          "previous": 3.63,
-          "change": 0.0900000000000003,
-          "pct_change": 2.4793388429752152,
-          "ytd_change": 0.9100000000000001,
-          "ytd_avg": 2.910296610169491,
-          "as_of": "2026-11-24",
+          "latest": 3.77,
+          "previous": 3.77,
+          "change": 0.0,
+          "pct_change": 0.0,
+          "ytd_change": 0.96,
+          "ytd_avg": 2.917521008403361,
+          "as_of": "2026-11-26",
           "stale": false
         },
         {
@@ -285,62 +285,62 @@
         }
       ],
       "source": "ICE BofA / Moody's via FRED",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "spreads": {
       "rows": [
         {
           "spread": "10Y - 2Y",
-          "latest_bps": 23.999999999999932,
-          "previous_bps": 28.000000000000025,
-          "change_bps": -4.000000000000092,
+          "latest_bps": 25.0,
+          "previous_bps": 23.999999999999932,
+          "change_bps": 1.0000000000000675,
           "stale": false
         },
         {
           "spread": "10Y - 3M",
-          "latest_bps": 50.99999999999998,
-          "previous_bps": 54.999999999999986,
-          "change_bps": -4.000000000000007,
+          "latest_bps": 59.00000000000007,
+          "previous_bps": 50.99999999999998,
+          "change_bps": 8.000000000000092,
           "stale": false
         },
         {
           "spread": "30Y - 10Y",
-          "latest_bps": 39.00000000000006,
-          "previous_bps": 38.99999999999997,
-          "change_bps": 8.526512829121202e-14,
+          "latest_bps": 38.99999999999997,
+          "previous_bps": 39.00000000000006,
+          "change_bps": -8.526512829121202e-14,
           "stale": false
         },
         {
           "spread": "5Y - 2Y",
-          "latest_bps": 4.0000000000000036,
-          "previous_bps": 6.00000000000005,
-          "change_bps": -2.000000000000046,
+          "latest_bps": 4.999999999999982,
+          "previous_bps": 4.0000000000000036,
+          "change_bps": 0.9999999999999787,
           "stale": false
         },
         {
           "spread": "10Y - 5Y",
-          "latest_bps": 19.99999999999993,
-          "previous_bps": 21.999999999999975,
-          "change_bps": -2.000000000000046,
+          "latest_bps": 20.000000000000018,
+          "previous_bps": 19.99999999999993,
+          "change_bps": 8.881784197001252e-14,
           "stale": false
         },
         {
           "spread": "2Y - Fed Funds",
-          "latest_bps": 73.00000000000004,
-          "previous_bps": 75.0,
-          "change_bps": -1.9999999999999574,
+          "latest_bps": 81.00000000000006,
+          "previous_bps": 73.00000000000004,
+          "change_bps": 8.000000000000014,
           "stale": false
         },
         {
           "spread": "10Y - Fed Funds",
-          "latest_bps": 96.99999999999997,
-          "previous_bps": 103.00000000000003,
-          "change_bps": -6.000000000000057,
+          "latest_bps": 106.00000000000006,
+          "previous_bps": 96.99999999999997,
+          "change_bps": 9.000000000000085,
           "stale": false
         }
       ],
       "source": "U.S. Treasury (+ EFFR via FRED)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "curve": {
       "points": [
@@ -348,67 +348,67 @@
           "maturity": "1M",
           "years": 0.08333333333333333,
           "yield": 4.27,
-          "as_of": "2026-11-25"
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "3M",
           "years": 0.25,
-          "yield": 4.34,
-          "as_of": "2026-11-25"
+          "yield": 4.35,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "6M",
           "years": 0.5,
-          "yield": 4.44,
-          "as_of": "2026-11-25"
+          "yield": 4.46,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "1Y",
           "years": 1,
-          "yield": 4.56,
-          "as_of": "2026-11-25"
+          "yield": 4.61,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "2Y",
           "years": 2,
-          "yield": 4.61,
-          "as_of": "2026-11-25"
+          "yield": 4.69,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "3Y",
           "years": 3,
-          "yield": 4.64,
-          "as_of": "2026-11-25"
+          "yield": 4.72,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "5Y",
           "years": 5,
-          "yield": 4.65,
-          "as_of": "2026-11-25"
+          "yield": 4.74,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "7Y",
           "years": 7,
-          "yield": 4.74,
-          "as_of": "2026-11-25"
+          "yield": 4.82,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "10Y",
           "years": 10,
-          "yield": 4.85,
-          "as_of": "2026-11-25"
+          "yield": 4.94,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "20Y",
           "years": 20,
-          "yield": 5.28,
-          "as_of": "2026-11-25"
+          "yield": 5.36,
+          "as_of": "2026-11-27"
         },
         {
           "maturity": "30Y",
           "years": 30,
-          "yield": 5.24,
-          "as_of": "2026-11-25"
+          "yield": 5.33,
+          "as_of": "2026-11-27"
         }
       ],
       "comparison": {
@@ -453,10 +453,10 @@
         }
       },
       "shape": "Normal",
-      "spread_10y_2y": 0.23999999999999932,
-      "as_of": "2026-11-25",
+      "spread_10y_2y": 0.25,
+      "as_of": "2026-11-27",
       "source": "U.S. Treasury (Daily Par Yields)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "macro": {
       "rows": [
@@ -506,412 +506,412 @@
         }
       ],
       "source": "FRED (BLS/BEA)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "jpm_focus": {
       "rows": [
         {
           "asset": "JPM",
           "ticker": "JPM",
-          "latest": 316.739990234375,
-          "previous": 317.1000061035156,
-          "change": -0.360015869140625,
-          "pct_change": -0.11353385752477714,
-          "ytd_pct": -2.685271124781992,
-          "as_of": "2026-11-25",
+          "latest": 322.9599914550781,
+          "previous": 316.739990234375,
+          "change": 6.220001220703125,
+          "pct_change": 1.9637562077654203,
+          "ytd_pct": -0.7742470954248106,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "JEPI",
           "ticker": "JEPI",
-          "latest": 56.06999969482422,
-          "previous": 56.029998779296875,
-          "change": 0.04000091552734375,
-          "pct_change": 0.07139196216103456,
-          "ytd_pct": -2.1807397185189976,
-          "as_of": "2026-11-25",
+          "latest": 56.72999954223633,
+          "previous": 56.06999969482422,
+          "change": 0.6599998474121094,
+          "pct_change": 1.177099787773021,
+          "ytd_pct": -1.029309413344546,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "JEPQ",
           "ticker": "JEPQ",
-          "latest": 52.720001220703125,
-          "previous": 53.060001373291016,
-          "change": -0.3400001525878906,
-          "pct_change": -0.6407842890841642,
-          "ytd_pct": -9.244274260249824,
-          "as_of": "2026-11-25",
+          "latest": 53.95000076293945,
+          "previous": 52.720001220703125,
+          "change": 1.2299995422363281,
+          "pct_change": 2.3330795025727498,
+          "ytd_pct": -7.126871025604571,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "JPST",
           "ticker": "JPST",
-          "latest": 50.36000061035156,
-          "previous": 50.34000015258789,
-          "change": 0.020000457763671875,
-          "pct_change": 0.03973074633104404,
-          "ytd_pct": -0.5136276709192781,
-          "as_of": "2026-11-25",
+          "latest": 50.38999938964844,
+          "previous": 50.36000061035156,
+          "change": 0.029998779296875,
+          "pct_change": 0.05956866348946928,
+          "ytd_pct": -0.4543649685686874,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "volatility_futures": {
       "rows": [
         {
           "asset": "VIX",
           "ticker": "^VIX",
-          "latest": 26.799999237060547,
-          "previous": 28.290000915527344,
-          "change": -1.4900016784667969,
-          "pct_change": -5.266884518370551,
-          "ytd_pct": 84.70019858246273,
-          "as_of": "2026-11-26",
+          "latest": 23.809999465942383,
+          "previous": 26.799999237060547,
+          "change": -2.989999771118164,
+          "pct_change": -11.156715881481908,
+          "ytd_pct": 64.09372219408449,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "S&P 500 Futures",
           "ticker": "ES=F",
-          "latest": 7298.75,
+          "latest": 7308.25,
           "previous": 7195.75,
-          "change": 103.0,
-          "pct_change": 1.431400479449675,
-          "ytd_pct": 5.771320918774002,
-          "as_of": "2026-11-26",
+          "change": 112.5,
+          "pct_change": 1.5634228537678492,
+          "ytd_pct": 5.9089921020215925,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Nasdaq 100 Futures",
           "ticker": "NQ=F",
-          "latest": 26675.0,
+          "latest": 26765.0,
           "previous": 26100.25,
-          "change": 574.75,
-          "pct_change": 2.2020861869139186,
-          "ytd_pct": 5.0807063156754415,
-          "as_of": "2026-11-26",
+          "change": 664.75,
+          "pct_change": 2.546910470206224,
+          "ytd_pct": 5.435242906806118,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Dow Futures",
           "ticker": "YM=F",
-          "latest": 50642.0,
+          "latest": 50821.0,
           "previous": 50228.0,
-          "change": 414.0,
-          "pct_change": 0.8242414589472008,
-          "ytd_pct": 4.1673523119960505,
-          "as_of": "2026-11-26",
+          "change": 593.0,
+          "pct_change": 1.180616389264952,
+          "ytd_pct": 4.535543853875267,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Russell 2000 Futures",
           "ticker": "RTY=F",
-          "latest": 2733.60009765625,
+          "latest": 2754.39990234375,
           "previous": 2706.10009765625,
-          "change": 27.5,
-          "pct_change": 1.016222571508634,
-          "ytd_pct": 8.368685734638255,
-          "as_of": "2026-11-26",
+          "change": 48.2998046875,
+          "pct_change": 1.7848491535598556,
+          "ytd_pct": 9.193256782705648,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "fixed_income": {
       "rows": [
         {
           "asset": "U.S. Agg Bond (AGG)",
           "ticker": "AGG",
-          "latest": 96.55000305175781,
-          "previous": 96.18000030517578,
-          "change": 0.37000274658203125,
-          "pct_change": 0.38469821730923837,
-          "ytd_pct": -3.3049529021460793,
-          "as_of": "2026-11-25",
+          "latest": 96.23999786376953,
+          "previous": 96.55000305175781,
+          "change": -0.31000518798828125,
+          "pct_change": -0.3210825253129158,
+          "ytd_pct": -3.615423801220382,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "IG Corporate (LQD)",
           "ticker": "LQD",
-          "latest": 104.29000091552734,
-          "previous": 103.79000091552734,
-          "change": 0.5,
-          "pct_change": 0.48174197474662345,
-          "ytd_pct": -5.328615242776246,
-          "as_of": "2026-11-25",
+          "latest": 104.0,
+          "previous": 104.29000091552734,
+          "change": -0.29000091552734375,
+          "pct_change": -0.2780716396409261,
+          "ytd_pct": -5.591869514641428,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "High Yield (HYG)",
           "ticker": "HYG",
-          "latest": 76.5199966430664,
-          "previous": 76.43000030517578,
-          "change": 0.089996337890625,
-          "pct_change": 0.11775001639576144,
-          "ytd_pct": -5.144417528295531,
-          "as_of": "2026-11-25",
+          "latest": 76.61000061035156,
+          "previous": 76.5199966430664,
+          "change": 0.09000396728515625,
+          "pct_change": 0.11762149925984301,
+          "ytd_pct": -5.032846970060655,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Municipal (MUB)",
           "ticker": "MUB",
-          "latest": 104.19000244140625,
-          "previous": 103.7699966430664,
-          "change": 0.42000579833984375,
-          "pct_change": 0.40474685547550054,
-          "ytd_pct": -2.8440838149193084,
-          "as_of": "2026-11-25",
+          "latest": 103.94999694824219,
+          "previous": 104.19000244140625,
+          "change": -0.2400054931640625,
+          "pct_change": -0.2303536688167709,
+          "ytd_pct": -3.0678860323241888,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Long Treasury (TLT)",
           "ticker": "TLT",
-          "latest": 82.23999786376953,
-          "previous": 81.48999786376953,
-          "change": 0.75,
-          "pct_change": 0.9203583503018475,
-          "ytd_pct": -5.503850376551784,
-          "as_of": "2026-11-25",
+          "latest": 81.2699966430664,
+          "previous": 82.23999786376953,
+          "change": -0.970001220703125,
+          "pct_change": -1.1794762231267697,
+          "ytd_pct": -6.618409993130651,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Short Treasury (SHY)",
           "ticker": "SHY",
-          "latest": 81.63999938964844,
-          "previous": 81.56999969482422,
-          "change": 0.06999969482421875,
-          "pct_change": 0.0858154898689553,
-          "ytd_pct": -1.4723644843308297,
-          "as_of": "2026-11-25",
+          "latest": 81.62000274658203,
+          "previous": 81.63999938964844,
+          "change": -0.01999664306640625,
+          "pct_change": -0.024493683507966473,
+          "ytd_pct": -1.4964975315419202,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Ultra-Short T-Bill (SGOV)",
           "ticker": "SGOV",
-          "latest": 100.68000030517578,
-          "previous": 100.66000366210938,
-          "change": 0.01999664306640625,
-          "pct_change": 0.01986552984195194,
-          "ytd_pct": 0.26889416713395853,
-          "as_of": "2026-11-25",
+          "latest": 100.70999908447266,
+          "previous": 100.68000030517578,
+          "change": 0.029998779296875,
+          "pct_change": 0.02979616528202654,
+          "ytd_pct": 0.298770452566458,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "TIPS (TIP)",
           "ticker": "TIP",
-          "latest": 105.83999633789062,
-          "previous": 105.44999694824219,
-          "change": 0.3899993896484375,
-          "pct_change": 0.36984295963503927,
-          "ytd_pct": -3.6592064901938044,
-          "as_of": "2026-11-25",
+          "latest": 105.66999816894531,
+          "previous": 105.83999633789062,
+          "change": -0.1699981689453125,
+          "pct_change": -0.16061807901296507,
+          "ytd_pct": -3.813947222035102,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "commodities": {
       "rows": [
         {
           "asset": "Gold",
           "ticker": "GC=F",
-          "latest": 3656.199951171875,
+          "latest": 3668.5,
           "previous": 3535.800048828125,
-          "change": 120.39990234375,
-          "pct_change": 3.4051671667252306,
-          "ytd_pct": -15.553402884689232,
-          "as_of": "2026-11-26",
+          "change": 132.699951171875,
+          "pct_change": 3.7530388975433135,
+          "ytd_pct": -15.269310854231652,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "WTI Crude",
           "ticker": "CL=F",
-          "latest": 85.86000061035156,
+          "latest": 83.08000183105469,
           "previous": 83.68000030517578,
-          "change": 2.1800003051757812,
-          "pct_change": 2.605162879093517,
-          "ytd_pct": 49.79065085044723,
-          "as_of": "2026-11-26",
+          "change": -0.5999984741210938,
+          "pct_change": -0.717015382329035,
+          "ytd_pct": 44.94068784608961,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Brent Crude",
           "ticker": "BZ=F",
-          "latest": 92.3499984741211,
+          "latest": 90.83999633789062,
           "previous": 94.61000061035156,
-          "change": -2.2600021362304688,
-          "pct_change": -2.3887560740414955,
-          "ytd_pct": 52.016458393614975,
-          "as_of": "2026-11-26",
+          "change": -3.7700042724609375,
+          "pct_change": -3.984784111763815,
+          "ytd_pct": 49.530858169367285,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Copper",
           "ticker": "HG=F",
-          "latest": 5.6579999923706055,
+          "latest": 5.600500106811523,
           "previous": 5.332499980926514,
-          "change": 0.3255000114440918,
-          "pct_change": 6.104078998750164,
-          "ytd_pct": 0.3191511757291233,
-          "as_of": "2026-11-26",
+          "change": 0.26800012588500977,
+          "pct_change": 5.025787657639056,
+          "ytd_pct": -0.7003503654102994,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Silver",
           "ticker": "SI=F",
-          "latest": 43.85499954223633,
+          "latest": 43.70199966430664,
           "previous": 40.051998138427734,
-          "change": 3.8030014038085938,
-          "pct_change": 9.495160243103625,
-          "ytd_pct": -37.84369905609004,
-          "as_of": "2026-11-26",
+          "change": 3.6500015258789062,
+          "pct_change": 9.113157134542375,
+          "ytd_pct": -38.060547911551105,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "fx_crypto": {
       "rows": [
         {
           "asset": "U.S. Dollar Index (DXY)",
           "ticker": "DX-Y.NYB",
-          "latest": 103.68199920654297,
+          "latest": 104.04100036621094,
           "previous": 103.66999816894531,
-          "change": 0.01200103759765625,
-          "pct_change": 0.011576191578684912,
-          "ytd_pct": 5.34647544756609,
-          "as_of": "2026-11-26",
+          "change": 0.371002197265625,
+          "pct_change": 0.3578684323511061,
+          "ytd_pct": 5.71123989213732,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "EUR/USD",
           "ticker": "EURUSD=X",
-          "latest": 1.0984183549880981,
+          "latest": 1.0938525199890137,
           "previous": 1.097008466720581,
-          "change": 0.0014098882675170898,
-          "pct_change": 0.12852118377279603,
-          "ytd_pct": -6.521300687044322,
+          "change": -0.003155946731567383,
+          "pct_change": -0.2876866339055552,
+          "ytd_pct": -6.909866951486079,
           "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "USD/JPY",
           "ticker": "JPY=X",
-          "latest": 159.23800659179688,
+          "latest": 159.54600524902344,
           "previous": 159.21499633789062,
-          "change": 0.02301025390625,
-          "pct_change": 0.014452315696077385,
-          "ytd_pct": 1.5995583128227429,
+          "change": 0.3310089111328125,
+          "pct_change": 0.20790058646883736,
+          "ytd_pct": 1.7960725006408496,
           "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "GBP/USD",
           "ticker": "GBPUSD=X",
-          "latest": 1.3124393224716187,
+          "latest": 1.3095347881317139,
           "previous": 1.3113033771514893,
-          "change": 0.0011359453201293945,
-          "pct_change": 0.08662719397527821,
-          "ytd_pct": -2.592062097373618,
+          "change": -0.0017685890197753906,
+          "pct_change": -0.1348726046612685,
+          "ytd_pct": -2.807633740018918,
           "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "USD/CNY",
           "ticker": "CNY=X",
-          "latest": 6.66379976272583,
+          "latest": 6.65369987487793,
           "previous": 6.664000034332275,
-          "change": -0.0002002716064453125,
-          "pct_change": -0.0030052761916796638,
-          "ytd_pct": -4.749791863826632,
+          "change": -0.010300159454345703,
+          "pct_change": -0.15456421670588671,
+          "ytd_pct": -4.894156408668689,
           "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Bitcoin",
           "ticker": "BTC-USD",
-          "latest": 61545.19140625,
-          "previous": 60378.19921875,
-          "change": 1166.9921875,
-          "pct_change": 1.9328038971019847,
-          "ytd_pct": -30.639225709021567,
+          "latest": 59798.98046875,
+          "previous": 60494.7109375,
+          "change": -695.73046875,
+          "pct_change": -1.1500682588082662,
+          "ytd_pct": -32.60718681098469,
           "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Ethereum",
           "ticker": "ETH-USD",
-          "latest": 1728.510009765625,
-          "previous": 1690.76904296875,
-          "change": 37.740966796875,
-          "pct_change": 2.2321775380159097,
-          "ytd_pct": -42.39057122619382,
+          "latest": 1669.4599609375,
+          "previous": 1687.7418212890625,
+          "change": -18.2818603515625,
+          "pct_change": -1.0832142760792163,
+          "ytd_pct": -44.358647524759725,
           "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "global_indexes": {
       "rows": [
         {
           "asset": "STOXX 600",
           "ticker": "^STOXX",
-          "latest": 636.97998046875,
-          "previous": 626.030029296875,
-          "change": 10.949951171875,
-          "pct_change": 1.7491095729342931,
-          "ytd_pct": 5.8528267301847725,
-          "as_of": "2026-11-26",
+          "latest": 643.8499755859375,
+          "previous": 636.97998046875,
+          "change": 6.8699951171875,
+          "pct_change": 1.0785260648430284,
+          "ytd_pct": 6.994477056842944,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "FTSE 100",
           "ticker": "^FTSE",
-          "latest": 10609.2998046875,
-          "previous": 10426.900390625,
-          "change": 182.3994140625,
-          "pct_change": 1.7493157815768372,
-          "ytd_pct": 6.61434636522385,
-          "as_of": "2026-11-26",
+          "latest": 10698.8095703125,
+          "previous": 10609.2998046875,
+          "change": 89.509765625,
+          "pct_change": 0.8436915467828703,
+          "ytd_pct": 7.5138425931650525,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "DAX",
           "ticker": "^GDAXI",
-          "latest": 25215.51953125,
-          "previous": 24702.130859375,
-          "change": 513.388671875,
-          "pct_change": 2.0783173516391513,
-          "ytd_pct": 2.755492575617181,
-          "as_of": "2026-11-26",
+          "latest": 25441.240234375,
+          "previous": 25215.51953125,
+          "change": 225.720703125,
+          "pct_change": 0.8951657840928507,
+          "ytd_pct": 3.675324586430176,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Nikkei 225",
           "ticker": "^N225",
-          "latest": 58172.0390625,
-          "previous": 57499.16015625,
-          "change": 672.87890625,
-          "pct_change": 1.170241277301265,
-          "ytd_pct": 12.230167356773737,
-          "as_of": "2026-11-27",
+          "latest": 57499.16015625,
+          "previous": 57011.62109375,
+          "change": 487.5390625,
+          "pct_change": 0.8551573401119221,
+          "ytd_pct": 10.931995357367894,
+          "as_of": "2026-11-26",
           "stale": false
         },
         {
           "asset": "Hang Seng",
           "ticker": "^HSI",
-          "latest": 22374.66015625,
-          "previous": 22226.880859375,
-          "change": 147.779296875,
-          "pct_change": 0.6648674540074689,
-          "ytd_pct": -15.049509106102743,
-          "as_of": "2026-11-27",
+          "latest": 22226.880859375,
+          "previous": 21966.009765625,
+          "change": 260.87109375,
+          "pct_change": 1.1876125729409528,
+          "ytd_pct": -15.610586848773151,
+          "as_of": "2026-11-26",
           "stale": false
         },
         {
@@ -928,93 +928,98 @@
         {
           "asset": "EM Equity (EEM)",
           "ticker": "EEM",
-          "latest": 56.400001525878906,
-          "previous": 56.689998626708984,
-          "change": -0.2899971008300781,
-          "pct_change": -0.5115489642884709,
-          "ytd_pct": 0.28449474153086696,
-          "as_of": "2026-11-25",
+          "latest": 58.099998474121094,
+          "previous": 56.400001525878906,
+          "change": 1.6999969482421875,
+          "pct_change": 3.0141789046976375,
+          "ytd_pct": 3.307248826712702,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Dev ex-US (EFA)",
           "ticker": "EFA",
-          "latest": 99.18000030517578,
-          "previous": 98.87999725341797,
-          "change": 0.3000030517578125,
-          "pct_change": 0.3034011530046259,
-          "ytd_pct": 2.2052755249984926,
-          "as_of": "2026-11-25",
+          "latest": 100.5199966430664,
+          "previous": 99.18000030517578,
+          "change": 1.339996337890625,
+          "pct_change": 1.3510751499974498,
+          "ytd_pct": 3.5861456046031726,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "MSCI World",
           "ticker": "^990100-USD-STRD",
-          "latest": 4611.8798828125,
+          "latest": 4678.7998046875,
           "previous": 4595.2998046875,
-          "change": 16.580078125,
-          "pct_change": 0.3608051450329151,
-          "ytd_pct": 3.7496553625585882,
-          "as_of": "2026-11-26",
+          "change": 83.5,
+          "pct_change": 1.8170740441096935,
+          "ytd_pct": 5.255097613406314,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "equity_index": {
       "rows": [
         {
           "asset": "S&P 500",
           "ticker": "^GSPC",
-          "latest": 7182.77978515625,
-          "previous": 7201.08984375,
-          "change": -18.31005859375,
-          "pct_change": -0.2542678815435381,
-          "ytd_pct": 4.728599237926244,
-          "as_of": "2026-11-25",
+          "latest": 7297.490234375,
+          "previous": 7182.77978515625,
+          "change": 114.71044921875,
+          "pct_change": 1.5970202713969834,
+          "ytd_pct": 6.401136197706032,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Nasdaq Composite",
           "ticker": "^IXIC",
-          "latest": 23585.80078125,
-          "previous": 23733.5390625,
-          "change": -147.73828125,
-          "pct_change": -0.6224873621289493,
-          "ytd_pct": 1.507038582228617,
-          "as_of": "2026-11-25",
+          "latest": 24129.5,
+          "previous": 23585.80078125,
+          "change": 543.69921875,
+          "pct_change": 2.3051971980625923,
+          "ytd_pct": 3.8469759914624655,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Dow Jones",
           "ticker": "^DJI",
-          "latest": 50182.94921875,
-          "previous": 50018.69921875,
-          "change": 164.25,
-          "pct_change": 0.3283771920610628,
-          "ytd_pct": 3.7215163833174065,
-          "as_of": "2026-11-25",
+          "latest": 50774.94140625,
+          "previous": 50182.94921875,
+          "change": 591.9921875,
+          "pct_change": 1.179667988263257,
+          "ytd_pct": 4.945085909032631,
+          "as_of": "2026-11-27",
           "stale": false
         },
         {
           "asset": "Russell 2000",
           "ticker": "^RUT",
-          "latest": 2704.06005859375,
-          "previous": 2684.93994140625,
-          "change": 19.1201171875,
-          "pct_change": 0.7121245765179294,
-          "ytd_pct": 7.807931129570165,
-          "as_of": "2026-11-25",
+          "latest": 2750.297119140625,
+          "previous": 2704.06005859375,
+          "change": 46.237060546875,
+          "pct_change": 1.7099124851139826,
+          "ytd_pct": 9.65135240389777,
+          "as_of": "2026-11-27",
           "stale": false
         }
       ],
       "source": "Yahoo Finance (delayed)",
-      "fetched_at": "2026-11-27T03:32:55.005769+00:00"
+      "fetched_at": "2026-11-27T20:06:07.510722+00:00"
     },
     "market_wrap": {
-      "text": "In the 2026-11-25 session, the S&P 500 fell 0.25%, the Nasdaq fell 0.62% and the 10-year Treasury yield fell 6 bps to 4.85%. Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain (CNBC). No single catalyst dominated the session in the headlines available.",
+      "text": "In the 2026-11-27 session, the S&P 500 rose 1.60%, the Nasdaq rose 2.31% and the 10-year Treasury yield rose 9 bps to 4.94%. The November sell-off has so far pushed the S&amp;P 500 into a correction (CNBC). Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain (CNBC).",
       "sources": [
+        {
+          "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+          "source": "CNBC"
+        },
         {
           "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
           "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
@@ -1022,9 +1027,9 @@
         }
       ],
       "mode": "extractive",
-      "as_of": "2026-11-25",
-      "generated_at": "2026-11-27T03:32:55.851245+00:00",
-      "fetched_at": "2026-11-27T03:32:55.851490+00:00"
+      "as_of": "2026-11-27",
+      "generated_at": "2026-11-27T20:06:09.104832+00:00",
+      "fetched_at": "2026-11-27T20:06:09.105030+00:00"
     }
   }
 }
