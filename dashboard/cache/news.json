@@ -68,7 +68,7 @@
   {
     "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
+    "feed": "CNBC \u2014 Top News",
     "published": "2026-11-26T12:46:55+00:00",
     "published_ts": 1795697215.0,
     "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
@@ -132,17 +132,6 @@
     "priority": 2
   },
   {
-    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
-    "published": "2026-11-17T13:40:54+00:00",
-    "published_ts": 1794922854.0,
-    "summary": "The forecast represents one of the most hawkish views among policymakers.",
-    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-    "category": "Fed",
-    "priority": 2
-  },
-  {
     "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check \u2026",
     "source": "Federal Reserve",
     "feed": "Federal Reserve",
@@ -187,46 +176,13 @@
     "priority": 2
   },
   {
-    "title": "Mexico urges Asian trade partners to crack down on tariff dodging",
+    "title": "+54%, +41%, +41%: Asia\u2019s AI-picked strategies leading their markets in 2026",
     "source": "Investing.com",
     "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-26T20:20:17.265664+00:00",
-    "published_ts": 1795724417.265664,
+    "published": "2026-11-27T03:32:55.848688+00:00",
+    "published_ts": 1795750375.848688,
     "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/mexico-urges-asian-trade-partners-to-crack-down-on-tariff-dodging-5052646",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "European stocks end higher as benign U.S. tariffs, Thanksgiving lull offer relief",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-26T20:20:17.265653+00:00",
-    "published_ts": 1795724417.265653,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/european-shares-as-benign-us-tariffs-and-thanksgiving-lull-offer-relief-5052089",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Bekaert and more set to report earnings Friday",
-    "source": "Investing.com",
-    "feed": "Investing.com \u2014 Economy",
-    "published": "2026-11-26T20:20:17.265611+00:00",
-    "published_ts": 1795724417.265611,
-    "summary": "",
-    "link": "https://www.investing.com/news/stock-market-news/bekaert-and-more-set-to-report-earnings-friday-93CH-5052684",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
-    "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-26T20:18:11+00:00",
-    "published_ts": 1795724291.0,
-    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-    "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "link": "https://www.investing.com/news/stock-market-news/54-41-41-asias-aipicked-strategies-leading-their-markets-in-2026-5052809",
     "category": "Economy",
     "priority": 1
   },
@@ -234,11 +190,22 @@
     "title": "I\u2019ve been married for 58 years. It\u2019s \u2018our\u2019 money, not \u2018his\u2019 and \u2018hers.\u2019 Why do so many couples keep their finances separate?",
     "source": "MarketWatch",
     "feed": "MarketWatch \u2014 Top",
-    "published": "2026-11-26T18:30:00+00:00",
-    "published_ts": 1795717800.0,
+    "published": "2026-11-27T01:00:00+00:00",
+    "published_ts": 1795741200.0,
     "summary": "\u201cMy wife stopped working outside the home in 1970.\u201d",
     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
     "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "Trump demands probe into \u2018record setting error\u2019 after third-quarter GDP data gets massive revision higher",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-26T21:13:17+00:00",
+    "published_ts": 1795727597.0,
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "category": "Economy",
     "priority": 1
   },
   {
@@ -275,28 +242,6 @@
     "priority": 1
   },
   {
-    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-26T12:22:25+00:00",
-    "published_ts": 1795695745.0,
-    "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
-    "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Switzerland\u2019s biggest bank set for showdown with lawmakers as capital fight intensifies amid crisis planning",
-    "source": "CNBC",
-    "feed": "CNBC \u2014 Top News",
-    "published": "2026-11-26T11:17:39+00:00",
-    "published_ts": 1795691859.0,
-    "summary": "Swiss regulator FINMA said UBS can execute its preferred crisis-resolution strategy, even as the bank faces a separate parliamentary fight over tougher capital requirements.",
-    "link": "https://www.cnbc.com/2026/11/26/ubs-swiss-capital-rules-finma-crisis-plan.html",
-    "category": "Equities",
-    "priority": 1
-  },
-  {
     "title": "German Consumer Confidence Edges Up Despite Worries Over Economy, Inflation",
     "source": "WSJ",
     "feed": "WSJ \u2014 Economy",
@@ -305,6 +250,17 @@
     "summary": "Consumer confidence remained at a subdued level amid weak views of the economy and jitters over inflation ahead of the all-important holiday season.",
     "link": "https://www.wsj.com/economy/german-consumer-confidence-edges-up-despite-worries-over-economy-inflation-20ec03af?mod=rss_socialeconomyfeed",
     "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "How Trump\u2019s latest tariff moves hand India an edge over rival Asian exporters",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Top News",
+    "published": "2026-11-26T04:12:18+00:00",
+    "published_ts": 1795666338.0,
+    "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+    "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+    "category": "Geopolitics",
     "priority": 1
   },
   {
@@ -319,35 +275,13 @@
     "priority": 1
   },
   {
-    "title": "The AI-driven market rout is showing how much higher the bar has risen for the Federal Reserve to step in",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Economy",
-    "published": "2026-11-26T01:00:00+00:00",
-    "published_ts": 1795654800.0,
-    "summary": "The AI-driven market rout shows how much higher the bar has risen for the central bank to step in.",
-    "link": "https://www.wsj.com/economy/central-banking/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-73ccab56?mod=rss_socialeconomyfeed",
-    "category": "Fed",
-    "priority": 1
-  },
-  {
     "title": "Liesman: Why Greenspan could bet on productivity \u2014 and Warsh needs to hike",
     "source": "CNBC",
-    "feed": "CNBC \u2014 Economy",
+    "feed": "CNBC \u2014 Top News",
     "published": "2026-11-25T21:56:43+00:00",
     "published_ts": 1795643803.0,
     "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
     "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-    "category": "Geopolitics",
-    "priority": 1
-  },
-  {
-    "title": "Stocks Finish Lower After Wild Session",
-    "source": "WSJ",
-    "feed": "WSJ \u2014 Markets",
-    "published": "2026-11-25T21:23:00+00:00",
-    "published_ts": 1795641780.0,
-    "summary": "Plus, tariffs are back on the agenda and Nvidia gets a warning",
-    "link": "https://www.wsj.com/finance/stocks/stocks-finish-lower-after-wild-session-df50cdeb?mod=rss_markets_main",
     "category": "Geopolitics",
     "priority": 1
   },
@@ -437,6 +371,72 @@
     "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia\u2014 until he reversed course",
     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
     "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "\u2018This establishes a bottom\u2019: Jensen Huang\u2019s return seen as likely to stop market sell-off, for now",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-23T18:00:47+00:00",
+    "published_ts": 1795456847.0,
+    "summary": "Wall Street strategists say Jensen Huang\u2019s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+    "category": "Markets",
+    "priority": 1
+  },
+  {
+    "title": "James Bond\u2019s Bare Wrist Sets Off Watch Industry War",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Markets",
+    "published": "2026-11-22T10:30:00+00:00",
+    "published_ts": 1795343400.0,
+    "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+    "link": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+    "category": "Fixed Income",
+    "priority": 1
+  },
+  {
+    "title": "Federal Reserve announces College Fed Challenge winners",
+    "source": "Federal Reserve",
+    "feed": "Federal Reserve",
+    "published": "2026-11-20T21:15:00+00:00",
+    "published_ts": 1795209300.0,
+    "summary": "Federal Reserve announces College Fed Challenge winners",
+    "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Warsh wants Fed officials to talk less. Instead, they\u2019re talking more",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Finance",
+    "published": "2026-11-20T21:10:48+00:00",
+    "published_ts": 1795209048.0,
+    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+    "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+    "category": "Fed",
+    "priority": 1
+  },
+  {
+    "title": "Eurozone Wage Growth Accelerates, But Remains Modest",
+    "source": "WSJ",
+    "feed": "WSJ \u2014 Economy",
+    "published": "2026-11-20T15:28:00+00:00",
+    "published_ts": 1795188480.0,
+    "summary": "Negotiated wage growth accelerated to 2.57% in the third quarter from 2.45% in the previous quarter, according to the ECB.",
+    "link": "https://www.wsj.com/economy/global/eurozone-wage-growth-accelerates-but-remains-modest-729eb0ed?mod=rss_socialeconomyfeed",
+    "category": "Economy",
+    "priority": 1
+  },
+  {
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "source": "CNBC",
+    "feed": "CNBC \u2014 Economy",
+    "published": "2026-11-20T01:49:03+00:00",
+    "published_ts": 1795139343.0,
+    "summary": "The core inflation figure \u2014 which strips out prices of food \u2014 was lower than the 2.3% expected by Reuters-polled economists.",
+    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "category": "Economy",
     "priority": 1
   }
 ]
